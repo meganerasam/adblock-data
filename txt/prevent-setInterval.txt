@@ -1,0 +1,2447 @@
+{
+    "hostRules": [
+        {
+            "pattern": "zippia.com",
+            "args": [
+                [
+                    "/onGatedSignupPopupTrigger|zippia-popup/"
+                ]
+            ]
+        },
+        {
+            "pattern": "smashboards.com",
+            "args": [
+                [
+                    "height"
+                ]
+            ]
+        },
+        {
+            "pattern": "avdelphi.com",
+            "args": [
+                [
+                    "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "pornhd8k.net",
+            "args": [
+                [
+                    "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "masuit.com",
+            "args": [
+                [
+                    "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "phimfit.com",
+            "args": [
+                [
+                    "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "iphonecake.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "ziperto.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "compartiendofull.net",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "themeparktourist.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "bluemoon-mcfc.co.uk",
+            "args": [
+                [
+                    "removeChild"
+                ]
+            ]
+        },
+        {
+            "pattern": "bendigoadvertiser.com.au",
+            "args": [
+                [
+                    "modal"
+                ]
+            ]
+        },
+        {
+            "pattern": "lvturbo.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "sbbrisk.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "sbface.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "sbspeed.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamsb.net",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "wouterplanet.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "actvid.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "myflixerz.to",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "putlocker.pe",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "theflixertv.to",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "vipstreams.in",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "699pic.com",
+            "args": [
+                [
+                    "clearInterval(loginReady)"
+                ]
+            ]
+        },
+        {
+            "pattern": "thinkamericana.com",
+            "args": [
+                [
+                    "offsetHeight"
+                ]
+            ]
+        },
+        {
+            "pattern": "menrec.com",
+            "args": [
+                [
+                    "offsetHeight"
+                ]
+            ]
+        },
+        {
+            "pattern": "mocah.org",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "coolwallpapers.me",
+            "args": [
+                [
+                    "dfgh-adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "sflix.to",
+            "args": [
+                [
+                    "/_0x|devtools/"
+                ]
+            ]
+        },
+        {
+            "pattern": "sflix.is",
+            "args": [
+                [
+                    "/_0x|devtools/"
+                ]
+            ]
+        },
+        {
+            "pattern": "sflix.ca",
+            "args": [
+                [
+                    "/_0x|devtools/"
+                ]
+            ]
+        },
+        {
+            "pattern": "sflix2.to",
+            "args": [
+                [
+                    "/_0x|devtools/"
+                ]
+            ]
+        },
+        {
+            "pattern": "webnovel.com",
+            "args": [
+                [
+                    "debug"
+                ]
+            ]
+        },
+        {
+            "pattern": "vgembed.com",
+            "args": [
+                [
+                    "detect"
+                ]
+            ]
+        },
+        {
+            "pattern": "sbot.cf",
+            "args": [
+                [
+                    "console.clear"
+                ]
+            ]
+        },
+        {
+            "pattern": "bluphim.com",
+            "args": [
+                [
+                    "console.clear"
+                ]
+            ]
+        },
+        {
+            "pattern": "cdnmoviking.tech",
+            "args": [
+                [
+                    "console.clear"
+                ]
+            ]
+        },
+        {
+            "pattern": "movie4kto.net",
+            "args": [
+                [
+                    "/DevTools|_0x/"
+                ]
+            ]
+        },
+        {
+            "pattern": "alfred.camera",
+            "args": [
+                [
+                    "ads"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidstreaming.xyz",
+            "args": [
+                [
+                    "devtoolsDetector"
+                ]
+            ]
+        },
+        {
+            "pattern": "choosingnothing.com",
+            "args": [
+                [
+                    "devtoolsDetector"
+                ]
+            ]
+        },
+        {
+            "pattern": "jetv.xyz",
+            "args": [
+                [
+                    "devtoolsDetector"
+                ]
+            ]
+        },
+        {
+            "pattern": "ngelmat.net",
+            "args": [
+                [
+                    "DevToolsOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidsrc.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "embed.su",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "bembed.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "embedv.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "fslinks.org",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "listeamed.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "v6embed.xyz",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vembed.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vgplayer.xyz",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vid-guard.com",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "fightful.com",
+            "args": [
+                [
+                    "getComputedStyle"
+                ]
+            ]
+        },
+        {
+            "pattern": "player.melaniezettofrais.online",
+            "args": [
+                [
+                    "/devtools|debu/"
+                ]
+            ]
+        },
+        {
+            "pattern": "sussytoons.*",
+            "args": [
+                [
+                    "/devtool|console\\.clear/"
+                ]
+            ]
+        },
+        {
+            "pattern": "businessinsider.com",
+            "args": [
+                [
+                    "setInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "tvtoday.de",
+            "args": [
+                [
+                    "fireEvent",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "vaughn.live",
+            "args": [
+                [
+                    "header_menu_abvs",
+                    "10000"
+                ]
+            ]
+        },
+        {
+            "pattern": "economictimes.indiatimes.com",
+            "args": [
+                [
+                    "adb"
+                ]
+            ]
+        },
+        {
+            "pattern": "mylink.*",
+            "args": [
+                [
+                    "/0x|google|ecoded|==/"
+                ]
+            ]
+        },
+        {
+            "pattern": "my1ink.*",
+            "args": [
+                [
+                    "/0x|google|ecoded|==/"
+                ]
+            ]
+        },
+        {
+            "pattern": "myl1nk.*",
+            "args": [
+                [
+                    "/0x|google|ecoded|==/"
+                ]
+            ]
+        },
+        {
+            "pattern": "myli3k.*",
+            "args": [
+                [
+                    "/0x|google|ecoded|==/"
+                ]
+            ]
+        },
+        {
+            "pattern": "frprn.com",
+            "args": [
+                [
+                    "readyState"
+                ]
+            ]
+        },
+        {
+            "pattern": "gogoanimetv.*",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "xsanime.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "javfull.net",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "f2movies.to",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "ipacrack.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "hulkshare.com",
+            "args": [
+                [
+                    "adblockerModal",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "faucetcrypto.com",
+            "args": [
+                [
+                    "user=null",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "giveawayoftheday.com",
+            "args": [
+                [
+                    "_checkBait"
+                ]
+            ]
+        },
+        {
+            "pattern": "uploadbox.io",
+            "args": [
+                [
+                    "()",
+                    "5000"
+                ]
+            ]
+        },
+        {
+            "pattern": "megafile.io",
+            "args": [
+                [
+                    "()",
+                    "5000"
+                ]
+            ]
+        },
+        {
+            "pattern": "myjest.com",
+            "args": [
+                [
+                    "_$",
+                    "12345"
+                ]
+            ]
+        },
+        {
+            "pattern": "4shared.com",
+            "args": [
+                [
+                    ".append",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "streameast.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "thestreameast.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "getfreecourses.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "sombex.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "forex-trnd.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidlii.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "verteleseriesonline.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "akbardwi.my.id",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "bg-gledai.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "arabnaar.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "sukidesuost.info",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "ricettafitness.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "freenote.biz",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "womenreality.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "portable4pc.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "localizaagencia.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "themes-dl.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "anomize.xyz",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "casos-aislados.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "freeomovie.to",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "myviptuto.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "novelasligera.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "hightqualityshop.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "rahim-soft.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "dayoftheweek.org",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "text2voice.org",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "lookimg.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "graphicdesignresources.net",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "veryfiles.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "aemenstore.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "byboe.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "cazzette.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "dataf.pro",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "hookeaudio.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "jncojeans.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "kiemlua.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "kingsleynyc.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "link1s.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "lucidcam.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "marharo.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "medcpu.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "nguyenvanbao.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "nousdecor.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "pennbookcenter.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "restorbio.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "staaker.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "necksdesign.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "larvelfaucet.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "quicasting.it",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "iptunnels.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "appsfullversion.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "davidgalaxia.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "anonymous-links.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "planet-streaming1.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "unionmanga.xyz",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "vviruslove.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "unity3diy.blogspot.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "checkfiletype.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "santoinferninho.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "sociadrive.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "angeloyeo.github.io",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "csgo-ranks.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "royalkom.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "super-ethanol.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "surf-trx.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "samapkstore.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "shortenbuddy.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "adeth.cc",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "submitclimb.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "swift4claim.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "best-shopme.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "tw-hkt.blogspot.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "hugo3c.tw",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "shortzzy.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "androidtunado.com.br",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "midiextreme.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "tellygossips.net",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "newsiqra.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "dota2freaks.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "how2pc.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "weviral.org",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "alltechnerd.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "shoppinglys.blogspot.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "fzm.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "fzmovies.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "komiktap.in",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "adobezii.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "8tm.net",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "afasiaarchzine.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "getpczone.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "kiwiexploits.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "jaysndees.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "mailocal2.xyz",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "tqanime.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "devcourseweb.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "anime-saikou.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "donghuanosekai.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "jagoanssh.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "pcso-lottoresults.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "todoseriales1.blogspot.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "cryptslice.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "omgexploits.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "nusantaraproject.my.id",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "crazyblog.in",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "short-zero.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "akwam.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "gifans.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "xanimehub.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "goldenmanga.top",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "clk.asia",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "imperialstudy.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "skincarie.com",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "khsm.io",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "cheatsquad.gg",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "crunchyroll.com",
+            "args": [
+                [
+                    "onAdVideoStart"
+                ]
+            ]
+        },
+        {
+            "pattern": "extremereportbot.com",
+            "args": [
+                [
+                    "/_0x|debug/"
+                ]
+            ]
+        },
+        {
+            "pattern": "tubepornclassic.com",
+            "args": [
+                [
+                    "complete",
+                    "50"
+                ]
+            ]
+        },
+        {
+            "pattern": "tubepornclassic.com",
+            "args": [
+                [
+                    "document.readyState"
+                ]
+            ]
+        },
+        {
+            "pattern": "shemalez.com",
+            "args": [
+                [
+                    "document.readyState"
+                ]
+            ]
+        },
+        {
+            "pattern": "multiup.io",
+            "args": [
+                [
+                    ".submit"
+                ]
+            ]
+        },
+        {
+            "pattern": "multiup.org",
+            "args": [
+                [
+                    ".submit"
+                ]
+            ]
+        },
+        {
+            "pattern": "multiup.eu",
+            "args": [
+                [
+                    ".submit"
+                ]
+            ]
+        },
+        {
+            "pattern": "mangalist.org",
+            "args": [
+                [
+                    "0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "javcl.com",
+            "args": [
+                [
+                    "0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "gats.io",
+            "args": [
+                [
+                    "0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "videovard.*",
+            "args": [
+                [
+                    "0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "freereceivesms.com",
+            "args": [
+                [
+                    "0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "live.dragaoconnect.net",
+            "args": [
+                [
+                    "0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "techmuzz.com",
+            "args": [
+                [
+                    "adblocker"
+                ]
+            ]
+        },
+        {
+            "pattern": "rmcmv.*",
+            "args": [
+                [
+                    "visibility"
+                ]
+            ]
+        },
+        {
+            "pattern": "lecourrier-du-soir.com",
+            "args": [
+                [
+                    "iframe"
+                ]
+            ]
+        },
+        {
+            "pattern": "thgss.com",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "moviemakeronline.com",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "soninow.com",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "premid.app",
+            "args": [
+                [
+                    "innerHTML"
+                ]
+            ]
+        },
+        {
+            "pattern": "zhlednito.cz",
+            "args": [
+                [
+                    "/^/"
+                ]
+            ]
+        },
+        {
+            "pattern": "girlsofdesire.org",
+            "args": [
+                [
+                    "/^/"
+                ]
+            ]
+        },
+        {
+            "pattern": "vrcmods.com",
+            "args": [
+                [
+                    "height"
+                ]
+            ]
+        },
+        {
+            "pattern": "adblockeronstape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "adblockplustape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "adblockstreamtape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "adblockstrtape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "adblockstrtech.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "adblocktape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "advertisertape.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "antiadtape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "gettapeads.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "noblocktape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "stapadblockuser.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "stape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "strcloud.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamadblocker.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamadblockplus.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamnoads.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamta.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamtape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "streamtapeadblockuser.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "strtape.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "strtapeadblock.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "strtapeadblocker.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "strtpe.*",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapeadsenjoyer.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapeadvertisement.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapeantiads.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapeblocker.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapelovesads.org",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapenoads.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapewithadblock.org",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "watchadsontape.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "beverfood.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "gamezop.com",
+            "args": [
+                [
+                    "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "filmoviplex.com",
+            "args": [
+                [
+                    "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "laptrinhx.com",
+            "args": [
+                [
+                    "clearInterval(i)",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "sunhope.it",
+            "args": [
+                [
+                    "document.getElementById",
+                    "10000"
+                ]
+            ]
+        },
+        {
+            "pattern": "openculture.com",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "sushiscan.*",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "clapway.com",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "kawarthanow.com",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "rollstroll.com",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "007stockchat.com",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "stockhideout.com",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "radio.zone",
+            "args": [
+                [
+                    "daadb"
+                ]
+            ]
+        },
+        {
+            "pattern": "1cloudfile.com",
+            "args": [
+                [
+                    "!display"
+                ]
+            ]
+        },
+        {
+            "pattern": "luckydice.net",
+            "args": [
+                [
+                    "afStorage"
+                ]
+            ]
+        },
+        {
+            "pattern": "thedigitalfix.com",
+            "args": [
+                [
+                    "debug"
+                ]
+            ]
+        },
+        {
+            "pattern": "nolive.me",
+            "args": [
+                [
+                    "debug"
+                ]
+            ]
+        },
+        {
+            "pattern": "erofound.com",
+            "args": [
+                [
+                    "ads"
+                ]
+            ]
+        },
+        {
+            "pattern": "newscon.org",
+            "args": [
+                [
+                    "ads"
+                ]
+            ]
+        },
+        {
+            "pattern": "animedb.in",
+            "args": [
+                [
+                    "ads"
+                ]
+            ]
+        },
+        {
+            "pattern": "fastconverter.net",
+            "args": [
+                [
+                    "Click"
+                ]
+            ]
+        },
+        {
+            "pattern": "canale.live",
+            "args": [
+                [
+                    "href"
+                ]
+            ]
+        },
+        {
+            "pattern": "molotov.tv",
+            "args": [
+                [
+                    "goog"
+                ]
+            ]
+        },
+        {
+            "pattern": "ios.codevn.net",
+            "args": [
+                [
+                    "offsetHeight"
+                ]
+            ]
+        },
+        {
+            "pattern": "oxy.*",
+            "args": [
+                [
+                    ".hide"
+                ]
+            ]
+        },
+        {
+            "pattern": "wheelofgold.com",
+            "args": [
+                [
+                    "onerror"
+                ]
+            ]
+        },
+        {
+            "pattern": "chat.nrj.fr",
+            "args": [
+                [
+                    "location"
+                ]
+            ]
+        },
+        {
+            "pattern": "rekidai-info.github.io",
+            "args": [
+                [
+                    "location[_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "davescomputertips.com",
+            "args": [
+                [
+                    "show"
+                ]
+            ]
+        },
+        {
+            "pattern": "chat.tchatche.com",
+            "args": [
+                [
+                    "AB.html"
+                ]
+            ]
+        },
+        {
+            "pattern": "dvm360.com",
+            "args": [
+                [
+                    "analytics.initialized"
+                ]
+            ]
+        },
+        {
+            "pattern": "freshplaza.com",
+            "args": [
+                [
+                    "banner"
+                ]
+            ]
+        },
+        {
+            "pattern": "hortidaily.com",
+            "args": [
+                [
+                    "banner"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidsrc.*",
+            "args": [
+                [
+                    "/0x|sandCheck/"
+                ]
+            ]
+        },
+        {
+            "pattern": "work.ink",
+            "args": [
+                [
+                    "a0b"
+                ]
+            ]
+        },
+        {
+            "pattern": "dragontea.ink",
+            "args": [
+                [
+                    "/_0x|dtaf/"
+                ]
+            ]
+        },
+        {
+            "pattern": "th.gl",
+            "args": [
+                [
+                    "NitroAds"
+                ]
+            ]
+        },
+        {
+            "pattern": "javsek.net",
+            "args": [
+                [
+                    "pop"
+                ]
+            ]
+        },
+        {
+            "pattern": "ticketmaster.sg",
+            "args": [
+                [
+                    "detector"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidlink.pro",
+            "args": [
+                [
+                    "aclib"
+                ]
+            ]
+        },
+        {
+            "pattern": "bilinovel.com",
+            "args": [
+                [
+                    "/adb/i"
+                ]
+            ]
+        },
+        {
+            "pattern": "knowyourmeme.com",
+            "args": [
+                [
+                    "blogherads"
+                ]
+            ]
+        }
+    ],
+    "exceptionRules": [
+        {
+            "pattern": "oxy.edu",
+            "args": [
+                [
+                    ".hide"
+                ]
+            ]
+        }
+    ]
+}
