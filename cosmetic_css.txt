@@ -14401,3 +14401,5 @@ video[poster*="-load"][poster*=".com/content/"]
 body > div#dontfoid
 html > div[class][style^="pointer-events: none; position: absolute; top: 0px; left: 0px; width:"]
 html > div[style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;"]
+.adsbygoogle
+.page-content__advert
