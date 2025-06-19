@@ -1,0 +1,4557 @@
+{
+    "hostRules": [
+        {
+            "pattern": "bluemediafile.*",
+            "args": [
+                [
+                    "i--",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "onlinegiftools.com",
+            "args": [
+                [
+                    "Clipboard",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "onlinejpgtools.com",
+            "args": [
+                [
+                    "Clipboard",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "onlinepngtools.com",
+            "args": [
+                [
+                    "Clipboard",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "onlinestringtools.com",
+            "args": [
+                [
+                    "Clipboard",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "onlinetexttools.com",
+            "args": [
+                [
+                    "Clipboard",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "onlinetools.com",
+            "args": [
+                [
+                    "Clipboard",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "remixsearch.es",
+            "args": [
+                [
+                    "loadexternal",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "wallpapercat.com",
+            "args": [
+                [
+                    "counter",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "loverslab.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "wallpaperaccess.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "123link.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "platinmods.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "al.ly",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "bbf.lt",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "cpmlink.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "cut-urls.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "eg4link.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "idlelivelink.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "igram.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "iiv.pl",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "ur.ly",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "url.gem-flash.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "zeiz.me",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "1ink.cc",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "lin-ks.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "xberuang.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "soft112.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "short-url.link",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "4download.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "s.sseluxx.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "onifile.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "topflix.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "coolmathgames.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "link-to.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "onle.co",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "fstore.biz",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "deltabit.co",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "leechall.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "sfile.mobi",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "upfile.us",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "game-kentang.blogspot.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "shortgoo.blogspot.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "bde4.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "sfirmware.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "mobilelegends.shop",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "ockles.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "urlpay.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "underhentai.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "suanoticia.online",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "linkconfig.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "lg-firmwares.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "aylink.co",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "gitizle.vip",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "shtms.co",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "cryptokinews.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "cpmlink.pro",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "speedynews.xyz",
+            "args": [
+                [],
+                [
+                    "updatePercentage",
+                    "100",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "infokeeda.xyz",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "webzeni.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "tutwuri.id",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "khaddavi.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "lokerwfh.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "arkadium.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "mysflink.blogspot.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "runmods.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "anomize.xyz",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "bondibeachau.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "konstantinova.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "kangkimin.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "iklandb.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "thingiverse.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "ufreegames.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "bdlink.pw",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "fairyanime.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "lootlinks.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "7misr4day.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "sama-pro.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "otomi-games.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "curseforge.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "mobitaak.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "arhplyrics.in",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "telenord.it",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "diglink.blogspot.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "vkprime.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "i-polls.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "yesdownloader.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "tonanmedia.my.id",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "skiplink.me",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "yurasu.xyz",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "isekaipalace.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "mitedrive.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "miteblog.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "fullhd4k.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "juegos.eleconomista.es",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "filmizlehdfilm.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "filmizletv.*",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "fullfilmizle.cc",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "gofilmizle.net",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "easybib.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "modcombo.com",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "telepisodes.org",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "novelgames.com",
+            "args": [
+                [
+                    "skipAdSeconds",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "3bmeteo.com",
+            "args": [
+                [
+                    "adv",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "deportealdia.live",
+            "args": [
+                [
+                    "",
+                    "1200",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "ouo.*",
+            "args": [
+                [
+                    "stop()"
+                ]
+            ]
+        },
+        {
+            "pattern": "indi-share.com",
+            "args": [
+                [
+                    "clearInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "premid.app",
+            "args": [
+                [
+                    "clearInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "cheatcloud.cc",
+            "args": [
+                [
+                    "clearInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "cheater.ninja",
+            "args": [
+                [
+                    "clearInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "cheatermad.com",
+            "args": [
+                [
+                    "clearInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "cheatsquad.gg",
+            "args": [
+                [
+                    "clearInterval"
+                ]
+            ]
+        },
+        {
+            "pattern": "freepdf-books.com",
+            "args": [
+                [
+                    "myTimer",
+                    "1500"
+                ]
+            ]
+        },
+        {
+            "pattern": "themeslide.com",
+            "args": [
+                [
+                    "countdown",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "thememypc.net",
+            "args": [
+                [
+                    "counter",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "rezence.com",
+            "args": [
+                [
+                    "counter",
+                    "2000"
+                ],
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "gawbne.com",
+            "args": [
+                [
+                    "counter",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "forex-trnd.com",
+            "args": [
+                [
+                    "counter",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "link.tl",
+            "args": [
+                [
+                    "",
+                    "1800"
+                ]
+            ]
+        },
+        {
+            "pattern": "lnk.news",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "lnk.parts",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "fssquad.com",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "easylinkref.com",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "acortalo.*",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "acortar.*",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "megadescarga.net",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "megadescargas.net",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "gamelopte.com",
+            "args": [
+                [
+                    "yuidea-",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "goto.com.np",
+            "args": [
+                [
+                    "timeLeft"
+                ]
+            ]
+        },
+        {
+            "pattern": "vrcmods.com",
+            "args": [
+                [
+                    "timeLeft"
+                ]
+            ]
+        },
+        {
+            "pattern": "consoleroms.com",
+            "args": [
+                [
+                    "timeLeft"
+                ]
+            ]
+        },
+        {
+            "pattern": "romspedia.com",
+            "args": [
+                [
+                    "timeLeft"
+                ]
+            ]
+        },
+        {
+            "pattern": "forexlap.com",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "forexrw7.com",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.001"
+                ],
+                [
+                    "sec--",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "fx-22.com",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.001"
+                ],
+                [
+                    "sec--",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "gold-24.net",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.001"
+                ],
+                [
+                    "sec--",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "icutlink.com",
+            "args": [
+                [
+                    "time"
+                ]
+            ]
+        },
+        {
+            "pattern": "android-apk.org",
+            "args": [
+                [
+                    "time"
+                ]
+            ]
+        },
+        {
+            "pattern": "zegtrends.com",
+            "args": [
+                [
+                    "time",
+                    "2500"
+                ]
+            ]
+        },
+        {
+            "pattern": "simsdom.com",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "fansonlinehub.com",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "hotmediahub.com",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "terabox.fun",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "teralink.me",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "terashare.me",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "teraearn.com",
+            "args": [
+                [
+                    "clearInterval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "fautsy.com",
+            "args": [
+                [
+                    "seconds"
+                ]
+            ]
+        },
+        {
+            "pattern": "coinlyhub.com",
+            "args": [
+                [
+                    "seconds"
+                ]
+            ]
+        },
+        {
+            "pattern": "i-bits.io",
+            "args": [
+                [
+                    "seconds"
+                ]
+            ]
+        },
+        {
+            "pattern": "claimbits.io",
+            "args": [
+                [
+                    "seconds"
+                ]
+            ]
+        },
+        {
+            "pattern": "filemoon.*",
+            "args": [
+                [
+                    "seconds"
+                ]
+            ]
+        },
+        {
+            "pattern": "legionjuegos.org",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "legionpeliculas.org",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "legionprogramas.org",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "so1.asia",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "dutchycorp.*",
+            "args": [
+                [
+                    "time.html",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "gamearter.com",
+            "args": [
+                [
+                    "/SplashScreen|BannerAd/"
+                ]
+            ]
+        },
+        {
+            "pattern": "bluemediafiles.*",
+            "args": [
+                [
+                    "i--"
+                ]
+            ]
+        },
+        {
+            "pattern": "ayobelajarbareng.com",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "semawur.com",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "doofree88.com",
+            "args": [
+                [
+                    "js-btn-skip",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "acdriftingpro.com",
+            "args": [
+                [
+                    "countdown",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "shayarias.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "jksb.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "mazakisan.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "grtjobs.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "call-bomber.info",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "kajernews.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "vyaapaarguru.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.002"
+                ]
+            ]
+        },
+        {
+            "pattern": "link.djbassking.live",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "tech5s.co",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "game5s.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "yalifin.xyz",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "lrncook.xyz",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "financenova.online",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "utkarshonlinetest.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "financewada.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "acetack.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "androidquest.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "apklox.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "chhaprawap.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "gujarativyakaran.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "kashmirstudentsinformation.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "kisantime.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "shetkaritoday.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "pastescript.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "trimorspacks.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "updrop.link",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "fx-gd.net",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "healthy4pepole.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "hightrip.net",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "to-travel.net",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "tech24us.com",
+            "args": [
+                [
+                    "counter",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "freethemesy.com",
+            "args": [
+                [
+                    "counter",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "veganab.co",
+            "args": [
+                [
+                    "/wpsafe|wait/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "camdigest.com",
+            "args": [
+                [
+                    "/wpsafe|wait/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "nichapk.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "easyworldbusiness.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "riveh.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "bookszone.in",
+            "args": [
+                [
+                    "timer",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "uptechnologys.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "sevenjournals.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "labgame.io",
+            "args": [
+                [
+                    "tid",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "overgal.com",
+            "args": [
+                [
+                    "timeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "10short.*",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "mamahawa.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "lollty.pro",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "postazap.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "financeyogi.net",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "finclub.in",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "easywithcode.tech",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "letest25.co",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "truevpnlover.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "financebolo.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "rphost.in",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "vedamdigi.tech",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "cancelguider.online",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "bigdata.rawlazy.si",
+            "args": [
+                [
+                    "counter",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "codesnse.com",
+            "args": [
+                [
+                    "counter",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "filmypoints.in",
+            "args": [
+                [
+                    "timer",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "flightsim.to",
+            "args": [
+                [
+                    "timer",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "freethailottery.live",
+            "args": [
+                [
+                    "timer",
+                    "1600",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "progfu.com",
+            "args": [
+                [
+                    "timer",
+                    "1600",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "currentrecruitment.com",
+            "args": [
+                [
+                    "count",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "investorveda.com",
+            "args": [
+                [
+                    "count",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "edukaroo.com",
+            "args": [
+                [
+                    "count",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "advicefunda.com",
+            "args": [
+                [
+                    "count",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "bestloanoffer.net",
+            "args": [
+                [
+                    "count",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "techconnection.in",
+            "args": [
+                [
+                    "count",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "hosttbuzz.com",
+            "args": [
+                [
+                    "/countdown--|getElementById/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "policiesreview.com",
+            "args": [
+                [
+                    "/countdown--|getElementById/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "travel.vebma.com",
+            "args": [
+                [
+                    "/counter|wait/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "cloud.majalahhewan.com",
+            "args": [
+                [
+                    "/counter|wait/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "crm.cekresi.me",
+            "args": [
+                [
+                    "/counter|wait/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "ai.tempatwisata.pro",
+            "args": [
+                [
+                    "/counter|wait/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "cinedesi.in",
+            "args": [
+                [
+                    "interval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "thevouz.in",
+            "args": [
+                [
+                    "interval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "tejtime24.com",
+            "args": [
+                [
+                    "interval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "techishant.in",
+            "args": [
+                [
+                    "interval",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "whatgame.xyz",
+            "args": [
+                [
+                    "sec--",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "mooonten.com",
+            "args": [
+                [
+                    "sec--",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "msic.site",
+            "args": [
+                [
+                    "sec--",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "rfiql.com",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "gujjukhabar.in",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "smartfeecalculator.com",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "djxmaza.in",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "thecubexguide.com",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "jytechs.in",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "aman-dn.blogspot.com",
+            "args": [
+                [
+                    "countdown"
+                ]
+            ]
+        },
+        {
+            "pattern": "ipalibrary.me",
+            "args": [
+                [
+                    "countdown"
+                ]
+            ]
+        },
+        {
+            "pattern": "hieunguyenphoto.com",
+            "args": [
+                [
+                    "countdown"
+                ]
+            ]
+        },
+        {
+            "pattern": "fastt.gg",
+            "args": [
+                [
+                    "countdown",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixsera.net",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgair.net",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgblaze.net",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgfrost.net",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "vestimage.site",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixlev.*",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgyer.store",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixqbngg.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixqwet.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixmos.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgtgd.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgcsxx.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgqklw.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixqkhgrt.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgcssd.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imguwjsd.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pictbbf.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixbryexa.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picbqqa.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixbkghxa.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgmgf.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picbcxvxa.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imguee.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgmffmv.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgbqb.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgbyrev.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgbncvnv.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixtryab.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imggune.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pictryhab.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixbnab.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgbnwe.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgbbnhi.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgnbii.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imghqqbg.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgyhq.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixnbrqwg.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixnbrqw.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picmsh.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgpke.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picuenr.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgolemn.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgoebn.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picnwqez.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgjajhe.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixjnwe.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixkfjtrkf.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixkfkf.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixdfdjkkr.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixdfdj.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picnft.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "pixrqqz.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picngt.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picjgfjet.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picjbet.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgkkabm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgxabm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgthbm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgmyqbm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgwwqbm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgjvmbbm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgjbxzjv.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgjmgfgm.shop",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "picxnkjkhdf.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgxxbdf.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgnngr.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgjjtr.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgqbbds.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgbvdf.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgqnnnebrf.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imgnnnvbrf.sbs",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "cararegistrasi.com",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "ipa-apps.me",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "imslp.org",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "libertycity.net",
+            "args": [
+                [
+                    "timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "arcade.buzzrtv.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "arcade.dailygazette.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "arcade.lemonde.fr",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "arena.gamesforthebrain.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "bestpuzzlesandgames.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "cointiply.arkadiumarena.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "gamelab.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.abqjournal.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.amny.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.bellinghamherald.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.besthealthmag.ca",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.bnd.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.boston.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.bostonglobe.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.bradenton.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.centredaily.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.charlotteobserver.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.cnhinews.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.crosswordgiant.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.dailymail.co.uk",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.dallasnews.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.daytondailynews.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.denverpost.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.everythingzoomer.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.fresnobee.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.gameshownetwork.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.get.tv",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.greatergood.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.heraldonline.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.heraldsun.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.idahostatesman.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.insp.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.islandpacket.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.journal-news.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.kansas.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.kansascity.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.kentucky.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.lancasteronline.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.ledger-enquirer.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.macon.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.mashable.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.mercedsunstar.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.metro.us",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.metv.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.miamiherald.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.modbee.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.moviestvnetwork.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.myrtlebeachonline.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.nationalreview.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.newsobserver.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.parade.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.pressdemocrat.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.puzzlebaron.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.puzzler.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.puzzles.ca",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.qns.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.readersdigest.ca",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.sacbee.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.sanluisobispo.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.sixtyandme.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.sltrib.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.springfieldnewssun.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.star-telegram.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.startribune.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.sunherald.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.theadvocate.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.thenewstribune.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.theolympian.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.theportugalnews.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.thestar.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.thestate.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.tri-cityherald.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.triviatoday.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.usnews.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.word.tips",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.wordgenius.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "games.wtop.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "jeux.meteocity.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "juegos.as.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "juegos.elnuevoherald.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "juegos.elpais.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "philly.arkadiumarena.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "play.dictionary.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.bestforpuzzles.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.centralmaine.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.crosswordsolver.org",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.independent.co.uk",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.nola.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.pressherald.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.standard.co.uk",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "puzzles.sunjournal.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "apkmb.com",
+            "args": [
+                [
+                    "show_download_links"
+                ]
+            ]
+        },
+        {
+            "pattern": "apkhihe.com",
+            "args": [
+                [
+                    "show_download_links"
+                ]
+            ]
+        },
+        {
+            "pattern": "aemenstore.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "byboe.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "cazzette.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "dreamcheeky.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "fidlarmusic.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "hookeaudio.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "jncojeans.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "kiemlua.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "kingsleynyc.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "lucidcam.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "nguyenvanbao.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "nousdecor.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "pennbookcenter.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "publicananker.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "restorbio.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "staaker.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "samapkstore.com",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "5ggyan.com",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "brotherfox91.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "currentcolorq2dv.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "customsfencei3.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "fencethoughgdrt.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "fencethroughout642.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "foxwent6ot.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "havingmovementu8x.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "homebasis4d.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "includingbreath5ku.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "ironwinter6m.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "leadmorning4ivn.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "linelocatemfsn.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "littlesound6c.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "mindmotion93y8.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "mightbadly4f.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "monkeynecktj4w.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "neighbormajorkex.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "nervousdoctor9bx.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "pantogether6jpi.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "quietlywheat23.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "saddletopg3tk.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "soldrubber5xrp.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "somehowrockyng.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "strangernervousql.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "superabbit.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "supportrightufd.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "studyinghuman6js.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "wholecommonrrvp.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "wintertold7nq.shop",
+            "args": [
+                [
+                    "countDown"
+                ]
+            ]
+        },
+        {
+            "pattern": "shortenbuddy.com",
+            "args": [
+                [
+                    "downloadTimer"
+                ]
+            ]
+        },
+        {
+            "pattern": "jpopsingles.eu",
+            "args": [
+                [
+                    "downloadTimer"
+                ]
+            ]
+        },
+        {
+            "pattern": "vanillatweaks.net",
+            "args": [
+                [
+                    "downloadTimer"
+                ]
+            ]
+        },
+        {
+            "pattern": "new.lewd.ninja",
+            "args": [
+                [
+                    "next",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "emulatorgames.net",
+            "args": [
+                [
+                    "",
+                    "",
+                    "0.3"
+                ]
+            ]
+        },
+        {
+            "pattern": "menjelajahi.com",
+            "args": [
+                [
+                    "time",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "unityassetcollection.com",
+            "args": [
+                [
+                    "secs"
+                ]
+            ]
+        },
+        {
+            "pattern": "rethmic.com",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "romhustler.org",
+            "args": [
+                [
+                    "timer.remove"
+                ]
+            ]
+        },
+        {
+            "pattern": "filmyhitlink.xyz",
+            "args": [
+                [
+                    "downloadButton"
+                ]
+            ]
+        },
+        {
+            "pattern": "cinemakottaga.*",
+            "args": [
+                [
+                    "timePassed"
+                ]
+            ]
+        },
+        {
+            "pattern": "allwpworld.com",
+            "args": [
+                [
+                    "timeleft"
+                ]
+            ]
+        },
+        {
+            "pattern": "trzpro.com",
+            "args": [
+                [
+                    "counter--"
+                ]
+            ]
+        },
+        {
+            "pattern": "techhelpbd.com",
+            "args": [
+                [
+                    "counter--"
+                ]
+            ]
+        },
+        {
+            "pattern": "zedge.net",
+            "args": [
+                [
+                    "(i-1)"
+                ]
+            ]
+        },
+        {
+            "pattern": "send-anywhere.com",
+            "args": [
+                [
+                    "skipOptions"
+                ]
+            ]
+        },
+        {
+            "pattern": "upstore.net",
+            "args": [
+                [
+                    "countDown",
+                    "1150",
+                    "0.5"
+                ]
+            ]
+        },
+        {
+            "pattern": "rincondelsazon.com",
+            "args": [
+                [
+                    "timercounter"
+                ]
+            ]
+        },
+        {
+            "pattern": "tattoosbeauty.com",
+            "args": [
+                [
+                    "timercounter"
+                ]
+            ]
+        },
+        {
+            "pattern": "disheye.com",
+            "args": [
+                [
+                    "count",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "yifysub.net",
+            "args": [
+                [
+                    "#timer"
+                ]
+            ]
+        },
+        {
+            "pattern": "mp3juices.icu",
+            "args": [
+                [
+                    "temp"
+                ]
+            ]
+        },
+        {
+            "pattern": "bingotingo.com",
+            "args": [
+                [
+                    "counter",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "redirect.dafontvn.com",
+            "args": [
+                [
+                    "distance"
+                ]
+            ]
+        },
+        {
+            "pattern": "filessrc.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "srcimdb.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "droidmirror.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "infokik.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "arealgamer.org",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "gamingbeasts.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "uploadbeast.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "descargatepelis.com",
+            "args": [
+                [
+                    "contador"
+                ]
+            ]
+        },
+        {
+            "pattern": "edufileshare.com",
+            "args": [
+                [
+                    "display"
+                ]
+            ]
+        },
+        {
+            "pattern": "wowroms.com",
+            "args": [
+                [
+                    "second"
+                ]
+            ]
+        },
+        {
+            "pattern": "play.aidungeon.io",
+            "args": [
+                [
+                    "current()"
+                ]
+            ]
+        },
+        {
+            "pattern": "whatsappmods.net",
+            "args": [
+                [
+                    "l",
+                    "",
+                    "0"
+                ]
+            ]
+        },
+        {
+            "pattern": "crdroid.net",
+            "args": [
+                [
+                    "count"
+                ]
+            ]
+        },
+        {
+            "pattern": "rlxtech.tech",
+            "args": [
+                [
+                    "count"
+                ]
+            ]
+        },
+        {
+            "pattern": "privatemoviez.*",
+            "args": [
+                [
+                    "count"
+                ]
+            ]
+        },
+        {
+            "pattern": "sonixgvn.net",
+            "args": [
+                [
+                    "count"
+                ]
+            ]
+        },
+        {
+            "pattern": "adshnk.com",
+            "args": [
+                [
+                    "countdown",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "blogmado.com",
+            "args": [
+                [
+                    "time",
+                    "",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "pinloker.com",
+            "args": [
+                [
+                    "wait"
+                ]
+            ]
+        },
+        {
+            "pattern": "sekilastekno.com",
+            "args": [
+                [
+                    "wait"
+                ]
+            ]
+        },
+        {
+            "pattern": "web1s.asia",
+            "args": [
+                [
+                    "wait"
+                ]
+            ]
+        },
+        {
+            "pattern": "fikper.com",
+            "args": [
+                [
+                    "downloadToken"
+                ]
+            ]
+        },
+        {
+            "pattern": "tralhasvarias.blogspot.com",
+            "args": [
+                [
+                    "updateProgress",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "busuu.com",
+            "args": [
+                [
+                    "current-=1",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "newscon.org",
+            "args": [
+                [
+                    "_0x",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "recipahi.com",
+            "args": [
+                [
+                    "counter",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "thestar.com",
+            "args": [
+                [
+                    "scrollIncrement",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "obaianinho.com",
+            "args": [
+                [
+                    "",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "00m.in",
+            "args": [
+                [
+                    "show",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "punkrust.net",
+            "args": [
+                [
+                    "saniye"
+                ]
+            ]
+        },
+        {
+            "pattern": "apkprime.org",
+            "args": [
+                [
+                    "",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "restegourmet.de",
+            "args": [
+                [
+                    "invoke",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "getmodsapk.*",
+            "args": [
+                [
+                    "download",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "5play.*",
+            "args": [
+                [
+                    "countdown",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "tech.unblockedgames.world",
+            "args": [
+                [
+                    "/count|verify|isCompleted/",
+                    "",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "lewdzone.com",
+            "args": [
+                [
+                    "circle_animation"
+                ]
+            ]
+        }
+    ],
+    "exceptionRules": [
+        {
+            "pattern": "go.skiplink.me",
+            "args": [
+                []
+            ]
+        },
+        {
+            "pattern": "encurtador.postazap.com",
+            "args": [
+                [
+                    "timer",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        }
+    ]
+}
