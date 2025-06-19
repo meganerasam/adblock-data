@@ -26,3 +26,12 @@ jobs:
 
       - name: Run the Prevent setTimeout
         run: php prevent-setTimeout.php
+
+      - name: Run the Prevent setInterval
+        run: php prevent-setInterval.php
+
+      - name: Run the Adjust setTimeout
+        run: php adjust-setTimeout.php
+
+      - name: Run the Adjust setInterval
+        run: php adjust-setInterval.php
