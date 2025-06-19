@@ -96,7 +96,7 @@ exec("git add "
 );
 exec("git config user.name 'github-actions[bot]'");
 exec("git config user.email 'github-actions[bot]@users.noreply.github.com'");
-$msg = "Updated on " . " (" . date('Y-m-d H:i') . ")";
+$msg = "Updated on " . " (" . date('Y-m-d H:i') . ") - specific-css";
 exec("git commit -m " . escapeshellarg($msg));
 exec("git push");
 
