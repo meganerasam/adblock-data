@@ -2,7 +2,7 @@ name: Update Domain Ad Block Data Files (cosmetic css, timers handlers, etc)
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight; adjust as needed.
+    - cron: '0 3 * * *'  # Runs daily at 3.00am; adjust as needed.
   workflow_dispatch:
 
 jobs:
