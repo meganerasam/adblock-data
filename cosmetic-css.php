@@ -14,7 +14,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // File paths
-$activeFile           = __DIR__ . '/csometic_css.txt';
+$activeFile           = __DIR__ . '/cosmetic_css.txt';
 
 // 1) Define all filter URLs you want to pull from.
 //    Add or remove entries here as your sources change.
@@ -57,5 +57,27 @@ foreach ($sources as $url) {
 // 2) Deduplicate selectors to avoid redundant CSS rules
 $selectors = array_values(array_unique($selectors));
 
-// 3) Output the final array as pretty-printed JSON
-echo json_encode($selectors, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+// 3a) If the $selectors length is equal to 2, then do not commit and exit.
+if (count($selectors) <= 2) {
+    echo "No new selectors found, GitHub not updated.\n";
+    exit;
+}
+
+// 3b) Update the active file with the new selectors
+file_put_contents($activeFile,   implode("\n", $selectors)   . "\n");
+
+// Commit changes
+echo " Committing"; flush();
+exec("git add "
+    . escapeshellarg($activeFile)
+);
+exec("git config user.name 'github-actions[bot]'");
+exec("git config user.email 'github-actions[bot]@users.noreply.github.com'");
+$msg = "Updated on " . " (" . date('Y-m-d H:i') . ")";
+exec("git commit -m " . escapeshellarg($msg));
+exec("git push");
+
+// Output the final array as pretty-printed JSON
+echo "Cosmetic CSS update complete";
+flush();
+?>
