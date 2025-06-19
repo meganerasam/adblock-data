@@ -49352,7 +49352,8 @@
         ".nav > li > a[href=\"https://bongacams.com\"]",
         ".nav > li > a[href^=\"http://media.r18.com/track/\"]",
         "div[id^=\"r18\" ] > a[href][target=\"_blank\"] > img",
-        ".my-2.container"
+        ".my-2.container",
+        "[href^=\"https://r.trwl1.com/\"]"
     ],
     "utilitymagazine.com.au": [
         "#text-36",
@@ -99227,5 +99228,8 @@
         "[id*=\"tvadbody\"]",
         "[id^=\"center\"] .I:has(> [class=\"\"][href])",
         "body > [id][style^=\"position: fixed; top: 0px;\"]"
+    ],
+    "flipkart.com": [
+        "div[data-id][style]:has([width][height][fill])"
     ]
 }
