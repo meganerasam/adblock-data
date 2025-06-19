@@ -14,7 +14,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // File paths
-$activeFile           = __DIR__ . '/cosmetic_css.txt';
+$activeFile           = __DIR__ . '/txt/cosmetic_css.txt';
 
 // 1) Define all filter URLs you want to pull from.
 //    Add or remove entries here as your sources change.
