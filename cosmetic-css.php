@@ -60,14 +60,47 @@ $selectors = array_values(array_unique($selectors));
 // 3a) If the $selectors length is equal to 2, then do not commit and exit.
 if (count($selectors) <= 2) {
     echo "No new selectors found, GitHub not updated.\n";
+    flush();
     exit;
 }
 
-// 3b) Update the active file with the new selectors
+// 3b) Read activeFile and put it inside an array
+$activeSelectors = [];
+if (file_exists($activeFile)) {
+    $activeFileContent = file_get_contents($activeFile);
+    if ($activeFileContent !== false) {
+        // Split the content into lines, keeping cross-platform line breaks
+        $activeSelectors = preg_split('/\R/', $activeFileContent);
+        // Remove empty lines
+        $activeSelectors = array_filter($activeSelectors, 'trim');
+    } else {
+        echo "TXT file empty.\n";
+        flush();
+        exit;
+    }
+} else {
+    echo "Error fetching the active.txt file.\n";
+    flush();
+    exit;
+}
+
+// 3c) Create a new array with selectors that are not in the active file
+$newSelectors = array_diff($selectors, $activeSelectors);
+
+// 3d) If the new selectors array is empty, exit
+if (empty($newSelectors)) {
+    echo "NO NEW selectors found, GitHub not updated.\n";
+    flush();
+    exit;
+}
+
+// 3e) Add the $newSelectors to active file content. Do not rewrite all, add only newSelctors in order to have a certain added date order, at the end of existing file.
+$selectors = array_merge($activeSelectors, $newSelectors);
+
+// 3f) Update the active file with the new selectors
 file_put_contents($activeFile,   implode("\n", $selectors)   . "\n");
 
-// Commit changes
-echo " Committing"; flush();
+// 3g) Commit changes
 exec("git add "
     . escapeshellarg($activeFile)
 );
