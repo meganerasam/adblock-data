@@ -23,3 +23,6 @@ jobs:
 
       - name: Run the Specific CSS
         run: php specific-css.php
+
+      - name: Run the Prevent setTimeout
+        run: php prevent-setTimeout.php
