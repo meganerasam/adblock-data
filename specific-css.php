@@ -90,7 +90,7 @@ if (count($map) <= 0) {
 // 6) Write data to activeFile
 file_put_contents($activeFile, json_encode($map, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
-// 3g) Commit changes
+// 7) Commit changes
 exec("git add "
     . escapeshellarg($activeFile)
 );
