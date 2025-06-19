@@ -20,3 +20,6 @@ jobs:
 
       - name: Run the Cosmetic CSS
         run: php cosmetic-css.php
+
+      - name: Run the Specific CSS
+        run: php specific-css.php
