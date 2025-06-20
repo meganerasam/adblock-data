@@ -895,6 +895,15 @@
             ]
         },
         {
+            "pattern": "gyanitheme.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
             "pattern": "fansonlinehub.com",
             "args": [
                 [
