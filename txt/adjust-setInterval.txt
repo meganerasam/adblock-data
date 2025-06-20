@@ -1363,116 +1363,6 @@
             ]
         },
         {
-            "pattern": "acetack.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "androidquest.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "apklox.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "chhaprawap.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "gujarativyakaran.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "kashmirstudentsinformation.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "kisantime.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "shetkaritoday.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "pastescript.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "trimorspacks.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "updrop.link",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
             "pattern": "fx-gd.net",
             "args": [
                 [
@@ -1579,6 +1469,15 @@
                     "timer",
                     "*",
                     "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "gyanitheme.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
                 ]
             ]
         },
@@ -2088,6 +1987,16 @@
             "args": [
                 [
                     "countdown"
+                ]
+            ]
+        },
+        {
+            "pattern": "4khd.com",
+            "args": [
+                [
+                    "countdown",
+                    "1000",
+                    "0.001"
                 ]
             ]
         },
