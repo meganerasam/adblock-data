@@ -14403,3 +14403,4 @@ html > div[class][style^="pointer-events: none; position: absolute; top: 0px; le
 html > div[style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;"]
 .adsbygoogle
 .page-content__advert
+a[href^="https://s.zlinkr.com/"]
