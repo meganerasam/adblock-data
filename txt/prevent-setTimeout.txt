@@ -5449,14 +5449,6 @@
             ]
         },
         {
-            "pattern": "dofusports.xyz",
-            "args": [
-                [
-                    "debugger"
-                ]
-            ]
-        },
-        {
             "pattern": "dallasnews.com",
             "args": [
                 [
@@ -8970,6 +8962,33 @@
             ]
         },
         {
+            "pattern": "link.vipurl.in",
+            "args": [
+                [
+                    "alert",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "nanolinks.in",
+            "args": [
+                [
+                    "alert",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "adrinolinks.com",
+            "args": [
+                [
+                    "alert",
+                    "2000"
+                ]
+            ]
+        },
+        {
             "pattern": "fadedfeet.com",
             "args": [
                 [
@@ -9039,33 +9058,6 @@
             "args": [
                 [
                     "isRequestPresent"
-                ]
-            ]
-        },
-        {
-            "pattern": "nanolinks.in",
-            "args": [
-                [
-                    "alert",
-                    "2000"
-                ]
-            ]
-        },
-        {
-            "pattern": "adrinolinks.com",
-            "args": [
-                [
-                    "alert",
-                    "2000"
-                ]
-            ]
-        },
-        {
-            "pattern": "link.vipurl.in",
-            "args": [
-                [
-                    "alert",
-                    "2000"
                 ]
             ]
         },
@@ -14009,6 +14001,14 @@
             ]
         },
         {
+            "pattern": "mykhel.com",
+            "args": [
+                [
+                    "error-report.com"
+                ]
+            ]
+        },
+        {
             "pattern": "automobile-catalog.com",
             "args": [
                 [
@@ -15762,7 +15762,7 @@
             "pattern": "client.falixnodes.net",
             "args": [
                 [
-                    "adObj"
+                    "/adObj|amzn_aps_csm|please-disable|function reportErrors/"
                 ]
             ]
         },
