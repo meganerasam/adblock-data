@@ -1729,6 +1729,11 @@
         ".oc-center-da",
         ".entry > center > small"
     ],
+    "businesstrend.jp": [
+        "[class^=\"adblock_\"]",
+        "a[href=\"https://toolkitspro.com\"]",
+        "#go-to-top + div[id][class*=\" \"]"
+    ],
     "fantasiku.com": [
         "button.magsoul-scroll-top + div[id][class*=\" \"]"
     ],
@@ -2076,6 +2081,9 @@
     ],
     "djnonstopmusic.in": [
         "body > center ~ script + style + div[id][class]"
+    ],
+    "plaza.chu.jp": [
+        "body > div[id=\"page\"] + div[id][class]"
     ],
     "musicdjfree.com": [
         "body > div[id=\"page\"] + div[id][class]"
@@ -2428,9 +2436,6 @@
         "#go-to-top + div[id][class*=\" \"]"
     ],
     "kurosuen.live": [
-        "#go-to-top + div[id][class*=\" \"]"
-    ],
-    "businesstrend.jp": [
         "#go-to-top + div[id][class*=\" \"]"
     ],
     "fine-wings.com": [
@@ -23550,9 +23555,7 @@
         ".subtle",
         "li.sponsored",
         ".atf2-native-page",
-        ".bannerLink",
-        "div[class^=\"GamAds_\"]",
-        "div[data-testid=\"adsense-wrapper\"]"
+        ".min-w-ad-300"
     ],
     "nakedneighbour.com": [
         ".banner",
@@ -24726,6 +24729,7 @@
         ".sponsor",
         ".myadswarning",
         "div[id^=\"list_videos_\"] > div.item:has(> .ads)",
+        ".adswarning",
         ".sponsorbig",
         "#top",
         "#bannerbelow",
@@ -25020,9 +25024,6 @@
         ".banner-inner"
     ],
     "stfly.me": [
-        ".banner-inner"
-    ],
-    "jwearn.com": [
         ".banner-inner"
     ],
     "intothelink.com": [
@@ -25885,6 +25886,7 @@
     ],
     "uiporn.com": [
         ".sponsor",
+        ".related-videos:has(> span#UIP-Nat-vip)",
         ".text-gray",
         "#UIP-Nat",
         ".top-sponsor",
@@ -27464,6 +27466,79 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "katestube.com": [
+        ".video-options",
+        ".pre-block",
+        ".spot-aside",
+        "#end-block",
+        ".bottom-container",
+        ".native-holder",
+        "a[href^=\"https://claring-loccelkin.com/\"]",
+        ".spot-holder",
+        ".bottom-banners",
+        ".adv-aside",
+        ".advertising",
+        ".sidebar.alt3.add > h2",
+        ".thumbs.home > .aside > b",
+        ".title-holder-related > h2",
+        "#bottom-adv.bottom-adv",
+        "#pre-block",
+        ".after_adv",
+        ".bottom-items",
+        ".player-aside",
+        ".spot"
+    ],
+    "iflscience.com": [
+        ".header-secondary",
+        "#BillboardAd",
+        "div[class^=\"index__adWrapper\"]",
+        "div[class^=\"AdChoiceContainer\"]",
+        ".trendmd-container"
+    ],
+    "funker530.com": [
+        ".listAd:not(.outer)"
+    ],
+    "shemale.taxi": [
+        ".invideo-native-adv",
+        ".player-detail__banners",
+        ".player-detail__tabs > div.player-detail__tab:contains(Advertisement)",
+        "div[data-title=\"Advertisement\"]"
+    ],
+    "analdin.com": [
+        "#lj-container",
+        "iframe[src*=\"/api/spots/\"]",
+        "body > .popup",
+        "iframe[src^=\"//a.o333o.com/\"]",
+        ".brazzers-link",
+        "#overlay",
+        "body[style=\"background: #000000; margin: 0; padding: 0\"]:not([class*=\"video-page\"])"
+    ],
+    "shemalez.com": [
+        "iframe[src^=\"https://go.mnaspm.com/\"]",
+        ".header__nav > div.left > div.dropdown ~ a[href][target=\"_blank\"]",
+        ".fah-btn",
+        ".jw-title-secondary > div.jw-reset",
+        ".video-page__content > .left  + div[class]",
+        ".video-tube-friends + div[class]",
+        ".content > div > .wrapper + div[class]",
+        "div[style=\"display:flex !important\"] > div"
+    ],
+    "f95zone.to": [
+        "#topNotice",
+        ".samAlignCenter",
+        ".offCanvasMenu-linkHolder > .offCanvasMenu-link[target=\"_blank\"]",
+        ".p-nav-list .p-navEl-link[target=\"_blank\"]",
+        "a[data-nav-id=\"AIPorn\"]",
+        "a[data-nav-id=\"AISexChat\"]",
+        "a[href*=\"theporndude.com\"]",
+        "a[href^=\"https://ads.trafficjunky.net/\"]",
+        "a[href^=\"https://candy.ai/\"]",
+        "a[href^=\"https://www.deepswap.ai\"]",
+        ".node:has(> .node-body > .node-main > .node-title > a[href^=\"/link-forums/\"][href*=\"-slut.\"])"
+    ],
+    "hdpornfree.xxx": [
+        ".container:has(> iframe[src^=\"//hdpornfree.xxx/sup/\"])"
+    ],
     "bravoporn.com": [
         "span[id^=\"BP-Native-Footer-\"]",
         "a[target=\"_blank\"]:not([href*=\"bravoporn.com\"])",
@@ -27476,6 +27551,19 @@
     ],
     "sypost.net": [
         ".floating-image"
+    ],
+    "pervertstore.com": [
+        "#im-layer"
+    ],
+    "squirtingclips.com": [
+        "#im-layer"
+    ],
+    "nastybulb.com": [
+        "#im-layer"
+    ],
+    "wholevideos.com": [
+        "#im-layer",
+        "#vid-ads"
     ],
     "cartoonporno.xxx": [
         ".cart"
@@ -27534,16 +27622,6 @@
         ".sponsor",
         ".block-video > .table:has(> div[id][style^=\"height:\"] > iframe.na)",
         ".footer-margin"
-    ],
-    "squirtingclips.com": [
-        "#im-layer"
-    ],
-    "nastybulb.com": [
-        "#im-layer"
-    ],
-    "wholevideos.com": [
-        "#im-layer",
-        "#vid-ads"
     ],
     "shemale.movie": [
         ".player-section__ad-b",
@@ -32181,26 +32259,6 @@
     "rock.porn#$": [
         "int-over { display: none !important; }"
     ],
-    "katestube.com": [
-        ".pre-block",
-        ".spot-aside",
-        "#end-block",
-        ".bottom-container",
-        "a[href^=\"https://claring-loccelkin.com/\"]",
-        ".spot-holder",
-        ".bottom-banners",
-        ".adv-aside",
-        ".advertising",
-        ".sidebar.alt3.add > h2",
-        ".thumbs.home > .aside > b",
-        ".title-holder-related > h2",
-        "#bottom-adv.bottom-adv",
-        "#pre-block",
-        ".after_adv",
-        ".bottom-items",
-        ".player-aside",
-        ".spot"
-    ],
     "ooxxx.com": [
         ".wrapper > div[class]:has(> div > div > div > div[id^=\"suggestion_\"])",
         "section[style=\"padding: 20px;\"]",
@@ -32320,14 +32378,6 @@
         ".wrapper > article",
         "section[is-footer-banners]",
         ".under-channel"
-    ],
-    "shemalez.com": [
-        ".fah-btn",
-        ".jw-title-secondary > div.jw-reset",
-        ".video-page__content > .left  + div[class]",
-        ".video-tube-friends + div[class]",
-        ".content > div > .wrapper + div[class]",
-        "div[style=\"display:flex !important\"] > div"
     ],
     "vjav.com": [
         ".fah-btn",
@@ -50139,14 +50189,6 @@
     "helpdeskgeek.com": [
         "div[id^=\"adngin\"]"
     ],
-    "analdin.com": [
-        "iframe[src*=\"/api/spots/\"]",
-        "body > .popup",
-        "iframe[src^=\"//a.o333o.com/\"]",
-        ".brazzers-link",
-        "#overlay",
-        "body[style=\"background: #000000; margin: 0; padding: 0\"]:not([class*=\"video-page\"])"
-    ],
     "raise.com": [
         "aside[class^=\"nudge_main\"]"
     ],
@@ -52482,9 +52524,6 @@
     "yespornpleasexxx.com": [
         "iframe[src^=\"https://creative.alxbgo.com/\"]"
     ],
-    "warscrap.io": [
-        ".main-menu-overlay > .main-menu-bottom:empty"
-    ],
     "shootup.io": [
         "#main-wrap > #left-wrap",
         "#main-wrap > #bottom-wrap"
@@ -52805,11 +52844,6 @@
     ],
     "mailonsunday.co.uk": [
         ".billboard_wrapper"
-    ],
-    "iflscience.com": [
-        "div[class^=\"index__adWrapper\"]",
-        "div[class^=\"AdChoiceContainer\"]",
-        ".trendmd-container"
     ],
     "viid.me": [
         "div[style^=\"height:90px;width:100%;\"]"
@@ -56166,11 +56200,6 @@
     ],
     "notebookreview.com": [
         "aside#todaysPromos"
-    ],
-    "swatchseries.to": [
-        "a[href^=\"http://takelnk.com/\"]",
-        "a[href=\"/westworld-watch.html\"][rel=\"nofollow\"] > img",
-        ".shd_button"
     ],
     "imgspice.com": [
         "#interdiv",
@@ -92714,18 +92743,6 @@
     "sherbrookerecord.com": [
         ".sam-pro-container"
     ],
-    "f95zone.to": [
-        ".samAlignCenter",
-        ".offCanvasMenu-linkHolder > .offCanvasMenu-link[target=\"_blank\"]",
-        ".p-nav-list .p-navEl-link[target=\"_blank\"]",
-        "a[data-nav-id=\"AIPorn\"]",
-        "a[data-nav-id=\"AISexChat\"]",
-        "a[href*=\"theporndude.com\"]",
-        "a[href^=\"https://ads.trafficjunky.net/\"]",
-        "a[href^=\"https://candy.ai/\"]",
-        "a[href^=\"https://www.deepswap.ai\"]",
-        ".node:has(> .node-body > .node-main > .node-title > a[href^=\"/link-forums/\"][href*=\"-slut.\"])"
-    ],
     "afflift.com": [
         ".samBannerUnit"
     ],
@@ -96132,6 +96149,9 @@
     ],
     "lazada.*": [
         ".pdp-block__product-ads"
+    ],
+    "lidl.*": [
+        "div[data-type=\"sponsored\"]"
     ],
     "manomano.*": [
         "a[href^=\"/\"][href*=\"?product_id=\"][title]:has(span > .svg_tamagoshi)",
