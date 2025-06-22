@@ -27466,6 +27466,19 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "wionews.com": [
+        "div[class^=\"ads_adsBlock_\"]",
+        ".ads-div-style",
+        "body .posrelativebox",
+        "p[style=\"text-align: center;\"] > a[target=\"_blank\"] > img",
+        ".ad_fixed",
+        ".ads-box-300x250",
+        "div[class^=\"ads-box-\"]",
+        ".ads-box-d90-m300",
+        "#parentDiv0",
+        ".ads-box-300x300",
+        ".ads-box-970x90"
+    ],
     "katestube.com": [
         ".video-options",
         ".pre-block",
@@ -31664,18 +31677,6 @@
     ],
     "localsamosa.com": [
         ".ads-div-style"
-    ],
-    "wionews.com": [
-        ".ads-div-style",
-        "body .posrelativebox",
-        "p[style=\"text-align: center;\"] > a[target=\"_blank\"] > img",
-        ".ad_fixed",
-        ".ads-box-300x250",
-        "div[class^=\"ads-box-\"]",
-        ".ads-box-d90-m300",
-        "#parentDiv0",
-        ".ads-box-300x300",
-        ".ads-box-970x90"
     ],
     "scworld.com": [
         "body .dfp-slot",
@@ -92360,6 +92361,10 @@
         "div[data-test-id=\"mainline-result-ad\"]",
         "div[data-test-id=\"mainline-result-productAds\"]"
     ],
+    "junosearch.net": [
+        ".product-connexity-slideshow",
+        ".shopping_pole-bing"
+    ],
     "g2.com": [
         ".product-head__leads"
     ],
@@ -96221,7 +96226,8 @@
     "noon.com": [
         "#modules-renderer:has([class*=\"sponsored\"])",
         "#noon-modules:has([class*=\"AdBrandVideo\"])",
-        ".visibilitySensorWrapper:has(.adBannerModule)"
+        ".visibilitySensorWrapper:has(.adBannerModule)",
+        "[data-qa=\"plp-product-box\"]:has([class^=\"SponsoredTag\"])"
     ],
     "etsy.com": [
         "#search-results li:has([id^=\"ad-listing-title-\"])",
