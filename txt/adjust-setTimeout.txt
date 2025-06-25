@@ -1719,46 +1719,6 @@
             ]
         },
         {
-            "pattern": "20sfvn.com",
-            "args": [
-                [
-                    "countdown",
-                    "",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "hi888.today",
-            "args": [
-                [
-                    "countdown",
-                    "",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "oto5s.com",
-            "args": [
-                [
-                    "countdown",
-                    "",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "w88.limo",
-            "args": [
-                [
-                    "countdown",
-                    "",
-                    "0.02"
-                ]
-            ]
-        },
-        {
             "pattern": "tralhasvarias.blogspot.com",
             "args": [
                 [
