@@ -688,6 +688,7 @@
     "camhub.tv": [
         "ads_iframe",
         ".spot:not(#style_important)",
+        ".player-holder a.paly-trigger",
         ".popunder-opener"
     ],
     "pornissimo.org": [
@@ -866,7 +867,8 @@
     "isekaitube.com": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
-        "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"position: fixed;\"]"
+        "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"position: fixed;\"]",
+        "body .code-block"
     ],
     "lacittadisalerno.it": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
@@ -4271,6 +4273,9 @@
     ],
     "ruclip.com": [
         "#morev"
+    ],
+    "discover-sharm.com": [
+        ".js-antiadblocker"
     ],
     "friv.com#@": [
         "lba"
@@ -8462,6 +8467,14 @@
         "#billboard_ad_container",
         ".side_banner"
     ],
+    "titulky.com#$": [
+        "head > div[style^=\"margin: auto; width: \"] { max-height: 20px !important; }",
+        "head { height: 70px !important; }"
+    ],
+    "titulky.com": [
+        "a[href=\"/internetova-reklama/\"]",
+        "div[id^=\"bny\"]"
+    ],
     "dennikn.sk": [
         ".t_promo"
     ],
@@ -8492,9 +8505,6 @@
     ],
     "smartmania.cz": [
         "#leaderboard-wrapper"
-    ],
-    "titulky.com": [
-        "div[id^=\"bny\"]"
     ],
     "rychlost.cz": [
         "a[href^=\"/_pub/\"]",
@@ -9923,6 +9933,9 @@
     "hometheater.co.il": [
         "div[style=\"width:728px; height:90px;\"]",
         "td[width=\"900\"][align=\"center\"][valign=\"top\"]"
+    ],
+    "hamropatro.com": [
+        ".header-banner"
     ],
     "asianetnews.com": [
         "div[class*=\"AdBox\"i]",
@@ -12366,6 +12379,10 @@
     ],
     "dap-news.com": [
         ".ads"
+    ],
+    "webtoonguide.com": [
+        "div[id^=\"db-content\"] .webtoonguide-pick-swiper-container",
+        "#recommend-swiper-group"
     ],
     "lover937.net": [
         "#a45998g",
@@ -23829,6 +23846,14 @@
     "tube18.sex": [
         ".banner"
     ],
+    "oncams.tv": [
+        ".banners"
+    ],
+    "camporn.is": [
+        ".banners",
+        "#sliderBox",
+        "#overlayMod"
+    ],
     "xxxn.club": [
         ".banners",
         ".mobileadhide"
@@ -25026,9 +25051,6 @@
         "#absuadd"
     ],
     "zagl.info": [
-        ".banner-inner"
-    ],
-    "pureshort.link": [
         ".banner-inner"
     ],
     "lite-link.com": [
@@ -27498,6 +27520,24 @@
     ],
     "cracking.org": [
         ".samBannerUnit"
+    ],
+    "bo3.gg": [
+        ".c-banner-partner-branding",
+        ".c-banner-partner-header-button",
+        ".c-banner-custom"
+    ],
+    "missav.*": [
+        "div[style=\"width: 300px; height: 250px; overflow: hidden;\"]",
+        "div[x-show^=\"recommendItems\"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^=\"sponsored\"])",
+        ".relative > div[x-init*=\"campaignId=under_player\"]"
+    ],
+    "sexbjcam.com": [
+        ".menu-item > a:not([href^=\"https://sexbjcam.com\"])",
+        "iframe[data-link^=\"https://r.trackwilltrk.com/\"]",
+        "#custom_html-6"
+    ],
+    "xshemale.tv": [
+        ".player-holder + div.aside"
     ],
     "glasgowtimes.co.uk": [
         ".article-row-container--right__article-display-page-only > div.article-row-container__column.mar-mb-4",
@@ -30992,9 +31032,6 @@
         "div[style*=\"block\"] .MuiBox-root:not([data-testid=\"heading\"]):has(> div[style]:only-child)",
         ".MuiBox-root > div[style*=\"block\"] > div[style]:has(> div[style] div[class*=\"imp-adSlot\"])"
     ],
-    "bo3.gg": [
-        ".c-banner-custom"
-    ],
     "2gb.com": [
         ".related_articles"
     ],
@@ -31916,9 +31953,11 @@
         "div[style^=\"min-height:\"][style*=\"400px\"]"
     ],
     "camsmut.com": [
-        ".rightpanel > .cnt > div[class]:not(.row,.clear)",
-        ".related > div[class^=\"row\"]:not([class=\"row\"])",
-        ".navbar a[target=\"_blank\"]"
+        ".rightpanel div.cnt > div[class]:not(.row,.clear)",
+        ".rightpanel div.cnt > a[href][target=\"_blank\"]",
+        ".info + div[class] > div.row:has(> div[class] > a[href][target=\"_blank\"])",
+        ".navigation a[target=\"_blank\"]",
+        "a[href^=\"/go/\"]"
     ],
     "forge.plebmasters.de": [
         ".server-row:has(> td > div[aria-label=\"Pleb Masters: Forge partner logo\"])",
@@ -34692,6 +34731,10 @@
     "namify.tech": [
         ".suggestion-rows .suggestion__namify-partner",
         "[class*=\"gtm-banner-\"]"
+    ],
+    "kissjav.com": [
+        ".asside-link",
+        ".link-offer"
     ],
     "viralxxxporn.com": [
         ".asside-link"
@@ -42521,11 +42564,6 @@
     "prabhatkhabar.com": [
         "._24SDO"
     ],
-    "papahd1.xyz": [
-        ".entry > p > button[onclick*=\"https://uvbyty.com/\"]",
-        ".entry > pre",
-        "button[onclick*=\"bitbillionaire.live\"]"
-    ],
     "pornone.com": [
         ".vjs-info-top",
         ".iframe-container",
@@ -43388,10 +43426,6 @@
     ],
     "watchx.top": [
         "body > div[id] > div[style] > a[target=\"_blank\"]"
-    ],
-    "chillx.top": [
-        "body > div[id] > div[style] > a[target=\"_blank\"]",
-        "#theotherads"
     ],
     "bankinfosecurity.com": [
         ".pop-up-interstitial",
@@ -55062,6 +55096,9 @@
     "friv.land": [
         ".banner-advertisement"
     ],
+    "okporn.xxx": [
+        "a[rel=\"sponsored\"]"
+    ],
     "techinferno.com": [
         "a[rel=\"sponsored\"]"
     ],
@@ -57225,9 +57262,6 @@
         ".primary > li[style^=\"background-color:\"][style*=\"color: #fff;\"]",
         ".margin-fix[id^=\"list_videos_\"] > noindex > .place"
     ],
-    "hentaiporn.one": [
-        ".adv-square"
-    ],
     "povaddict.com": [
         ".adv-square",
         "a[title^=\"FREE \"]"
@@ -58297,11 +58331,6 @@
     ],
     "moviewatcher.is": [
         "a#show-button[target=\"_blank\"][rel][href^=\"/\"]"
-    ],
-    "sportsbay.org": [
-        "#site-contenedor",
-        ".mask",
-        "#overlay"
     ],
     "adsrt.com": [
         "div[id^=\"M\"][id*=\"Preload\"]",
@@ -61190,9 +61219,6 @@
         "div[style=\"text-align: center; \"] a[rel=\"noopener noreferrer\"] > img"
     ],
     "url.namaidani.com": [
-        "iframe#frame"
-    ],
-    "coinsparty.com": [
         "iframe#frame"
     ],
     "playretrogames.com": [
@@ -64605,6 +64631,9 @@
     ],
     "circleofcricket.com": [
         "div.container-full.add:has(> a[href]:first-child)"
+    ],
+    "djxmaza.in#$": [
+        "featuredimage { transform: rotateY(90deg) !important; }"
     ],
     "13wham.com": [
         "#js-Sponsored-Container"
@@ -74681,10 +74710,6 @@
         "app > div[class] > div[class] > div[class] > div[class]:not(.ms-FocusZone):not([class^=\"screenReaderText\"]) div[data-max-width][data-skip-link-name] > div[style^=\"padding-right:\"] + div[tabindex] div.customScrollBar > div[class] > div[class]:not([id]):not([data-convid]):has(> div:not([class]) div[class] > div[style] + div.fbAdLink)",
         "app > div[class] > div[class] > div[class] > div[class]:not(.ms-FocusZone):not([class^=\"screenReaderText\"]) div[data-max-width] + div[class]:has(> div[class] > div > div[id^=\"owaadbar\"])"
     ],
-    "missav.*": [
-        "div[x-show^=\"recommendItems\"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^=\"sponsored\"])",
-        ".relative > div[x-init*=\"campaignId=under_player\"]"
-    ],
     "missav123.com": [
         "div[x-show^=\"recommendItems\"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^=\"sponsored\"])",
         ".relative > div[x-init*=\"campaignId=under_player\"]",
@@ -75961,12 +75986,11 @@
         "body[bgcolor=\"#000000\"] > div[id=\"adbtm\"][style^=\"position: fixed;\"]"
     ],
     "interxh.site": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -75974,15 +75998,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhspot.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -75992,15 +76016,15 @@
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
         "[data-role=\"sponsor-banner\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhwide5.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76009,15 +76033,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhchannel.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76026,15 +76050,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhtotal.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76043,15 +76067,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhtree.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76060,15 +76084,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhwide2.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76077,15 +76101,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhlease.world": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76094,15 +76118,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamsterporno.mx": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76111,15 +76135,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "valuexh.life": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76128,15 +76152,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhdate.world": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76145,15 +76169,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhbranch5.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76162,15 +76186,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "galleryxh.site": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76178,15 +76202,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhbig.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76195,15 +76219,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhaccess.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76212,15 +76236,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhofficial.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76229,15 +76253,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "seexh.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76246,15 +76270,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster42.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76263,15 +76287,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhvid.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76279,15 +76303,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster20.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76295,15 +76319,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster19.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76311,15 +76335,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhwebsite2.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76327,15 +76351,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster18.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76344,15 +76368,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        ".xplayer-banner"
+        ".xplayer-banner",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhadult3.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76360,15 +76384,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhadult2.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76376,15 +76400,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhmoon5.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76392,15 +76416,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhwide1.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76408,15 +76432,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster3.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76425,31 +76449,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhplanet2.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
-        "div[class*=\"pauseSpotContainer\"]",
-        "[class^=\"yld-pc\"]",
-        "div[class*=\"containerBottomSpot\"]",
-        "a[href^=\"https://faphouse.com/\"]",
-        "div.xp-banner-bottom",
-        ".traffic-stars",
-        ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
-    ],
-    "megaxh.com": [
-        ".video-page .pUZyj-Bzplayer",
-        "div[data-role=\"promo-messages-wrapper\"]",
-        "div[class*=\"clipstore-bottom\"]",
-        "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76458,15 +76466,14 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        ".xplayer-banner-bottom"
+        "div[class*=\"cams-wgt\"]"
     ],
-    "xhamster16.*": [
-        ".video-page .pUZyj-Bzplayer",
+    "megaxh.com": [
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76474,15 +76481,32 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        ".xplayer-banner-bottom",
+        "div[class*=\"cams-wgt\"]"
     ],
-    "xhamster.com": [
-        ".video-page .pUZyj-Bzplayer",
+    "xhamster16.*": [
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
+        "div[class*=\"pauseSpotContainer\"]",
+        "[class^=\"yld-pc\"]",
+        "div[class*=\"containerBottomSpot\"]",
+        "a[href^=\"https://faphouse.com/\"]",
+        "div.xp-banner-bottom",
+        ".traffic-stars",
+        ".video-thumb[class*=\"__look-like-item\"]",
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
+    ],
+    "xhamster.com": [
+        "div[class*=\"ts-init\"]",
+        "div[data-role=\"promo-messages-wrapper\"]",
+        "div[class*=\"clipstore-bottom\"]",
+        "div[class*=\"widget-section\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76530,15 +76554,16 @@
         ".yxd-jdsp-l-tab",
         ".yxd-jsp-a",
         "[class^=\"xplayer-banner\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]",
+        "div[data-testid=\"right-banner-section\"]"
     ],
     "xhamster2.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76550,15 +76575,15 @@
         ".wio-xbanner",
         ".wio-xspa",
         "[class^=\"xplayer-banner\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster7.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76566,15 +76591,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster8.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76582,15 +76607,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster9.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76598,15 +76623,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster10.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76614,15 +76639,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster12.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76630,15 +76655,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster13.*": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76646,15 +76671,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster14.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76662,15 +76687,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster15.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76678,15 +76703,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster17.*": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76694,15 +76719,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster18.*": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76710,15 +76735,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster19.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76726,15 +76751,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster1.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76742,15 +76767,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster2.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76758,15 +76783,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster3.*": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76774,15 +76799,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster4.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76790,15 +76815,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster20.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76806,15 +76831,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster22.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76822,15 +76847,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster23.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76838,15 +76863,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster25.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76854,15 +76879,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster26.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76870,15 +76895,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster27.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76886,15 +76911,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "openxh.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76902,15 +76927,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster31.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76918,15 +76943,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster32.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76934,15 +76959,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster34.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76950,15 +76975,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster38.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76966,15 +76991,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster5.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76982,15 +77007,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhopen.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -76998,15 +77023,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "openxh1.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -77014,15 +77039,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster39.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -77030,15 +77055,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster40.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -77046,15 +77071,15 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster.one": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -77063,15 +77088,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "[class^=\"xplayer-banner\"]"
+        "[class^=\"xplayer-banner\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster.desi": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -77080,15 +77105,15 @@
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
-        "a[href^=\"https://flirtify.com/\"]"
+        "a[href^=\"https://flirtify.com/\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "stripchat.com": [
-        ".video-page .pUZyj-Bzplayer",
+        "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
         "div[class*=\"widget-section\"]",
-        "div[data-testid=\"right-banner-section\"]",
-        "div[class*=\"cams-wgt\"]",
+        "div[class*=\"cam-wgt\"]",
         "div[class*=\"pauseSpotContainer\"]",
         "[class^=\"yld-pc\"]",
         "div[class*=\"containerBottomSpot\"]",
@@ -77096,7 +77121,8 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]"
+        "div[class*=\"sp-b\"]",
+        "div[class*=\"cams-wgt\"]"
     ],
     "moondoge.co.in": [
         ".flexContentAd",
@@ -83812,7 +83838,8 @@
     ],
     "itnews.com.au": [
         "#whitepapers-container",
-        ".leaderboard"
+        ".leaderboard",
+        ".paid-content"
     ],
     "watnopaarpunjabinews.com": [
         "#widget_sp_image-2",
@@ -84295,6 +84322,9 @@
         ".g-single"
     ],
     "eltecolote.org": [
+        ".a-single"
+    ],
+    "ilanganews.co.za": [
         ".a-single"
     ],
     "islandecho.co.uk": [
@@ -92654,6 +92684,9 @@
     "actionnetwork.com": [
         ".promotion-table"
     ],
+    "ipfighter.com": [
+        ".promotion_promotion__08xl_"
+    ],
     "bostonreview.net": [
         ".promotop"
     ],
@@ -97188,6 +97221,9 @@
     ],
     "kidspot.com.au": [
         ".secondary-video"
+    ],
+    "ootrandomizer.com": [
+        ".slot-top-video"
     ],
     "thegrio.com": [
         ".tpd-featured-video"
