@@ -3090,17 +3090,7 @@
             ]
         },
         {
-            "pattern": "games.nationalreview.com",
-            "args": [
-                [
-                    "generalTimeLeft",
-                    "*",
-                    "0.001"
-                ]
-            ]
-        },
-        {
-            "pattern": "games.newsobserver.com",
+            "pattern": "games.games.newsobserver.com",
             "args": [
                 [
                     "generalTimeLeft",
@@ -4237,14 +4227,6 @@
             ]
         },
         {
-            "pattern": "rlxtech.tech",
-            "args": [
-                [
-                    "count"
-                ]
-            ]
-        },
-        {
             "pattern": "privatemoviez.*",
             "args": [
                 [
@@ -4441,6 +4423,16 @@
             "args": [
                 [
                     "circle_animation"
+                ]
+            ]
+        },
+        {
+            "pattern": "safeframe.googlesyndication.com",
+            "args": [
+                [
+                    "()=>{var c=Kb",
+                    "1000",
+                    "0.2"
                 ]
             ]
         }
