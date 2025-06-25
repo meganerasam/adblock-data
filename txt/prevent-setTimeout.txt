@@ -6107,6 +6107,14 @@
             ]
         },
         {
+            "pattern": "viralharami.com",
+            "args": [
+                [
+                    "window.open"
+                ]
+            ]
+        },
+        {
             "pattern": "ftlauderdalebeachcam.com",
             "args": [
                 [
@@ -8561,6 +8569,14 @@
             ]
         },
         {
+            "pattern": "radio.*",
+            "args": [
+                [
+                    "location"
+                ]
+            ]
+        },
+        {
             "pattern": "thelayoff.com",
             "args": [
                 [
@@ -8715,14 +8731,6 @@
         },
         {
             "pattern": "worldtravelling.com",
-            "args": [
-                [
-                    "ads"
-                ]
-            ]
-        },
-        {
-            "pattern": "igirls.in",
             "args": [
                 [
                     "ads"
@@ -13846,6 +13854,14 @@
             ]
         },
         {
+            "pattern": "sportanalytic.com",
+            "args": [
+                [
+                    "error-report.com"
+                ]
+            ]
+        },
+        {
             "pattern": "sportsrec.com",
             "args": [
                 [
@@ -15767,14 +15783,6 @@
             ]
         },
         {
-            "pattern": "freepdfcomic.com",
-            "args": [
-                [
-                    "ad_display"
-                ]
-            ]
-        },
-        {
             "pattern": "techedubyte.com",
             "args": [
                 [
@@ -16543,6 +16551,14 @@
             "args": [
                 [
                     "fired"
+                ]
+            ]
+        },
+        {
+            "pattern": "friv.com",
+            "args": [
+                [
+                    "determineVisibility"
                 ]
             ]
         }
