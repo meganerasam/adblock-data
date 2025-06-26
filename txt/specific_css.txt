@@ -1731,9 +1731,18 @@
         ".oc-center-da",
         ".entry > center > small"
     ],
+    "uur-tech.net": [
+        "[class^=\"adblock_\"]",
+        "a[href=\"https://toolkitspro.com\"]",
+        "[class^=\"adblock_\"] ~ div[class]:has(a[href=\"https://chpadblock.com/\"])",
+        "[class^=\"adblock_\"] ~ div[class]:has(a[href=\"https://toolkitspro.com\"])",
+        "body > #container > footer#footer ~ div[id][class*=\" \"]"
+    ],
     "businesstrend.jp": [
         "[class^=\"adblock_\"]",
         "a[href=\"https://toolkitspro.com\"]",
+        "[class^=\"adblock_\"] ~ div[class]:has(a[href=\"https://chpadblock.com/\"])",
+        "[class^=\"adblock_\"] ~ div[class]:has(a[href=\"https://toolkitspro.com\"])",
         "#go-to-top + div[id][class*=\" \"]"
     ],
     "fantasiku.com": [
@@ -3323,6 +3332,11 @@
     "lapagan.org": [
         "#return-to-top + div[id][class*=\" \"]"
     ],
+    "aitoolsfree.org": [
+        "body > #page + div[id][class*=\" \"]",
+        "body .code-block",
+        ".elementor-widget-container:has(> .adsbygoogle)"
+    ],
     "realpornblogger.com": [
         "body > #page + div[id][class*=\" \"]",
         ".adore-adver"
@@ -3981,9 +3995,6 @@
     "neuna.net": [
         "body > #container > footer#footer ~ div[id][class*=\" \"]"
     ],
-    "uur-tech.net": [
-        "body > #container > footer#footer ~ div[id][class*=\" \"]"
-    ],
     "kenta2222.com": [
         "body > #container > footer#footer ~ div[id][class*=\" \"]"
     ],
@@ -4273,6 +4284,12 @@
     ],
     "ruclip.com": [
         "#morev"
+    ],
+    "mhfragristack.in#$": [
+        "myNextInst { display: block !important; }"
+    ],
+    "mhfragristack.in#$?": [
+        "VerifyBtn { display: block !important; }"
     ],
     "discover-sharm.com": [
         ".js-antiadblocker"
@@ -4984,9 +5001,6 @@
     "deletedspeedstreams.blogspot.com": [
         "#adblocker-popup"
     ],
-    "fctvlive.com#$": [
-        "adblock_msg { display: none !important; }"
-    ],
     "ittoolspack.com": [
         "#antiAdB"
     ],
@@ -5085,9 +5099,6 @@
     "goo.st#@": [
         "leaderboard.ad"
     ],
-    "ask4movie.net": [
-        "div[id][class^=\"popup\"][class$=\"wrap\"][style^=\"opacity\"]"
-    ],
     "leak.sx": [
         ".abdmodal",
         "div[id^=\"tw_float_ads_main_Wrap\"]",
@@ -5116,6 +5127,12 @@
     ],
     "youtube.com#@": [
         "player-ads"
+    ],
+    "filmypoints.in": [
+        "div[id][class^=\"popup\"][class$=\"wrap\"][style]"
+    ],
+    "filmypoints.in#$": [
+        "wpsafe-snp { display: block !important; }"
     ],
     "morbidkuriosity.com": [
         "body > div[style^=\"background:\"][style*=\"position: fixed; display: flex; align-items: center; justify-content: center; inset: 0px; z-index:\"]"
@@ -6267,10 +6284,6 @@
     "freevocabulary.com#$": [
         "adWrap { display: block!important; height: 1px!important; }"
     ],
-    "filezip.cc#$": [
-        "blockblockB { display: block!important; }",
-        "blockblockA { display: none!important; }"
-    ],
     "windows4all.com#@": [
         "adWrap"
     ],
@@ -6302,9 +6315,6 @@
     "nosteamgames.ro": [
         "#fanback",
         "body > div[id^=\"c_window_\"][style=\"width: 300px; height: 280px;\"]"
-    ],
-    "janjua.tv#$": [
-        "blockeddiv { height: 1px!important; }"
     ],
     "i.trackr.fr": [
         ".classInfoCoucou"
@@ -23203,6 +23213,9 @@
         ".mvic-btn",
         "#bread + div[style^=\"width:\"]"
     ],
+    "cpmclic.io": [
+        ".banner"
+    ],
     "cookinggames.com": [
         ".banner"
     ],
@@ -23587,6 +23600,7 @@
     ],
     "alternativeto.net": [
         ".banner",
+        ".bannerLink",
         "div[class*=\"min-w-ad-\"]",
         "div[class^=\"PageIntroWrapper_foodWrapper\"]:has(> div[class*=\"min-w-ad-\"])",
         "#alternative-list li:has(> div[class*=\"min-w-ad-\"])",
@@ -27521,6 +27535,84 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "rule34.us": [
+        "div[data-cl-spot]",
+        "div[style=\"height: 490px;\"]",
+        ".container center:has(> div[style^=\"display:\"] > div[data-cl-spot])",
+        "div[style]:has(> script[class^=\"__clb-\"])",
+        "div[style]:has(> center > script[class^=\"__clb-\"])"
+    ],
+    "pixelmonmod.com": [
+        "#footer-banner-ad-all",
+        ".panel-body:has(> #sideblock-body-ad)"
+    ],
+    "3dvf.com": [
+        "div[data-id=\"215e330\"]",
+        "div[data-id=\"e75ea9f\"]",
+        ".code-block"
+    ],
+    "op.gg": [
+        ".w-full:has(> div.flex > div[data-ad])",
+        ".justify-between:has(> .title:first-child + a[href*=\"?utm_source=\"][href*=\"&utm_campaign=banner_frame\"]:last-child)",
+        ".z-ads",
+        "section[class*=\"md:\"]:has(> .items-center > div[data-id$=\"leaderboard\"])",
+        "div[class*=\"md:\"]:has(> div[style^=\"min-width:\"] > div[id^=\"div-gpt-ad\"])",
+        "div[style*=\"padding:\"]:has(> div[data-id]:empty)",
+        "div[id^=\"ad-container\"]",
+        "main > section[class*=\"md:\"]:has(> .justify-between:first-child > strong:first-child + a[href*=\"?utm_source=\"][href*=\"&utm_campaign=banner_frame\"]:last-child)",
+        "main > span[style^=\"display: flex; justify-content: center; align-items: center;\"]",
+        "section:has(> div.min-h-\\[250px\\]):not(:has(> *:not(div.min-h-\\[250px\\])))",
+        "tr.ad",
+        ".css-uz5vk3",
+        ".w-full > section.bg-gray-0.md\\:overflow-hidden.md\\:rounded.flex-col.p-2.w-full",
+        ".banner-container",
+        "#content-container > div:not([class],[id]) > div[class]:empty",
+        "div:has(> div[data-ad])",
+        ".css-1flley8",
+        ".css-7qtj63",
+        "#__next > div[class]:has(> div[class] > div[id^=\"leaderboards\"])",
+        "#duo-ad-box",
+        ".mode-header-container ~ div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div > div.vm-placement)",
+        "#content-header ~ div[class^=\"css-\"] > div.fixed",
+        "#banner-container",
+        "div[class*=\"eylegve\"]",
+        "main >  div[style][class^=\"css-\"]:has(> div:not([class]) > div.vm-placement)",
+        "#__next > div[class^=\"css-\"]:has(> div[id^=\"div-gpt-ad\"])",
+        "#__next > div[class^=\"css-\"] > div[class*=\"css-\"]:has(> div[id^=\"div-gpt-ad-\"])",
+        "#content-container > *:not([class]) > div[class^=\"css-\"]:has(> div[class] > div.vm-placement)",
+        "div[class^=\"Game Game--Result\"] + div[result] + div[class^=\"css-\"]:has(> div > div.vm-placement)",
+        ".css-zpq3c5",
+        ".e17e77tq6",
+        ".e17e77tq8",
+        ".h-\\[287px\\]",
+        ".min-h-\\[100px\\]",
+        ".min-h-\\[250px\\]",
+        ".min-h-\\[50px\\]",
+        ".min-h-\\[66px\\]",
+        ".vm-placement"
+    ],
+    "anime3rb.com": [
+        "div[x-data*=\"count\"]"
+    ],
+    "jerkwell.com": [
+        ".content > .top > a[target=\"_blank\"] > img",
+        ".sponsor"
+    ],
+    "vjav.com": [
+        ".video-videos-slider:has(.item-adlabel)",
+        ".fah-btn",
+        ".video-page__content > div.left + div:has(> div > div[id^=\"ntv_\"])",
+        "div[class^=\"content\"] > .container + div[class]",
+        ".content > .overlay-hidden + div > .video-tube-friends + div[class]",
+        ".videos-tube-friends",
+        ".partners-wrap",
+        ".rek__link",
+        ".bottom-adv",
+        ".vda-container",
+        ".banner",
+        ".spot",
+        "[style=\"width: 728px; height: 90px;\"]"
+    ],
     "bo3.gg": [
         ".c-banner-partner-branding",
         ".c-banner-partner-header-button",
@@ -28560,10 +28652,10 @@
     "fuxxx.com": [
         ".video-info + section",
         ".video-ntv-wrapper",
-        ".partners-wrap",
         ".partners-wrap + div[class]",
         ".hp",
-        ".video__related + section[style]"
+        ".video__related + section[style]",
+        ".partners-wrap"
     ],
     "hentaigifz.com": [
         ".single-side > .side-widget:has(> ins[data-zoneid])"
@@ -30004,13 +30096,6 @@
     "ishadeed.com": [
         "#carbonadsWrapper"
     ],
-    "lightnovelworld.com": [
-        "body div[id^=\"vn-slot-\"]",
-        "div[data-mobid]",
-        ".leaderboard-large",
-        ".lnadcontainer",
-        ".leaderboard"
-    ],
     "worldsurfleague.com": [
         ".vjs-ad-markers",
         ".unicorn[data-unicorn-settings*=\"sponsor\"]"
@@ -31167,10 +31252,6 @@
         "a[data-test-id=\"artist_userevent_redirectAppleMusic\"]",
         "div[class^=\"FloatingContentContainer_promotionBarContainer__\"]",
         "a[class^=\"AppleMusicLink_link__\"]"
-    ],
-    "rule34.us": [
-        "div[style]:has(> script[class^=\"__clb-\"])",
-        "div[style]:has(> center > script[class^=\"__clb-\"])"
     ],
     "samfw.com": [
         ".my-1 > a[target=\"_blank\"] > img",
@@ -32447,19 +32528,6 @@
         ".wrapper > article",
         "section[is-footer-banners]",
         ".under-channel"
-    ],
-    "vjav.com": [
-        ".fah-btn",
-        ".video-page__content > div.left + div:has(> div > div[id^=\"ntv_\"])",
-        "div[class^=\"content\"] > .container + div[class]",
-        ".content > .overlay-hidden + div > .video-tube-friends + div[class]",
-        ".videos-tube-friends",
-        ".rek__link",
-        ".bottom-adv",
-        ".vda-container",
-        ".banner",
-        ".spot",
-        "[style=\"width: 728px; height: 90px;\"]"
     ],
     "voyeurhit.com": [
         ".video-tube-friends",
@@ -37253,9 +37321,6 @@
     ],
     "opentools.ai": [
         ".promo-section"
-    ],
-    "pixelmonmod.com": [
-        ".panel-forum"
     ],
     "kbb.com#?": [
         "kbbAdsMainCenterAd:upward(1)"
@@ -42176,6 +42241,7 @@
         "div[data-pagelet^=\"BrowseFeedUpsell_\"] div[class][style^=\"max-width:\"] > span",
         "#megamall_rhc_ssfy_pagelet",
         "#pagelet_ego_pane > .pagelet:not(.egoOrganicColumn)",
+        "div[role=\"complementary\"] div:not([class]) div[data-visualcompletion=\"ignore-dynamic\"] > div[class] > a[aria-labelledby][attributionsrc^=\"/privacy_sandbox/comet/register/source/?eid=\"][href^=\"http\"][target=\"_blank\"]",
         "a[ajaxify*=\"&eid=\"] + a[href^=\"https://l.facebook.com/l.php?u=\"]",
         "a[aria-label=\"Advertiser link\"]",
         "a[aria-label=\"Advertiser\"]",
@@ -42194,6 +42260,7 @@
         "div[data-pagelet^=\"BrowseFeedUpsell_\"] div[class][style^=\"max-width:\"] > span",
         "#megamall_rhc_ssfy_pagelet",
         "#pagelet_ego_pane > .pagelet:not(.egoOrganicColumn)",
+        "div[role=\"complementary\"] div:not([class]) div[data-visualcompletion=\"ignore-dynamic\"] > div[class] > a[aria-labelledby][attributionsrc^=\"/privacy_sandbox/comet/register/source/?eid=\"][href^=\"http\"][target=\"_blank\"]",
         "a[ajaxify*=\"&eid=\"] + a[href^=\"https://l.facebook.com/l.php?u=\"]",
         "a[aria-label=\"Advertiser link\"]",
         "a[aria-label=\"Advertiser\"]",
@@ -66381,45 +66448,6 @@
         "div[id]:has(> #bannerSide)",
         "div[id]:has(> #bannerTop)"
     ],
-    "op.gg": [
-        ".justify-between:has(> .title:first-child + a[href*=\"?utm_source=\"][href*=\"&utm_campaign=banner_frame\"]:last-child)",
-        ".z-ads",
-        "section[class*=\"md:\"]:has(> .items-center > div[data-id$=\"leaderboard\"])",
-        "div[class*=\"md:\"]:has(> div[style^=\"min-width:\"] > div[id^=\"div-gpt-ad\"])",
-        "div[style*=\"padding:\"]:has(> div[data-id]:empty)",
-        "div[id^=\"ad-container\"]",
-        "main > section[class*=\"md:\"]:has(> .justify-between:first-child > strong:first-child + a[href*=\"?utm_source=\"][href*=\"&utm_campaign=banner_frame\"]:last-child)",
-        "main > span[style^=\"display: flex; justify-content: center; align-items: center;\"]",
-        "section:has(> div.min-h-\\[250px\\]):not(:has(> *:not(div.min-h-\\[250px\\])))",
-        "tr.ad",
-        ".css-uz5vk3",
-        ".w-full > section.bg-gray-0.md\\:overflow-hidden.md\\:rounded.flex-col.p-2.w-full",
-        ".banner-container",
-        "#content-container > div:not([class],[id]) > div[class]:empty",
-        "div:has(> div[data-ad])",
-        ".css-1flley8",
-        ".css-7qtj63",
-        "#__next > div[class]:has(> div[class] > div[id^=\"leaderboards\"])",
-        "#duo-ad-box",
-        ".mode-header-container ~ div[class^=\"css-\"] > div[class^=\"css-\"]:has(> div > div.vm-placement)",
-        "#content-header ~ div[class^=\"css-\"] > div.fixed",
-        "#banner-container",
-        "div[class*=\"eylegve\"]",
-        "main >  div[style][class^=\"css-\"]:has(> div:not([class]) > div.vm-placement)",
-        "#__next > div[class^=\"css-\"]:has(> div[id^=\"div-gpt-ad\"])",
-        "#__next > div[class^=\"css-\"] > div[class*=\"css-\"]:has(> div[id^=\"div-gpt-ad-\"])",
-        "#content-container > *:not([class]) > div[class^=\"css-\"]:has(> div[class] > div.vm-placement)",
-        "div[class^=\"Game Game--Result\"] + div[result] + div[class^=\"css-\"]:has(> div > div.vm-placement)",
-        ".css-zpq3c5",
-        ".e17e77tq6",
-        ".e17e77tq8",
-        ".h-\\[287px\\]",
-        ".min-h-\\[100px\\]",
-        ".min-h-\\[250px\\]",
-        ".min-h-\\[50px\\]",
-        ".min-h-\\[66px\\]",
-        ".vm-placement"
-    ],
     "valorant.op.gg": [
         ".rounded:has(> div.flex > div[id^=\"div-gpt-ad-\"])",
         ".overflow-hidden.rounded.bg-darkpurple-800.p-2"
@@ -74715,6 +74743,7 @@
         ".relative > div[x-init*=\"campaignId=under_player\"]",
         ".lg\\:block",
         ".lg\\:hidden",
+        "[style^=\"width: 300px; height: 250px;\"]",
         "[x-show$=\"video_details'\"] > div > .list-disc",
         "a[href*=\"//bit.ly/\"]",
         "div[style=\"width: 300px; height: 250px;\"]"
@@ -74724,6 +74753,7 @@
         ".relative > div[x-init*=\"campaignId=under_player\"]",
         ".lg\\:block",
         ".lg\\:hidden",
+        "[style^=\"width: 300px; height: 250px;\"]",
         "[x-show$=\"video_details'\"] > div > .list-disc",
         "a[href*=\"//bit.ly/\"]",
         "div[style=\"width: 300px; height: 250px;\"]"
@@ -87288,7 +87318,9 @@
     ],
     "americafirstreport.com": [
         ".ameri-before-content",
-        "[href=\"https://jdrucker.com/ira\"]"
+        "[href=\"https://jdrucker.com/ira\"]",
+        "div[id^=\"ameri-\"]",
+        "article.format-standard:has(.category-sponsored)"
     ],
     "thepostemail.com": [
         ".amp-wp-b194b9a",
@@ -94744,6 +94776,9 @@
     "enostech.com": [
         "[class^=\"wp-image-41\"]"
     ],
+    "kingmods.net": [
+        "[data-ad-wrapper-slot]"
+    ],
     "gamelevate.com": [
         "[data-adpath]"
     ],
@@ -98694,6 +98729,7 @@
     "missav.ai": [
         ".lg\\:block",
         ".lg\\:hidden",
+        "[style^=\"width: 300px; height: 250px;\"]",
         "[x-show$=\"video_details'\"] > div > .list-disc",
         "a[href*=\"//bit.ly/\"]",
         "div[style=\"width: 300px; height: 250px;\"]"
@@ -98717,6 +98753,7 @@
     "missav.ws": [
         ".lg\\:block",
         ".lg\\:hidden",
+        "[style^=\"width: 300px; height: 250px;\"]",
         "[x-show$=\"video_details'\"] > div > .list-disc",
         "a[href*=\"//bit.ly/\"]",
         "div[style=\"width: 300px; height: 250px;\"]"
