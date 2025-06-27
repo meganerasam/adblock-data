@@ -14411,3 +14411,6 @@ a[href^="https://Click.ggpickaff.com/"]
 a[href^="https://click.Ggpickaff.com/"]
 div[id^="img_"][style="margin: 0px; padding: 0px; display: block; position: fixed; left: 0px; bottom: 0px; width: 100%; z-index: 2147483647;"]
 div[id^="img_"][style^="display: flex; justify-content: center; align-items: center; width:    300px;"]
+#fallbackTerms.fallback-term-holder
+a[id^="img_"][onfocus^="ss"] > img[class^="img_"]
+div[id^="img_"][style$="height:   250px;overflow:hidden;"]
