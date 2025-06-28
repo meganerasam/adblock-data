@@ -97,9 +97,6 @@
     "apkmaza.net": [
         "adSense"
     ],
-    "serie-novelas.com": [
-        "adSense"
-    ],
     "outplayed.it": [
         "adSense"
     ],
@@ -160,9 +157,6 @@
         "adSense",
         ".td-header-wrap > .td-banner-wrap-full"
     ],
-    "turkceyama.net": [
-        "adSense"
-    ],
     "xiaomitools.com": [
         "adSense"
     ],
@@ -186,9 +180,6 @@
         "adSense"
     ],
     "muratisbilir.com.tr": [
-        "adSense"
-    ],
-    "torrentmafya.org": [
         "adSense"
     ],
     "saberprogramas.com": [
@@ -238,9 +229,6 @@
         "adSense"
     ],
     "freejavbt.com": [
-        "adSense"
-    ],
-    "butchixanh.com": [
         "adSense"
     ],
     "desirefx.me": [
@@ -318,9 +306,6 @@
     "modernvalueinvesting.de": [
         "adSense"
     ],
-    "shirokuns.com": [
-        "adSense"
-    ],
     "omglyrics.com": [
         "adSense",
         "#externalinject-gpt-passback-container"
@@ -328,9 +313,6 @@
     "phpscripttr.com": [
         "adSense",
         "body > #topcontrol + div[id][class*=\" \"]"
-    ],
-    "resource-pack.com": [
-        "adSense"
     ],
     "kindleku.com": [
         "adSense"
@@ -379,9 +361,6 @@
     "pinsystem.co.uk": [
         "adSense",
         ".mh-sidebar > div[id^=\"enhancedtextwidget-\"]"
-    ],
-    "comando4kfilmes.com": [
-        "adSense"
     ],
     "trgamestudio.com": [
         "adSense"
@@ -546,9 +525,6 @@
         "adSense",
         "#adter"
     ],
-    "pesupdate.com": [
-        "adSense"
-    ],
     "phonandroid.com": [
         "adSense"
     ],
@@ -556,9 +532,6 @@
         "adSense"
     ],
     "resource-packs.de": [
-        "adSense"
-    ],
-    "rushtime.in": [
         "adSense"
     ],
     "scat.gold": [
@@ -1337,11 +1310,6 @@
         "div.ai-viewports[data-insertion]",
         "#HTML3"
     ],
-    "techkaran.co.in": [
-        "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
-        "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
-        "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"position: fixed;\"]"
-    ],
     "courseunity.com": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
@@ -1467,9 +1435,6 @@
     "pasend.*": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]"
     ],
-    "therootdroid.com": [
-        "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]"
-    ],
     "threezly.com": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]"
     ],
@@ -1501,9 +1466,6 @@
         "a > img[src*=\"-300x250-\"]"
     ],
     "gerardopandolfi.com": [
-        "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]"
-    ],
-    "asklaftananlamazinhindi.com": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]"
     ],
     "solotrend.net": [
@@ -1649,9 +1611,6 @@
     "oii.io": [
         "ignielAdBlock { display: none !important; }",
         "#iframe_id"
-    ],
-    "pes-patches.com": [
-        "ignielAdBlock { display: none !important; }"
     ],
     "paste1s.com": [
         "ignielAdBlock { display: none !important; }"
@@ -1838,9 +1797,6 @@
         "a[href=\"#\"] + div[id][class*=\" \"]"
     ],
     "reviewmedium.com": [
-        "a[href=\"#\"] + div[id][class*=\" \"]"
-    ],
-    "sharphindi.in": [
         "a[href=\"#\"] + div[id][class*=\" \"]"
     ],
     "stbemuiptvn.com": [
@@ -2105,14 +2061,8 @@
     "medeberiyax.com": [
         "body > div[id=\"page\"] + div[id][class]"
     ],
-    "freshbhojpuri.com": [
-        "body > div[id=\"page\"] + div[id][class]"
-    ],
     "msic.site": [
         "body > div[id=\"page\"] + div[id][class]"
-    ],
-    "kikt-hentai.com": [
-        "body > div[id=\"header_search\"] + div[id][class]"
     ],
     "miraiagent.co.jp": [
         "body > div[id=\"page-container\"] + div[id][class]"
@@ -2188,9 +2138,6 @@
         ".mainholder + div[id][class*=\" \"]",
         "div[id^=\"ad-container\"]"
     ],
-    "nekoscans.com": [
-        ".mainholder + div[id][class*=\" \"]"
-    ],
     "bedrat.xyz": [
         "#page ~ div[id][class*=\" \"]"
     ],
@@ -2201,9 +2148,6 @@
         "body > .Tp-Wp + div[id][class*=\" \"]"
     ],
     "blogue.tech": [
-        "#jeg_forgotform + div[id][class*=\" \"]"
-    ],
-    "4fans.gay": [
         "#jeg_forgotform + div[id][class*=\" \"]"
     ],
     "doumura.com": [
@@ -2313,9 +2257,6 @@
         ".generate-back-to-top + div[id][class*=\" \"]"
     ],
     "allcivilstandard.com": [
-        ".generate-back-to-top + div[id][class*=\" \"]"
-    ],
-    "hackmodsapk.com": [
         ".generate-back-to-top + div[id][class*=\" \"]"
     ],
     "oyundunyasi.net": [
@@ -2549,9 +2490,6 @@
     "wikisharing.com": [
         "#main-container + div[id][class*=\" \"]"
     ],
-    "mortuaryward.site": [
-        "#main-container + div[id][class*=\" \"]"
-    ],
     "celemusic.com": [
         "#main-container + div[id][class*=\" \"]"
     ],
@@ -2615,9 +2553,6 @@
         "a[target*=\"blank\"] > img"
     ],
     "tamilultratv.com": [
-        "#dt_contenedor + div[id][class*=\" \"]"
-    ],
-    "catmovie.website": [
         "#dt_contenedor + div[id][class*=\" \"]"
     ],
     "cinelatino.net": [
@@ -2756,9 +2691,6 @@
         ".adde_modal_detector"
     ],
     "subindojav.cc": [
-        "body > #back-to-top + div[id][class*=\" \"]"
-    ],
-    "kawai.pics": [
         "body > #back-to-top + div[id][class*=\" \"]"
     ],
     "javhdworld.com": [
@@ -3133,9 +3065,6 @@
     "encurtareidog.top": [
         "body > style + div[id][class*=\" \"]"
     ],
-    "cazztv.xyz": [
-        "body > style + div[id][class*=\" \"]"
-    ],
     "nopay.info": [
         "body > style + div[id][class*=\" \"]"
     ],
@@ -3158,9 +3087,6 @@
     "financeyogi.net": [
         "body > style + div[id][class*=\" \"]",
         "body > script + div[class][style=\"display:none;\"] + div[id][class*=\" \"]"
-    ],
-    "projectlive.info": [
-        "body > style + div[id][class*=\" \"]"
     ],
     "itdmusic.com": [
         "body > style + div[id][class*=\" \"]"
@@ -3294,9 +3220,6 @@
         "body > #footer + div[id][class*=\" \"]"
     ],
     "tarotscans.com": [
-        "body > #footer + div[id][class*=\" \"]"
-    ],
-    "chineseanime.org": [
         "body > #footer + div[id][class*=\" \"]"
     ],
     "ayatoon.com": [
@@ -3458,9 +3381,6 @@
     "hiphopa.net": [
         "body > #wrapper + div[id][class*=\" \"]"
     ],
-    "anysource.pro": [
-        "body > #wrapper + div[id][class*=\" \"]"
-    ],
     "adminreboot.com": [
         "body > #wrapper + div[id][class*=\" \"]"
     ],
@@ -3506,9 +3426,6 @@
     "leechyscripts.net": [
         "body > script + div[id][class*=\" \"]"
     ],
-    "skiplink.me": [
-        "body > script + div[id][class*=\" \"]"
-    ],
     "manhuaga.com": [
         "body > script + div[id][class*=\" \"]"
     ],
@@ -3518,16 +3435,10 @@
     "kvadratmetr.uz": [
         "body > script + div[id][class*=\" \"]"
     ],
-    "thenewsglobe.net": [
-        "body > script + div[id][class*=\" \"]"
-    ],
     "tgnscripts.xyz": [
         "body > script + div[id][class*=\" \"]"
     ],
     "crackthemes.com": [
-        "body > script + div[id][class*=\" \"]"
-    ],
-    "sinonimos.de": [
         "body > script + div[id][class*=\" \"]"
     ],
     "itopmusicx.com": [
@@ -3584,9 +3495,6 @@
     "iggtech.com": [
         "body > script + div[id][class*=\" \"]",
         "#td-outer-wrap + div[id][class*=\" \"]"
-    ],
-    "desisexmasala.com": [
-        "body > script + div[id][class*=\" \"]"
     ],
     "teamkong.tk": [
         "body > a[id] + div[id][class*=\" \"]",
@@ -3718,12 +3626,6 @@
         "div[id^=\"chp_ads_block\"]"
     ],
     "zuariya.com": [
-        "div[id^=\"chp_ads_block\"]"
-    ],
-    "bankofinfo.com": [
-        "div[id^=\"chp_ads_block\"]"
-    ],
-    "knightnoscanlation.com": [
         "div[id^=\"chp_ads_block\"]"
     ],
     "pathshalanepal.com": [
@@ -4089,10 +3991,6 @@
         ".adde_modal-overlay",
         ".adde_modal_detector"
     ],
-    "gayporntube.net": [
-        ".adde_modal-overlay",
-        ".adde_modal_detector"
-    ],
     "demo.wp-script.com": [
         ".adde_modal-overlay",
         ".adde_modal_detector"
@@ -4217,18 +4115,8 @@
         ".uk-panel.widget-text",
         "a[href][aria-label=\"\"], [width=\"300\"][height^=\"25\"], [width=\"660\"][height^=\"8\"], [width=\"660\"][height^=\"7\"]"
     ],
-    "uaclips.com": [
-        "pp",
-        "morev { position: absolute!important; left: -3000px!important; }",
-        "#morev"
-    ],
     "thodkyaat.com": [
         "pp"
-    ],
-    "kzclip.com": [
-        "pp",
-        "morev { position: absolute!important; left: -3000px!important; }",
-        "#morev"
     ],
     "onlymen.cz": [
         "pp"
@@ -4255,14 +4143,10 @@
         "cboxOverlay { display: none !important; }",
         "colorbox { display: none !important; }"
     ],
+    "ru-clip.com#$": [
+        "morev { position: absolute !important; left: -3000px !important; }"
+    ],
     "ru-clip.com": [
-        "morev { position: absolute!important; left: -3000px!important; }",
-        "#morev"
-    ],
-    "ruclip.com#$": [
-        "morev { position: absolute!important; left: -3000px!important; }"
-    ],
-    "ruclip.com": [
         "#morev"
     ],
     "mhfragristack.in#$": [
@@ -4511,18 +4395,10 @@
     "lokerwfh.net#$": [
         "adblock-warning { display: none !important; }"
     ],
-    "computerpedia.in": [
-        "#adb",
-        "#popup",
-        ".overlay"
-    ],
     "sigaptech.com": [
         "#adb"
     ],
     "tutorialsaya.com": [
-        "#adb"
-    ],
-    "bantenexis.com": [
         "#adb"
     ],
     "bosejk.in": [
@@ -4882,21 +4758,6 @@
         "body > div[style^=\"background: #fff;\"]",
         "div[id^=\"adhorizontal\"]"
     ],
-    "reviewtech.me": [
-        ".adbn-wrap",
-        "#ad",
-        "#adxbox",
-        ".div-over",
-        "div[id^=\"fixedban\"]",
-        "body > #sticky",
-        ".visible-block",
-        "div[class^=\"adbn\"][class*=\"wrap\"]",
-        "div[class^=\"rts\"][class*=\"-urts\"]",
-        "div[class^=\"dr\"][class*=\"-udr\"]",
-        "body > div[class^=\"content\"][class*=\"-block\"]",
-        ":is(body, .DownloadBlock) > div[class*=\"-\"][id*=\"-\"][style^=\"display:\"]",
-        "center > a[target=\"_blank\"] > button[onclick=\"hideButton()\"]"
-    ],
     "thevouz.in": [
         "#AdbModel",
         "body > div.top-center:has(> script[src^=\"https://securepubads.g.doubleclick.net\"])"
@@ -5188,9 +5049,6 @@
     "hdstockimages.com": [
         ".adblocker-popup"
     ],
-    "sinonimos.de#$": [
-        "checkclick { display: block !important; }"
-    ],
     "watchhentai.net": [
         ".detectadb",
         "#overlay"
@@ -5358,9 +5216,6 @@
         "#contenthide > a[target=\"_blank\"]",
         "section[style=\"margin-bottom:100px;\"]"
     ],
-    "latest-files.com": [
-        "#blockedmessagewrapper"
-    ],
     "raider.io": [
         ".rio-block-message",
         ".rio-zone",
@@ -5519,10 +5374,7 @@
     "adinserter.pro#@": [
         "banner-advert-container"
     ],
-    "top1iq.com": [
-        "levelmaxblock { display: none !important; }"
-    ],
-    "thuthuatmoi.xyz#$": [
+    "top1iq.com#$": [
         "levelmaxblock { display: none !important; }"
     ],
     "totalcalc.com": [
@@ -5630,9 +5482,6 @@
     ],
     "bootdey.com#@": [
         "ads-banner"
-    ],
-    "redload.co": [
-        "body > div[id][style^=\"height:\"][style*=\"opacity:\"][style*=\"z-index:\"]"
     ],
     "tubeload.co": [
         "body > div[id][style^=\"height:\"][style*=\"opacity:\"][style*=\"z-index:\"]"
@@ -6370,11 +6219,6 @@
     "livesports.pw": [
         "#adb-enabled"
     ],
-    "vergol.com": [
-        "#adb-enabled",
-        "div[id^=\"capa\"]",
-        "#closeX"
-    ],
     "off-soft.net": [
         ".contents-usual .adsbygoogle:not(#content-raw)",
         ".right_sidebar > .adsbygoogle"
@@ -6396,10 +6240,6 @@
     ],
     "youtubemultidownloader.com#$": [
         "ablockercheck { display: block!important; }"
-    ],
-    "latino-webtv.com": [
-        "#adb-enabled",
-        "#ventana-flotante"
     ],
     "ps4news.com#$": [
         "blockblockB { display: block!important; }",
@@ -6433,11 +6273,6 @@
     ],
     "haxmaps.com#@": [
         "bottomAd"
-    ],
-    "steamcustomizer.com": [
-        "#sadcat",
-        "span.support-notice.notice",
-        ".col-lg-3.collection-item.shown.as-ad"
     ],
     "securityonline.info": [
         "#adblock_screen",
@@ -6561,9 +6396,6 @@
         ".secondAdPosition",
         ".btPlyer",
         ".outer-add-section"
-    ],
-    "audioboom.com": [
-        "divDIV[class=\"pam white tc\"]"
     ],
     "keybr.com": [
         "div[class^=\"Supporter\"]",
@@ -6750,9 +6582,6 @@
     "almafhm.online": [
         ".popSc"
     ],
-    "egyfalcons.com": [
-        ".popSc"
-    ],
     "wecima.click": [
         "a[href*=\"&utm_medium=banner\"] > img"
     ],
@@ -6816,9 +6645,6 @@
     "egybist.online": [
         "body > a[target=\"_blank\"]"
     ],
-    "n-egy.best": [
-        "body > a[target=\"_blank\"]"
-    ],
     "egybist.site": [
         "body > a[target=\"_blank\"]"
     ],
@@ -6858,9 +6684,6 @@
     ],
     "dimakids.com": [
         ".adblock-wrapper"
-    ],
-    "series4pack.com": [
-        "#blc-wrap"
     ],
     "ofreok.online": [
         "#ad",
@@ -7339,20 +7162,6 @@
         ":is(body, .DownloadBlock) > div[class*=\"-\"][id*=\"-\"][style^=\"display:\"]",
         "center > a[target=\"_blank\"] > button[onclick=\"hideButton()\"]"
     ],
-    "gamezone.cam": [
-        "#ad",
-        "#adxbox",
-        ".div-over",
-        "div[id^=\"fixedban\"]",
-        "body > #sticky",
-        ".visible-block",
-        "div[class^=\"adbn\"][class*=\"wrap\"]",
-        "div[class^=\"rts\"][class*=\"-urts\"]",
-        "div[class^=\"dr\"][class*=\"-udr\"]",
-        "body > div[class^=\"content\"][class*=\"-block\"]",
-        ":is(body, .DownloadBlock) > div[class*=\"-\"][id*=\"-\"][style^=\"display:\"]",
-        "center > a[target=\"_blank\"] > button[onclick=\"hideButton()\"]"
-    ],
     "gamesera.online": [
         "#ad",
         "#adxbox",
@@ -7382,20 +7191,6 @@
         "center > a[target=\"_blank\"] > button[onclick=\"hideButton()\"]"
     ],
     "reviewhub.vip": [
-        "#ad",
-        "#adxbox",
-        ".div-over",
-        "div[id^=\"fixedban\"]",
-        "body > #sticky",
-        ".visible-block",
-        "div[class^=\"adbn\"][class*=\"wrap\"]",
-        "div[class^=\"rts\"][class*=\"-urts\"]",
-        "div[class^=\"dr\"][class*=\"-udr\"]",
-        "body > div[class^=\"content\"][class*=\"-block\"]",
-        ":is(body, .DownloadBlock) > div[class*=\"-\"][id*=\"-\"][style^=\"display:\"]",
-        "center > a[target=\"_blank\"] > button[onclick=\"hideButton()\"]"
-    ],
-    "pcreview.me": [
         "#ad",
         "#adxbox",
         ".div-over",
@@ -7471,9 +7266,6 @@
     ],
     "noon.khsm.io": [
         ".ads"
-    ],
-    "egyfalcons.com#$": [
-        "adblock_msg { display: none !important; }"
     ],
     "cooldl.net": [
         ".post > div.pm"
@@ -7592,9 +7384,6 @@
     "sarayanews.com": [
         "[class^=\"adsSpacer\"]",
         "div[class^=\"bestaAds_\"]"
-    ],
-    "myegy.cc": [
-        "a[href^=\"https://firstbyte.pro\"]"
     ],
     "filfan.com": [
         ".topLeaderboardHome",
@@ -7907,9 +7696,6 @@
     ],
     "gunaz.az": [
         "div[class^=\"aads\"] > object"
-    ],
-    "xeberoxu.az": [
-        "td[style=\"padding-left:10px;\"] > a[target=\"blank\"] > img"
     ],
     "yeniqadin.biz": [
         "div[class*=\"reklam\"]"
@@ -10600,11 +10386,6 @@
         "#kt_player > #invideo_2",
         ".advmnt"
     ],
-    "hdpornlove.net": [
-        ".player > .a_all",
-        "body > #im",
-        ".player > div.play[onclick]"
-    ],
     "pastpapers.papacambridge.com": [
         "#directory-list-header > .well:not(.text-center):not([id])"
     ],
@@ -10794,12 +10575,6 @@
     "rejabar.republika.co.id": [
         "img[width=\"320px\"][height=\"100px\"]"
     ],
-    "rumahperjaka.live": [
-        "div[id^=\"floatbanner\"]",
-        "#elementor-popup-modal-873",
-        "#floating_banner_top",
-        ".elementor-widget-wrap > section[data-id][data-element_type].elementor-inner-section"
-    ],
     "sekedarinfo.*": [
         "#donate"
     ],
@@ -10820,11 +10595,6 @@
         ".sticky-footer",
         "a[href^=\"https://www.threads.net/\"]"
     ],
-    "nontonanimeid.org": [
-        "div[class^=\"adspost\"]",
-        ".banner_player",
-        ".floating_footer"
-    ],
     "lahelu.com": [
         "div[class*=\"Chunk_ad_\"]"
     ],
@@ -10835,9 +10605,6 @@
     "kompas.com": [
         ".gate-kgplus",
         "div[style=\"height: 225px\"]"
-    ],
-    "samehadaku.guru": [
-        "#main > a[target=\"_blank\"]"
     ],
     "transtv.co.id": [
         "#bannerpop",
@@ -10944,9 +10711,6 @@
         ".idmuvi-topplayer",
         "#custom_html-30"
     ],
-    "anichin.vip": [
-        ".kln"
-    ],
     "oploverz.*": [
         ".widget:has(> div.textwidget > p > a[target=\"_blank\"])",
         ".widget:has(> div.textwidget:empty)",
@@ -10972,12 +10736,6 @@
     ],
     "bolasport.com#?": [
         "content > div.content_wrapper:has(> div.news-list__list iframe[src^=\"https://embed.dugout.com/\"])"
-    ],
-    "komiklokal.me": [
-        "body ~ a[class^=\"c-\"][target=\"_blank\"]",
-        "iframe[data-src^=\"https://anime.berangkasilmu.com/?ads=\"]",
-        "a[href^=\"https://cdsecurecloud-dt.com/smartlink/\"]",
-        "iframe[src^=\"https://anime.berangkasilmu.com/?ads=\"]"
     ],
     "liputan6.com": [
         "div[data-info=\"ad\"]"
@@ -11031,9 +10789,6 @@
     ],
     "cnbcindonesia.com#?": [
         "ArtikelTerkaitContainer > .col_mob_4 > .native-ads-d:upward(1)"
-    ],
-    "mangaku.pro": [
-        "div[class^=\"adv\"]"
     ],
     "id.ytmp3.plus": [
         "#ba"
@@ -11211,9 +10966,6 @@
     "batch.id": [
         ".sidebar > .klan300"
     ],
-    "layarkaca21indo.xyz": [
-        ".theiaStickySidebar > #custom_html-8"
-    ],
     "tribunnews.com": [
         ".ads__horizontal",
         "#adspop",
@@ -11319,10 +11071,6 @@
     ],
     "dm5.com": [
         ".cp_adct"
-    ],
-    "gigapurbalingga.com": [
-        "a[href^=\"http://downloadab.com/\"]",
-        "a[href^=\"http://www.nullrefer.com/?http://trafflict.com/\"]"
     ],
     "tuttoandroid.net": [
         "div[class^=\"widofferte23-\"]",
@@ -11965,9 +11713,6 @@
     "oggimilazzo.it": [
         ".cb-category-top"
     ],
-    "altadefinizioneita.co": [
-        "noindex > center > a[target=\"_blank\"][rel=\"nofollow\"] > img"
-    ],
     "xiaomitoday.it": [
         ".cegg_widget_products",
         "a[href^=\"https://shareasale.com/r.cfm\"] > img"
@@ -12188,9 +11933,6 @@
         "a[href*=\"/fhud/\"]",
         "#playerstart",
         "#preparevideo"
-    ],
-    "cb01.directory": [
-        "a[href^=\"/4k/\"] > img"
     ],
     "swzz.xyz": [
         "div[class^=\"italianews\"]",
@@ -12424,9 +12166,6 @@
     ],
     "topzone.lt": [
         "div[id^=\"edit\"] > .tborder:not([id^=\"post\"])"
-    ],
-    "filmux.org#?": [
-        "box-main > .box-rekbar:has(> noindex > div[id*=\"ScriptRoot\"])"
     ],
     "delfi.lt": [
         ".banner",
@@ -18091,9 +17830,6 @@
     "[$domain=/anime\\d+\\.site/]": [
         "a[rel=\"nofollow sponsored\"]"
     ],
-    "hentaivn.ws": [
-        "div[id$=\"-catfish\"]"
-    ],
     "cliphotnews.*": [
         "#vl-underplayer-adx",
         ".ads-catfish-desktop",
@@ -18123,9 +17859,6 @@
         "#catfish",
         ".popUpBannerBox"
     ],
-    "cmangaog.com": [
-        ".pr_image"
-    ],
     "metruyencv.info": [
         "#middle-three",
         "#middle-one",
@@ -18139,20 +17872,12 @@
     "savetik.co": [
         ".ads-slot-top"
     ],
-    "thuyetminh3d.com": [
-        "#catfish",
-        ".ad-container"
-    ],
     "coivl.net": [
         "#scriptDiv",
         "#levelmaxblock"
     ],
     "hellobacsi.com": [
         ".article-desktop-ad-container"
-    ],
-    "tutientruyen.com": [
-        ".click-ads",
-        ".overlay[style=\"display: flex;\"]"
     ],
     "animet.net": [
         "#fbox-background",
@@ -18252,9 +17977,6 @@
     "zingnews.vn": [
         "#Zingnews_SiteHeader"
     ],
-    "hhpanda.tv": [
-        "a[rel=\"nofollow sponsored\"]"
-    ],
     "phaply.net.vn": [
         ".no-margin-ads"
     ],
@@ -18267,18 +17989,10 @@
     "truyenfull.vn": [
         "#shoppe_ads_fly"
     ],
-    "xoilac.plvb.xyz": [
-        ".odds-button"
-    ],
     "xoilac23.net": [
         ".sk_balloon",
         ".block-int > a[target=\"_blank\"] > img",
         "body .footer-banner:not(#style_important)"
-    ],
-    "phym18.com": [
-        "div[style^=\"text-align: center;\"] > a[href][title] > img",
-        "#ds_top",
-        "#bnads"
     ],
     "dantri.com.vn": [
         "article ~ div.sidebar"
@@ -18331,9 +18045,6 @@
     ],
     "hadoantv.com": [
         "div[id^=\"gadsb\"]"
-    ],
-    "truyentranhaudio.online#$": [
-        "modal-ads { display: none!important; }"
     ],
     "speedtest.vn": [
         "#sponsorRow",
@@ -18392,12 +18103,6 @@
     "vcomic.net": [
         ".adpia_banner"
     ],
-    "truyentranhlh.net": [
-        "#lh-ads"
-    ],
-    "truyentranhtuan.com": [
-        "#right-balloon"
-    ],
     "downfile.site": [
         "img[alt^=\"Banner\"]",
         "div.display ~ h2.text-center",
@@ -18446,11 +18151,6 @@
     "anonyviet.com": [
         ".jeg_ad",
         ".adsbygoogle"
-    ],
-    "hentaivn.net": [
-        "#over",
-        "div[id^=\"page_ads_\"]",
-        ".qc_main"
     ],
     "hhkungfu.tv": [
         "#bsadsheadline"
@@ -18677,9 +18377,6 @@
     "4share.vn": [
         ".affiliate",
         ".affiliate~a[target=\"_blank\"] > img"
-    ],
-    "vaphim.com": [
-        "div[id^=\"ad-nav\"]"
     ],
     "phimhotjav.com": [
         ".social"
@@ -23414,9 +23111,6 @@
         ".banner",
         "a[href*=\"&utm_medium=\"] > img"
     ],
-    "earncoin.site": [
-        ".banner"
-    ],
     "teenlolly.com": [
         ".banner"
     ],
@@ -24900,9 +24594,6 @@
         ".banner-inner",
         ".row > div[class] > style + div.sticky"
     ],
-    "s-url.xyz": [
-        ".banner-inner"
-    ],
     "encurta.eu": [
         ".banner-inner",
         "#link-view > a[href][target=\"_blank\"] > img"
@@ -24956,9 +24647,6 @@
         ".publift-unfixed"
     ],
     "formula1streams.club": [
-        "#ad"
-    ],
-    "hockeynews.club": [
         "#ad"
     ],
     "web.yokugames.com": [
@@ -27259,6 +26947,13 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "tubator.com": [
+        "#ivb_wrapper",
+        ".recommend",
+        "#nva_block",
+        "div[id][style*=\"height: 250px;\"]",
+        ".ggg_container"
+    ],
     "motorsport.com": [
         ".embed-item:not([data-embed-code*=\"motorsport.com\"])",
         ".outstream_partner",
@@ -27290,6 +26985,11 @@
     "bigassz.com": [
         ".aside-avd-wrap",
         "div[style=\"height: 300px;\"]"
+    ],
+    "pimpbunny.com": [
+        "div[class^=\"pb-menu-\"] > a[rel=\"sponsored noopener\"][target=\"_blank\"]",
+        ".pb-header > div.pb-header-top-left-menu",
+        ".pb-header > div.pb-header-top-right-menu > a[href][rel=\"noopener\"][target=\"_blank\"]"
     ],
     "txxxporn.tube": [
         ".jwplayer div.nopop",
@@ -30162,6 +29862,9 @@
     ],
     "deltiasgaming.com": [
         ".vidazoo-player-container"
+    ],
+    "porncomics.com": [
+        "iframe[width=\"300\"][height=\"250\"]"
     ],
     "yande.re": [
         "iframe[width=\"300\"][height=\"250\"]",
@@ -33096,12 +32799,6 @@
         ".adNote",
         "div[id^=\"ad_\"]"
     ],
-    "tubator.com": [
-        ".recommend",
-        "#nva_block",
-        "div[id][style*=\"height: 250px;\"]",
-        ".ggg_container"
-    ],
     "notthebee.com": [
         "div[id^=\"commentList\"] + div.overflow-hidden:has(> div > a[href=\"/join\"])"
     ],
@@ -33994,9 +33691,6 @@
         "a[href*=\"/go/\"]"
     ],
     "teamoney.site": [
-        "html > iframe[id][style*=\"position:\"][style*=\"display:\"]"
-    ],
-    "nossoprato.online": [
         "html > iframe[id][style*=\"position:\"][style*=\"display:\"]"
     ],
     "lookmovie2.to": [
@@ -35102,9 +34796,6 @@
         ".thrid-party-content-break",
         ".small-ad"
     ],
-    "tech.hipsonyc.com#$": [
-        "pop-button { display: block !important; }"
-    ],
     "textreverse.com": [
         "#ac-wrapper",
         ".grammar-in",
@@ -35273,7 +34964,6 @@
         ".browse-citrus-above-grid",
         ".gridItem:has(.citrusAdproduct)",
         ".pd-merchandising-product:has(.product-header--citrus[data-testid=\"product-header\"])",
-        ".pt-grid-item:has(.product-header--citrus[data-testid=\"product-header\"])",
         ".pt__swiper--grid-item:has(.product-header--citrus[data-testid=\"product-header\"])"
     ],
     "nerdwallet.com": [
@@ -35493,9 +35183,6 @@
     ],
     "filmaffinity.com": [
         ".mult-link"
-    ],
-    "amanguides.com": [
-        "header > div[data-device] > div[data-row=\"bottom\"] > .ct-container-fluid:has(> div[data-column=\"middle\"] > div[data-items] .adxfire-ad)"
     ],
     "efestivals.co.uk": [
         ".infeedAds",
@@ -37242,12 +36929,6 @@
         "chapter-container > div[class]:has(> div.vm-placement)",
         "chapter-article > div.container:has(> div#lnvidcontainer > div.vm-placement)"
     ],
-    "happymod.com": [
-        ".cbox.appx",
-        "a[style*=\"/static/img/ad\"]",
-        ".appx",
-        ".pvpbar_ad"
-    ],
     "diffchecker.com": [
         "div[class^=\"hide-print ad-box_container\"]"
     ],
@@ -37717,9 +37398,6 @@
         ".superbanner",
         "[data-tb-non-consent]",
         "#ovp-primis"
-    ],
-    "av-cdn.xyz": [
-        "body > div ~ script + div[class]:last-child"
     ],
     "nuvexus.com": [
         ".middle-banner",
@@ -42882,9 +42560,6 @@
     "ebookhunter.net": [
         "#vi-sticky-ad"
     ],
-    "en.ripplestream4u.online": [
-        ".featured-post.section"
-    ],
     "watch.soccerloverss.live": [
         ".featured-post.section"
     ],
@@ -43159,9 +42834,6 @@
         ".dfskieurjkc23a",
         ".durs-bordered",
         "[href^=\"https://stARtgAMinG.net/\"]"
-    ],
-    "watchx.top": [
-        "body > div[id] > div[style] > a[target=\"_blank\"]"
     ],
     "bankinfosecurity.com": [
         ".pop-up-interstitial",
@@ -44231,9 +43903,6 @@
         ".quads-location",
         ".sidebar-btn-container"
     ],
-    "heyiamindians.com": [
-        ".banlink"
-    ],
     "kdnuggets.com": [
         "div[id^=\"kdnug-\"]",
         "table li.li-has-thumb + li:not([class])",
@@ -45217,11 +44886,6 @@
     "images4u.cc": [
         ".adssquareag"
     ],
-    "javstream.co": [
-        "img[width=\"300\"][height=\"250\"]",
-        ".kumpulads-side",
-        ".kumpulads-post"
-    ],
     "files.im": [
         "img[width=\"300\"][height=\"250\"]",
         "div[style=\"height: 500px;width: 100%;margin: auto;\"]",
@@ -45602,9 +45266,6 @@
     "crackdj.com": [
         "button[class^=\"buttonPress-\"]"
     ],
-    "fullcrackedpc.com": [
-        ".getox"
-    ],
     "whatsonstage.com": [
         "div[class*=\"AdContainer\"]"
     ],
@@ -45912,9 +45573,6 @@
     ],
     "hideproxy.me": [
         ".hidemeproxy__slideout"
-    ],
-    "playerx.stream": [
-        "#youcantseeme"
     ],
     "russian-porn.ru": [
         "#xxx"
@@ -46544,9 +46202,6 @@
         "div[data-advadstrackid]",
         ".visua-target",
         "a[href*=\"/linkout/\"]"
-    ],
-    "rugdoc.io": [
-        "div[data-advadstrackid]"
     ],
     "srware.net": [
         "a[target=\"_blank\"][onclick*=\"Forum_Adv\"]"
@@ -47772,10 +47427,6 @@
     "iaspaper.net": [
         ".iaspa-right-skyscraper"
     ],
-    "sharpporn.com": [
-        "#transparentWrapper",
-        "#videoPlayerWindow"
-    ],
     "hide.me": [
         ".Slideout"
     ],
@@ -48237,12 +47888,6 @@
     "fmovies.app": [
         "#overlay-container"
     ],
-    "himovies.to": [
-        "#overlay-container",
-        "[style*=\"width: 100% !important;\"]",
-        "[style*=\"z-index:\"]",
-        "a[onclick]"
-    ],
     "vidcloud.pro": [
         "#overlay-container"
     ],
@@ -48658,9 +48303,6 @@
     "electrical-engineering-portal.com": [
         ".page-ad-topline",
         ".reklama-text"
-    ],
-    "nizarstream.xyz": [
-        "#HTML4"
     ],
     "rulesofcheaters.net": [
         "#HTML4",
@@ -49637,9 +49279,6 @@
         "a[href*=\"http://www.ciberhentai.net\"]",
         "a[href*=\"www.gaming-adult.com/\"]"
     ],
-    "extramovies.shop": [
-        "a[href^=\"/dlbutton.php?\"][target=\"_blank\"] > img"
-    ],
     "flexyhit.com": [
         ".theiaStickySidebar > #stream-item-widget-2"
     ],
@@ -50414,9 +50053,6 @@
     "starbits.io": [
         "ins[class][style^=\"display:inline-block;\"]"
     ],
-    "fautsy.com": [
-        "ins[class][style^=\"display:inline-block;\"]"
-    ],
     "i-bits.io": [
         "ins[class][style^=\"display:inline-block;\"]"
     ],
@@ -51130,11 +50766,6 @@
     "cutw.in": [
         "#link-view > a[target=\"_blank\"] > img",
         ".box-main > a[target=\"_blank\"] > img"
-    ],
-    "litegpt.com": [
-        "a[href^=\"https://litegpt.com/link.aspx?id=\"][target=\"_blank\"] > img",
-        "div[id*=\"_partnerAds\"]",
-        "#ctl00_sidebar2"
     ],
     "topstreams.info": [
         ".ui-widget-overlay",
@@ -52910,11 +52541,6 @@
         ".taboola",
         ".article-sidebar__advert"
     ],
-    "hentairules.net": [
-        "img[width=\"160\"][height=\"600\"]",
-        ".hide_on_mobile",
-        "a[href^=\"http://www.gallery-dump.com\"]"
-    ],
     "lubedfan.com": [
         "img[width=\"160\"][height=\"600\"]",
         ".maxbutton-tour"
@@ -53098,10 +52724,6 @@
     ],
     "gmanga.me": [
         "body > .center > div[class][data-zone][style]"
-    ],
-    "gaydelicious.com": [
-        "a[href^=\"https://popcash.net/\"]",
-        "[style*=\"cursor:\"][style*=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "gaypornmasters.com": [
         "a[href^=\"https://popcash.net/\"]",
@@ -54152,9 +53774,6 @@
     "interracial.com": [
         ".twocolumns > .aside > div[align=\"center\"]"
     ],
-    "blitzadultparty.ru": [
-        ".cross-promo-bnr"
-    ],
     "faptitans.com": [
         ".cross-promo-bnr"
     ],
@@ -54164,9 +53783,6 @@
     ],
     "singamda.asia": [
         "a[href^=\"http://fkrt.it/\"]"
-    ],
-    "runmods.com": [
-        ".sidebar > #HTML6"
     ],
     "physicsworld.com": [
         ".row > div.equalize-sidebar + div[id=\"secondary\"]",
@@ -55318,9 +54934,6 @@
         "center > noindex",
         "center > a[href^=\"https://www.nitroflare.com/view/\"]"
     ],
-    "7torr.com": [
-        "a[href^=\"get-down?\"][title=\"Direct Download\"]"
-    ],
     "isohunt2.net": [
         ".banner-wrp"
     ],
@@ -55940,10 +55553,6 @@
         "#kt_player > a[target=\"_blank\"]",
         ".player + .sponsor"
     ],
-    "camuploads.com": [
-        ".block-video > .table > .opt",
-        "a[href^=\"https://reactads.engine.adglare.net/\"]"
-    ],
     "thebestshemalevideos.com": [
         ".block-video > .table > .opt"
     ],
@@ -56021,10 +55630,6 @@
     "techgenix.com": [
         ".pp_ads_single_before_related"
     ],
-    "uploadrive.com": [
-        "a[href*=\"/?token=\"][href*=\".exe\"]",
-        "#content > center > a.btn[onclick]"
-    ],
     "lesbianexpert.com": [
         ".kck"
     ],
@@ -56090,9 +55695,6 @@
     ],
     "sexgifs.me": [
         "a[target=\"_blank\"] > img[width=\"300\"][height=\"250\"]"
-    ],
-    "seedpeer.me": [
-        ".content > iframe[width=\"800\"][height=\"200\"]"
     ],
     "pornalin.com": [
         ".block_spots",
@@ -56346,11 +55948,6 @@
         ".col-md-8 > div[style=\"background-color: #ddd; padding: 6px; text-align: center\"]:not([class]):not([id])",
         "[style=\"background-color: #fff; padding: 6px; text-align: center\"]"
     ],
-    "is123moviesfree.com": [
-        "#p_native",
-        "center > a[href=\"../download\"] > img",
-        "center > a[href=\"../stream\"] > img"
-    ],
     "putlocker.digital": [
         "#p_native"
     ],
@@ -56398,23 +55995,12 @@
         ".clear + .mt15.container[style=\"margin-top:15px; border-bottom:0;\"]",
         ".thrcol > .thr-rcol"
     ],
-    "myhdporn.net": [
-        ".afc_popup",
-        "a[href=\"http://myhdporn.net/other.php\"][rel=\"nofollow\"] > img"
-    ],
     "hdpornvideo.xxx": [
         ".lika"
     ],
     "superherohype.com": [
         ".wrapper > #js-leaderboard",
         "#leaderboard.ad"
-    ],
-    "watchonetreehillonline.com": [
-        "#contenedor > #keeper2"
-    ],
-    "reblop.com": [
-        "[href^=\"https://t.frtyo.com/\"]",
-        "div[id^=\"bannerfloat\"]"
     ],
     "pcsteps.com": [
         "a[href^=\"https://www.pcsteps.com/cyberghost-pcsteps-deal\"]",
@@ -56491,9 +56077,6 @@
     "pornvibe.org": [
         "#menu-main-navigation-1 > li > a[target=\"_blank\"]"
     ],
-    "pornstreams.eu": [
-        "#menu-menu > li > a[target=\"_blank\"]"
-    ],
     "xanimeporn.com": [
         "div[style=\"width: 300px; height: 250px;\"]"
     ],
@@ -56521,9 +56104,6 @@
     "levelsex.com": [
         ".banner_page_right"
     ],
-    "japvid.xxx": [
-        ".thumb-banner"
-    ],
     "anime-planet.com": [
         ".video-banner",
         ".halo"
@@ -56539,9 +56119,6 @@
         "a[href^=\"http://deloplen.com/\"]"
     ],
     "streamz.*": [
-        "a[href^=\"http://deloplen.com/\"]"
-    ],
-    "merdekaid.online": [
         "a[href^=\"http://deloplen.com/\"]"
     ],
     "al.com": [
@@ -56731,14 +56308,6 @@
     "vipbox.im": [
         "div.text-center > button[data-open=\"_blank\"]"
     ],
-    "vipleague.bz": [
-        "div.text-center > button[data-open=\"_blank\"]",
-        "div.my-1[style=\"display: none !important;\"] ~ .my-1",
-        ".text-warning",
-        "a[onclick=\"removeOverlayHTML();\"]+div",
-        "a[onclick=\"removeOverlayHTML();\"]",
-        ".container > div.row > div.text-center > div.col-md-4.pull-right.hidden-xs"
-    ],
     "thenewsminute.com": [
         "div[class*=\"_ads_block\"]"
     ],
@@ -56789,9 +56358,6 @@
         ".inner > a[href] > img"
     ],
     "youfreeporntube.net": [
-        ".nav > li > a[target=\"_blank\"]"
-    ],
-    "reallifecam.vip": [
         ".nav > li > a[target=\"_blank\"]"
     ],
     "4tube.com": [
@@ -56850,19 +56416,11 @@
     "adultlook.com": [
         "#ad_pb"
     ],
-    "passgen.icu": [
-        "div[style^=\"z-index:99\"][style*=\";position:fixed;\"][style*=\"left:50%;transform:\"][style*=\"translateX(-50%)\"]",
-        "iframe#frame"
-    ],
     "short.pe": [
         "div[style=\"z-index:99999;position:fixed;bottom:10px;left:50%;transform: translateX(-50%)\"]"
     ],
     "derpibooru.org": [
         "#imagespns"
-    ],
-    "plusone8.com": [
-        "a[href=\"http://bongacams2.com/track\"]",
-        "#overlay-advertising"
     ],
     "nudespree.com": [
         ".top-links",
@@ -56874,9 +56432,6 @@
         ".banner-h"
     ],
     "infotelematico.com": [
-        "#ai_widget-3"
-    ],
-    "hindian.net": [
         "#ai_widget-3"
     ],
     "putlockers.co": [
@@ -56924,9 +56479,6 @@
     ],
     "oaoa.com": [
         "#blox-right-col > div[id^=\"rail-\"] > div[style=\"width:300px;height:250px;margin-bottom:20px;\"]"
-    ],
-    "adsrt.me": [
-        "div[id*=\"ScriptRootC\"] > div[id*=\"PreloadC\"]"
     ],
     "fmovie.cc": [
         "a[rel=\"nofollow norefferer noopener\"][style^=\"position: fixed; z-index:\"]",
@@ -57005,9 +56557,6 @@
     "kissmanga.*": [
         "#myModal"
     ],
-    "mangastream.mobi": [
-        "#myModal"
-    ],
     "leechpremium.link": [
         "#myModal",
         "div[id*=\"ScriptRootC\"]"
@@ -57040,12 +56589,6 @@
     ],
     "oceantech.xyz": [
         ".banner ~ .blog-item"
-    ],
-    "adnangamer.com": [
-        ".banner ~ .blog-item"
-    ],
-    "aniwatcher.com": [
-        "main > h2.h2episode+div[class*=\" epsa\"]"
     ],
     "basenotes.net": [
         ".advertblock"
@@ -57121,10 +56664,6 @@
     "filthybritishporn.com": [
         ".bnnr"
     ],
-    "ettv.tv": [
-        "div[class^=\"vp_a\"]",
-        ".imdb > div[class^=\"download_links\"]"
-    ],
     "kissanime.ac": [
         "#adlink1",
         "#adlink2"
@@ -57134,16 +56673,8 @@
         ".video_cums1",
         "center > a[rel=\"nofollow\"] > img"
     ],
-    "vshare.io": [
-        "body > [id][style*=\"text-align: center;\"][style*=\"position: absolute;\"][style*=\"z-index:100;\"]",
-        "#xxas"
-    ],
     "jav.watch": [
         ".banner_top_right"
-    ],
-    "javjack.com": [
-        ".banner_top_right",
-        ".nav_top_links > li > a[target=\"_blank\"][onclick^=\"ga('send', 'event', 'outbound', 'click',\"]"
     ],
     "dramacool9.io": [
         "a[href^=\"https://bodelen.com/\"]"
@@ -57290,9 +56821,6 @@
     "123link.pro": [
         ".box-main > .banner > .banner-inner"
     ],
-    "5movies.to": [
-        ".watch-now"
-    ],
     "forum.lowyat.net": [
         ".style_ad",
         ".feedgrabbr_widget",
@@ -57313,9 +56841,6 @@
         "#stnvideo",
         ".persistent-footer",
         ".sponsor"
-    ],
-    "mylivecricket.live": [
-        "#bannerfloat2"
     ],
     "rediff.com": [
         ".advtcell",
@@ -57418,16 +56943,8 @@
         "#leaderboardContainer",
         ".fixya_primis_container"
     ],
-    "privateindian.net": [
-        ".movie > #on_video"
-    ],
     "exclusiveindianporn.com": [
         "#divclose"
-    ],
-    "indianpornfuck.com": [
-        ".spots.appeared",
-        ".banner-fixed",
-        ".video__banner"
     ],
     "xcafe.com": [
         ".leftbar > .content_source.no_pop",
@@ -57470,9 +56987,6 @@
         "#sidebar > .ad-01"
     ],
     "csgo-stats.com": [
-        "a[href^=\"http://bit.ly/\"] > img"
-    ],
-    "hdmp4mania1.net": [
         "a[href^=\"http://bit.ly/\"] > img"
     ],
     "adultbay.org": [
@@ -57624,9 +57138,6 @@
     "yespornplease.com": [
         "div[class^=\"col-\"] > .well:not([class*=\" \"])"
     ],
-    "123moviesfree.sc": [
-        "a.btn-successful[target=\"_blank\"]"
-    ],
     "nzherald.co.nz": [
         ".pb-f-ads-native-ad",
         ".ad",
@@ -57671,19 +57182,12 @@
     "toros.co": [
         ".trtbl"
     ],
-    "2ddl.ws": [
-        ".trtbl",
-        ".postarea > div[align=\"center\"] > a[rel=\"nofollow\"]"
-    ],
     "raagalahari.com": [
         ".off-canvas-content > .row > .columns > div[style=\"font-size:11px;line-height:15px;color:#CACACA\"]:not([class]):not([id])"
     ],
     "visionias.net": [
         "#HTML11",
         ".adsbygoogle"
-    ],
-    "sharespark.net": [
-        "center > div div[id^=\"randomContentServeId\"]"
     ],
     "androidmakale.com": [
         "#text-4"
@@ -57715,9 +57219,6 @@
     ],
     "xxxstreams.org": [
         ".nav-menu > li > a[href^=\"http\"][target=\"_blank\"]"
-    ],
-    "youfreeporntube.com": [
-        ".nav > li > a[href^=\"http\"][target=\"_blank\"]"
     ],
     "porn4days.com": [
         "a[href*=\"landing\"][href*=\"campaign\"]",
@@ -57860,9 +57361,6 @@
     "yourdailypornvideos.com": [
         ".span4.column_container > .widget_custom_html a[href][rel=\"noopener\"] > img"
     ],
-    "dreamamateurs.com": [
-        ".media-box > .cs-link"
-    ],
     "app.myreadit.com": [
         "#options > .ng-star-inserted"
     ],
@@ -57909,9 +57407,6 @@
         ".b-header > .b-row > .b-main-nav > ul > li > a[href^=\"https://hd100546b.com/\"]",
         ".b-advertisement"
     ],
-    "sport7.pw": [
-        ".helldiv"
-    ],
     "dict.hinkhoj.com": [
         ".dict_add"
     ],
@@ -57937,9 +57432,6 @@
     ],
     "snat.co.uk": [
         "#text-2"
-    ],
-    "majav.org": [
-        "#text-8"
     ],
     "bestcouponhunter.com": [
         "#text-8",
@@ -58116,9 +57608,6 @@
     "gamermatters.com": [
         ".adcontainer"
     ],
-    "curiouscat.me": [
-        ".adcontainer"
-    ],
     "smallnetbuilder.com": [
         "iframe[src^=\"//ws-na.amazon-adsystem.com/\"]",
         "div[id^=\"snb-\"]"
@@ -58190,9 +57679,6 @@
     ],
     "animalplanet.com": [
         ".bannerFlexHeader__main.banner-flexOne-main"
-    ],
-    "x-vid.net": [
-        ".in-bg-pop > div#morev"
     ],
     "noonsite.com": [
         ".portlet-static-global-sponsors"
@@ -58427,10 +57913,6 @@
         ".rklm_main",
         ".reklamtitle"
     ],
-    "icdrama.se": [
-        "#closeADV",
-        "#vb_adplayer"
-    ],
     "theoutline.com": [
         "[data-campaign2]",
         "div[data-campaign]",
@@ -58490,9 +57972,6 @@
         ".main-article-content > div[class][style*=\"float: left\"][style*=\"margin\"]",
         ".post-ad-container",
         ".dataTable .asset"
-    ],
-    "watchtheofficeonline.net": [
-        "#contenedor > #keeper"
     ],
     "watchhouseonline.net": [
         "#contenedor > #keeper"
@@ -58555,9 +58034,6 @@
     "youngsextube.me": [
         ".player-ad"
     ],
-    "watchindianporn.net": [
-        ".spots-wr"
-    ],
     "mzansi.porn": [
         ".dvr-3x2"
     ],
@@ -58607,9 +58083,6 @@
     "tennessean.com": [
         ".taboola-sidebar"
     ],
-    "pickvideo.net": [
-        ".downloadSection > span[style=\"font-style: italic; color: #949494; text-align: center;\"]"
-    ],
     "worldlifestyle.com": [
         ".ams_ad_title",
         ".ams_ad_wrapper",
@@ -58642,9 +58115,6 @@
     "bypassed.eu": [
         "cloudflare-app[app=\"flashcard\"]"
     ],
-    "bypassed.bz": [
-        "cloudflare-app[app=\"flashcard\"]"
-    ],
     "iwantgalleries.com": [
         ".bant"
     ],
@@ -58665,15 +58135,6 @@
     "erotichdworld.com": [
         ".main > div[style*=\"margin-left\"]",
         ".slideContent"
-    ],
-    "hentailove.tv": [
-        "div[class^=\"ad-vid-\"]"
-    ],
-    "thevid.net": [
-        "#tbl1"
-    ],
-    "imgtornado.com": [
-        "body > div[style=\"text-align:center;font-family:Tahoma;\"]"
     ],
     "podbean.com": [
         ".downloads > .down:first-child"
@@ -58712,17 +58173,10 @@
     "desiupload.co": [
         "center > a[href][target=\"_blank\"] > img"
     ],
-    "javjunkies.com": [
-        "center > a[href][target=\"_blank\"] > img",
-        "a[href*=\"//bit.ly/\"]"
-    ],
     "apk4free.org": [
         "center > a[href][target=\"_blank\"] > img"
     ],
     "extramovies.wiki": [
-        "center > a[href][target=\"_blank\"] > img"
-    ],
-    "desiupload.in": [
         "center > a[href][target=\"_blank\"] > img"
     ],
     "ninjatrader.com": [
@@ -58731,11 +58185,6 @@
     ],
     "vividscreen.info": [
         ".page .as"
-    ],
-    "waxtube.com": [
-        ".aside-itempage-col > .aside-itempage-inner-col > .box-container",
-        ".aff-item-list",
-        "a[href*=\"theporndude.com\"]"
     ],
     "readthedocs.io": [
         ".rtd-pro"
@@ -59544,9 +58993,6 @@
         ".right-bl-wrap",
         ".bottom-bl-wrap > .bottom-bl"
     ],
-    "filmshowonline.net": [
-        ".btn-watch-dl"
-    ],
     "aniroleplay.com": [
         "div[align] > font[face=\"Arial, Helvetica, Geneva\"]"
     ],
@@ -59557,9 +59003,6 @@
     ],
     "tes.com": [
         ".masthead-advert"
-    ],
-    "viraliq.com": [
-        "#sidebar > div[style=\"max-width:300px;\"] > p[style^=\"font-size: 13px; color: #333333; margin-bottom: 0px;\"]"
     ],
     "insidenova.com": [
         "#jobCardDiv"
@@ -59639,9 +59082,6 @@
         ".advert-container",
         ".billboard-container"
     ],
-    "izofile.com": [
-        ".thecontent > .waleed"
-    ],
     "serialkeypro.com": [
         "a[href^=\"http://maltaian.info\"]"
     ],
@@ -59720,12 +59160,6 @@
     "porkytube.com": [
         ".large-square"
     ],
-    "bobmovies.net": [
-        ".full_film a.download_link[href=\"#\"][target=\"_blank\"] > img"
-    ],
-    "filmlinks4u.is": [
-        "div[id^=\"tab_HD\"]"
-    ],
     "santabanta.com": [
         "#right_336x280_ad"
     ],
@@ -59755,9 +59189,6 @@
     "greengaytube.com": [
         ".content > .bottom + div > h2",
         ".content > .main_box + .right"
-    ],
-    "bmovies.ru": [
-        "a.full.btn[href^=\"/player/\"][href*=\"_in_hd.html?\"][rel=\"nofollow\"]"
     ],
     "bmbets.com": [
         "#rightcolumn > #WebPanel3"
@@ -59839,9 +59270,6 @@
     ],
     "dagay.com": [
         "#player > .overlay-media"
-    ],
-    "r.foxgay.com": [
-        "body > #pcontainer"
     ],
     "bdsmstreak.com": [
         ".onvideo"
@@ -59955,10 +59383,6 @@
         ".content > .spots-wr",
         ".on-player-wrap"
     ],
-    "apko.org": [
-        ".below-com-widget > div[id^=\"text-\"]",
-        ".center-post-widget > div[id^=\"text-\"]"
-    ],
     "andropalace.org": [
         "a[class^=\"generatedlink\"][href=\"#\"] > img"
     ],
@@ -59994,11 +59418,6 @@
     ],
     "bookfi.net": [
         "noindex a[rel=\"nofollow\"] > img"
-    ],
-    "dattr.com": [
-        "#linkadver",
-        "#onFinish-thumbs",
-        "div#a[style^=\"float: right;\"]"
     ],
     "horoscope.com": [
         ".top-slot"
@@ -60044,9 +59463,6 @@
         "#topbar",
         ".ad-on-video"
     ],
-    "torrent-series24.com": [
-        "#widgets-wrap-sidebar-left"
-    ],
     "problogbooster.com": [
         "div[class^=\"adinsidepost\"]"
     ],
@@ -60087,9 +59503,6 @@
     ],
     "sap-certification.info": [
         ".site-c-header-ad-cr"
-    ],
-    "mazterize.cc": [
-        "center > a[href][rel=\"nofollow\"] > img"
     ],
     "rootcracks.org": [
         "center > a[href][rel=\"nofollow\"] > img"
@@ -60149,26 +59562,11 @@
         "#topbar",
         "img[width=\"468\"]"
     ],
-    "private-shows.net": [
-        ".place",
-        ".iframe-holder",
-        ".top > a[rel=\"nofollow\"]",
-        "body > div[class]:empty:last-child"
-    ],
     "langitfilm.*": [
         ".rkads"
     ],
-    "extramovies.cc": [
-        "center > a:not([href^=\"http://extramovies.cc/\"]) > img",
-        "a[href=\"http://amzn.to/2wNC0W0\"]",
-        ".imag > div.thumbnail~span.dl"
-    ],
     "m4ufree.com": [
         "a[href^=\"//look.ichlnk.com/\"]"
-    ],
-    "hotsouthindiansex.com": [
-        ".on-player-wrap",
-        ".wrapper > div.spots-wr"
     ],
     "zzcartoon.com": [
         ".right-banner"
@@ -60183,10 +59581,6 @@
         ".adsninja-ad-zone-container-with-set-height",
         "[class*=\"ad-zone-container-content-character-count-repeatable\"]",
         "[id^=\"adsninja-ad-zone-adsninja-ad-unit-footer\"]"
-    ],
-    "dir50.com": [
-        "img[alt=\"ads\"]",
-        ".bigres[style*=\"height:90px; width:728px;\"]"
     ],
     "people.com": [
         ".article-footer > .articles-recirculation--see-also > .article-footer__section-title",
@@ -60249,17 +59643,8 @@
     "imp3juices.com": [
         "#download_link > a[href][rel=\"nofollow\"]"
     ],
-    "beemp3s.net": [
-        ".col-md-6 > a[href][target=\"_blank\"]"
-    ],
-    "mp3juices.cc": [
-        "iframe[src$=\".html\"][width=\"360\"][height=\"51\"]"
-    ],
     "hubfiles.pw": [
         "a[href=\"/button/download.php\"]"
-    ],
-    "daily2soft.com": [
-        "center > a[href][target=\"blank\"][rel=\"nofollow\"]"
     ],
     "agoodmovietowatch.com": [
         ".stickyads"
@@ -60305,10 +59690,6 @@
     "urlencoder.org": [
         "[class^=\"banner_\"]"
     ],
-    "fmovies.sc": [
-        "center > a[href=\"../download\"] > img",
-        "center > a[href=\"../stream\"] > img"
-    ],
     "huffingtonpost.co.uk": [
         ".ad_wrapper_top",
         "#ad_leaderboard_flex",
@@ -60336,11 +59717,6 @@
     "nhungcaunoihay.net": [
         ".text > a[href^=\"/away.php?file=\"][rel=\"nofollow\"] > img"
     ],
-    "4downfiles.org": [
-        "div[style=\"width:728px; height:90px; background-color:#f4f4f4; text-align:center\"]",
-        "font#w3c5",
-        ".adsbygoogle"
-    ],
     "javarchive.com": [
         "[title=\"ads\"]"
     ],
@@ -60350,12 +59726,6 @@
     "whitexxxtube.com": [
         ".banners_pl",
         "#invideo_new"
-    ],
-    "ohyeah1080.co": [
-        ".fancybox-container"
-    ],
-    "ohyeah1080.com": [
-        ".fancybox-container"
     ],
     "lfporn.com": [
         ".pr-widget",
@@ -60373,9 +59743,6 @@
     ],
     "warclicks.com": [
         ":not(.holder) > .cool-holder.cool-728.blocked-728"
-    ],
-    "sanet.cd": [
-        ".dl_ready_news_full"
     ],
     "igram.im": [
         ".mcon",
@@ -60475,9 +59842,6 @@
         ".cb-sidebar > #text-55",
         ".cb-sidebar > #text-56",
         ".code-block"
-    ],
-    "link-cash.com": [
-        "[class^=\"bmadblock-\"]"
     ],
     "uskip.me": [
         "a[href*=\"inclk.com/adServe/\"] > img"
@@ -60626,12 +59990,6 @@
         ".boxadtight",
         "#float_container"
     ],
-    "softasm.com": [
-        ".the-ad-break",
-        ".content > center + .download",
-        "a[href^=\"http://estatalogy.info/\"][rel=\"nofollow\"]",
-        "center > a[rel=\"nofollow\"][onclick] > img"
-    ],
     "gamersheroes.com": [
         "#sidebar_main > #text-91",
         "#sidebar_main > #text-92",
@@ -60752,9 +60110,6 @@
         ".adv",
         ".banner-on-player"
     ],
-    "sexboomcams.com": [
-        ".adv"
-    ],
     "pornformance.com": [
         ".adv"
     ],
@@ -60832,9 +60187,6 @@
     ],
     "visitnorway.com": [
         "#dtnContainer"
-    ],
-    "teensex18.tv": [
-        ".player-ad"
     ],
     "xasianbeauties.com": [
         "#topbar1",
@@ -60959,9 +60311,6 @@
     "originalindianporn.com": [
         ".center-place > .bns-place-ob > .bn-place"
     ],
-    "wowindianporn.com": [
-        ".center-place > .bns-place-ob > .bn-place"
-    ],
     "javmimi.com": [
         ".content > div.line-bs",
         ".invideo[onclick^=\"$('.close-btn')\"]",
@@ -60990,9 +60339,6 @@
     "statsroyale.com": [
         ".landing__arenas > .landing__arena:not([href])",
         "div[class^=\"adUnit_\"]"
-    ],
-    "gostream.is": [
-        ".gomo-gtx-br"
     ],
     "games.iwin.com": [
         ".modals",
@@ -61097,10 +60443,6 @@
         ".custom > a[href*=\"campaign=adverts&\"][rel=\"nofollow\"][target=\"_blank\"]",
         ".custom > a[href^=\"https://buy.malwarebytes.com/?c=cb&s=\"][rel=\"nofollow\"][target=\"_blank\"] > img",
         "#cta-box"
-    ],
-    "javout.net": [
-        ".social",
-        ".banner-bottom"
     ],
     "youtube4kdownloader.com": [
         ".banner-bottom",
@@ -61241,11 +60583,6 @@
     ],
     "codecanyon.net": [
         ".canvas__header > .banner"
-    ],
-    "iporntoo.com": [
-        ".aff-col",
-        "#playerOverlay",
-        ".adbox-inner"
     ],
     "ruleporn.com": [
         ".aff-col"
@@ -61409,9 +60746,6 @@
         ".block",
         ".long-block-footer"
     ],
-    "novahax.com": [
-        ".hentry > div[style=\"text-align: center;\"] > a[onclick^=\"window.open\"]"
-    ],
     "sweepsdb.com": [
         "tbody.sponsored"
     ],
@@ -61479,10 +60813,6 @@
     "mockupworld.co": [
         ".ABD_display_wrapper"
     ],
-    "xxxyours.com": [
-        ".adv-wrapper",
-        ".video_adv"
-    ],
     "sifted.eu": [
         "div[id^=\"ad_slot_\"]"
     ],
@@ -61494,11 +60824,6 @@
         ".css-1vj1npn",
         ".css-1upmbem",
         "a.css-1yw960t"
-    ],
-    "rapidvideo.ws": [
-        "#rekrapid",
-        "#OnPlBan",
-        "#rapid1"
     ],
     "geekandsundry.com": [
         ".bannerplaceholder",
@@ -61691,10 +61016,6 @@
     "xxxboard.net": [
         "#ad_global_below_navbar"
     ],
-    "mamahd.com": [
-        "#ad_overlay",
-        "div[id^=\"html\"][style]"
-    ],
     "aliez.me": [
         "#adbtm",
         "#ads"
@@ -61768,9 +61089,6 @@
     "journaldemontreal.com": [
         "#banner"
     ],
-    "cdnx.stream": [
-        "#banner"
-    ],
     "cloudplayer.online": [
         "#banner"
     ],
@@ -61809,9 +61127,6 @@
         "#block-block-3",
         ".cc01",
         ".region-preblocks:first-child"
-    ],
-    "rslinks.org": [
-        "#block-block-58"
     ],
     "stomp.com.sg": [
         "#block-boxes-q0010-widget"
@@ -61896,9 +61211,6 @@
         "#iBunkerSlideWrap",
         "div[class^=\"ad_right\"]",
         "div[style=\"float:left;\"] > div.view_middle_block"
-    ],
-    "pornshareproject.org": [
-        "#index_stats > center > a > img"
     ],
     "xxxtubedot.com": [
         "#invideo_2",
@@ -62098,9 +61410,6 @@
         "#yf3-popup-bg",
         "#yf3-popup-container"
     ],
-    "pornhd4k.com": [
-        ".Video_Reklam"
-    ],
     "aarp.org": [
         ".aarpe-ad",
         ".advertisement",
@@ -62177,22 +61486,12 @@
     "torrentdownloads.net": [
         ".advert_img"
     ],
-    "roxtube.com": [
-        ".advus"
-    ],
-    "redmp3.su": [
-        ".album-cover-left > .ac"
-    ],
     "gossipcop.com": [
         ".am-ngg-right-ad",
         "div[style=\"width:300px;height:250px;margin:0;padding:0\"]"
     ],
     "ifate.com": [
         ".articleleftfloater"
-    ],
-    "myasiantv.com": [
-        ".av-right",
-        ".av-top"
     ],
     "alawar.com": [
         ".b-game-list__bnr-title-wrapper"
@@ -62221,9 +61520,6 @@
     ],
     "avast.com": [
         ".banner__inner"
-    ],
-    "liveonlinetv247.info": [
-        ".bannerfloat"
     ],
     "sanet.me": [
         ".big_banner_adv"
@@ -62385,9 +61681,6 @@
         ".padding table[style$=\"width:auto;font-size:75%\"] > caption",
         ".db_link"
     ],
-    "masterkreatif.com": [
-        ".post_content.entry-content > div > center"
-    ],
     "cboard.cprogramming.com": [
         ".postrow > div[style*=\"300px; height:\"]"
     ],
@@ -62421,9 +61714,6 @@
     "r2games.com": [
         ".right_banner"
     ],
-    "pandamovie.net": [
-        ".rightdiv1"
-    ],
     "house-mixes.com": [
         ".row > .hidden-sm"
     ],
@@ -62456,9 +61746,6 @@
     ],
     "danceclassonline.in": [
         ".sponsors"
-    ],
-    "putlockers.ch": [
-        ".summary .movgr"
     ],
     "techviewleo.com": [
         ".td-banner-wrap-full"
@@ -62513,9 +61800,6 @@
         ".widget_execphp",
         "a[href^=\"https://accounts.fozzy.com\"]"
     ],
-    "zyzoom.org": [
-        ".zyzoom_ads"
-    ],
     "skidrowcrack.com": [
         "[id^=\"bsa\"][style*=\"opacity:\"]"
     ],
@@ -62528,9 +61812,6 @@
     ],
     "filescdn.com": [
         "a.btn.btn-labeled:not([href*=\"filescdn.com\"])"
-    ],
-    "mediafree.co": [
-        "a[href=\"http://cinmaland.com/\"]"
     ],
     "neobuggy.net": [
         "a[href=\"http://www.agama-rc.com/\"]",
@@ -62564,23 +61845,12 @@
     "short-url.link": [
         "a[href^=\"http://apploading.mobi/\"]"
     ],
-    "eagleget.com": [
-        "a[href^=\"http://cdn.adsrvmedia.net/\"]"
-    ],
-    "go4up.com": [
-        "a[href^=\"http://go4up.com/download/forwardr\"]",
-        "a[style=\"display:inline!important\"] > img",
-        "a[target$=\"_blank\"] > img"
-    ],
     "flaticons.net": [
         "a[href^=\"http://goo.gl/\"] > img",
         "a[href^=\"https://goo.gl/\"] > img"
     ],
     "watchonline.pro": [
         "a[href^=\"http://watchonline.pro/watch-now/\"] > img[width=\"500\"]"
-    ],
-    "seedpeer.eu": [
-        "a[href^=\"http://www.cash-duck.com/\"]"
     ],
     "allsport-live.net": [
         "a[href^=\"https://spadsmedia.com/\"]",
@@ -62618,9 +61888,6 @@
         "body > div#topbar"
     ],
     "gboxes.com": [
-        "body > div[style$=\"position: absolute; z-index: 999999; cursor: pointer;\"]"
-    ],
-    "usersfiles.com": [
         "body > div[style$=\"position: absolute; z-index: 999999; cursor: pointer;\"]"
     ],
     "datafilehost.com": [
@@ -62874,9 +62141,6 @@
     "fxp.co.il": [
         "div[style^=\"position: fixed;width: 162px; height: 600px;\"]"
     ],
-    "re-hentai.com": [
-        "div[style^=\"width: 300px; height: 250px;\"]"
-    ],
     "myslavegirl.org": [
         "div[style^=\"width: 300px; height: 250px;\"]",
         ".signature"
@@ -62903,12 +62167,6 @@
         "li[data-blocktitle=\"Custom Blocks\"] a > img"
     ],
     "3dsiso.com": [
-        "ol li[id^=\"navbar_notice_\"]:not(:first-child)"
-    ],
-    "pspiso.com": [
-        "ol li[id^=\"navbar_notice_\"]:not(:first-child)"
-    ],
-    "xbox360iso.com": [
         "ol li[id^=\"navbar_notice_\"]:not(:first-child)"
     ],
     "qriv1.ucoz.com": [
@@ -63014,13 +62272,7 @@
     "boosteradx.online": [
         "#video_player ~ div[id]:has(> div[style^=\"position:fixed;inset:0px;z-index\"] > a[target=\"_blank\"])"
     ],
-    "jeansaispasplus.homes": [
-        "#video_player ~ div[id]:has(> div[style^=\"position:fixed;inset:0px;z-index\"] > a[target=\"_blank\"])"
-    ],
     "vidstreaming.xyz": [
-        "#video_player ~ div[id]:has(> div[style^=\"position:fixed;inset:0px;z-index\"] > a[target=\"_blank\"])"
-    ],
-    "boosterx.stream": [
         "#video_player ~ div[id]:has(> div[style^=\"position:fixed;inset:0px;z-index\"] > a[target=\"_blank\"])"
     ],
     "filmcdn.top": [
@@ -63031,9 +62283,6 @@
         "body > div[id]:has(> div > a[href*=\"gmxvmvptfm.com\"])"
     ],
     "vidlop.com": [
-        "#video_player ~ div[id]:has(> div[style^=\"position:fixed;inset:0px;z-index\"] > a[target=\"_blank\"])"
-    ],
-    "vectorx.top": [
         "#video_player ~ div[id]:has(> div[style^=\"position:fixed;inset:0px;z-index\"] > a[target=\"_blank\"])"
     ],
     "forplayx.ink": [
@@ -63115,9 +62364,6 @@
     "shopee.*": [
         ".shopee-search-item-result__items > .shopee-search-item-result__item:has(> a[data-sqe=\"link\"] > div[class^=\"_\"] >  div[class^=\"_\"]  > div[class^=\"_\"] > div[class^=\"_\"] > div[data-sqe=\"ad\"])"
     ],
-    "muctau.com": [
-        ".body-wrap > .c-top-sidebar:not(:has(.widget-manga-popular-slider))"
-    ],
     "analyticsinsight.net#?": [
         "sidebar > div.widget:has(> div.textwidget > p[style=\"margin-top: -30px;\"])",
         "sidebar > div.widget:has(> div.textwidget > p > a[href^=\"https://www.iima.ac.in/\"])",
@@ -63188,10 +62434,7 @@
     "live-nba.stream": [
         "overlay { remove: true; }"
     ],
-    "veopartidos.net": [
-        "overlay { remove: true; }"
-    ],
-    "lowend.xyz#$?": [
+    "veopartidos.net#$?": [
         "overlay { remove: true; }"
     ],
     "theregister.com#?": [
@@ -64842,9 +64085,6 @@
     "playembedapi.site": [
         "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
     ],
-    "rufiguta.com": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
-    ],
     "abysscdn.com": [
         "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]",
         "a[title=\"Free money easy\"]"
@@ -64991,9 +64231,6 @@
         "#link-view > iframe[src*=\"/fc.\"]"
     ],
     "fullassia.com": [
-        "body > div[class^=\"ban\"]"
-    ],
-    "assia24.com": [
         "body > div[class^=\"ban\"]"
     ],
     "assia23.com": [
@@ -74998,9 +74235,6 @@
     "thekickass.org": [
         ".x-bro"
     ],
-    "kickasstorrents.space": [
-        ".x-bro"
-    ],
     "thekat.cc": [
         ".x-bro"
     ],
@@ -75135,11 +74369,6 @@
         "[style*=\"blob:\"]:not(video)",
         "img[src*=\"blob:\" i]:not(video)",
         "video[autoplay]"
-    ],
-    "livetvstream.pro": [
-        "td[height=\"91\"][align=\"center\"][bgcolor=\"#000000\"]",
-        "td[background^=\"//cdn.livetv\"] > table[width=\"100%\"] > tbody > tr > td[valign=\"top\"] + td[align=\"right\"]",
-        "iframe[src^=\"//ads.livetv\"]"
     ],
     "me": [
         "td[height=\"91\"][align=\"center\"][bgcolor=\"#000000\"]",
@@ -75995,39 +75224,7 @@
         "div[class*=\"sp-b\"]",
         "div[class*=\"cams-wgt\"]"
     ],
-    "xhamster20.com": [
-        "div[class*=\"ts-init\"]",
-        "div[data-role=\"promo-messages-wrapper\"]",
-        "div[class*=\"clipstore-bottom\"]",
-        "div[class*=\"widget-section\"]",
-        "div[class*=\"cam-wgt\"]",
-        "div[class*=\"pauseSpotContainer\"]",
-        "[class^=\"yld-pc\"]",
-        "div[class*=\"containerBottomSpot\"]",
-        "a[href^=\"https://faphouse.com/\"]",
-        "div.xp-banner-bottom",
-        ".traffic-stars",
-        ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]",
-        "div[class*=\"cams-wgt\"]"
-    ],
     "xhamster22.com": [
-        "div[class*=\"ts-init\"]",
-        "div[data-role=\"promo-messages-wrapper\"]",
-        "div[class*=\"clipstore-bottom\"]",
-        "div[class*=\"widget-section\"]",
-        "div[class*=\"cam-wgt\"]",
-        "div[class*=\"pauseSpotContainer\"]",
-        "[class^=\"yld-pc\"]",
-        "div[class*=\"containerBottomSpot\"]",
-        "a[href^=\"https://faphouse.com/\"]",
-        "div.xp-banner-bottom",
-        ".traffic-stars",
-        ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]",
-        "div[class*=\"cams-wgt\"]"
-    ],
-    "xhamster23.com": [
         "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
@@ -76124,22 +75321,6 @@
         "div[class*=\"cams-wgt\"]"
     ],
     "xhamster32.com": [
-        "div[class*=\"ts-init\"]",
-        "div[data-role=\"promo-messages-wrapper\"]",
-        "div[class*=\"clipstore-bottom\"]",
-        "div[class*=\"widget-section\"]",
-        "div[class*=\"cam-wgt\"]",
-        "div[class*=\"pauseSpotContainer\"]",
-        "[class^=\"yld-pc\"]",
-        "div[class*=\"containerBottomSpot\"]",
-        "a[href^=\"https://faphouse.com/\"]",
-        "div.xp-banner-bottom",
-        ".traffic-stars",
-        ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]",
-        "div[class*=\"cams-wgt\"]"
-    ],
-    "xhamster34.com": [
         "div[class*=\"ts-init\"]",
         "div[data-role=\"promo-messages-wrapper\"]",
         "div[class*=\"clipstore-bottom\"]",
@@ -76300,18 +75481,6 @@
         ".video-thumb[class*=\"__look-like-item\"]",
         "div[class*=\"sp-b\"]",
         "div[class*=\"cams-wgt\"]"
-    ],
-    "moondoge.co.in": [
-        ".flexContentAd",
-        ".btn-sm.btn-coin",
-        ".flexBefore",
-        ".flexAfter"
-    ],
-    "moonliteco.in": [
-        ".flexContentAd",
-        ".btn-sm.btn-coin",
-        ".flexBefore",
-        ".flexAfter"
     ],
     "moondash.co.in": [
         ".flexContentAd",
@@ -77851,9 +77020,6 @@
         "div[class$=\"-icon--ad\"]",
         "div[class$=\"fixed-ad\"]"
     ],
-    "clubnsfw.com": [
-        ".fs-overlay"
-    ],
     "awkwardzombie.com": [
         "#top-space",
         "#right-space"
@@ -78061,9 +77227,6 @@
     "metropolisjapan.com": [
         "#custom_html-3"
     ],
-    "forex-articles.com": [
-        "#custom_html-3"
-    ],
     "linuxpip.org": [
         "#custom_html-3"
     ],
@@ -78090,9 +77253,6 @@
     "indiansexbazar.com": [
         "#custom_html-4",
         "#custom_html-5"
-    ],
-    "streamempire.cc": [
-        "#custom_html-4"
     ],
     "pennbookcenter.com": [
         "#custom_html-4"
@@ -78337,16 +77497,10 @@
     "jelajahinternet.me": [
         ".adsbygoogle"
     ],
-    "speed4up.net": [
-        "div[id^=\"div-gpt-ad\"]"
-    ],
     "kickedface.com": [
         ".adsbygoogle"
     ],
     "kubadownload.com": [
-        ".adsbygoogle"
-    ],
-    "litepaste.com": [
         ".adsbygoogle"
     ],
     "myshorturls.blogspot.com": [
@@ -78364,12 +77518,6 @@
     "pesstatsdatabase.com": [
         ".ad-tag + center > a > img"
     ],
-    "1idsly.com": [
-        ".adsbygoogle"
-    ],
-    "updatetribun.org": [
-        ".adsbygoogle"
-    ],
     "ttsmp3.com": [
         ".adsbygoogle"
     ],
@@ -78379,13 +77527,7 @@
     "shrtfly.com": [
         ".adsbygoogle"
     ],
-    "freecourselab.com": [
-        ".adsbygoogle"
-    ],
     "lingolex.com": [
-        ".adsbygoogle"
-    ],
-    "courseclub.net": [
         ".adsbygoogle"
     ],
     "freshstuff4you.com": [
@@ -78415,9 +77557,6 @@
     "cathnews.co.nz": [
         "#text-12"
     ],
-    "ripple.is": [
-        ".adsbygoogle"
-    ],
     "blogthetech.com": [
         ".td-g-rec"
     ],
@@ -78437,16 +77576,6 @@
     ],
     "arstechnica.co.uk": [
         ".instream-wrap"
-    ],
-    "tvarticles.me": [
-        "div[id^=\"div-gpt-ad-\"]",
-        "#custom_html-3",
-        "#text-4",
-        ".inside",
-        ".section-post-about"
-    ],
-    "shink.me": [
-        "div[id^=\"M\"][id*=\"ScriptRoot\"]"
     ],
     "adguard.info": [
         ".hello_from_adguard_adblocking_app",
@@ -78541,9 +77670,6 @@
     "lmgtfy.app#@": [
         "top_ads",
         "bottom_ads"
-    ],
-    "lapumia.org#@": [
-        "videoAd"
     ],
     "olx.com#@": [
         "adContainer"
@@ -78649,10 +77775,6 @@
     "lightningmaps.org": [
         "#wb_hide",
         "#wb_mobile"
-    ],
-    "rureka.com": [
-        ".ads-img",
-        ".column-left > div.widget.card"
     ],
     "thepoorcoder.com": [
         ".adtester-container",
@@ -78767,12 +77889,6 @@
     ],
     "iculture.nl": [
         ".ad-container"
-    ],
-    "cmovieshd.bz": [
-        "body > div[style^=\"z-index: 9999\"]"
-    ],
-    "vidstreaming.io": [
-        "body > div[style^=\"z-index: 9999\"]"
     ],
     "gamedev.net": [
         ".ad_text",
@@ -80637,6 +79753,12 @@
     "sarkarideals.com": [
         "#custom_html-3",
         "#custom_html-6"
+    ],
+    "tvarticles.me": [
+        "#custom_html-3",
+        "#text-4",
+        ".inside",
+        ".section-post-about"
     ],
     "godisageek.com": [
         "#custom_html-4",
@@ -84467,6 +83589,9 @@
         ".ad-container",
         ".video-ad-wrapper"
     ],
+    "storyboard18.com": [
+        ".ad-container"
+    ],
     "thelocal.ch": [
         ".ad-container",
         ".article--sponsored"
@@ -86580,6 +85705,10 @@
     "classicfm.com": [
         ".apple_music",
         ".dac__mpu-card"
+    ],
+    "happymod.com": [
+        ".appx",
+        ".pvpbar_ad"
     ],
     "560theanswer.com": [
         ".aptivada-widget"
@@ -93946,6 +93075,12 @@
         "[data-bi-placement=\"Criteo_Product_Display_Page_Espot\"]",
         "div.product:has(.criteo-sponsored)"
     ],
+    "eater.com": [
+        "[data-concert=\"desktop_network_river\"]",
+        "[data-concert=\"frontpage_hero_desktop\"]",
+        "[data-concert=\"leaderboard_top_tablet_desktop\"]",
+        "[data-concert=\"tablet_leaderboard\"]"
+    ],
     "curbed.com": [
         "[data-concert=\"prelude\"]"
     ],
@@ -94190,6 +93325,9 @@
     "jagoroniya.com": [
         "[href=\"https://www.virtuanic.com/\"]"
     ],
+    "watch.spencerdevs.xyz": [
+        "[href=\"https://zaccounts.io/\"]"
+    ],
     "wplocker.com": [
         "[href^=\"//namecheap.pxf.io/\"]"
     ],
@@ -94381,6 +93519,11 @@
     "harimanga.me": [
         "[style*=\"width: 100% !important;\"]",
         "[style*=\"z-index:\"]"
+    ],
+    "himovies.to": [
+        "[style*=\"width: 100% !important;\"]",
+        "[style*=\"z-index:\"]",
+        "a[onclick]"
     ],
     "hurawatch.cc": [
         "[style*=\"width: 100% !important;\"]",
@@ -96489,6 +95632,7 @@
         "body.font-yahoobeta > div.items-center:has(style)"
     ],
     "youtube.com": [
+        "#description-inner > ytd-merch-shelf-renderer > #main.ytd-merch-shelf-renderer",
         "#shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)",
         ".ytReelMetapanelViewModelHost > .ytReelMetapanelViewModelMetapanelItem > .ytShortsSuggestedActionViewModelStaticHost",
         ".ytd-section-list-renderer > .ytd-item-section-renderer > ytd-search-pyv-renderer.ytd-item-section-renderer",
@@ -96873,6 +96017,10 @@
         ".above-single-player",
         ".ads-above-single-player",
         ".elementor-element-e8dcf4f"
+    ],
+    "iporntoo.com": [
+        "#playerOverlay",
+        ".adbox-inner"
     ],
     "tsmodelstube.com": [
         "#playerOverlay",
@@ -97794,6 +96942,10 @@
     "cutegurlz.com": [
         ".header-widget"
     ],
+    "hentairules.net": [
+        ".hide_on_mobile",
+        "a[href^=\"http://www.gallery-dump.com\"]"
+    ],
     "pantiespics.net": [
         ".hth"
     ],
@@ -98417,6 +97569,9 @@
     "therealpornwikileaks.com": [
         "a[href*=\".php\"]"
     ],
+    "javjunkies.com": [
+        "a[href*=\"//bit.ly/\"]"
+    ],
     "phun.org": [
         "a[href*=\"//bit.ly/\"]"
     ],
@@ -98486,6 +97641,9 @@
     "vintage-erotica-forum.com": [
         "a[href*=\"theporndude.com\"]"
     ],
+    "waxtube.com": [
+        "a[href*=\"theporndude.com\"]"
+    ],
     "yeapornpls.com": [
         "a[href*=\"theporndude.com\"]"
     ],
@@ -98546,6 +97704,15 @@
     ],
     "publicflashing.me": [
         "div.hentry"
+    ],
+    "xhamster20.com": [
+        "div[class*=\"cams-wgt\"]"
+    ],
+    "xhamster23.com": [
+        "div[class*=\"cams-wgt\"]"
+    ],
+    "xhamster34.com": [
+        "div[class*=\"cams-wgt\"]"
     ],
     "xhamster36.com": [
         "div[class*=\"cams-wgt\"]"
