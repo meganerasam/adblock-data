@@ -14414,3 +14414,5 @@ div[id^="img_"][style^="display: flex; justify-content: center; align-items: cen
 #fallbackTerms.fallback-term-holder
 a[id^="img_"][onfocus^="ss"] > img[class^="img_"]
 div[id^="img_"][style$="height:   250px;overflow:hidden;"]
+a[href*="-load"][href*=".com/content/"][style$="width:   100%;height:   100%"]
+div[style="display:inline"] > span[id^="img_"][style="border:none;margin:0;padding:0;position:relative;display:inline-block"]
