@@ -666,6 +666,11 @@
     "sexcams-24.com#@": [
         "ads_iframe"
     ],
+    "swatalk.com": [
+        "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
+        "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
+        "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"position: fixed;\"]"
+    ],
     "bibliopanda.com": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
@@ -2123,8 +2128,11 @@
         "#st-ami + div[id][class*=\" \"]"
     ],
     "xerifetech.com": [
-        "body> footer ~ .adblock_subtitle + div[class] + div[class]",
+        ".adblock_subtitle + div[class] + div[class]",
         "body > #footer + div[id][class*=\" \"]"
+    ],
+    "ladypopularblog.com": [
+        ".adblock_subtitle + div[class] + div[class]"
     ],
     "donlego.com": [
         "body > #jeg_off_canvas + div[id][class*=\" \"]"
@@ -3044,6 +3052,9 @@
         ".banner-ads",
         ".global-blog-wrapper > .post-item > .post-item-wrap[style=\"max-height: 300px;min-height: 300px;\"]",
         "#fl-ai-widget-placement"
+    ],
+    "lectorhub.j5z.xyz": [
+        "body > .wrap + div[id][class*=\" \"]"
     ],
     "riwayat-word.com": [
         "body > .wrap + div[id][class*=\" \"]"
@@ -4021,6 +4032,10 @@
     ],
     "ru-clip.com": [
         "#morev"
+    ],
+    "uploadcloud.pro": [
+        "#container > div[id][style*=\"display:\"]:has(> div[class][style=\"z-index: 9999999;\"])",
+        ".adsbygoogle"
     ],
     "mhfragristack.in#$": [
         "myNextInst { display: block !important; }"
@@ -15256,9 +15271,10 @@
     ],
     "poczta.onet.pl": [
         "#js_MailsContainer > div[class^=\"go\"]:has(> div:first-child + div[id^=\"onet-ad-\"] + div[class^=\"go\"]:last-child)",
-        ".main-container > div[class^=\"go\"]:only-child > nav + div[class^=\"go\"] > div[class^=\"go\"]:first-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
-        ".main-container > div[class^=\"go\"]:only-child > nav + div[class^=\"go\"] > div[class^=\"go\"]:first-child:has(> div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
-        ".main-container > div[class^=\"go\"]:only-child > nav + div[class^=\"go\"] > div[class^=\"go\"] > nav + div[class^=\"go\"]:last-child > div[class^=\"go\"]:last-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + .onet-ad:last-child)",
+        ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"]:first-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
+        ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"]:last-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
+        ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"]:first-child:has(> div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
+        ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"] > nav + div[class^=\"go\"]:last-child > div[class^=\"go\"]:last-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + .onet-ad:last-child)",
         "div[class^=\"styles__SlotRightColumn-\"]",
         "div[class^=\"styles__SlotTopContainer-\"]",
         ".is-detail-view > div[class^=\"go\"]:has(> #onet-ad-flat-natmailing)"
@@ -25932,9 +25948,6 @@
         ".adsbygoogle",
         "#crosscol > .HTML:not(.PageList)"
     ],
-    "uploadcloud.pro": [
-        ".adsbygoogle"
-    ],
     "bravofly.com": [
         ".adsbygoogle",
         "[class^=\"cmp_sponsoredLinks\"]"
@@ -26669,6 +26682,120 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "crosswordclub.com": [
+        ".crw-leaderboard-desktop-adblock"
+    ],
+    "instapv.com": [
+        "section > div.flex:has(> div.flex > div[data-freestar-ad])"
+    ],
+    "mail.yahoo.com": [
+        "li > div > div > a[rel=\"noreferrer noopener\"]",
+        "a[data-test-id=\"bottom-sticky-pencil-ad\"]",
+        "div[data-test-id=\"right-rail-ad\"]",
+        "a[data-test-id=\"preview-pane-ad\"]",
+        "a[href^=\"https://a.beap.gemini.yahoo.com/mbclk?\"][target=\"_blank\"]",
+        "div[data-test-id=\"darla-container\"]",
+        "div[data-test-id=\"ad-viewability-tracker\"]",
+        "div[data-name=\"infinite-scroll-content\"] > ul > li[data-test-id=\"infinite-scroll-PENCIL\"]",
+        "[data-test-id^=\"pencil-ad\"]",
+        "#commerce_card_group_container:has([data-test-id*=\"affiliate\"])",
+        "#slot_LREC",
+        "[data-test-id=\"gam-iframe\"]",
+        "[data-test-id=\"leaderboard-ad-mobile\"]",
+        "[data-test-id^=\"taboola-ad-\"]",
+        "[rel=\"noreferrer\"][data-test-id][href^=\"https://a.beap.gemini.yahoo.com/mbclk?\"]",
+        "[rel=\"noreferrer\"][data-test-id][href^=\"https://beap.gemini.yahoo.com/mbclk?\"]",
+        "article[aria-labelledby*=\"-pencil-ad-\"]",
+        "li:has(a[href^=\"https://api.taboola.com/\"])"
+    ],
+    "upornia.*": [
+        ".btn-hardlink",
+        ".nopop",
+        ".jw-title-secondary > div.jw-reset",
+        ".video__wrapper > section[style]",
+        ".jwplayer > div.afs_ads ~ span[class][style*=\"flex\"]",
+        ".underplayer > section",
+        ".video-right-top",
+        ".video-videos-slider"
+    ],
+    "privatehomeclips.com": [
+        ".btn-hardlink",
+        ".underplayer > section:has(> div > span > a[href^=\"https://clickadilla.com/\"])",
+        ".nopop",
+        ".left + div:not([class]):last-child",
+        "section[style=\"padding: 20px;\"]",
+        "span[style=\"display:flex !important\"] > div:first-child",
+        ".underplayer > div[class]:not([class*=\"_\"]) > div[class]",
+        "div[style=\"display:flex !important\"] > div",
+        ".partners-wrap + div[class]",
+        ".partners-wrap",
+        ".content > div > div.footer-banners",
+        ".jwplayer > div.afs_ads + span[class]",
+        ".underplayer > div[data-nosnippet]",
+        ".video-page__related > div.listing ~ div[class$=\"videos\"]",
+        ".video-page__content > .right"
+    ],
+    "pornone.com": [
+        ".popbop > div.float-right",
+        ".vjs-info-top",
+        ".iframe-container",
+        "body .vjs-paused > .warp",
+        ".overheaderbanner",
+        ".video-add",
+        ".warp",
+        "a[class^=\"listing\"]"
+    ],
+    "heavyweightboxing.com": [
+        ".infinite-poster-ads",
+        "div[role=\"list\"] > div[role=\"listitem\"]:has(> a.w-inline-block[target=\"_blank\"]:first-child:not([href*=\"heavyweightboxing.com\"]) + img:last-child)",
+        ".top-home-page-stories-wrapper > .infinite-slider-wrapper:has(> .infinite-slider-collection:only-child > div[role=\"list\"]:only-child > div[role=\"listitem\"]:only-child > a.w-inline-block[target=\"_blank\"]:first-child:not([href*=\"heavyweightboxing.com\"]) + img:last-child)"
+    ],
+    "analyticsindiamag.com": [
+        "div[data-id=\"4590719\"]",
+        "div[data-id=\"28e4521\"]",
+        "section[data-element_type=\"section\"] > div.elementor-container > div.elementor-column + div.elementor-column > div.elementor-widget-wrap > div[data-widget_type=\"image.default\"]:has(> div.elementor-widget-container > a[href^=\"https://rb.gy/\"])",
+        "section[data-element_type=\"section\"] > div.elementor-container > div.elementor-column + div.elementor-column > div.elementor-widget-wrap > div[data-widget_type=\"image.default\"]:has(> div.elementor-widget-container > a[href^=\"https://rb.gy/\"]) ~ div[data-widget_type=\"image.default\"]",
+        "section[data-element_type=\"section\"] > div.elementor-container > div.elementor-column + div.elementor-column > div.elementor-widget-wrap > div[data-widget_type=\"image.default\"]:has(> div.elementor-widget-container > a[href^=\"https://rb.gy/\"]) ~ div[data-widget_type=\"image.default\"] ~ section.elementor-section:has(> div.elementor-container a[href^=\"https://adasci.org/\"])",
+        "div[id^=\"elementor-popup-modal-\"]",
+        "div[data-elementor-type=\"header\"] > section.elementor-section",
+        ".elementor-widget-container > a[target=\"_blank\"] > img",
+        "[data-id=\"07dec40\"]",
+        "header > .elementor-column-gap-narrow",
+        ".elementor-widget-spacer",
+        "a[href^=\"https://admissions.praxis.ac.in/\"]",
+        "a[href=\"https://mlds.analyticsindiasummit.com/\"] > img",
+        "a[href=\"https://dataandanalyticsconclave.com/register-now/\"] > img",
+        "a[target=\"_blank\"][data-wpel-link=\"external\"] > img",
+        "img[src=\"https://www.analyticsindiamag.com/wp-content/uploads/2019/02/Blue_03.jpg\"]",
+        "div.post-content > div[class][style=\"clear:both;float:left;width:100%;margin:0 0 20px 0;\"]",
+        ".textwidget > p > a[rel=\"nofollow external noopener noreferrer\"] > img",
+        ".elementor-element-8e2d1f0",
+        "[href^=\"https://business.louisville.edu/\"]",
+        "[width=\"600\"]",
+        "[width=\"728\"]",
+        "div[data-elementor-type=\"header\"] > section.elementor-section-boxed"
+    ],
+    "fandom.com": [
+        ".main-container > .top_leaderboard-odyssey-wrapper:has(> .top-ads-container)",
+        "iframe[data-s1search-id=\"mainline-top-ads-bing-top\"]",
+        ".top-ads-container",
+        "div[class^=\"aff-unit\"]",
+        "#featured-video__player-container",
+        ".aff-unit__wrapper",
+        ".marketplace",
+        ".top_leaderboard-odyssey-wrapper"
+    ],
+    "esporno.net": [
+        ".row > li:has(> a[rel=\"nofollow sponsored\"])",
+        ".h-block-250"
+    ],
+    "zhuostream.com": [
+        "#floatcenter",
+        "#overplay"
+    ],
+    "total-sportek.to#$": [
+        "matchTable { min-height: fit-content !important; }"
+    ],
     "irishtimes.com": [
         ".c-stack > div.lazy_container:has(> div.b-flex-chain div.arcad-feature)",
         ".sub-prompt",
@@ -27074,21 +27201,6 @@
     ],
     "xxxpornhd.pro": [
         ".video-container > div.link"
-    ],
-    "privatehomeclips.com": [
-        ".underplayer > section:has(> div > span > a[href^=\"https://clickadilla.com/\"])",
-        ".left + div:not([class]):last-child",
-        "section[style=\"padding: 20px;\"]",
-        "span[style=\"display:flex !important\"] > div:first-child",
-        ".underplayer > div[class]:not([class*=\"_\"]) > div[class]",
-        "div[style=\"display:flex !important\"] > div",
-        ".partners-wrap + div[class]",
-        ".partners-wrap",
-        ".content > div > div.footer-banners",
-        ".jwplayer > div.afs_ads + span[class]",
-        ".underplayer > div[data-nosnippet]",
-        ".video-page__related > div.listing ~ div[class$=\"videos\"]",
-        ".video-page__content > .right"
     ],
     "thetranny.com": [
         "ul.primary > li:has(> a[href*=\"tsyndicate.com\"])",
@@ -29560,6 +29672,29 @@
         ".suggestions",
         ".under-channel"
     ],
+    "desi-porn.tube": [
+        ".nopop",
+        ".da-container",
+        ".content > div > div[class]:has(> .wrapper:only-child > div[class]:first-child + div[class]:last-child > div[class]:only-child > .da-container)",
+        ".fah-btn",
+        ".under-channel"
+    ],
+    "thegay.com": [
+        ".nopop",
+        ".content > div:not([class]) > .wrapper ~ div[class]:not(.wrapper)",
+        ".underplayer__info > div[class]:first-child",
+        ".video-page__content > div.left + div[class]:last-child",
+        "div[style=\"display:flex !important\"] > div",
+        ".wrapper + section",
+        ".navigation  > ul.primary > li > a[href][target=\"_blank\"]",
+        ".poper_show",
+        ".bottom-adv",
+        ".fiioed",
+        ".footer-banners",
+        ".underplayer__info > div:not([class])",
+        ".video-page__content > .right",
+        ".video-slider-container"
+    ],
     "abmilf.com": [
         ".wrapper > section:has(> div > div[style^=\"width\"] > div.ad__title)",
         ".right"
@@ -31642,13 +31777,6 @@
         "article > section",
         "div[style=\"width: 300px; height: 250px;\"]"
     ],
-    "desi-porn.tube": [
-        ".da-container",
-        ".content > div > div[class]:has(> .wrapper:only-child > div[class]:first-child + div[class]:last-child > div[class]:only-child > .da-container)",
-        ".nopop",
-        ".fah-btn",
-        ".under-channel"
-    ],
     "miruro.tv": [
         ".a-ads"
     ],
@@ -31726,22 +31854,6 @@
         ".adsbypubpower",
         ".download-page > a[target=\"_blank\"] > img",
         "iframe[class^=\"iframe_id\"]"
-    ],
-    "thegay.com": [
-        ".nopop",
-        ".content > div:not([class]) > .wrapper ~ div[class]:not(.wrapper)",
-        ".underplayer__info > div[class]:first-child",
-        ".video-page__content > div.left + div[class]:last-child",
-        "div[style=\"display:flex !important\"] > div",
-        ".wrapper + section",
-        ".navigation  > ul.primary > li > a[href][target=\"_blank\"]",
-        ".poper_show",
-        ".bottom-adv",
-        ".fiioed",
-        ".footer-banners",
-        ".underplayer__info > div:not([class])",
-        ".video-page__content > .right",
-        ".video-slider-container"
     ],
     "itsfoss.com": [
         ".c-content > div.kg-card:has(> a[href=\"https://itsfoss.com/#/portal/signup\"])",
@@ -31836,14 +31948,6 @@
         "a[href^=\"/download-fast/\"]",
         ".content-body > .bg-info:has(> a[target=\"_blank\"])",
         ".panel-body > .row > .col-md-4:has(> .panel > .panel-footer > a[href^=\"/download-fast/\"]:is([namehost^=\"UseNe\"], [namehost^=\"UseeNe\"]))"
-    ],
-    "upornia.*": [
-        ".jw-title-secondary > div.jw-reset",
-        ".video__wrapper > section[style]",
-        ".jwplayer > div.afs_ads ~ span[class][style*=\"flex\"]",
-        ".underplayer > section",
-        ".video-right-top",
-        ".video-videos-slider"
     ],
     "vcloud.lol": [
         "#tgbtn",
@@ -32538,15 +32642,6 @@
         "div[style*=\"2147483647\"]",
         "html > div[style^=\"position: fixed; inset: 0px;\"]"
     ],
-    "fandom.com": [
-        "iframe[data-s1search-id=\"mainline-top-ads-bing-top\"]",
-        ".top-ads-container",
-        "div[class^=\"aff-unit\"]",
-        "#featured-video__player-container",
-        ".aff-unit__wrapper",
-        ".marketplace",
-        ".top_leaderboard-odyssey-wrapper"
-    ],
     "haaretz.com": [
         "div + div:has(> div[data-adunit])",
         "div[data-test=\"bottomStrip\"]",
@@ -33054,8 +33149,8 @@
         "#sidebar > div.section:has(> div.textwidget a[href=\"https://xxxhdv.com\"])",
         "#sidebar > div.section:has(> div.textwidget ins[data-zoneid])",
         "div[style^=\"position:fixed;inset:0px;\"]",
-        "#overplay",
-        ".active-item"
+        ".active-item",
+        "#overplay"
     ],
     "xstream.top": [
         "div[style^=\"position:fixed;inset:0px;\"]"
@@ -34169,29 +34264,6 @@
         "#sponsored",
         ".a-box",
         ".a-block"
-    ],
-    "analyticsindiamag.com": [
-        "section[data-element_type=\"section\"] > div.elementor-container > div.elementor-column + div.elementor-column > div.elementor-widget-wrap > div[data-widget_type=\"image.default\"]:has(> div.elementor-widget-container > a[href^=\"https://rb.gy/\"])",
-        "section[data-element_type=\"section\"] > div.elementor-container > div.elementor-column + div.elementor-column > div.elementor-widget-wrap > div[data-widget_type=\"image.default\"]:has(> div.elementor-widget-container > a[href^=\"https://rb.gy/\"]) ~ div[data-widget_type=\"image.default\"]",
-        "section[data-element_type=\"section\"] > div.elementor-container > div.elementor-column + div.elementor-column > div.elementor-widget-wrap > div[data-widget_type=\"image.default\"]:has(> div.elementor-widget-container > a[href^=\"https://rb.gy/\"]) ~ div[data-widget_type=\"image.default\"] ~ section.elementor-section:has(> div.elementor-container a[href^=\"https://adasci.org/\"])",
-        "div[id^=\"elementor-popup-modal-\"]",
-        "div[data-elementor-type=\"header\"] > section.elementor-section",
-        ".elementor-widget-container > a[target=\"_blank\"] > img",
-        "[data-id=\"07dec40\"]",
-        "header > .elementor-column-gap-narrow",
-        ".elementor-widget-spacer",
-        "a[href^=\"https://admissions.praxis.ac.in/\"]",
-        "a[href=\"https://mlds.analyticsindiasummit.com/\"] > img",
-        "a[href=\"https://dataandanalyticsconclave.com/register-now/\"] > img",
-        "a[target=\"_blank\"][data-wpel-link=\"external\"] > img",
-        "img[src=\"https://www.analyticsindiamag.com/wp-content/uploads/2019/02/Blue_03.jpg\"]",
-        "div.post-content > div[class][style=\"clear:both;float:left;width:100%;margin:0 0 20px 0;\"]",
-        ".textwidget > p > a[rel=\"nofollow external noopener noreferrer\"] > img",
-        ".elementor-element-8e2d1f0",
-        "[href^=\"https://business.louisville.edu/\"]",
-        "[width=\"600\"]",
-        "[width=\"728\"]",
-        "div[data-elementor-type=\"header\"] > section.elementor-section-boxed"
     ],
     "primagames.com": [
         ".htlad-primagamescom_leaderboard_atf",
@@ -39199,25 +39271,6 @@
     "indojavstream.com": [
         ".box_item_ads_popup"
     ],
-    "mail.yahoo.com": [
-        "a[data-test-id=\"bottom-sticky-pencil-ad\"]",
-        "div[data-test-id=\"right-rail-ad\"]",
-        "a[data-test-id=\"preview-pane-ad\"]",
-        "a[href^=\"https://a.beap.gemini.yahoo.com/mbclk?\"][target=\"_blank\"]",
-        "div[data-test-id=\"darla-container\"]",
-        "div[data-test-id=\"ad-viewability-tracker\"]",
-        "div[data-name=\"infinite-scroll-content\"] > ul > li[data-test-id=\"infinite-scroll-PENCIL\"]",
-        "[data-test-id^=\"pencil-ad\"]",
-        "#commerce_card_group_container:has([data-test-id*=\"affiliate\"])",
-        "#slot_LREC",
-        "[data-test-id=\"gam-iframe\"]",
-        "[data-test-id=\"leaderboard-ad-mobile\"]",
-        "[data-test-id^=\"taboola-ad-\"]",
-        "[rel=\"noreferrer\"][data-test-id][href^=\"https://a.beap.gemini.yahoo.com/mbclk?\"]",
-        "[rel=\"noreferrer\"][data-test-id][href^=\"https://beap.gemini.yahoo.com/mbclk?\"]",
-        "article[aria-labelledby*=\"-pencil-ad-\"]",
-        "li:has(a[href^=\"https://api.taboola.com/\"])"
-    ],
     "mail.aol.com": [
         "div[data-test-id=\"pencil-ad\"]",
         "div[data-test-id=\"virtual-list\"] > ul[role=\"list\"][aria-label] > li[style]:has(a[href^=\"https://api.taboola.com/\"][href*=\"/yahoo-aol-mail/\"])",
@@ -40929,7 +40982,11 @@
         "div[elevation=\",3\"][display=\"block,none,block\"]",
         ".ad-unit__text",
         ".adUnitBox",
-        "[href*=\"bit.ly/\"]"
+        ".as_stretch",
+        ".gap_2xs",
+        ".z_fixed",
+        "[href*=\"bit.ly/\"]",
+        ".pos_initial.ta_center:has-text(Advertisement)"
     ],
     "tempmail.plus": [
         "div[class^=\"admain\"]",
@@ -41730,15 +41787,6 @@
     ],
     "prabhatkhabar.com": [
         "._24SDO"
-    ],
-    "pornone.com": [
-        ".vjs-info-top",
-        ".iframe-container",
-        "body .vjs-paused > .warp",
-        ".overheaderbanner",
-        ".video-add",
-        ".warp",
-        "a[class^=\"listing\"]"
     ],
     "cutout.pro": [
         ".appRecommend"
@@ -42726,6 +42774,10 @@
         ".flirt-footer",
         ".flirt-block",
         ".th-ba"
+    ],
+    "shemale.pub": [
+        ".abottom",
+        "#amiddle"
     ],
     "metasrc.com": [
         "div[style=\"display: flex;justify-content: center;\"] > div:first-child[class] + div[class] + div[class]:last-child:empty",
@@ -51948,6 +52000,16 @@
         "div[class=\"home_game_image_featured\"][id=\"header-game1-left\"]",
         "#content-game > div[style=\"margin-top:130px;\"] > p"
     ],
+    "xxxvogue.net": [
+        "div[data-title=\"Advertisement\"]",
+        "#embed-parrot",
+        "#embed-embed-overlay",
+        ".banner-wrapper",
+        "#embed-overlay",
+        "#parrot",
+        ".banners-container",
+        ".link-adv"
+    ],
     "hdsex2.com": [
         "div[data-title=\"Advertisement\"]"
     ],
@@ -53505,6 +53567,9 @@
         ".wrapper > div[style=\"text-align:center;font-family:Tahoma;\"]:not([class]):not([id])",
         "#vpnvpn"
     ],
+    "erotic-hentai.com": [
+        "#tracking-url"
+    ],
     "erogarga.com": [
         "#tracking-url"
     ],
@@ -53689,15 +53754,6 @@
     ],
     "techinferno.com": [
         "a[rel=\"sponsored\"]"
-    ],
-    "xxxvogue.net": [
-        "#embed-parrot",
-        "#embed-embed-overlay",
-        ".banner-wrapper",
-        "#embed-overlay",
-        "#parrot",
-        ".banners-container",
-        ".link-adv"
     ],
     "ehftv.com": [
         ".banner-wrapper",
@@ -79154,6 +79210,11 @@
         ".sbcontent",
         ".top-banner"
     ],
+    "apkmody.mobi": [
+        "#custom-container",
+        "#flirtwith-modal",
+        ".body-fixed-footer"
+    ],
     "miloserdov.org": [
         "#custom_html-10",
         "#custom_html-11",
@@ -79515,10 +79576,6 @@
         "[style*=\"width: 100% !important;\"]",
         "[style*=\"z-index:\"]"
     ],
-    "apkmody.mobi": [
-        "#flirtwith-modal",
-        ".body-fixed-footer"
-    ],
     "clintonherald.com": [
         "#floorboard_block"
     ],
@@ -79727,6 +79784,10 @@
     ],
     "nisnews.nl": [
         "#header-wrap"
+    ],
+    "dailyherald.com": [
+        "#headerBarAd",
+        ".stnContainer"
     ],
     "forums.space.com": [
         "#header_leaderboard",
@@ -91218,9 +91279,6 @@
     ],
     "minecraftlist.org": [
         ".stickywrapper"
-    ],
-    "dailyherald.com": [
-        ".stnContainer"
     ],
     "stationx.net": [
         ".stnx-cta-embed"
