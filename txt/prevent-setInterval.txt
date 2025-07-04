@@ -9,6 +9,102 @@
             ]
         },
         {
+            "pattern": "animekai.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "yflix.to",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidsrc.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "embed.su",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "bembed.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "embedv.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "fslinks.org",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "listeamed.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "v6embed.xyz",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vembed.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vgplayer.xyz",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vid-guard.com",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
             "pattern": "smashboards.com",
             "args": [
                 [
@@ -325,14 +421,6 @@
             ]
         },
         {
-            "pattern": "choosingnothing.com",
-            "args": [
-                [
-                    "devtoolsDetector"
-                ]
-            ]
-        },
-        {
             "pattern": "jetv.xyz",
             "args": [
                 [
@@ -345,86 +433,6 @@
             "args": [
                 [
                     "DevToolsOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "vidsrc.*",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "embed.su",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "bembed.net",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "embedv.net",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "fslinks.org",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "listeamed.net",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "v6embed.xyz",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vembed.*",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vgplayer.xyz",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vid-guard.com",
-            "args": [
-                [
-                    "devtool"
                 ]
             ]
         },
@@ -693,15 +701,6 @@
         },
         {
             "pattern": "akbardwi.my.id",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "bg-gledai.*",
             "args": [
                 [
                     "visibility",
@@ -1646,6 +1645,15 @@
             ]
         },
         {
+            "pattern": "bg-gledai.*",
+            "args": [
+                [
+                    "visibility",
+                    "1000"
+                ]
+            ]
+        },
+        {
             "pattern": "cheatsquad.gg",
             "args": [
                 [
@@ -2219,14 +2227,6 @@
         },
         {
             "pattern": "thedigitalfix.com",
-            "args": [
-                [
-                    "debug"
-                ]
-            ]
-        },
-        {
-            "pattern": "nolive.me",
             "args": [
                 [
                     "debug"
