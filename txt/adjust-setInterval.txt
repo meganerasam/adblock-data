@@ -276,12 +276,6 @@
             ]
         },
         {
-            "pattern": "upfile.us",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "game-kentang.blogspot.com",
             "args": [
                 []
@@ -307,12 +301,6 @@
         },
         {
             "pattern": "mobilelegends.shop",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "ockles.com",
             "args": [
                 []
             ]
@@ -373,29 +361,6 @@
         },
         {
             "pattern": "cpmlink.pro",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "speedynews.xyz",
-            "args": [
-                [],
-                [
-                    "updatePercentage",
-                    "100",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "infokeeda.xyz",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "webzeni.com",
             "args": [
                 []
             ]
@@ -491,12 +456,6 @@
             ]
         },
         {
-            "pattern": "lootlinks.*",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "7misr4day.com",
             "args": [
                 []
@@ -546,12 +505,6 @@
         },
         {
             "pattern": "vkprime.com",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "i-polls.com",
             "args": [
                 []
             ]
@@ -1374,16 +1327,6 @@
         },
         {
             "pattern": "healthy4pepole.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
-            "pattern": "hightrip.net",
             "args": [
                 [
                     "/.?/",
@@ -2770,17 +2713,7 @@
             ]
         },
         {
-            "pattern": "games.charlotteobserver.com",
-            "args": [
-                [
-                    "generalTimeLeft",
-                    "*",
-                    "0.001"
-                ]
-            ]
-        },
-        {
-            "pattern": "games.cnhinews.com",
+            "pattern": "games.charlottegames.cnhinews.com",
             "args": [
                 [
                     "generalTimeLeft",
@@ -3090,17 +3023,7 @@
             ]
         },
         {
-            "pattern": "games.games.newsobserver.com",
-            "args": [
-                [
-                    "generalTimeLeft",
-                    "*",
-                    "0.001"
-                ]
-            ]
-        },
-        {
-            "pattern": "games.parade.com",
+            "pattern": "games.games.newsgames.parade.com",
             "args": [
                 [
                     "generalTimeLeft",
@@ -4201,20 +4124,20 @@
             ]
         },
         {
-            "pattern": "play.aidungeon.io",
+            "pattern": "speedynews.xyz",
             "args": [
                 [
-                    "current()"
+                    "updatePercentage",
+                    "100",
+                    "0.02"
                 ]
             ]
         },
         {
-            "pattern": "whatsappmods.net",
+            "pattern": "play.aidungeon.io",
             "args": [
                 [
-                    "l",
-                    "",
-                    "0"
+                    "current()"
                 ]
             ]
         },
@@ -4367,6 +4290,14 @@
             "args": [
                 [
                     "saniye"
+                ]
+            ]
+        },
+        {
+            "pattern": "choralia.net",
+            "args": [
+                [
+                    "download"
                 ]
             ]
         },
