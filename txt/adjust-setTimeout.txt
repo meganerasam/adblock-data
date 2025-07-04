@@ -695,16 +695,6 @@
             ]
         },
         {
-            "pattern": "dvdgayonline.com",
-            "args": [
-                [
-                    "countdown",
-                    "1000",
-                    "0.02"
-                ]
-            ]
-        },
-        {
             "pattern": "investnewsbrazil.com",
             "args": [
                 [
@@ -1078,15 +1068,6 @@
                     "getElementById",
                     "*",
                     "0.001"
-                ]
-            ]
-        },
-        {
-            "pattern": "webzeni.com",
-            "args": [
-                [
-                    "",
-                    "1000"
                 ]
             ]
         },
