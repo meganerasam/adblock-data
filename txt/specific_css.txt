@@ -4037,6 +4037,9 @@
     "ru-clip.com": [
         "#morev"
     ],
+    "historicaerials.com#$": [
+        "xcontent_container > div[id][style*=\"position: fixed\"][style*=\"z-index:\"]:has(> .modal-content > div > button[onclick=\"window.location.reload();\"]) { display: none !important; }"
+    ],
     "uploadcloud.pro": [
         "#container > div[id][style*=\"display:\"]:has(> div[class][style=\"z-index: 9999999;\"])",
         ".adsbygoogle"
@@ -4396,6 +4399,9 @@
         ".popSc",
         "#blur-background",
         "#popup"
+    ],
+    "refifa.com": [
+        "detect-modal { display: none !important; }"
     ],
     "techcentral.co.za": [
         "detect-modal { display: none !important; }",
@@ -11096,6 +11102,9 @@
     ],
     "open.online": [
         "a[rel=\"sponsored\"]"
+    ],
+    "sportitalialive.com": [
+        "#loadingSpinnerContainer"
     ],
     "autopareri.com": [
         ".ipsWidget[data-blockerrormessage]:has(> .ipsWidget_inner:only-child > div[data-aa-adunit]:only-child)"
@@ -22590,6 +22599,7 @@
         ".banner",
         ".thumbs-list > .content-side:has(> .banner)",
         "a[href^=\"https://claring-loccelkin.com/\"]",
+        ".nav > li > a[target=\"_blank\"]",
         ".block-videos > div.content-aside:has(> div.banner)",
         ".after_adv",
         "#yotam",
@@ -26033,6 +26043,12 @@
     "download.pixelexperience.org": [
         ".adsbygoogle"
     ],
+    "transvids.tv": [
+        ".block-video > div.table",
+        ".ribbonban",
+        ".footer-margin",
+        ".primary > li:has(> div > ul > li > a[href^=\"https://landing.transangelsnetwork.com/\"])"
+    ],
     "cartoonporn24.com": [
         ".block-video > div.table",
         ".content > .top:has(> center > .adsbyexoclick)"
@@ -26689,6 +26705,35 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "s10.watchfreejavonline.co": [
+        ".menu-item > a[href]:not([href*=\"watchfreejavonline.co\"],[href^=\"/\"])",
+        "#sidebar-right > div[id^=\"custom_\"]",
+        ".mg-footer-widget-area"
+    ],
+    "smallseotools.com": [
+        "div[style=\"width:300px;height:250px\"]",
+        "div[style=\"min-height:250px\"]",
+        "div[style=\"width:728px;height:250px;\"]",
+        "div[style=\"height:90px\"]",
+        "div[style=\"height:90px\"] + div.col",
+        "body .sticki_ssb",
+        ".mx-auto.d-block"
+    ],
+    "pornditt.com": [
+        ".primary > li:has(> a[href][target=\"_blank\"])"
+    ],
+    "homemade.adult": [
+        ".main-container > div[align=\"center\"]",
+        "#lj-container"
+    ],
+    "hd21.*": [
+        ".adv_middle",
+        "#live-cam-footer",
+        ".advertisment_block",
+        ".wrap_livecams",
+        ".holder > div.item:has(> a[href^=\"https://faphouse.com/\"])",
+        ".aside_video > .wrap > .title"
+    ],
     "listenonrepeat.com": [
         "#mobile_ad_main"
     ],
@@ -27181,6 +27226,12 @@
         "#overlay",
         "body[style=\"background: #000000; margin: 0; padding: 0\"]:not([class*=\"video-page\"])"
     ],
+    "xhand.net": [
+        "#lj-container",
+        "p[style=\"color: #000000;\"]",
+        "div[align=\"center\"]:has(p[style=\"color: #000000;\"])",
+        "div[style]:has(> iframe)"
+    ],
     "trannygem.com": [
         ".related-videos:has(> span[id$=\"-Nat-vip\"])",
         ".in_player_video",
@@ -27388,7 +27439,9 @@
         ".widget_text:has(> .textwidget > p > #_wau1ml)"
     ],
     "abtranny.com": [
-        "div[style*=\"width:\"][style*=\"height\"]:not([class], [id]):has(> .ad__title)"
+        "div[style*=\"width:\"][style*=\"height\"]:not([class], [id]):has(> .ad__title)",
+        ".header__nav > a[href][target=\"_blank\"][rel=\"nofollow\"]",
+        ".nopop"
     ],
     "westmanga.me": [
         "#teaserbottom"
@@ -27532,12 +27585,6 @@
         ".undefined:has(> .adsbygoogle)",
         "div[class*=\"250px\"]:has(> div[class] > #aniBox)",
         ".h-0.flex-1:has(.items-start > a[target=\"_blank\"])"
-    ],
-    "xhand.net": [
-        "p[style=\"color: #000000;\"]",
-        "div[align=\"center\"]:has(p[style=\"color: #000000;\"])",
-        "div[style]:has(> iframe)",
-        "#lj-container"
     ],
     "taxi69.com": [
         ".col-publi > div:has(> ins[data-zoneid])",
@@ -30979,6 +31026,8 @@
         ".popup-counter-deal__wrapper"
     ],
     "rumble.com": [
+        "div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"])",
+        ".main-and-sidebar > aside[class*=\"-sidebar\"] > div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"]) + div.border-bone-highlight:empty",
         ".homepage-section:has(> div.constrained > div.js-rac-desktop-container)",
         ".homepage-section:has(> div.constrained > div[data-js^=\"rac-rp_\"])",
         "main > section.homepage-section:has(> div.constrained a[href^=\"https://polymarket.com\"])",
@@ -31650,7 +31699,7 @@
         "div[data-id^=\"div-gpt-ad-\"]",
         "#banner-sterling",
         ".sterling",
-        "a[data-label=\"avastjune\"]"
+        "a[data-label^=\"avast\"]"
     ],
     "diep.io": [
         "div[id*=\"300x250\"]",
@@ -35787,10 +35836,8 @@
         "div[id^=\"ContentPlaceHolder\"][id*=\"_divMultichainAddress\"] + .scrollbar-custom > .d-flex > .text-center > ins",
         ".container-xxl > div.align-items-center > div.col-md-9 + div.col-auto",
         ".auto-results-wrapper > div.p-2",
-        "#t8xt5pt6kr-0-1",
-        "[data-t8xt5pt6kr-seq=\"0\"]",
-        "div > a[target=\"_blank\"][rel=\"nofollow\"] > img[alt=\"Ads\"]",
-        ".text-white.text-opacity-75.noindex-section.mb-0:has([style=\"text-decoration: none;\"])"
+        "#ContentPlaceHolder1_maintable > .card > .row:has(a[href=\"/contactusadvertise\"])",
+        "div[data-nosnippet]:has(> ins[id])"
     ],
     "efe.com": [
         ".inside-right-sidebar > aside.widget:has(> div > div[id^=\"div-gpt-ad\"])"
@@ -37033,9 +37080,7 @@
         ".justify-content-center > span[style^=\"line-height:\"]",
         ".col-12 .showcase-banner-text",
         ".col-12 .showcase-banner-text + img",
-        ".showcase-banner-spacing",
-        "#my-banner-ad",
-        "#t8xt5pt6kr-0-1"
+        ".showcase-banner-spacing"
     ],
     "amazon.com": [
         "div[id^=\"CardInstance\"][data-card-metrics-id^=\"tempo-desktop-typ-prominent\"]",
@@ -41020,12 +41065,8 @@
         "div[display=\"none,block\"] > div[elevation=\"2\"]:empty",
         "div[elevation=\",3\"][display=\"block,none,block\"]",
         ".ad-unit__text",
-        ".adUnitBox",
-        ".as_stretch",
-        ".gap_2xs",
-        ".z_fixed",
-        "[href*=\"bit.ly/\"]",
-        ".pos_initial.ta_center:has-text(Advertisement)"
+        ".ad-unit-container",
+        "[href*=\"bit.ly/\"]"
     ],
     "tempmail.plus": [
         "div[class^=\"admain\"]",
@@ -41543,12 +41584,9 @@
     ],
     "porn300.com": [
         ".wrapper > ul[class$=\"video-units\"]",
-        "[class^=\"aaann_fake\"]",
+        ".a2c7txdxh",
         ".links-out",
         "[class^=\"aan_\"]",
-        ".aan__video-units",
-        "#multitubes-ad",
-        ".aan",
         "#overlay-video",
         ".hidden-under-920",
         ".wrapper__related-sites",
@@ -47042,7 +47080,9 @@
     ],
     "classcentral.com": [
         "body .cmpt-ad",
-        ".cmpt-ad"
+        ".cmpt-ad",
+        "li:has(iframe[src^=\"/catalog-iframe?\"])",
+        "p + div:has(.responsive-post:has([href^=\"https://www.semrush.com\"]))"
     ],
     "mercomindia.com": [
         "#header-widget-area"
@@ -51177,6 +51217,11 @@
     ],
     "sundryfiles.com": [
         ".download-timer-text + div[style=\"text-align:center;font-size:13px;color:#a1a1a1;\"]"
+    ],
+    "videosdemadurasx.com": [
+        "a[rel^=\"sponsored\"]",
+        ".link",
+        ".wrap-spot"
     ],
     "an1.com": [
         "a[rel^=\"sponsored\"]"
@@ -56155,9 +56200,6 @@
         "a[href*=\"bit.ly\"][rel=\"nofollow\"] > img[alt]",
         ".inner_container > div:not([class]):not([id]) > div[style^=\"float:left\"]"
     ],
-    "hd21.*": [
-        ".aside_video > .wrap > .title"
-    ],
     "empireproleague.com": [
         "a[href=\"https://www.venerablelawfirm.com/\"]",
         "a[href=\"https://empire-pro-nutrition.goherbalife.com/Catalog/Home/Index/en-US/\"]"
@@ -60195,14 +60237,6 @@
         "#postlist > #posts > div[align=\"center\"][style=\"padding:15px\"]",
         ".posts > div.mn_postbit_ab"
     ],
-    "hd21.com": [
-        ".drt-spot-visible",
-        ".puFloatDiv",
-        "#abmessage",
-        "#spot_video_livecams",
-        "#spot_video_underplayer_livecams",
-        ".aside_video"
-    ],
     "yeptube.com": [
         ".puFloatDiv",
         ".drt-spot-box"
@@ -60257,6 +60291,10 @@
     ],
     "codecanyon.net": [
         ".canvas__header > .banner"
+    ],
+    "xnxxporns.com": [
+        ".aff-col",
+        "div[style=\"width:100%;text-align:center\"]"
     ],
     "ruleporn.com": [
         ".aff-col"
@@ -72795,7 +72833,8 @@
         "headerAreaWrap { height: 180px !important; }"
     ],
     "check-host.net": [
-        "div[class*=\"elative\"]",
+        "div[class*=\"-f\"]:has(> * > img[src*=\".svg\"])",
+        "div[class*=\"ative\"]",
         ".ra-elative"
     ],
     "quora.com": [
@@ -73412,13 +73451,6 @@
         ".find-dream-job",
         ".recent-jobs-widget",
         ".sticky-item-group"
-    ],
-    "smallseotools.com": [
-        "div[style=\"width:728px;height:250px;\"]",
-        "div[style=\"height:90px\"]",
-        "div[style=\"height:90px\"] + div.col",
-        "body .sticki_ssb",
-        ".mx-auto.d-block"
     ],
     "duplichecker.com": [
         "div:has(> span[style=\"display: inline-block;\"])",
@@ -80816,17 +80848,19 @@
         ".bv-unit-wrapper",
         ".unit-header-container"
     ],
+    "thedrive.com": [
+        "#pw-iab-leaderboard",
+        "#pw-top-right-sidebar-aib"
+    ],
+    "twz.com": [
+        "#pw-iab-leaderboard",
+        "#pw-top-right-sidebar-aib",
+        ".recurrent-inline-leaderboard"
+    ],
     "taskandpurpose.com": [
         "#pw-top-right-sidebar-aib",
         ".recurrent-inline-leaderboard",
         ".empire-unit-prefill-container"
-    ],
-    "thedrive.com": [
-        "#pw-top-right-sidebar-aib"
-    ],
-    "twz.com": [
-        "#pw-top-right-sidebar-aib",
-        ".recurrent-inline-leaderboard"
     ],
     "lambgoat.com": [
         "#pwDeskLbAtf-container"
@@ -91014,6 +91048,7 @@
     "macys.com": [
         ".siteMonetization",
         ".sortable-grid-sponsored-items",
+        "[data-load-beacon*=\"criteo.com/rm\"]",
         "li.productThumbnailItem:has(.sponsored-items-label)"
     ],
     "garagejournal.com": [
@@ -91809,6 +91844,11 @@
     "towleroad.com": [
         ".towletarget"
     ],
+    "thegrio.com": [
+        ".tpd-incontent-ad-container",
+        ".aspect-ratio-box",
+        ".tpd-featured-video"
+    ],
     "totalprosports.com": [
         ".tps-top-leaderboard",
         "[data-stn-player=\"n2psbctm\"]"
@@ -92148,6 +92188,9 @@
         "[width=\"728\"]"
     ],
     "foreverconscious.com": [
+        ".widget_media_image"
+    ],
+    "friendsjournal.org": [
         ".widget_media_image"
     ],
     "jharkhandmirror.net": [
@@ -95106,9 +95149,6 @@
     "ootrandomizer.com": [
         ".slot-top-video"
     ],
-    "thegrio.com": [
-        ".tpd-featured-video"
-    ],
     "bowhunter.com": [
         ".video-detail-player"
     ],
@@ -95647,6 +95687,11 @@
     ],
     "w3avenue.com": [
         "#sponsorsbox"
+    ],
+    "hd21.com": [
+        "#spot_video_livecams",
+        "#spot_video_underplayer_livecams",
+        ".aside_video"
     ],
     "xnxxporn.video": [
         "#spotholder",
@@ -96522,10 +96567,6 @@
         "[x-show$=\"video_details'\"] > div > .list-disc",
         "a[href*=\"//bit.ly/\"]",
         "div[style=\"width: 300px; height: 250px;\"]"
-    ],
-    "videosdemadurasx.com": [
-        ".link",
-        ".wrap-spot"
     ],
     "loverslab.com": [
         ".ll_adblock"
