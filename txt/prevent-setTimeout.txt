@@ -64,6 +64,22 @@
             ]
         },
         {
+            "pattern": "animekai.*",
+            "args": [
+                [
+                    "||!!"
+                ]
+            ]
+        },
+        {
+            "pattern": "yflix.to",
+            "args": [
+                [
+                    "||!!"
+                ]
+            ]
+        },
+        {
             "pattern": "tides.net",
             "args": [
                 [
@@ -247,8 +263,7 @@
             "pattern": "numberempire.com",
             "args": [
                 [
-                    "w3ad",
-                    "1000"
+                    "w3ad"
                 ]
             ]
         },
@@ -1092,22 +1107,6 @@
                 ],
                 [
                     "window.open"
-                ]
-            ]
-        },
-        {
-            "pattern": "anime3s.com",
-            "args": [
-                [
-                    "debugger"
-                ]
-            ]
-        },
-        {
-            "pattern": "animet1.net",
-            "args": [
-                [
-                    "debugger"
                 ]
             ]
         },
@@ -3111,14 +3110,6 @@
             ]
         },
         {
-            "pattern": "animesuge.to",
-            "args": [
-                [
-                    "||null"
-                ]
-            ]
-        },
-        {
             "pattern": "aniwave.*",
             "args": [
                 [
@@ -3322,22 +3313,6 @@
             ]
         },
         {
-            "pattern": "yugenanime.sx",
-            "args": [
-                [
-                    "detectLoop"
-                ]
-            ]
-        },
-        {
-            "pattern": "yugenanime.tv",
-            "args": [
-                [
-                    "detectLoop"
-                ]
-            ]
-        },
-        {
             "pattern": "openanesthesia.org",
             "args": [
                 [
@@ -3387,6 +3362,9 @@
                     "=document[_0x"
                 ],
                 [
+                    "DkQoS"
+                ],
+                [
                     "detectImgLoad"
                 ]
             ]
@@ -3406,30 +3384,6 @@
                 [
                     "]();}",
                     "500"
-                ]
-            ]
-        },
-        {
-            "pattern": "infinityscans.xyz",
-            "args": [
-                [
-                    ".adv-"
-                ]
-            ]
-        },
-        {
-            "pattern": "infinityscans.net",
-            "args": [
-                [
-                    ".adv-"
-                ]
-            ]
-        },
-        {
-            "pattern": "infinityscans.org",
-            "args": [
-                [
-                    ".adv-"
                 ]
             ]
         },
@@ -5441,14 +5395,6 @@
             ]
         },
         {
-            "pattern": "elahmad.com",
-            "args": [
-                [
-                    "debugger"
-                ]
-            ]
-        },
-        {
             "pattern": "dallasnews.com",
             "args": [
                 [
@@ -5861,6 +5807,14 @@
         },
         {
             "pattern": "emailnator.com",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "appnee.com",
             "args": [
                 [
                     "adsbygoogle"
@@ -6536,6 +6490,14 @@
             ]
         },
         {
+            "pattern": "gamekult.com",
+            "args": [
+                [
+                    "displayCookieWallBanner"
+                ]
+            ]
+        },
+        {
             "pattern": "streamhentaimovies.com",
             "args": [
                 [
@@ -6662,14 +6624,6 @@
         },
         {
             "pattern": "thestreameast.*",
-            "args": [
-                [
-                    "sadbl"
-                ]
-            ]
-        },
-        {
-            "pattern": "coolcast2.com",
             "args": [
                 [
                     "sadbl"
@@ -7314,14 +7268,6 @@
             ]
         },
         {
-            "pattern": "figeterpiazine.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "yodelswartlike.com",
             "args": [
                 [
@@ -7831,14 +7777,6 @@
             ]
         },
         {
-            "pattern": "beststremo.com",
-            "args": [
-                [
-                    "0x"
-                ]
-            ]
-        },
-        {
             "pattern": "seznamzpravy.cz",
             "args": [
                 [
@@ -8021,6 +7959,65 @@
                 [
                     ".show",
                     "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "5flix.top",
+            "args": [
+                [
+                    "afterOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "javguard.club",
+            "args": [
+                [
+                    "afterOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidguardto.xyz",
+            "args": [
+                [
+                    "afterOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "yesmovies.*>>",
+            "args": [
+                [
+                    "afterOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "pistona.xyz",
+            "args": [
+                [
+                    "afterOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "vinomo.xyz",
+            "args": [
+                [
+                    "afterOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "moflix-stream.*",
+            "args": [
+                [
+                    "afterOpen"
+                ],
+                [
+                    "affiliate"
                 ]
             ]
         },
@@ -8569,95 +8566,7 @@
             ]
         },
         {
-            "pattern": "radio.*",
-            "args": [
-                [
-                    "location"
-                ]
-            ]
-        },
-        {
             "pattern": "thelayoff.com",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.coinsrise.net",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.cryptowidgets.net",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.insurancegold.in",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.wiki-topia.com",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.coinsvalue.net",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.cookinguide.net",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.freeoseocheck.com",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.makeupguide.net",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.carstopia.net",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.carsmania.net",
             "args": [
                 [
                     "alert"
@@ -13315,57 +13224,6 @@
             ]
         },
         {
-            "pattern": "javguard.club",
-            "args": [
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "vidguardto.xyz",
-            "args": [
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "yesmovies.*>>",
-            "args": [
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "pistona.xyz",
-            "args": [
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "vinomo.xyz",
-            "args": [
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "moflix-stream.*",
-            "args": [
-                [
-                    "afterOpen"
-                ],
-                [
-                    "affiliate"
-                ]
-            ]
-        },
-        {
             "pattern": "nu6i-bg-net.com",
             "args": [
                 [
@@ -14820,6 +14678,14 @@
             ]
         },
         {
+            "pattern": "elahmad.com",
+            "args": [
+                [
+                    "/debugger|offsetParent/"
+                ]
+            ]
+        },
+        {
             "pattern": "owlzo.com",
             "args": [
                 [
@@ -15177,14 +15043,6 @@
                 [
                     "location.href",
                     "3000"
-                ]
-            ]
-        },
-        {
-            "pattern": "hentaiporn.one",
-            "args": [
-                [
-                    "window.location"
                 ]
             ]
         },
@@ -16034,14 +15892,6 @@
             ]
         },
         {
-            "pattern": "choosingnothing.com",
-            "args": [
-                [
-                    "cvad"
-                ]
-            ]
-        },
-        {
             "pattern": "cryptorank.io",
             "args": [
                 [
@@ -16174,6 +16024,30 @@
             ]
         },
         {
+            "pattern": "infinityscans.xyz",
+            "args": [
+                [
+                    ".adv-"
+                ]
+            ]
+        },
+        {
+            "pattern": "infinityscans.net",
+            "args": [
+                [
+                    ".adv-"
+                ]
+            ]
+        },
+        {
+            "pattern": "infinityscans.org",
+            "args": [
+                [
+                    ".adv-"
+                ]
+            ]
+        },
+        {
             "pattern": "iqksisgw.xyz",
             "args": [
                 [
@@ -16285,24 +16159,6 @@
             "args": [
                 [
                     "AdBlocker"
-                ]
-            ]
-        },
-        {
-            "pattern": "streambolt.tv",
-            "args": [
-                [
-                    "()",
-                    "5000"
-                ]
-            ]
-        },
-        {
-            "pattern": "strmbolt.com",
-            "args": [
-                [
-                    "()",
-                    "5000"
                 ]
             ]
         },
@@ -16559,6 +16415,14 @@
             "args": [
                 [
                     "determineVisibility"
+                ]
+            ]
+        },
+        {
+            "pattern": "tdtnews.com",
+            "args": [
+                [
+                    "TNCMS.DMP"
                 ]
             ]
         }
