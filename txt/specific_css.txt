@@ -1655,6 +1655,10 @@
         "#adblock-modal",
         "div[class^=\"post-ad\"]"
     ],
+    "link.postearn.io": [
+        "#adblock-modal",
+        ".ad-container:not(#style_important)"
+    ],
     "uur-tech.net": [
         "[class^=\"adblock_\"]",
         "a[href=\"https://toolkitspro.com\"]",
@@ -8984,6 +8988,9 @@
     ],
     "autopapa.ge": [
         ".top-rek"
+    ],
+    "ilia.news": [
+        "div[class^=\"diafimisi-single-\"]"
     ],
     "sport24.gr": [
         "#read-more-widget",
@@ -26705,6 +26712,35 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "dongknows.com": [
+        ".dkt-abanner-top",
+        ".inside-right-sidebar > aside#custom_html-46",
+        ".dkt-amz-deals",
+        ".dkt-banner-ads"
+    ],
+    "f95zone.to": [
+        "a[href=\"https://lewdpatcher.com/\"]",
+        "ul > li:has(> div > a[href^=\"https://f95zone.to/link-forums/\"])",
+        "ul > li:has(> div > a[href^=\"https://f95zone.to/link-forums/\"]) ~ li",
+        ".block--category > div.block-container div.node:has(a[href^=\"/explore/\"])",
+        ".samAlignCenter",
+        "#topNotice",
+        ".offCanvasMenu-linkHolder > .offCanvasMenu-link[target=\"_blank\"]",
+        ".p-nav-list .p-navEl-link[target=\"_blank\"]",
+        "a[data-nav-id=\"AIPorn\"]",
+        "a[data-nav-id=\"AISexChat\"]",
+        "a[href*=\"theporndude.com\"]",
+        "a[href^=\"https://ads.trafficjunky.net/\"]",
+        "a[href^=\"https://candy.ai/\"]",
+        "a[href^=\"https://www.deepswap.ai\"]",
+        ".node:has(> .node-body > .node-main > .node-title > a[href^=\"/link-forums/\"][href*=\"-slut.\"])"
+    ],
+    "wiki.gg": [
+        ".wikigg-showcase__unit",
+        "div[class^=\"sidebar-showcase\"]",
+        "div[class^=\"games-showcase\"]",
+        "[href^=\"https://app.wiki.gg/showcase/\"]"
+    ],
     "s10.watchfreejavonline.co": [
         ".menu-item > a[href]:not([href*=\"watchfreejavonline.co\"],[href^=\"/\"])",
         "#sidebar-right > div[id^=\"custom_\"]",
@@ -31366,9 +31402,11 @@
         ".InformationBar",
         ".bannerWrapper",
         "div[class^=\"_liveAdButton_\"]",
+        ".adSideBar > *",
         "div[class^=\"_adLiveButton_\"]",
         ".d_300x250_double",
         ".trafficstars_ad",
+        "ul.SideBar > li.SideBar-Item:has(> div[class] > div[class^=\"LiveButton_\"])",
         ".placard-wrapper",
         ".InfoBar",
         ".SideBar-Item:has(> [class^=\"_liveAdButton\"])"
@@ -32920,6 +32958,8 @@
         "aside[data-position]",
         "img[width=\"300\"][height=\"250\"]",
         "div[class^=\"daninja-\"]",
+        "[style*=\"max-height: 250\"]",
+        "[style^=\"max-height: 90\"]",
         "a[href^=\"https://helpnet.link/\"] > img",
         "aside[style=\"position:relative;display:block;box-sizing:border-box;margin:auto;padding:0;text-align:center;\"]",
         "div[style*=\"max-height: 250px; max-width: 300px;\"]"
@@ -44538,11 +44578,6 @@
         "#prodnews-cyberghost-tower-ad",
         "a[href^=\"https://go.nordvpn.net/aff_c?\"]"
     ],
-    "wiki.gg": [
-        "div[class^=\"sidebar-showcase\"]",
-        "div[class^=\"games-showcase\"]",
-        "[href^=\"https://app.wiki.gg/showcase/\"]"
-    ],
     "store.app-valley.vip": [
         "#vipModal"
     ],
@@ -51431,11 +51466,6 @@
     "torlock2.com": [
         ".well a[href][rel=\"nofollow\"].extneed",
         "article > table.hidden-xs[style^=\"padding-bottom:\"]"
-    ],
-    "dongknows.com": [
-        ".inside-right-sidebar > aside#custom_html-46",
-        ".dkt-amz-deals",
-        ".dkt-banner-ads"
     ],
     "yespornpleasexxx.com": [
         "iframe[src^=\"https://creative.alxbgo.com/\"]"
@@ -87113,7 +87143,8 @@
         ".code-block"
     ],
     "americansongwriter.com": [
-        ".code-block"
+        ".code-block",
+        "#sv-video-container"
     ],
     "animatedtimes.com": [
         ".code-block"
@@ -90800,19 +90831,6 @@
     "sherbrookerecord.com": [
         ".sam-pro-container"
     ],
-    "f95zone.to": [
-        ".samAlignCenter",
-        "#topNotice",
-        ".offCanvasMenu-linkHolder > .offCanvasMenu-link[target=\"_blank\"]",
-        ".p-nav-list .p-navEl-link[target=\"_blank\"]",
-        "a[data-nav-id=\"AIPorn\"]",
-        "a[data-nav-id=\"AISexChat\"]",
-        "a[href*=\"theporndude.com\"]",
-        "a[href^=\"https://ads.trafficjunky.net/\"]",
-        "a[href^=\"https://candy.ai/\"]",
-        "a[href^=\"https://www.deepswap.ai\"]",
-        ".node:has(> .node-body > .node-main > .node-title > a[href^=\"/link-forums/\"][href*=\"-slut.\"])"
-    ],
     "afflift.com": [
         ".samBannerUnit"
     ],
@@ -91634,6 +91652,10 @@
     ],
     "tftcentral.co.uk": [
         ".tftce-adlabel"
+    ],
+    "thecooldown.com": [
+        ".theco-target",
+        ".wp-block-tcd-multipurpose-gutenberg-block"
     ],
     "steelersdepot.com": [
         ".theiaStickySidebar"
@@ -95184,9 +95206,6 @@
     ],
     "f1oversteer.com": [
         ".wp-block-grvmedia-grv-video"
-    ],
-    "thecooldown.com": [
-        ".wp-block-tcd-multipurpose-gutenberg-block"
     ],
     "bigthink.com": [
         ".wrapper-connatixElements",
