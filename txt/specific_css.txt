@@ -603,7 +603,8 @@
         "#custom_html-12"
     ],
     "85po.com": [
-        "ads_iframe"
+        "ads_iframe",
+        ".link-offer"
     ],
     "watchmdh.to": [
         "ads_iframe"
@@ -18337,7 +18338,8 @@
         ".viewablity-block > figure:has(div#mm-player-placeholder-large-screen)",
         "main > figure:has(> div > div#mm-player-placeholder-smallAndMedium-screens)",
         "div[style^=\"margin-top:\"] > figure:has(> div#mm-player-placeholder-smallAndMedium-screens)",
-        ".style_k8mr7b-o_O-style_1ts1q2h"
+        ".style_k8mr7b-o_O-style_1ts1q2h",
+        ".player-wrapper"
     ],
     "90min.de": [
         "primary-sidebar { height: calc(100%) !important; }",
@@ -26717,6 +26719,17 @@
     ],
     "cracking.org": [
         ".samBannerUnit"
+    ],
+    "theprint.in": [
+        "#postcontent > div[style*=\"min-height: 115px\"].code-block",
+        "#postexcerpt > div[style*=\"min-height: 115px\"].code-block"
+    ],
+    "english.mathrubhumi.com": [
+        ".bg-adBackground",
+        ".ads-Container"
+    ],
+    "bestsimilar.com": [
+        ".block-ins-gad"
     ],
     "dongknows.com": [
         ".dkt-abanner-top",
