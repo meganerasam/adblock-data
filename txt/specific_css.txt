@@ -4048,6 +4048,9 @@
     "ru-clip.com": [
         "#morev"
     ],
+    "stevenuniverse.best": [
+        "#adblock-popup"
+    ],
     "historicaerials.com#$": [
         "xcontent_container > div[id][style*=\"position: fixed\"][style*=\"z-index:\"]:has(> .modal-content > div > button[onclick=\"window.location.reload();\"]) { display: none !important; }"
     ],
@@ -6387,7 +6390,8 @@
         ".banners"
     ],
     "haafedk2.com": [
-        "body > p > a[target=\"_blank\"]"
+        "body > p > a[target=\"_blank\"]",
+        "div[id^=\"sticky-ad-\"]"
     ],
     "dlfox.com": [
         "p > a[target=\"_blank\"] > img",
@@ -7970,6 +7974,9 @@
         ".noa-banner > a",
         "#billboard_ad_container",
         ".side_banner"
+    ],
+    "heureka.cz": [
+        "div[class^=\"c-premium-gam\"]"
     ],
     "titulky.com#$": [
         "head > div[style^=\"margin: auto; width: \"] { max-height: 20px !important; }",
@@ -10904,15 +10911,8 @@
     "dm5.com": [
         ".cp_adct"
     ],
-    "subito.it": [
-        "div[class^=\"index-module_lira-container__\"]",
-        ".dynamic-atf-container",
-        "div[class^=\"AdvTopBanner\"]",
-        "div[class^=\"banner-module_sticky\"]",
-        "div[class*=\"AdsGAMPlacement\"]",
-        "div[class^=\"ItemListContainer\"] div[id^=\"ad_wrapper\"]:has(> div[data-google-interstitial] > div[style*=\"min-height\"])"
-    ],
     "tuttoandroid.net": [
+        ".card-grid div.col-18:has(> article > span.ribbon)",
         "div[class^=\"widofferte23-\"]",
         ".article-banner-container",
         ".skin-img",
@@ -10922,6 +10922,14 @@
         ".ta-adblock-modal-open::before",
         "#navbar .justify-content-end",
         ".justify-content-around > div[class^=\"col-\"] > a[href^=\"http://bit.ly/\"][target=\"_blank\"] > img"
+    ],
+    "subito.it": [
+        "div[class^=\"index-module_lira-container__\"]",
+        ".dynamic-atf-container",
+        "div[class^=\"AdvTopBanner\"]",
+        "div[class^=\"banner-module_sticky\"]",
+        "div[class*=\"AdsGAMPlacement\"]",
+        "div[class^=\"ItemListContainer\"] div[id^=\"ad_wrapper\"]:has(> div[data-google-interstitial] > div[style*=\"min-height\"])"
     ],
     "dday.it": [
         "div[id^=\"offer-\"][id$=\"-slider\"]"
@@ -23965,7 +23973,8 @@
         ".video-player",
         ".ad",
         ".program-actions-header__promo",
-        ".program-description__slot"
+        ".program-description__slot",
+        "[data-meta=\"placeholder-slot\"]"
     ],
     "supersextube.pro": [
         "body .ad"
@@ -26719,6 +26728,38 @@
     ],
     "cracking.org": [
         ".samBannerUnit"
+    ],
+    "livelaw.in": [
+        "body .inside-post-ad:not(#style_important)",
+        "body .popup-ad-content-wrap:not(#style_important)",
+        "body div[id^=\"after_header_ad_\"]:not(#style_important)",
+        "#sidebar-wrapper div[class*=\"trending_news_row\"]:has(> div[id^=\"trending_\"] > .ad_unit_wrapper)",
+        "body .ad_unit_wrapper_main",
+        "div[data-category=\"banner_ad\"]",
+        "#news_on_exit"
+    ],
+    "camstreams.tv": [
+        ".top-links",
+        "#div-cr-inter-0",
+        "a[href=\"https://www.sexedchat.com\"]",
+        "body #sliderBox",
+        ".banners",
+        ".footer-margin"
+    ],
+    "mangakakalot.gg": [
+        "div[class^=\"fly-ads-\"]"
+    ],
+    "thonky.com": [
+        ".advertisement-notice",
+        "#thonky-sidebar-ad"
+    ],
+    "tmohentai.com": [
+        "div[class^=\"netloop-ad-banner\"]"
+    ],
+    "kalporn.com": [
+        ".abbcn-footer",
+        "#video-right",
+        ".banners-footer"
     ],
     "theprint.in": [
         "#postcontent > div[style*=\"min-height: 115px\"].code-block",
@@ -29743,7 +29784,8 @@
         ".sextb_300"
     ],
     "natomanga.com": [
-        ".ads-contain"
+        ".ads-contain",
+        ".fly-ads-chapter-page"
     ],
     "xiaomitime.com": [
         ".featuredb_ad"
@@ -37092,11 +37134,6 @@
         ".adcla",
         "body > div[class][style^=\"cursor:pointer;position:absolute;\"][style*=\"z-index\"]"
     ],
-    "camstreams.tv": [
-        "body #sliderBox",
-        ".banners",
-        ".footer-margin"
-    ],
     "greatergood.com": [
         ".skm-ad",
         ".leaderboard-top"
@@ -41763,6 +41800,9 @@
     "iplogger.org": [
         ".commercial-wide",
         "div[id^=\"bsa-zone_\"]"
+    ],
+    "videogamegeek.com": [
+        "gg-leaderboard-ad"
     ],
     "boardgamegeek.com": [
         "gg-leaderboard-ad",
@@ -48540,11 +48580,6 @@
     ],
     "wikidiff.com": [
         "div[style^=\"width: 100%; min-height: 200px\"]"
-    ],
-    "livelaw.in": [
-        "body .ad_unit_wrapper_main",
-        "div[data-category=\"banner_ad\"]",
-        "#news_on_exit"
     ],
     "cars.ksl.com": [
         "div[class^=\"Ads__\"]"
@@ -63797,35 +63832,35 @@
         "a[href=\"/register/\"]"
     ],
     "jetvid.top": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "fembedx.top": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "hihihaha1.xyz": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "playhydrax.com": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "hydrax.net": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "filmespi.online": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "playembedapi.site": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "abysscdn.com": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]",
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]",
         "a[title=\"Free money easy\"]"
     ],
     "player-cdn.com": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "nazarickol.com": [
-        "body > #player ~ div[style^=\"position: fixed; inset:\"][style*=\"z-index:\"]"
+        "body > #player ~ div[style^=\"position: fixed;\"][style*=\"z-index:\"]"
     ],
     "chfi.com": [
         ".rdm-ad",
@@ -77648,6 +77683,9 @@
     "cari.com.my": [
         "#cvidloader"
     ],
+    "cdn.bg-gledai.*": [
+        "div[id^=\"anti-adblock-\"]"
+    ],
     "gledaitv.live": [
         "div[id^=\"anti-adblock-\"]",
         "#abDetectorModal"
@@ -81537,6 +81575,9 @@
         "#tnavad",
         ".content-block-slinks",
         ".content-tab-slinks"
+    ],
+    "archaeologymag.com": [
+        "#tnp-leads-topbar"
     ],
     "phonescoop.com": [
         "#top"
@@ -92742,6 +92783,15 @@
     "igraal.com": [
         "[data-ig-ga-cat=\"Ad\"]"
     ],
+    "filehippo.de": [
+        "[data-meta=\"placeholder-slot\"]"
+    ],
+    "filehippo.jp": [
+        "[data-meta=\"placeholder-slot\"]"
+    ],
+    "filehippo.pl": [
+        "[data-meta=\"placeholder-slot\"]"
+    ],
     "qvc.com": [
         "[data-module-feature-name^=\"CRITEO\"]",
         "[onclick^=\"cmCreateManualLinkClickTag\"]"
@@ -96108,9 +96158,6 @@
         ".banners"
     ],
     "bubbaporn.com": [
-        ".banners-footer"
-    ],
-    "kalporn.com": [
         ".banners-footer"
     ],
     "koloporno.com": [
