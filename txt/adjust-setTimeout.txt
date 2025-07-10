@@ -564,14 +564,6 @@
             ]
         },
         {
-            "pattern": "onuploads.com",
-            "args": [
-                [
-                    "seconds"
-                ]
-            ]
-        },
-        {
             "pattern": "playretrogames.com",
             "args": [
                 [
@@ -1630,15 +1622,6 @@
                 [
                     "submit",
                     "5000"
-                ]
-            ]
-        },
-        {
-            "pattern": "sub1s.com",
-            "args": [
-                [
-                    "fa-unlock",
-                    "3000"
                 ]
             ]
         },
