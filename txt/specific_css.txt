@@ -2573,6 +2573,9 @@
     "azamericasat.net": [
         ".background-overlay + div[id][class*=\" \"]"
     ],
+    "pornoenspanish.es": [
+        "footer + div[id][class]"
+    ],
     "djstar.in": [
         "footer + div[id][class]",
         "body > #page + div[id][class*=\" \"]",
@@ -4068,7 +4071,8 @@
         ".js-antiadblocker"
     ],
     "nontonx.com": [
-        "#rules-nontonx"
+        "#rules-nontonx",
+        "body > div[style]:has(> div[style] > button[onclick=\"location.reload()\"])"
     ],
     "friv.com#@": [
         "lba"
@@ -4096,8 +4100,7 @@
         "body > footer + script + div[class][oncontextmenu]"
     ],
     "pinterest.*": [
-        "div[name=\"trap-focus\"] > div[aria-label=\"Ad blocker modal\"][role=\"alertdialog\"]",
-        "div[data-grid-item]:has([data-test-pin-id] [data-test-id^=\"one-tap-desktop\"] > a[href^=\"http\"][rel=\"nofollow\"]):not(body > div)"
+        "div[name=\"trap-focus\"] > div[aria-label=\"Ad blocker modal\"][role=\"alertdialog\"]"
     ],
     "dramafren.net": [
         "body > div[id][style=\"display: block;\"]:has(> div[id]:only-child > div[style*=\"margin: clamp\"])",
@@ -12209,6 +12212,11 @@
     ],
     "joujizz.com": [
         ".video-top-wrap > .sb"
+    ],
+    "gazetki.pl": [
+        ".ad_d_small",
+        "aside > div[style*=\"height:\"]:has(> .ad_d_small)",
+        ".anchor-wrapper"
     ],
     "korektortekstu.pl": [
         ".container > .row> .col-md-12[style]:has(> .adsbygoogle)"
@@ -22500,8 +22508,7 @@
         "div > div[id][style*=\"overflow:\"][style*=\"hidden;\"][style*=\"height:\"]"
     ],
     "wcostream.com": [
-        "div > div[id][style*=\"overflow:\"][style*=\"hidden;\"][style*=\"height:\"]",
-        ".reklam_pve"
+        "div > div[id][style*=\"overflow:\"][style*=\"hidden;\"][style*=\"height:\"]"
     ],
     "watchcartoonsonline.eu": [
         "div > div[id][style*=\"overflow:\"][style*=\"hidden;\"][style*=\"height:\"]",
@@ -24906,8 +24913,7 @@
         "[href^=\"/ad/\"]"
     ],
     "velonews.com": [
-        ".advert",
-        ".c-thinbanner"
+        ".advert"
     ],
     "videogameschronicle.com": [
         ".advert",
@@ -26722,6 +26728,18 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "gogonu.com": [
+        ".special-image",
+        ".video-item > .iframe-item",
+        "iframe[src*=\"/api/spots/\"]"
+    ],
+    "dongknows.com": [
+        ".dkt-amz-top",
+        ".dkt-abanner-top",
+        ".inside-right-sidebar > aside#custom_html-46",
+        ".dkt-amz-deals",
+        ".dkt-banner-ads"
+    ],
     "buffsports.io": [
         "a[role=\"button\"][href=\"#\"]",
         "button[data-openuri][data-open=\"_blank\"]"
@@ -26768,12 +26786,6 @@
     ],
     "bestsimilar.com": [
         ".block-ins-gad"
-    ],
-    "dongknows.com": [
-        ".dkt-abanner-top",
-        ".inside-right-sidebar > aside#custom_html-46",
-        ".dkt-amz-deals",
-        ".dkt-banner-ads"
     ],
     "f95zone.to": [
         "ul > li:has(> div > a[href^=\"https://f95zone.to/link-forums/\"])",
@@ -31588,9 +31600,7 @@
         "div[class]:has(> div[class] > img[alt=\"close\"])"
     ],
     "unite.pvpoke.com": [
-        "div[id^=\"nitro-unite-\"]",
-        "#nitro-unite-sidebar-left",
-        "#nitro-unite-sidebar-right"
+        "div[id^=\"nitro-unite-\"]"
     ],
     "idiva.com": [
         ".hometop-ads",
@@ -33331,8 +33341,7 @@
         ".columns > .column:has(> .article-content > .article-post > .ad-via)"
     ],
     "sportshub.stream": [
-        "header > div.row:has(> div[style] a[href^=\"https://s.click.aliexpress.com/\"])",
-        ".db783ekndd812sdz-ads"
+        "header > div.row:has(> div[style] a[href^=\"https://s.click.aliexpress.com/\"])"
     ],
     "naijanews.com": [
         "#bl_banner"
@@ -35045,8 +35054,7 @@
         "center:has(> div[id*=\"-\"][style^=\"min-width: 3\"][style*=\"min-height:\"])",
         ".text-center:has(> div[id*=\"-\"][style^=\"min-width: 3\"][style*=\"min-height:\"])",
         "#dontfoid",
-        "div[class=\"mb-4 text-center\"] > a > img",
-        ".ads"
+        "div[class=\"mb-4 text-center\"] > a > img"
     ],
     "starwank.com": [
         ".content > .top > center",
@@ -36353,11 +36361,7 @@
     "thetimes.co.uk": [
         "article > div[class^=\"tc-view\"]:has(> div > div#ad-header)",
         "div[class^=\"responsive__InlineAdWrapper\"]",
-        ".channel-header-ad",
-        "#ad-header",
-        "#ad-intravelarticle-inline",
-        ".gyLkkj",
-        "[class^=\"responsive__InlineAdWrapper-\"]"
+        ".channel-header-ad"
     ],
     "th.gl": [
         ".pointer-events-auto.shrink-0.border:has(> a[href=\"https://www.th.gl/support-me\"])"
@@ -36621,8 +36625,7 @@
         ".profile-ad"
     ],
     "paste.fo": [
-        "fuck_you + * > a [style^=\"background-image:\"]",
-        ".banners"
+        "fuck_you + * > a [style^=\"background-image:\"]"
     ],
     "multirbl.valli.org": [
         "#lo-ads"
@@ -38819,8 +38822,7 @@
     "unilad.co.uk": [
         ".css-mg9b9w",
         "div[data-cypress=\"sticky-header\"] div[class$=\"-Advert\"]",
-        "div[class$=\"-margin-Advert\"]",
-        "div[class*=\"margin-Advert\"]"
+        "div[class$=\"-margin-Advert\"]"
     ],
     "tyla.com": [
         ".css-mg9b9w",
@@ -39521,8 +39523,7 @@
         "#custom_html-3"
     ],
     "ytmp3.nu": [
-        "#b > iframe",
-        "#i"
+        "#b > iframe"
     ],
     "thespike.gg": [
         "ins[id][data-key]",
@@ -39830,8 +39831,7 @@
     "osgamers.com": [
         ".r89-outstream-video",
         "div[class^=\"r89-\"][class*=\"-rectangle-\"]",
-        "div[class^=\"r89-\"][class*=\"-billboard-\"]",
-        ".d-md-block"
+        "div[class^=\"r89-\"][class*=\"-billboard-\"]"
     ],
     "calendar-canada.ca": [
         "div[class^=\"r89-\"][class*=\"-rectangle-\"]",
@@ -40184,9 +40184,7 @@
         "div[data-pw-desk=\"med_rect_btf\"]",
         ".inside-right-sidebar > div[data-pw-desk=\"sky_btf\"]",
         "#zd-leaderboard",
-        ".adblock",
-        "#pwDeskSkyBtf1",
-        ".pw-gtr-box"
+        ".adblock"
     ],
     "next.backpack.tf": [
         "#content > div[class^=\"col\"] > div.bg-component-foreground[style^=\"min-height:\"]"
@@ -40207,8 +40205,7 @@
     ],
     "petkeen.com": [
         ".sidebar__opp",
-        ".sidebar__placement",
-        ".br-10"
+        ".sidebar__placement"
     ],
     "a2zapk.io": [
         ".RightAside"
@@ -43316,8 +43313,7 @@
         ".nitroholder"
     ],
     "pastemytxt.com": [
-        ".text-center > a[target=\"_blank\"] > img",
-        "[href*=\"bit.ly/\"]"
+        ".text-center > a[target=\"_blank\"] > img"
     ],
     "covemarkets.com": [
         ".text-center > a[target=\"_blank\"] > img"
@@ -48902,8 +48898,7 @@
     ],
     "myflixer.to": [
         "#gift-top",
-        "#overlay-container",
-        ".news-iframe"
+        "#overlay-container"
     ],
     "moviemakeronline.com": [
         ".bbbOwner"
@@ -49440,8 +49435,7 @@
         ".top-sticky"
     ],
     "web-capture.net": [
-        ".partner",
-        "#stw_ad"
+        ".partner"
     ],
     "faucethero.com": [
         "div[style*=\"max-width: 800px;\"] > a[target=\"_blank\"] > img"
@@ -52079,8 +52073,7 @@
         "a[href*=\"//bit.ly/\"]"
     ],
     "historydaily.org": [
-        ".adwrapper",
-        ".banner-top"
+        ".adwrapper"
     ],
     "mangarockteam.com": [
         ".row > .main-col > .body-top-ads + .c-sidebar",
@@ -52662,8 +52655,7 @@
         "#leaderboard",
         ".adLabel",
         ".ext-ad",
-        "div[class=\"post third overflow\"]",
-        ".page-header"
+        "div[class=\"post third overflow\"]"
     ],
     "moviefone.com": [
         "#leaderboard",
@@ -57090,8 +57082,7 @@
         "div[itemtype=\"https://schema.org/WPAdBlock\"]"
     ],
     "nullpress.net": [
-        "div[itemtype=\"https://schema.org/WPAdBlock\"]",
-        ".uinyk-link"
+        "div[itemtype=\"https://schema.org/WPAdBlock\"]"
     ],
     "frendx.com": [
         "div[itemtype=\"https://schema.org/WPAdBlock\"]"
@@ -63794,7 +63785,7 @@
         ".page-content > .box-info:has(> .box-info-heading > div[onclick^=\"location.href=\"][style])",
         "div[onclick^=\"location.href=\"][style]",
         "a[href=\"/register/\"]",
-        "#vpnvpn2"
+        "[href^=\"https://limeiptv.to\"]"
     ],
     "1337xx.to": [
         ".page-content > .box-info:has(> .box-info-heading > div[onclick^=\"location.href=\"][style])",
@@ -77982,9 +77973,6 @@
     "spoilertv.com#@": [
         "adsensewide"
     ],
-    "magnet.so": [
-        "#AD"
-    ],
     "advfn.com": [
         "#APS_300_X_600",
         "#APS_BILLBOARD",
@@ -78009,9 +77997,6 @@
     ],
     "search.avast.com": [
         "#AsbAdContainer"
-    ],
-    "weegy.com": [
-        "#BannerDiv"
     ],
     "calculatorsoup.com": [
         "#Bottom",
@@ -78238,10 +78223,6 @@
         "#ad-daily",
         "#in-house-ad-daily"
     ],
-    "uploadfox.net": [
-        "#ad-gs-05",
-        "#downloadxaa"
-    ],
     "sickchirpse.com": [
         "#ad-header"
     ],
@@ -78272,12 +78253,6 @@
         "#ad-sidebar-4",
         ".border-brand"
     ],
-    "thepoke.co.uk": [
-        "#ad-sidebar-1",
-        "#ad-sidebar-2",
-        "#ad-sidebar-3",
-        "#ad-sidebar-4"
-    ],
     "thetab.com": [
         "#ad-sidebar-1",
         "#ad-sidebar-2",
@@ -78293,12 +78268,6 @@
     ],
     "mtaeta.info": [
         "#ad1"
-    ],
-    "notbanksyforum.com": [
-        "#ad1",
-        "[href^=\"http://redirect.viglink.com\"]",
-        "a[href^=\"http://l-13.org/\"]",
-        "a[href^=\"http://www.ebay.co.uk/usr/heartresearchuk_shop/\"]"
     ],
     "realgearonline.com": [
         "#ad1",
@@ -78489,9 +78458,6 @@
         "#ads"
     ],
     "laois-nationalist.ie": [
-        "#ads"
-    ],
-    "lorempixel.com": [
         "#ads"
     ],
     "photographyreview.com": [
@@ -78712,9 +78678,6 @@
     "goosegame.io": [
         "#banner"
     ],
-    "mp3-convert.org": [
-        "#banner"
-    ],
     "pajiba.com": [
         "#banner"
     ],
@@ -78867,9 +78830,6 @@
         ".parallax-breakout",
         ".pos-top",
         ".vc_single_image-wrapper"
-    ],
-    "uhdmovies.tips": [
-        "#banner-section"
     ],
     "onlinesearches.com": [
         "#banner-top"
@@ -79382,11 +79342,6 @@
         "#lordz-io_300x250_2",
         "#lordz-io_728x90"
     ],
-    "pcwdld.com": [
-        "#ct-popup",
-        ".sbcontent",
-        ".top-banner"
-    ],
     "apkmody.mobi": [
         "#custom-container",
         "#flirtwith-modal",
@@ -79406,9 +79361,6 @@
     "wpneon.com": [
         "#custom_html-10",
         ".banner-week"
-    ],
-    "theregister.co.nz": [
-        "#custom_html-13"
     ],
     "colombiareports.com": [
         "#custom_html-14",
@@ -79555,70 +79507,7 @@
         ".sidebar-sponsored",
         ".single-post__sponsored-post--desktop"
     ],
-    "bcgasprices.com": [
-        "#divSky"
-    ],
     "gasbuddy.com": [
-        "#divSky"
-    ],
-    "kwgasprices.com": [
-        "#divSky"
-    ],
-    "londongasprices.com": [
-        "#divSky"
-    ],
-    "manitobagasprices.com": [
-        "#divSky"
-    ],
-    "montrealgasprices.com": [
-        "#divSky"
-    ],
-    "newbrunswickgasprices.com": [
-        "#divSky"
-    ],
-    "newfoundlandgasprices.com": [
-        "#divSky"
-    ],
-    "novascotiagasprices.com": [
-        "#divSky"
-    ],
-    "nwtgasprices.com": [
-        "#divSky"
-    ],
-    "ontariogasprices.com": [
-        "#divSky"
-    ],
-    "ottawagasprices.com": [
-        "#divSky"
-    ],
-    "peigasprices.com": [
-        "#divSky"
-    ],
-    "quebeccitygasprices.com": [
-        "#divSky"
-    ],
-    "quebecgasprices.com": [
-        "#divSky"
-    ],
-    "reginagasprices.com": [
-        "#divSky"
-    ],
-    "saskatoongasprices.com": [
-        "#divSky"
-    ],
-    "saskgasprices.com": [
-        "#divSky"
-    ],
-    "torontogasprices.com": [
-        "#divSky"
-    ],
-    "vancouvergasprices.com": [
-        "#divSky"
-    ],
-    "victoriagasprices.com": [
-        "#divSky"
-    ],
-    "winnipeggasprices.com": [
         "#divSky"
     ],
     "rednationonline.ca": [
@@ -79725,11 +79614,6 @@
     "vscode.one": [
         "#flamelab-convo-widget",
         "._flamelab-ad"
-    ],
-    "apkmody.io": [
-        "#flirtwith-modal",
-        "[style*=\"width: 100% !important;\"]",
-        "[style*=\"z-index:\"]"
     ],
     "clintonherald.com": [
         "#floorboard_block"
@@ -79867,10 +79751,6 @@
     "nintendoworldreport.com": [
         "#hAd"
     ],
-    "streamingrant.com": [
-        "#hb-strip",
-        ".widget_sp_image-image-link"
-    ],
     "castanet.net": [
         "#hdad",
         "div[style*=\"height:900px\"]",
@@ -79928,9 +79808,6 @@
         "#header-top",
         ".divclickingdivwidget",
         "center > font"
-    ],
-    "nisnews.nl": [
-        "#header-wrap"
     ],
     "dailyherald.com": [
         "#headerBarAd",
@@ -80073,9 +79950,6 @@
     "nettikone.com": [
         "#huge_banner"
     ],
-    "nettimarkkina.com": [
-        "#huge_banner"
-    ],
     "nettimokki.com": [
         "#huge_banner"
     ],
@@ -80202,11 +80076,6 @@
         "#kvr300600",
         ".kvrblockdynamic"
     ],
-    "freeads.co.uk": [
-        "#l_sk1",
-        ".fa_box_m",
-        ".hero_banner1"
-    ],
     "inc42.com": [
         "#large_leaderboard_desktop-0"
     ],
@@ -80240,9 +80109,6 @@
     "kontraband.com": [
         "#leader"
     ],
-    "motherproof.com": [
-        "#leader"
-    ],
     "sansabanews.com": [
         "#leader"
     ],
@@ -80272,11 +80138,6 @@
     ],
     "logotv.com": [
         "#leaderboard"
-    ],
-    "newcartestdrive.com": [
-        "#leaderboard",
-        "#static-asset-placeholder-2",
-        "#static-asset-placeholder-3"
     ],
     "news.tvguide.co.uk": [
         "#leaderboard"
@@ -80598,9 +80459,6 @@
         ".quads-location",
         ".widget_text"
     ],
-    "mangareader.cc": [
-        "#myModal"
-    ],
     "mediaupdate.co.za": [
         "#mycarousel"
     ],
@@ -80651,9 +80509,6 @@
     "tftactics.gg": [
         "#nn_player",
         ".wrapper-lb1"
-    ],
-    "nacm.xyz": [
-        "#noktaplayercontainer"
     ],
     "boxingstreams.cc": [
         "#nordd"
@@ -80782,10 +80637,6 @@
     ],
     "demap.info": [
         "#pcad"
-    ],
-    "shine.cn": [
-        "#pdfModal",
-        ".modal-backdrop"
     ],
     "webnovelworld.org": [
         "#pfvidad",
@@ -80939,13 +80790,6 @@
     "glennbeck.com": [
         "#sPost_0_0_5_0_15_5_0_1_2_0",
         "#sPost_Default_Layout_0_0_6_0_0_9_0_1_2_0"
-    ],
-    "wowway.net": [
-        "#sc_home_header_banner",
-        "#sc_home_news_banner",
-        "#sc_home_recommended_banner",
-        "#sc_read_header_banner",
-        ".blocks_container-size_containerSize"
     ],
     "pao.gr": [
         "#section--sponsors"
@@ -81258,9 +81102,6 @@
     "slitaz.org": [
         "#sponsor"
     ],
-    "meteocentrale.ch": [
-        "#sponsor-info"
-    ],
     "nordstrom.com": [
         "#sponsored-carousel-sponsored-carousel",
         ".revjet_container",
@@ -81540,9 +81381,6 @@
         "#top-leaderboard",
         ".widget-ad-block"
     ],
-    "mautofied.com": [
-        "#topLeaderboard"
-    ],
     "caribpress.com": [
         "#top_banner_container"
     ],
@@ -81668,12 +81506,6 @@
         "#topse",
         "[data-bingads-suffix]"
     ],
-    "macmillandictionary.com": [
-        "#topslot_container"
-    ],
-    "macmillanthesaurus.com": [
-        "#topslot_container"
-    ],
     "oxfordlearnersdictionaries.com": [
         "#topslot_container"
     ],
@@ -81779,9 +81611,6 @@
     "ttjonline.com": [
         "#wrapper_banners"
     ],
-    "tunnelsonline.info": [
-        "#wrapper_banners"
-    ],
     "xdaforums.com": [
         "#xdaforums_leaderboard_atf",
         "#xdaforums_leaderboard_btf",
@@ -81874,9 +81703,6 @@
         ".Ad_wrapper__B_hxA",
         "#root > div[class]:has(> .adslot)"
     ],
-    "rivals.com": [
-        ".Ads_adContainer__l_sg0"
-    ],
     "iogames.onl": [
         ".Adv",
         ".Advc"
@@ -81909,12 +81735,6 @@
         ".articleIMG"
     ],
     "tennesseestar.com": [
-        ".AdvancedText"
-    ],
-    "themichiganstar.com": [
-        ".AdvancedText"
-    ],
-    "theminnesotasun.com": [
         ".AdvancedText"
     ],
     "theohiostar.com": [
@@ -81972,9 +81792,6 @@
     "coffeeordie.com": [
         ".BannerPromo-desktop",
         "div.HtmlModule > [href]"
-    ],
-    "video-to-mp3-converter.com": [
-        ".BannerReAds_horizontal-area__5JNuE"
     ],
     "latestdeals.co.uk": [
         ".BrD5q"
@@ -82844,9 +82661,6 @@
     "weeklytimesnow.com.au": [
         ".ad"
     ],
-    "wgnt.com": [
-        ".ad"
-    ],
     "wgntv.com": [
         ".ad"
     ],
@@ -83348,9 +83162,6 @@
     "famouslyscandalous.com": [
         ".ad1",
         ".ad2"
-    ],
-    "lolcounter.com": [
-        ".ad1"
     ],
     "mpog100.com": [
         ".ad1",
@@ -83928,12 +83739,6 @@
         ".h-\\[260px\\]",
         ".header-banner"
     ],
-    "samehadaku.email": [
-        ".ads-float-bottom",
-        ".hentry.has-post-thumbnail > [href]",
-        ".post-body.site-main > [href]",
-        ".wp-block-group-is-layout-constrained > [href] > img"
-    ],
     "thetruthaboutcars.com": [
         ".ads-fluid-wrap",
         ".billboardSize"
@@ -84001,9 +83806,6 @@
         ".adsense"
     ],
     "nintandbox.net": [
-        ".adsense"
-    ],
-    "rockpasta.com": [
         ".adsense"
     ],
     "webtor.io": [
@@ -84243,9 +84045,6 @@
     "midweekherald.co.uk": [
         ".advert"
     ],
-    "morningstar.co.uk": [
-        ".advert"
-    ],
     "newhamrecorder.co.uk": [
         ".advert"
     ],
@@ -84284,9 +84083,6 @@
         ".advert"
     ],
     "sudburymercury.co.uk": [
-        ".advert"
-    ],
-    "tbivision.com": [
         ".advert"
     ],
     "the42.ie": [
@@ -84637,10 +84433,6 @@
         ".advertisement",
         ".mpu"
     ],
-    "readtech.co": [
-        ".advertisement",
-        ".mpu"
-    ],
     "readtennis.co": [
         ".advertisement",
         ".mpu"
@@ -84697,9 +84489,6 @@
     "weatherwatch.co.nz": [
         ".advertisement"
     ],
-    "wheels.ca": [
-        ".advertisement"
-    ],
     "whichcar.com.au": [
         ".advertisement"
     ],
@@ -84743,19 +84532,10 @@
     "orangecounty.com": [
         ".advertising"
     ],
-    "petrolplaza.com": [
-        ".advertising"
-    ],
     "premier.org.uk": [
         ".advertising"
     ],
     "premierchristianity.com": [
-        ".advertising"
-    ],
-    "premierchristianradio.com": [
-        ".advertising"
-    ],
-    "premiergospel.org.uk": [
         ".advertising"
     ],
     "radio.com": [
@@ -84780,9 +84560,6 @@
         ".advtext",
         ".unit_side_banner"
     ],
-    "lifebuzz.com": [
-        ".adwrapper"
-    ],
     "toocool2betrue.com": [
         ".adwrapper"
     ],
@@ -84803,11 +84580,6 @@
     ],
     "f1i.com": [
         ".affiche"
-    ],
-    "thebeet.com": [
-        ".affiliate-disclaimer",
-        ".amazon",
-        ".widget-promotion"
     ],
     "jambase.com": [
         ".affixed-sidebar-adzzz",
@@ -85135,9 +84907,6 @@
     "folletosofertas.es": [
         ".anchor-wrapper"
     ],
-    "gazetki.pl": [
-        ".anchor-wrapper"
-    ],
     "ofertelecatalog.ro": [
         ".anchor-wrapper"
     ],
@@ -85195,9 +84964,6 @@
         ".apple_music",
         ".dac__mpu-card"
     ],
-    "560theanswer.com": [
-        ".aptivada-widget"
-    ],
     "ajc.com": [
         ".arc_ad"
     ],
@@ -85251,9 +85017,6 @@
     ],
     "wsoctv.com": [
         ".arcad_feature"
-    ],
-    "necn.com": [
-        ".archive-ad__full-width"
     ],
     "ggrecon.com": [
         ".artSideBgBox",
@@ -85328,10 +85091,6 @@
     ],
     "news.artnet.com": [
         ".artnet-ads-ad"
-    ],
-    "piokok.com": [
-        ".as-bar",
-        ".kaksgon"
     ],
     "arcadespot.com": [
         ".as-incontent",
@@ -85438,9 +85197,6 @@
         ".v-bonus"
     ],
     "investordaily.com.au": [
-        ".b-topLeaderboard"
-    ],
-    "mortgagebusiness.com.au": [
         ".b-topLeaderboard"
     ],
     "bizcommunity.com": [
@@ -85988,9 +85744,6 @@
     "slidescorner.com": [
         ".banner"
     ],
-    "smartcarfinder.com": [
-        ".banner"
-    ],
     "speedcafe.com": [
         ".banner",
         ".partners",
@@ -86022,13 +85775,7 @@
         ".banner",
         ".banner__wrapper"
     ],
-    "thefanhub.com": [
-        ".banner"
-    ],
     "thefringepodcast.com": [
-        ".banner"
-    ],
-    "thehun.com": [
         ".banner"
     ],
     "thescarboroughnews.co.uk": [
@@ -86051,9 +85798,6 @@
         ".banner",
         ".sponsored"
     ],
-    "tmi.me": [
-        ".banner"
-    ],
     "totallysnookered.com": [
         ".banner",
         "[data-type=\"AdRowBillboard\"]",
@@ -86070,14 +85814,6 @@
     ],
     "vloot.io": [
         ".banner"
-    ],
-    "walesworld.com": [
-        ".banner",
-        "[data-type=\"AdRowBillboard\"]",
-        "div[class^=\"AdLoadingText\"]",
-        "div[class^=\"SidebarAds_\"]",
-        "div[class^=\"helper__AdContainer\"]",
-        "div[data-ads-params]"
     ],
     "warwickshireworld.com": [
         ".banner",
@@ -86343,9 +86079,6 @@
     "killerdirectory.com": [
         ".bannergroup"
     ],
-    "pamplinmedia.com": [
-        ".bannergroup"
-    ],
     "rapidtvnews.com": [
         ".bannergroup",
         ".banners"
@@ -86392,9 +86125,6 @@
     "maritimepropulsion.com": [
         ".banners",
         ".jq-banner"
-    ],
-    "mutaz.pro": [
-        ".banners"
     ],
     "paste.pm": [
         ".banners"
@@ -86495,12 +86225,6 @@
     "talksport.com": [
         ".billboard"
     ],
-    "techforbrains.com": [
-        ".billboard",
-        ".desktopad",
-        ".topbanner",
-        ".widget_custom_html"
-    ],
     "the-sun.com": [
         ".billboard",
         ".customiser-v2-layout-1-billboard",
@@ -86577,9 +86301,6 @@
         ".block-head-c",
         ".mondo-ads-widget",
         ".notrack"
-    ],
-    "practicalpainmanagement.com": [
-        ".block-oas"
     ],
     "macmusic.org": [
         ".block440Adv"
@@ -86702,11 +86423,6 @@
     "broadsheet.com.au": [
         ".breakout-section-inverse"
     ],
-    "moco360.media": [
-        ".broadstreet-story-ad-text",
-        ".bs_zones",
-        ".tag-sponsored"
-    ],
     "barakbulletin.com": [
         ".bsac"
     ],
@@ -86722,9 +86438,6 @@
     ],
     "lifestyleasia.com": [
         ".btt-top-add-section"
-    ],
-    "switchboard.com": [
-        ".business_premium_results"
     ],
     "imac-torrents.com": [
         ".button"
@@ -86785,12 +86498,6 @@
     "oxygenmag.com": [
         ".c-thinbanner"
     ],
-    "pelotonmagazine.com": [
-        ".c-thinbanner"
-    ],
-    "rockandice.com": [
-        ".c-thinbanner"
-    ],
     "skimag.com": [
         ".c-thinbanner"
     ],
@@ -86805,9 +86512,6 @@
     ],
     "yogajournal.com": [
         ".c-thinbanner"
-    ],
-    "nitroscans.com": [
-        ".c-top-second-sidebar"
     ],
     "freecomiconline.me": [
         ".c-top-sidebar"
@@ -86835,9 +86539,6 @@
     ],
     "thecable.ng": [
         ".cableads_mid"
-    ],
-    "strategie-bourse.com": [
-        ".cadre_encadre_pub"
     ],
     "cafonline.com": [
         ".caf-o-sponsors-nav"
@@ -87187,10 +86888,6 @@
     "reptilesmagazine.com": [
         ".code-block"
     ],
-    "respawnfirst.com": [
-        ".code-block",
-        ".mv-ad-box"
-    ],
     "rezence.com": [
         ".code-block"
     ],
@@ -87257,9 +86954,6 @@
         ".code-block"
     ],
     "theprint.in": [
-        ".code-block"
-    ],
-    "trendingpolitics.com": [
         ".code-block"
     ],
     "trendingpoliticsnews.com": [
@@ -87360,9 +87054,6 @@
     "thisislondon.co.uk": [
         ".commercial"
     ],
-    "mega.nz": [
-        ".commercial-wrapper"
-    ],
     "audacy.com": [
         ".component--google-ad-manager"
     ],
@@ -87399,9 +87090,6 @@
     ],
     "whatismyip.net": [
         ".container > .panel[id]"
-    ],
-    "redditsave.com": [
-        ".container > center"
     ],
     "snazzymaps.com": [
         ".container-gas"
@@ -87742,9 +87430,6 @@
         ".dx-ad-wrapper",
         ".post-infinite-ads"
     ],
-    "nomadlist.com": [
-        ".dynamic-fill"
-    ],
     "independent.co.ug": [
         ".e3lan",
         "img[width=\"320\"]"
@@ -87897,11 +87582,6 @@
         ".fdn-gpt-inline-content",
         ".fdn-teaser-row-gpt-ad",
         "[gpt-slot-config-id]",
-        "[gpt-slot-div-id]"
-    ],
-    "riverfronttimes.com": [
-        ".fdn-gpt-inline-content",
-        ".fdn-teaser-row-teaser",
         "[gpt-slot-div-id]"
     ],
     "orlandoweekly.com": [
@@ -88095,10 +87775,6 @@
         ".funzone",
         ".node_sponsor",
         ".sponsors"
-    ],
-    "savemyexams.co.uk": [
-        ".fuse-desktop-h-250",
-        ".fuse-h-90"
     ],
     "aframnews.com": [
         ".g"
@@ -88613,9 +88289,6 @@
     "247wallst.com": [
         ".hello-bar"
     ],
-    "onlinevideoconverter.pro": [
-        ".helper-widget"
-    ],
     "igorslab.de": [
         ".herald-sidebar",
         "a[href*=\"/linkout/\"]"
@@ -88929,15 +88602,6 @@
     "overtake.gg": [
         ".js-notice.notice",
         ".samCodeUnit"
-    ],
-    "nicelocal.com": [
-        ".js-results-slot",
-        ".slot-service-2",
-        ".slot-service-top",
-        "div[style=\"min-width: 300px; min-height: 600px;\"]",
-        "div[style=\"min-width: 728px; min-height: 90px;\"]",
-        "div[style=\"min-height: 600px;\"]:has(iframe[id^=\"google_ads_\"])",
-        "div[style=\"min-height: 90px;\"]:has(iframe[id^=\"google_ads_\"])"
     ],
     "extratv.com": [
         ".js-track-link"
@@ -89263,20 +88927,11 @@
     "forum.audiogon.com": [
         ".leaderboard-container"
     ],
-    "news957.com": [
-        ".leaderboard-container"
-    ],
     "consequence.net": [
         ".leaderboard-sticky",
         ".video_container"
     ],
-    "nowthisnews.com": [
-        ".leaderboard-wrap"
-    ],
     "scout.com": [
-        ".leaderboard-wrap"
-    ],
-    "seeker.com": [
         ".leaderboard-wrap"
     ],
     "thedodo.com": [
@@ -89354,11 +89009,6 @@
     ],
     "privateproperty.co.za": [
         ".listingResultPremiumCampaign"
-    ],
-    "reviewparking.com": [
-        ".litespeed-loaded",
-        ".mx-auto",
-        "img[width=\"300\"]"
     ],
     "leftlion.co.uk": [
         ".ll-ad"
@@ -89447,20 +89097,12 @@
     "racgp.org.au": [
         ".mb-1.small"
     ],
-    "mastercomfig.com": [
-        ".md-typeset[style^=\"background:\"]",
-        ".text-start[style^=\"background:\"]",
-        "a[href^=\"https://tradeit.gg/\"]"
-    ],
     "gamezone.com": [
         ".med-rect-ph"
     ],
     "tasfia-tarbia.org": [
         ".media-links",
         ".text"
-    ],
-    "picuki.me": [
-        ".media-wrap-h12"
     ],
     "compoundsemiconductor.net": [
         ".mega-bar",
@@ -89650,9 +89292,6 @@
     "her.ie": [
         ".mpu"
     ],
-    "musicradio.com": [
-        ".mpu"
-    ],
     "newburyandthatchamchronicle.co.uk": [
         ".mpu"
     ],
@@ -89669,9 +89308,6 @@
         ".mpu",
         ".promoted-block"
     ],
-    "rochdaleonline.co.uk": [
-        ".mpu"
-    ],
     "rte.ie": [
         ".mpu"
     ],
@@ -89686,9 +89322,6 @@
         ".mpu"
     ],
     "spinsouthwest.com": [
-        ".mpu"
-    ],
-    "strathallantimes.co.uk": [
         ".mpu"
     ],
     "sundaypost.com": [
@@ -89727,10 +89360,6 @@
     ],
     "jozifm.co.za": [
         ".mrec"
-    ],
-    "nwherald.com": [
-        ".mrec",
-        ".promo"
     ],
     "thewest.com.au": [
         ".mrec"
@@ -89827,9 +89456,6 @@
     ],
     "publishedreporter.com": [
         ".no-bg-box-model"
-    ],
-    "shinigami09.com": [
-        ".no-gaps.page-break > a[href]"
     ],
     "sloanreview.mit.edu": [
         ".no-mobile--ad"
@@ -90026,9 +89652,6 @@
         ".pb-24",
         ".sm\\:w-\\[728px\\]"
     ],
-    "royalsocietypublishing.org": [
-        ".pb-ad"
-    ],
     "tandfonline.com": [
         ".pb-ad"
     ],
@@ -90204,9 +89827,6 @@
     "resohangout.com": [
         ".premiere-sponsors"
     ],
-    "sulekha.com": [
-        ".premium-banner-advertisement"
-    ],
     "bangpremier.com": [
         ".presentation-space",
         ".presentation-space-m-panel"
@@ -90236,10 +89856,6 @@
     "g2.com": [
         ".product-head__leads"
     ],
-    "skinstore.com": [
-        ".productSponsoredAdsWrapper",
-        "li.sponsoredProductsList"
-    ],
     "gokunming.com": [
         ".prom"
     ],
@@ -90258,9 +89874,6 @@
         ".promo"
     ],
     "sciagaj.org": [
-        ".promo"
-    ],
-    "totalxbox.com": [
         ".promo"
     ],
     "varsity.com": [
@@ -90646,9 +90259,6 @@
     "emtbforums.com": [
         ".samCodeUnit"
     ],
-    "racedepartment.com": [
-        ".samCodeUnit"
-    ],
     "resetera.com": [
         ".samCodeUnit"
     ],
@@ -90742,10 +90352,6 @@
     "stockhouse.com": [
         ".sh-ad"
     ],
-    "romzie.com": [
-        ".shcntr",
-        ".stksht"
-    ],
     "stokesentinel.co.uk": [
         ".shop-window[data-impr-tracking=\"true\"]",
         ".topbox-cls-placeholder"
@@ -90764,13 +90370,6 @@
     ],
     "spacenews.com": [
         ".show-street-dialog"
-    ],
-    "winx-club-hentai.com": [
-        ".shr34"
-    ],
-    "nexter.org": [
-        ".side-banner",
-        "[href*=\"bit.ly/\"]"
     ],
     "pr0gramm.com": [
         ".side-wide-skyscraper"
@@ -90874,9 +90473,6 @@
         ".slinks"
     ],
     "airdriecityview.com": [
-        ".slot"
-    ],
-    "albertaprimetimes.com": [
         ".slot"
     ],
     "cochraneeagle.ca": [
@@ -90988,9 +90584,6 @@
         ".sponsor"
     ],
     "phish.report": [
-        ".sponsor"
-    ],
-    "thefederalistpapers.org": [
         ".sponsor"
     ],
     "topsurgery.net": [
@@ -91291,9 +90884,6 @@
         ".td-a-ad",
         ".tdi_63"
     ],
-    "schengen.news": [
-        ".td-a-ad"
-    ],
     "unlockboot.com": [
         ".td-ads-home",
         ".ubhome-banner",
@@ -91304,9 +90894,6 @@
         ".td_block_single_image",
         ".tdi_114",
         ".tdi_185"
-    ],
-    "americanindependent.com": [
-        ".td-banner-bg"
     ],
     "brila.net": [
         ".td-banner-wrap-full"
@@ -91323,9 +90910,6 @@
         "img[width=\"728px\"]"
     ],
     "ticgn.com": [
-        ".td-footer-wrapper"
-    ],
-    "wtf1.co.uk": [
         ".td-footer-wrapper"
     ],
     "techyv.com": [
@@ -91411,6 +90995,10 @@
         ".text-center.py-3",
         ".upcoming-events"
     ],
+    "mastercomfig.com": [
+        ".text-start[style^=\"background:\"]",
+        "a[href^=\"https://tradeit.gg/\"]"
+    ],
     "evilbeetgossip.com": [
         ".textwidget"
     ],
@@ -91418,9 +91006,6 @@
         ".textwidget"
     ],
     "thesportsanimal.com": [
-        ".textwidget"
-    ],
-    "wild1049hd.com": [
         ".textwidget"
     ],
     "wky930am.com": [
@@ -91447,9 +91032,6 @@
     ],
     "onlinecourse24.com": [
         ".tl-topromote"
-    ],
-    "the-tls.co.uk": [
-        ".tls-single-articles__ad-slot-container"
     ],
     "themighty.com": [
         ".tm-ads"
@@ -91724,9 +91306,6 @@
     ],
     "ktm2day.com": [
         ".vc_wp_text"
-    ],
-    "q13fox.com": [
-        ".vendor-unit"
     ],
     "realmoasis.com": [
         ".ver-src"
@@ -92075,9 +91654,6 @@
         ".widget_simpleimage"
     ],
     "catcountry951.com": [
-        ".widget_simpleimage"
-    ],
-    "nashfm1065.com": [
         ".widget_simpleimage"
     ],
     "power923.com": [
@@ -92569,9 +92145,6 @@
     "hapskorea.com": [
         "[height=\"300\"]"
     ],
-    "thetruthwins.com": [
-        "[height=\"300\"]"
-    ],
     "sharktankblog.com": [
         "[height=\"60\"]"
     ],
@@ -92631,13 +92204,7 @@
     "resultuniraj.co.in": [
         "[href*=\"bit.ly/\"]"
     ],
-    "retail.org.nz": [
-        "[href*=\"bit.ly/\"]"
-    ],
     "ripplesnigeria.com": [
-        "[href*=\"bit.ly/\"]"
-    ],
-    "thinknews.com.ng": [
         "[href*=\"bit.ly/\"]"
     ],
     "timesuganda.com": [
@@ -92676,9 +92243,6 @@
     ],
     "bitcoiner.tv": [
         "[href=\"https://bitcoiner.tv/buy-btc.php\"]"
-    ],
-    "summit.news": [
-        "[href=\"https://infowarsstore.com/\"]"
     ],
     "julieroys.com": [
         "[href=\"https://julieroys.com/restore\"]"
@@ -92818,9 +92382,6 @@
     ],
     "screenshot-media.com": [
         "[href^=\"https://www.tryamazonmusic.com/\"]"
-    ],
-    "producebluebook.com": [
-        "[id^=\"BBS\"]"
     ],
     "pluggedingolf.com": [
         "[id^=\"black-studio-tinymce-\"]",
@@ -92971,9 +92532,6 @@
     "twcenter.net": [
         "[style^=\"width: 728px;\"]"
     ],
-    "mrchecker.net": [
-        "[target=\"_blank\"]"
-    ],
     "myfitnesspal.com": [
         "[title*=\"Ad\"]"
     ],
@@ -93006,10 +92564,6 @@
     ],
     "drwealth.com": [
         "[width=\"640\"]"
-    ],
-    "americaoutloud.com": [
-        "[width=\"728\"]",
-        "img[width=\"300\"]"
     ],
     "artificialintelligence-news.com": [
         "[width=\"728\"]"
@@ -93063,41 +92617,9 @@
     "mallorca.com": [
         "a[data-ad]"
     ],
-    "pinterest.at": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.ca": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.ch": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.co.uk": [
-        "a[href*=\"&epik=\"]"
-    ],
     "pinterest.com": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.com.au": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.com.mx": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.de": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.es": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.fr": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.it": [
-        "a[href*=\"&epik=\"]"
-    ],
-    "pinterest.pt": [
-        "a[href*=\"&epik=\"]"
+        "a[href*=\"&epik=\"]",
+        "div[data-grid-item]:has([data-test-pin-id] [data-test-id^=\"one-tap-desktop\"] > a[href^=\"http\"][rel=\"nofollow\"]):not(body > div)"
     ],
     "linuxjournal.com": [
         "a[href*=\"&utm_campaign=\"]"
@@ -93159,34 +92681,6 @@
     ],
     "techporn.ph": [
         "a[href][target*=\"blank\"]"
-    ],
-    "rarbgaccess.org": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
-    ],
-    "rarbgmirror.com": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
-    ],
-    "rarbgmirror.org": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
-    ],
-    "rarbgproxy.com": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
-    ],
-    "rarbgproxy.org": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
-    ],
-    "rarbgunblock.com": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
-    ],
-    "rarbgunblocked.org": [
-        "a[href][target=\"_blank\"] > button",
-        "tr > td + td[style*=\"height:\"]"
     ],
     "tractorbynet.com": [
         "a[href][target=\"_blank\"] > img[class^=\"attachment-large\"]"
@@ -93258,9 +92752,6 @@
         "a[href^=\"https://s.click.aliexpress.com/\"]"
     ],
     "101thefox.net": [
-        "a[href^=\"https://parisicoffee.com/\"]"
-    ],
-    "957thevibe.com": [
         "a[href^=\"https://parisicoffee.com/\"]"
     ],
     "blix.gg": [
@@ -93393,17 +92884,11 @@
         "div[data-qa=\"jobs-recommendation-ad\"]",
         "li[data-qa=\"notifications-ad\"]"
     ],
-    "vezod.com": [
-        "av-adv-slot"
-    ],
     "nbcsports.com": [
         "bsp-reverse-scroll-ad"
     ],
     "dustinabbott.net": [
         "center > a > img"
-    ],
-    "mangas-raw.com": [
-        "center > div[style]"
     ],
     "pricehistoryapp.com": [
         "center[class^=\"min-h-\"]"
@@ -93593,9 +93078,6 @@
     "newsner.com": [
         "div[id^=\"ad-\"]"
     ],
-    "nowgoal8.com": [
-        "div[id^=\"ad_\"]"
-    ],
     "imggen.ai": [
         "div[id^=\"bsa-zone_\"]"
     ],
@@ -93730,10 +93212,6 @@
     "whatmobile.com.pk": [
         "div[style^=\"background-color:#EBEBEB;\"]",
         "div[style^=\"height:610px\"]"
-    ],
-    "add0n.com": [
-        "div[style^=\"height: 90px;\"]",
-        "div[style^=\"min-height:90px\"]"
     ],
     "english-hindi.net": [
         "div[style^=\"height:250px\"]"
@@ -93895,9 +93373,6 @@
         "img[width=\"300\"]"
     ],
     "therep.co.za": [
-        "img[width=\"300\"]"
-    ],
-    "thewillnigeria.com": [
         "img[width=\"300\"]"
     ],
     "wschronicle.com": [
@@ -94308,9 +93783,6 @@
     "bitcointalk.org": [
         ".signature:has(a[href]:not([href*=\"bitcointalk.org\"]))"
     ],
-    "rustlabs.com": [
-        ".sub-info-block:has(#banner)"
-    ],
     "scamwarners.com": [
         ".subheader:has(> ins.adsbygoogle)"
     ],
@@ -94468,9 +93940,6 @@
         "HTML"
     ],
     "monetag.com": [
-        "HTML"
-    ],
-    "myadcash.com": [
         "HTML"
     ],
     "popads.net": [
