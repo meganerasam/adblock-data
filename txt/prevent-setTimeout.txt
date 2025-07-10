@@ -72,6 +72,14 @@
             ]
         },
         {
+            "pattern": "anigo.to",
+            "args": [
+                [
+                    "||!!"
+                ]
+            ]
+        },
+        {
             "pattern": "yflix.to",
             "args": [
                 [
@@ -513,14 +521,6 @@
             ]
         },
         {
-            "pattern": "jsfiddle.net",
-            "args": [
-                [
-                    "modal"
-                ]
-            ]
-        },
-        {
             "pattern": "liverpool.no",
             "args": [
                 [
@@ -721,14 +721,6 @@
         },
         {
             "pattern": "segnidalcielo.it",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "2iptv.com",
             "args": [
                 [
                     "google_jobrunner"
@@ -3150,14 +3142,6 @@
             ]
         },
         {
-            "pattern": "hurawatch.bz",
-            "args": [
-                [
-                    "||null"
-                ]
-            ]
-        },
-        {
             "pattern": "vidplay.site",
             "args": [
                 [
@@ -3221,17 +3205,6 @@
             ]
         },
         {
-            "pattern": "fslinks.org",
-            "args": [
-                [
-                    "devtool"
-                ],
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
             "pattern": "listeamed.net",
             "args": [
                 [
@@ -3255,17 +3228,6 @@
         },
         {
             "pattern": "vembed.*",
-            "args": [
-                [
-                    "devtool"
-                ],
-                [
-                    "afterOpen"
-                ]
-            ]
-        },
-        {
-            "pattern": "vgplayer.xyz",
             "args": [
                 [
                     "devtool"
@@ -3360,9 +3322,6 @@
             "args": [
                 [
                     "=document[_0x"
-                ],
-                [
-                    "DkQoS"
                 ],
                 [
                     "detectImgLoad"
@@ -3878,14 +3837,6 @@
         },
         {
             "pattern": "tinhocdongthap.com",
-            "args": [
-                [
-                    "show"
-                ]
-            ]
-        },
-        {
-            "pattern": "sakarnewz.com",
             "args": [
                 [
                     "show"
@@ -4998,15 +4949,6 @@
             ]
         },
         {
-            "pattern": "plex-guide.de",
-            "args": [
-                [
-                    "nextFunction",
-                    "2000"
-                ]
-            ]
-        },
-        {
             "pattern": "kdramasmaza.com.pk",
             "args": [
                 [
@@ -6053,14 +5995,6 @@
             ]
         },
         {
-            "pattern": "streamsilk.com",
-            "args": [
-                [
-                    "window.open"
-                ]
-            ]
-        },
-        {
             "pattern": "viralharami.com",
             "args": [
                 [
@@ -6410,6 +6344,14 @@
             ]
         },
         {
+            "pattern": "filmyzones.com",
+            "args": [
+                [
+                    "ai_adb"
+                ]
+            ]
+        },
+        {
             "pattern": "medebooks.xyz",
             "args": [
                 [
@@ -6704,14 +6646,6 @@
         },
         {
             "pattern": "courseboat.com",
-            "args": [
-                [
-                    "brave_load_popup"
-                ]
-            ]
-        },
-        {
-            "pattern": "coursehulu.com",
             "args": [
                 [
                     "brave_load_popup"
@@ -7260,14 +7194,6 @@
             ]
         },
         {
-            "pattern": "cigarlessarefy.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "yodelswartlike.com",
             "args": [
                 [
@@ -7277,22 +7203,6 @@
         },
         {
             "pattern": "generatesnitrosate.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "crownmakermacaronicism.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "chromotypic.com",
             "args": [
                 [
                     "blocked"
@@ -7340,14 +7250,6 @@
             ]
         },
         {
-            "pattern": "simpulumlamerop.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "urochsunloath.com",
             "args": [
                 [
@@ -7364,23 +7266,7 @@
             ]
         },
         {
-            "pattern": "counterclockwisejacky.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "35volitantplimsoles5.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "scatch176duplicities.com",
             "args": [
                 [
                     "blocked"
@@ -7428,39 +7314,7 @@
             ]
         },
         {
-            "pattern": "19turanosephantasia.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "30sensualizeexpression.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "321naturelikefurfuroid.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "745mingiestblissfully.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "availedsmallest.com",
             "args": [
                 [
                     "blocked"
@@ -7508,14 +7362,6 @@
             ]
         },
         {
-            "pattern": "fraudclatterflyingcar.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "launchreliantcleaverriver.com",
             "args": [
                 [
@@ -7540,31 +7386,7 @@
             ]
         },
         {
-            "pattern": "reputationsheriffkennethsand.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "telyn610zoanthropy.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "tubelessceliolymph.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "tummulerviolableness.com",
             "args": [
                 [
                     "blocked"
@@ -7637,14 +7459,6 @@
         },
         {
             "pattern": "voeunblock.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "voeunblock1.com",
             "args": [
                 [
                     "blocked"
@@ -7859,14 +7673,6 @@
         },
         {
             "pattern": "worldfreeware.com",
-            "args": [
-                [
-                    "mdp"
-                ]
-            ]
-        },
-        {
-            "pattern": "cuitandokter.com",
             "args": [
                 [
                     "mdp"
@@ -14915,14 +14721,6 @@
             ]
         },
         {
-            "pattern": "dzeko11.net",
-            "args": [
-                [
-                    "keepChecking"
-                ]
-            ]
-        },
-        {
             "pattern": "mangacrab.com",
             "args": [
                 [
@@ -15761,6 +15559,15 @@
             ]
         },
         {
+            "pattern": "work.ink",
+            "args": [
+                [
+                    "Ad",
+                    "5000"
+                ]
+            ]
+        },
+        {
             "pattern": "ville-ideale.fr",
             "args": [
                 [
@@ -15913,14 +15720,6 @@
         },
         {
             "pattern": "qqwebplay.xyz",
-            "args": [
-                [
-                    "stackTrace"
-                ]
-            ]
-        },
-        {
-            "pattern": "viwlivehdplay.ru",
             "args": [
                 [
                     "stackTrace"
@@ -16420,6 +16219,14 @@
         },
         {
             "pattern": "tdtnews.com",
+            "args": [
+                [
+                    "TNCMS.DMP"
+                ]
+            ]
+        },
+        {
+            "pattern": "santafenewmexican.com",
             "args": [
                 [
                     "TNCMS.DMP"
