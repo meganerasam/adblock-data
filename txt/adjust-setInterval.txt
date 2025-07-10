@@ -522,12 +522,6 @@
             ]
         },
         {
-            "pattern": "skiplink.me",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "yurasu.xyz",
             "args": [
                 []
@@ -1316,16 +1310,6 @@
             ]
         },
         {
-            "pattern": "fx-gd.net",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.02"
-                ]
-            ]
-        },
-        {
             "pattern": "healthy4pepole.com",
             "args": [
                 [
@@ -1994,94 +1978,6 @@
         },
         {
             "pattern": "pixlev.*",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "imgyer.store",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "pixqbngg.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "pixqwet.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "pixmos.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "imgtgd.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "imgcsxx.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "imgqklw.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "pixqkhgrt.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "imgcssd.shop",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "imguwjsd.sbs",
-            "args": [
-                [
-                    "timer"
-                ]
-            ]
-        },
-        {
-            "pattern": "pictbbf.shop",
             "args": [
                 [
                     "timer"
@@ -3885,16 +3781,6 @@
             ]
         },
         {
-            "pattern": "menjelajahi.com",
-            "args": [
-                [
-                    "time",
-                    "",
-                    "0"
-                ]
-            ]
-        },
-        {
             "pattern": "unityassetcollection.com",
             "args": [
                 [
@@ -4369,12 +4255,6 @@
         }
     ],
     "exceptionRules": [
-        {
-            "pattern": "go.skiplink.me",
-            "args": [
-                []
-            ]
-        },
         {
             "pattern": "encurtador.postazap.com",
             "args": [
