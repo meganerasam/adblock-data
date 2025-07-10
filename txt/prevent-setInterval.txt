@@ -57,14 +57,6 @@
             ]
         },
         {
-            "pattern": "fslinks.org",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
             "pattern": "listeamed.net",
             "args": [
                 [
@@ -82,14 +74,6 @@
         },
         {
             "pattern": "vembed.*",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vgplayer.xyz",
             "args": [
                 [
                     "devtool"
@@ -197,14 +181,6 @@
             ]
         },
         {
-            "pattern": "lvturbo.com",
-            "args": [
-                [
-                    "_0x"
-                ]
-            ]
-        },
-        {
             "pattern": "sbbrisk.com",
             "args": [
                 [
@@ -214,14 +190,6 @@
         },
         {
             "pattern": "sbface.com",
-            "args": [
-                [
-                    "_0x"
-                ]
-            ]
-        },
-        {
-            "pattern": "sbspeed.com",
             "args": [
                 [
                     "_0x"
@@ -441,14 +409,6 @@
             "args": [
                 [
                     "getComputedStyle"
-                ]
-            ]
-        },
-        {
-            "pattern": "player.melaniezettofrais.online",
-            "args": [
-                [
-                    "/devtools|debu/"
                 ]
             ]
         },
@@ -709,15 +669,6 @@
             ]
         },
         {
-            "pattern": "arabnaar.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "sukidesuost.info",
             "args": [
                 [
@@ -872,15 +823,6 @@
         },
         {
             "pattern": "graphicdesignresources.net",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "veryfiles.com",
             "args": [
                 [
                     "visibility",
@@ -1159,15 +1101,6 @@
             ]
         },
         {
-            "pattern": "sociadrive.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "angeloyeo.github.io",
             "args": [
                 [
@@ -1438,15 +1371,6 @@
             ]
         },
         {
-            "pattern": "kiwiexploits.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "jaysndees.com",
             "args": [
                 [
@@ -1592,15 +1516,6 @@
         },
         {
             "pattern": "xanimehub.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "goldenmanga.top",
             "args": [
                 [
                     "visibility",
