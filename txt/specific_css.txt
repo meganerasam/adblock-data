@@ -1768,6 +1768,9 @@
     "underground.tboys.ro": [
         ".under-dupa-continut + div[id][class*=\" \"]"
     ],
+    "pornincest.net": [
+        "a[href=\"#\"] + div[id][class*=\" \"]"
+    ],
     "examscisco.com": [
         "a[href=\"#\"] + div[id][class*=\" \"]",
         ".ta_upscr + div[id][class*=\" \"]"
@@ -2033,6 +2036,7 @@
     ],
     "appnee.com": [
         "body > div[id=\"page\"] + div[id][class]",
+        "div[id^=\"overlay_\"]",
         "img[alt=\"Ads Place\"]"
     ],
     "primemovies.pl": [
@@ -2653,9 +2657,6 @@
         "body > script + div[id][class*=\" \"]"
     ],
     "cuckoldsex.net": [
-        "body > #back-to-top + div[id][class*=\" \"]"
-    ],
-    "pornincest.net": [
         "body > #back-to-top + div[id][class*=\" \"]"
     ],
     "videodidixx.com": [
@@ -12212,6 +12213,10 @@
     ],
     "joujizz.com": [
         ".video-top-wrap > .sb"
+    ],
+    "itreseller.pl": [
+        ".bn-rklm-banner",
+        ".bn-banner-header"
     ],
     "gazetki.pl": [
         ".ad_d_small",
@@ -26728,6 +26733,9 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "kecapku.com": [
+        ".content a[rel] > img"
+    ],
     "gogonu.com": [
         ".special-image",
         ".video-item > .iframe-item",
@@ -26778,6 +26786,7 @@
     "kalporn.com": [
         ".abbcn-footer",
         "#video-right",
+        "#overlay-video",
         ".banners-footer"
     ],
     "english.mathrubhumi.com": [
@@ -28522,7 +28531,8 @@
         ".col-lg-4 > .clear",
         "[style=\"min-height: 600px;\"]",
         "[style=\"min-height:600px;\"]",
-        ".app-body > div:has(> div[class*=\"is-desktop-ads-\"])"
+        ".app-body > div:has(> div[class*=\"is-desktop-ads-\"])",
+        ".app-body > div[class]:has(> div[class] > .htlad-header_top)"
     ],
     "gunbroker.com": [
         "div[id^=\"adPlacement\"]",
@@ -28622,8 +28632,11 @@
     "bestbuy.com": [
         ".display-ad-wrapper",
         "div[id^=\"shop-display-ad-\"]",
+        "#sponsored-carousel-na",
+        ".atwb-display-ad",
         ".shop-dedicated-sponsored-carousel",
         ".shop-pushdown-ad",
+        ".spotlight-ad",
         "[id^=\"atwb-ninja-carousel\"]",
         "li.embedded-sponsored-listing",
         ".generic-morpher:has(.spns-label)",
@@ -29609,7 +29622,7 @@
         ".promoted-buybox",
         "publication-block",
         ".jw-ad-block",
-        ".sponsored-recommendation"
+        ".buybox-promotion-row"
     ],
     "game-maps.com": [
         ".ga-bot-map-on",
@@ -31674,6 +31687,7 @@
         ".module--carousel-toursactivities",
         ".result--ad > .result__body",
         ".sponsored",
+        "[data-layout$=\"_ads\"]",
         "[data-layout=\"ad\"]",
         "[data-testid=serp-popover-promo]",
         "li[data-layout=\"creditcard_ads\"]",
@@ -39328,6 +39342,8 @@
         "a[class^=\"brand-link-\"]"
     ],
     "xxxbule.com": [
+        "center > div[itemprop=\"name\"]:first-child:has(+ script)",
+        "div[class^=\"style\"]:has(> div[itemprop=\"video\"]) + a[target=\"_blank\"]",
         "center > div.style3 > div.style49",
         ".style75"
     ],
@@ -42346,7 +42362,8 @@
         ".BrandingPromo_skeleton",
         ".ImagePromo_default",
         "[class*=\"BrndigPrmo_\"]",
-        "[id*=\"Image_bnnr\"]"
+        "[id*=\"Image_bnnr\"]",
+        "div[class*=\"BrndngPrmo\"]"
     ],
     "makezine.com": [
         "div[class*=\"ad-make_mpu_\"]",
@@ -52245,7 +52262,8 @@
         ".content > .author",
         ".alford > tbody > tr",
         ".highlight.content > center > font",
-        ".navigation-light"
+        ".navigation-light",
+        "[style]:has([href*=\"&utm_source\"])"
     ],
     "roleplayer.me": [
         "div[id^=\"ClearVista_Roleplayerme_300x\"] + table > tbody > tr > td > center > font > a[href=\"premium/paid_membership.php\"]"
@@ -63795,12 +63813,14 @@
     "x1337x.eu": [
         ".page-content > .box-info:has(> .box-info-heading > div[onclick^=\"location.href=\"][style])",
         "div[onclick^=\"location.href=\"][style]",
-        "a[href=\"/register/\"]"
+        "a[href=\"/register/\"]",
+        "[href^=\"https://limeiptv.to\"]"
     ],
     "x1337x.ws": [
         ".page-content > .box-info:has(> .box-info-heading > div[onclick^=\"location.href=\"][style])",
         "div[onclick^=\"location.href=\"][style]",
-        "a[href=\"/register/\"]"
+        "a[href=\"/register/\"]",
+        "[href^=\"https://limeiptv.to\"]"
     ],
     "1337x.unblock2.xyz": [
         ".page-content > .box-info:has(> .box-info-heading > div[onclick^=\"location.href=\"][style])",
@@ -85134,6 +85154,9 @@
         ".ast-above-header-wrap",
         "div[class^=\"astra-advanced-hook-\"]"
     ],
+    "attitude.co.uk": [
+        ".at-advert"
+    ],
     "animalcrossingworld.com": [
         ".at-sidebar-1"
     ],
@@ -86855,9 +86878,6 @@
     "notalwaysright.com": [
         ".code-block"
     ],
-    "nsw2u.com": [
-        ".code-block"
-    ],
     "nxbrew.com": [
         ".code-block"
     ],
@@ -88170,6 +88190,10 @@
     ],
     "biztechmagazine.com": [
         ".hdr-btm"
+    ],
+    "politicshome.com": [
+        ".hdr-top",
+        ".row--ad"
     ],
     "plos.org": [
         ".head-top",
@@ -91994,8 +92018,7 @@
     ],
     "shoprite.com": [
         "[class^=\"CitrusBannerXContainer\"]",
-        "div[class^=\"ColListing\"]:has(div[data-testid^=\"Sponsored\"])",
-        "div[class^=\"Row\"]:has(div[data-component] a[data-testid] picture source[media=\"(min-width: 1024px)\"] + img[class*=\"ImageTextButtonImage\"][src*=\".jpg\"])"
+        "div[class^=\"ColListing\"]:has(div[data-testid^=\"Sponsored\"])"
     ],
     "uploader.link": [
         "[class^=\"ads\"]"
@@ -93809,9 +93832,6 @@
     "evreporter.com": [
         ".widget_media_image:not(:has(a[href^=\"https://evreporter.com/\"]))"
     ],
-    "sameday.costco.com": [
-        "[aria-label=\"Product\"]:has(sp-tag)"
-    ],
     "freshdirect.com": [
         "[class*=\"ProductsGrid_grid_item\"]:has([data-testid=\"marketing tag\"])"
     ],
@@ -93891,6 +93911,9 @@
     "streeteasy.com": [
         "li [class^=\"ListingCard-module\"]:has([class*=\"sponsoredTag\"])",
         "li.searchCardList--listItem:has(.jsSponsoredListingCard)"
+    ],
+    "sameday.costco.com": [
+        "li:has([aria-label=\"Product\"] sp-tag)"
     ],
     "aboutyou.de": [
         "li:has([data-testid=\"spons\"])",
