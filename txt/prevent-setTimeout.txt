@@ -497,6 +497,22 @@
             ]
         },
         {
+            "pattern": "anisearch.de",
+            "args": [
+                [
+                    "faq/whitelist"
+                ]
+            ]
+        },
+        {
+            "pattern": "anisearch.com",
+            "args": [
+                [
+                    "faq/whitelist"
+                ]
+            ]
+        },
+        {
             "pattern": "watson.de",
             "args": [
                 [
