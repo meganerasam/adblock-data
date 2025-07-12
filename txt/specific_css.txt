@@ -26733,6 +26733,22 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "buffsports.io": [
+        ".h-100.w-100.bg-opacity-25",
+        "a[role=\"button\"][href=\"#\"]",
+        "button[data-openuri][data-open=\"_blank\"]"
+    ],
+    "muchohentai.com": [
+        "#__eq2281___",
+        "#simple-banner",
+        "#custom_html-24",
+        "#custom_html-25",
+        "a[href*=\"theporndude.com\"]",
+        "a[href^=\"https://trynectar.ai/\"]"
+    ],
+    "kio.ac": [
+        "main > div:not([class], [id]) > .w-full > .min-h-4 > div[style^=\"height:\"][style*=\"width:\"][style$=\"overflow: hidden;\"]:has(> script:only-child)"
+    ],
     "kecapku.com": [
         ".content a[rel] > img"
     ],
@@ -26747,10 +26763,6 @@
         ".inside-right-sidebar > aside#custom_html-46",
         ".dkt-amz-deals",
         ".dkt-banner-ads"
-    ],
-    "buffsports.io": [
-        "a[role=\"button\"][href=\"#\"]",
-        "button[data-openuri][data-open=\"_blank\"]"
     ],
     "hide.cx": [
         ".ContainerAreaLeftVertical > img",
@@ -40346,20 +40358,11 @@
     "4thsight.xyz": [
         "#widget-in-article",
         "#widget-index-top",
-        "#custom_html-24",
         "#custom_html-4",
         "#custom_html-16",
         "#custom_html-17",
-        "#custom_html-25"
-    ],
-    "linux.how2shout.com": [
         "#custom_html-24",
-        "#custom_html-10",
         "#custom_html-25"
-    ],
-    "maxedtech.com": [
-        "#custom_html-24",
-        "#sidebar-activate > aside[id^=\"custom_html-\"]"
     ],
     "bulinews.com": [
         "#site_aside > div[style*=\"width:100%; min-height: 250px;\"]",
@@ -54547,7 +54550,8 @@
         ".advertisement-section",
         "#omc-sidebar",
         ".active-footer-ad",
-        ".adv-parent"
+        ".adv-parent",
+        ".full-width-ad-blk"
     ],
     "shrtz.me": [
         "div[style*=\"padding-top:10px;\"][style*=\"width:300px;\"]"
@@ -56583,6 +56587,10 @@
     ],
     "yalla-shoot.com": [
         "a[href^=\"//\"][rel=\"nofollow norefferer noopener\"][style^=\"position: fixed; z-index:\"]"
+    ],
+    "maxedtech.com": [
+        "#sidebar-activate > aside[id^=\"custom_html-\"]",
+        "#custom_html-24"
     ],
     "gomostream.com": [
         ".adtimes"
@@ -60812,6 +60820,7 @@
     ],
     "edmunds.com": [
         "#adhesion-container",
+        ".car-news-marquee",
         ".leaderboard"
     ],
     "airnavradar.com": [
@@ -77081,6 +77090,11 @@
         "#custom_html-12",
         ".e3lan",
         "[href*=\"bit.ly/\"]"
+    ],
+    "linux.how2shout.com": [
+        "#custom_html-10",
+        "#custom_html-24",
+        "#custom_html-25"
     ],
     "healthy4pepole.com": [
         "#custom_html-10"
@@ -96308,10 +96322,6 @@
     ],
     "familypornhd.com": [
         "a[href*=\"theporndude.com\"]"
-    ],
-    "muchohentai.com": [
-        "a[href*=\"theporndude.com\"]",
-        "a[href^=\"https://trynectar.ai/\"]"
     ],
     "myporn.club": [
         "a[href*=\"theporndude.com\"]"
