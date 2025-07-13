@@ -26733,6 +26733,12 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "bigbuttshub2.top": [
+        "body > div ~ div[class]:empty"
+    ],
+    "bigbuttshubvideos.com": [
+        "body > div ~ div[class]:empty"
+    ],
     "buffsports.io": [
         ".h-100.w-100.bg-opacity-25",
         "a[role=\"button\"][href=\"#\"]",
@@ -27254,11 +27260,6 @@
         ".c-banner-partner-branding",
         ".c-banner-partner-header-button",
         ".c-banner-custom"
-    ],
-    "missav.*": [
-        "div[style=\"width: 300px; height: 250px; overflow: hidden;\"]",
-        "div[x-show^=\"recommendItems\"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^=\"sponsored\"])",
-        ".relative > div[x-init*=\"campaignId=under_player\"]"
     ],
     "sexbjcam.com": [
         ".menu-item > a:not([href^=\"https://sexbjcam.com\"])",
@@ -33827,6 +33828,7 @@
         ".aside_ad-rail__cawG6",
         ".commercial",
         ".component-ad",
+        ".fco-sticky-wrapper__space-placeholder",
         "[data-name=\"ad-leaderboard\"]",
         "[data-type=\"AdComponent\"]",
         "div[class^=\"open-web-ad_\"]"
@@ -72878,6 +72880,14 @@
         "app > div[class] > div[class] > div[class] > div[class]:not(.ms-FocusZone):not([class^=\"screenReaderText\"]) div[data-max-width][data-skip-link-name] > div[style^=\"padding-right:\"] + div[tabindex] div.customScrollBar > div[class] > div[class]:not([id]):not([data-convid]):has(> div:not([class]) div[class] > div[style] + div.fbAdLink)",
         "app > div[class] > div[class] > div[class] > div[class]:not(.ms-FocusZone):not([class^=\"screenReaderText\"]) div[data-max-width] + div[class]:has(> div[class] > div > div[id^=\"owaadbar\"])"
     ],
+    "missav.*": [
+        "div[x-show^=\"recommendItems\"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^=\"sponsored\"])",
+        ".relative > div[x-init*=\"campaignId=under_player\"]",
+        ".lg\\:block",
+        ".lg\\:hidden",
+        "[style^=\"width: 300px; height: 250px;\"]",
+        "[x-show$=\"video_details'\"] > div > .list-disc"
+    ],
     "missav123.com": [
         "div[x-show^=\"recommendItems\"] ~ div[class]:has(> div > div.mx-auto > div.flex > a[rel^=\"sponsored\"])",
         ".relative > div[x-init*=\"campaignId=under_player\"]",
@@ -95771,38 +95781,6 @@
     "xxxpicss.com": [
         ".left-banners"
     ],
-    "missav.ai": [
-        ".lg\\:block",
-        ".lg\\:hidden",
-        "[style^=\"width: 300px; height: 250px;\"]",
-        "[x-show$=\"video_details'\"] > div > .list-disc",
-        "a[href*=\"//bit.ly/\"]",
-        "div[style=\"width: 300px; height: 250px;\"]"
-    ],
-    "missav.city": [
-        ".lg\\:block",
-        ".lg\\:hidden"
-    ],
-    "missav.loan": [
-        ".lg\\:block",
-        ".lg\\:hidden"
-    ],
-    "missav.today": [
-        ".lg\\:block",
-        ".lg\\:hidden"
-    ],
-    "missav.wiki": [
-        ".lg\\:block",
-        ".lg\\:hidden"
-    ],
-    "missav.ws": [
-        ".lg\\:block",
-        ".lg\\:hidden",
-        "[style^=\"width: 300px; height: 250px;\"]",
-        "[x-show$=\"video_details'\"] > div > .list-disc",
-        "a[href*=\"//bit.ly/\"]",
-        "div[style=\"width: 300px; height: 250px;\"]"
-    ],
     "loverslab.com": [
         ".ll_adblock"
     ],
@@ -96279,6 +96257,14 @@
     "therealpornwikileaks.com": [
         "a[href*=\".php\"]"
     ],
+    "missav.ai": [
+        "a[href*=\"//bit.ly/\"]",
+        "div[style=\"width: 300px; height: 250px;\"]"
+    ],
+    "missav.ws": [
+        "a[href*=\"//bit.ly/\"]",
+        "div[style=\"width: 300px; height: 250px;\"]"
+    ],
     "phun.org": [
         "a[href*=\"//bit.ly/\"]"
     ],
@@ -96439,6 +96425,9 @@
         "div[style=\"margin:10px auto;height:200px;width:800px;\"]"
     ],
     "javplayer.me": [
+        "div[style=\"position: absolute; inset: 0px; z-index: 999; display: block;\"]"
+    ],
+    "surrit.store": [
         "div[style=\"position: absolute; inset: 0px; z-index: 999; display: block;\"]"
     ],
     "watchteencam.com": [
