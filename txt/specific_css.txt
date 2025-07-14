@@ -26733,6 +26733,22 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "appleinsider.com": [
+        "aside.block[style=\"width: 100%;\"]",
+        ".deals-widget",
+        "body .ad",
+        "body .ad + hr",
+        ".primis-ad-wrap",
+        "#mobile-article-anchor",
+        ".ad",
+        ".bottom",
+        ".exclusive-wrap",
+        ".push",
+        "[rel*=\"sponsored\"]",
+        "div[style^=\"text-align:center;border-radius:0;\"]",
+        ".col-sm-12 > :has([id^=\"div-gpt-ad-\"])",
+        "div.main-art:has-text(Sponsored Content)"
+    ],
     "bigbuttshub2.top": [
         "body > div ~ div[class]:empty"
     ],
@@ -37320,7 +37336,6 @@
         "#shorts-frame",
         ".live-rotate",
         ".livecam-rotate",
-        ".ptgncdn_holder",
         "a[href*=\".com/track/\"]",
         "a[href*=\"?ats=\"]",
         "a[href^=\"http://ads.trafficjunky.net/\"]",
@@ -47165,21 +47180,6 @@
     "freechequewriter.com": [
         "div[style^=\"border-top: 0px solid #DDDDDD; border-bottom: 0px solid #DDDDDD; padding-bottom: 10px;\"]"
     ],
-    "appleinsider.com": [
-        ".deals-widget",
-        "body .ad",
-        "body .ad + hr",
-        ".primis-ad-wrap",
-        "#mobile-article-anchor",
-        ".ad",
-        ".bottom",
-        ".exclusive-wrap",
-        ".push",
-        "[rel*=\"sponsored\"]",
-        "div[style^=\"text-align:center;border-radius:0;\"]",
-        ".col-sm-12 > :has([id^=\"div-gpt-ad-\"])",
-        "div.main-art:has-text(Sponsored Content)"
-    ],
     "classcentral.com": [
         "body .cmpt-ad",
         ".cmpt-ad",
@@ -52341,6 +52341,9 @@
     ],
     "cults3d.com": [
         "div[data-zone]",
+        "#zone-home-selected",
+        ".cultszone",
+        ".cultszone__placeholder",
         ".robots-nocontent",
         ".zone",
         ".zone-el",
@@ -83762,7 +83765,8 @@
         ".ads-contain"
     ],
     "nelomanga.net": [
-        ".ads-contain"
+        ".ads-contain",
+        ".fly-ads-chapter-page"
     ],
     "matrixcalc.org": [
         ".ads-container"
@@ -91505,6 +91509,9 @@
         ".widget_block"
     ],
     "joemygod.com": [
+        ".widget_block"
+    ],
+    "ryxy.online": [
         ".widget_block"
     ],
     "thestrongtraveller.com": [
