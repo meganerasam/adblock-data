@@ -4678,6 +4678,7 @@
         ".ii4q9d-0.fePAzF > div.s1g6rpxu-1",
         "div[id^=\"sidebar-btf\"]",
         "#ad_main_top",
+        "#subreddit-right-rail__partial > aside > div.py-md > div.text-neutral-content-weak:has(> a[target=\"_blank\"] > img)",
         "div[data-before-content=\"advertisement\"]",
         "shreddit-comments-page-ad"
     ],
@@ -6394,6 +6395,9 @@
     ],
     "mutaz.net": [
         ".banners"
+    ],
+    "arageek.com": [
+        "main div[class^=\"css-ar-\"]:has(> .chakra-aspect-ratio > ins[id*=\"_\"])"
     ],
     "haafedk2.com": [
         "body > p > a[target=\"_blank\"]",
@@ -10146,6 +10150,7 @@
     ],
     "timesofindia.indiatimes.com": [
         "div[id^=\"div-clmb-ctn\"]",
+        ".stickymrecad",
         "div[data-font] > div:has(> div[id^=\"div-gpt-\"]:only-child)",
         ".s_mrec_ads",
         ".mid_ads",
@@ -12141,6 +12146,9 @@
         "a > .background-na-commercial ~ *",
         ".am-bazaar-ad"
     ],
+    "vg.no": [
+        "aside.grouped > section:not([class]):has(> div[class^=\"_container\"] > astro-island[component-export=\"GiftHelperPymFrame\"])"
+    ],
     "aftenposten.no": [
         ".advertory-aftenposten-topboard-wrapper__front",
         ".advertory-aftenposten-topboard-wrapper"
@@ -12213,6 +12221,17 @@
     ],
     "joujizz.com": [
         ".video-top-wrap > .sb"
+    ],
+    "domowe-wypieki.pl": [
+        ".no-print:has(> .adsbygoogle:only-child)",
+        "aside#sp-left .no-print:has(> .sp-module-content > .custom > .adsbygoogle)"
+    ],
+    "rallyandrace.pl": [
+        "div[id^=\"oa-360-\"]"
+    ],
+    "skyradar.pl": [
+        "div[id^=\"crosscol-\"] > .widget:has(> .widget-content > .adsbygoogle)",
+        "div[id^=\"crosscol-\"] > .widget:has(> .widget-content > center > .adsbygoogle)"
     ],
     "itreseller.pl": [
         ".bn-rklm-banner",
@@ -14735,7 +14754,10 @@
     "eurosport.tvn24.pl": [
         ".AdContainer",
         ".d3-top-advert",
-        ".d3-side-advert"
+        ".d3-side-advert",
+        ".banner-sponsorship",
+        ".ad[data-ad-skin]",
+        "div[data-testid=\"organism-editorial-feed-block\"] > .common-container:has(> div[data-testid=\"atom-marketing-block-advertisement-title\"]:first-child + div[class*=\"lg-ads\"])"
     ],
     "viva.pl": [
         ".placement",
@@ -26733,6 +26755,74 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "cyclinguptodate.com": [
+        ".raw-html-component[style^=\"margin-top:0px;min-height:\"]",
+        ".sda",
+        ".video-container"
+    ],
+    "flightradar24.com": [
+        "aside > div:has(> script[src^=\"https://live.primis.tech/\"])",
+        "#pb-slot-fr24-airport",
+        "aside > div:has(> div.flex > div > div#pb-slot-fr24-map)",
+        ".noads",
+        "div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)",
+        "#primisAdContainer"
+    ],
+    "itsfoss.com": [
+        ".sidebar__section:has(> div[data-freestar-ad])",
+        ".c-content > div.kg-card:has(> a[href=\"https://itsfoss.com/#/portal/signup\"])",
+        ".c-content > div.kg-card:has(> a[href^=\"https://www.raspberrypi.com/\"])",
+        ".sidebar #text-11 .wp-coupons",
+        ".Campaign",
+        ".kg-bookmark-card",
+        "a[href^=\"https://www.warp.dev\"]"
+    ],
+    "rumble.com": [
+        ".js-ads-container",
+        "div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"])",
+        ".main-and-sidebar > aside[class*=\"-sidebar\"] > div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"]) + div.border-bone-highlight:empty",
+        ".homepage-section:has(> div.constrained > div.js-rac-desktop-container)",
+        ".homepage-section:has(> div.constrained > div[data-js^=\"rac-rp_\"])",
+        "main > section.homepage-section:has(> div.constrained a[href^=\"https://polymarket.com\"])",
+        ".a-break"
+    ],
+    "7mmtv.sx": [
+        ".player_tv_pop",
+        "div[id][style^=\"position: absolute;  z-index: 12345;width: 100%; height: 100%; left: 0;  top: 0;background: gold;\"]",
+        "body .set_height_250",
+        ".a-d-block",
+        ".player-overlay",
+        ".set_height_250"
+    ],
+    "mydramalist.com": [
+        ".app-body > div[class]:not([data-component]):has(.htlad-header_top)",
+        ".spnsr",
+        ".app-body > div[class] > div[class*=\"is-\"]:has(> .htlad-header_top:only-child)",
+        "div[class*=\"is-desktop-ads-\"]",
+        "div[class*=\"_right_\"]:has(> .ad-removal-info)",
+        ".content-side > div[class*=\"_right_\"]:has(> #insticator-container:only-child)",
+        ".mdl-component > .row > .col-xs-12 > .box-body:has(> .spnsr-row:only-child)",
+        ".mdl-component > .row > .col-lg-8 > .box-body:has(> div[class*=\"_right_\"]:only-child > .ad-removal-info)",
+        "div[class=\"sticky\"][style^=\"min-height\"]",
+        ".content-side > div[class*=\"_right\"][style=\"min-height: 250px;\"]",
+        ".ad-removal-info",
+        ".col-lg-4 > .clear",
+        "[style=\"min-height: 600px;\"]",
+        "[style=\"min-height:600px;\"]",
+        ".app-body > div:has(> div[class*=\"is-desktop-ads-\"])",
+        ".app-body > div[class]:has(> div[class] > .htlad-header_top)"
+    ],
+    "kursiv.media": [
+        ".menu-promo"
+    ],
+    "gq.com": [
+        "div[data-testid=\"one-nav-row-grid\"]:has(> div[data-testid=\"one-nav-row-content\"] > div[data-testid=\"one-nav-area-container\"] > div[component=\"sticky-hero-ad\"])",
+        "div[data-testid=\"RowWrapper\"]:has(> div[class^=\"AdWrapper\"])",
+        ".SavingsUnitedCouponsWrapper-gPnqA-d"
+    ],
+    "downsub.com": [
+        "a[href^=\"https://www.aiarty.com/\"]"
+    ],
     "appleinsider.com": [
         "aside.block[style=\"width: 100%;\"]",
         ".deals-widget",
@@ -27541,7 +27631,8 @@
         "div.items-center.bg-primary:has(a.button-primary[href^=\"https://www.bitdefender.com/pages/consumer/\"])"
     ],
     "topcpu.net": [
-        "div[id^=\"topcpu_net_in_page_repeat\"]"
+        "div[id^=\"topcpu_net_in_page_repeat\"]",
+        "[id^=\"topcpu_net_in_page_repeat_responsive\"][style=\"min-height: 300px;\"]"
     ],
     "oilprice.com": [
         "div[class^=\"banner--\"]",
@@ -28545,23 +28636,6 @@
         ".favorite-cards",
         ".showBb",
         "[aria-label=\"Advertisement\"]"
-    ],
-    "mydramalist.com": [
-        ".spnsr",
-        ".app-body > div[class] > div[class*=\"is-\"]:has(> .htlad-header_top:only-child)",
-        "div[class*=\"is-desktop-ads-\"]",
-        "div[class*=\"_right_\"]:has(> .ad-removal-info)",
-        ".content-side > div[class*=\"_right_\"]:has(> #insticator-container:only-child)",
-        ".mdl-component > .row > .col-xs-12 > .box-body:has(> .spnsr-row:only-child)",
-        ".mdl-component > .row > .col-lg-8 > .box-body:has(> div[class*=\"_right_\"]:only-child > .ad-removal-info)",
-        "div[class=\"sticky\"][style^=\"min-height\"]",
-        ".content-side > div[class*=\"_right\"][style=\"min-height: 250px;\"]",
-        ".ad-removal-info",
-        ".col-lg-4 > .clear",
-        "[style=\"min-height: 600px;\"]",
-        "[style=\"min-height:600px;\"]",
-        ".app-body > div:has(> div[class*=\"is-desktop-ads-\"])",
-        ".app-body > div[class]:has(> div[class] > .htlad-header_top)"
     ],
     "gunbroker.com": [
         "div[id^=\"adPlacement\"]",
@@ -31037,6 +31111,10 @@
         "div[class^=\"container-\"]:has(> div[class^=\"ad-\"])",
         "#charting-ad"
     ],
+    "tech.techkhulasha.com": [
+        "#SoumyaHelp-Ads",
+        "#BR-Footer-Ads"
+    ],
     "gyanitheme.com": [
         "#SoumyaHelp-Ads",
         "#BR-Footer-Ads",
@@ -31181,14 +31259,6 @@
         ".rightsimple",
         "#render-big-banners",
         ".popup-counter-deal__wrapper"
-    ],
-    "rumble.com": [
-        "div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"])",
-        ".main-and-sidebar > aside[class*=\"-sidebar\"] > div[class^=\"js-rac-\"][data-zone-id]:has(> script[src^=\"//a.ads.\"]) + div.border-bone-highlight:empty",
-        ".homepage-section:has(> div.constrained > div.js-rac-desktop-container)",
-        ".homepage-section:has(> div.constrained > div[data-js^=\"rac-rp_\"])",
-        "main > section.homepage-section:has(> div.constrained a[href^=\"https://polymarket.com\"])",
-        ".a-break"
     ],
     "bdnews24.com": [
         ".adHome-area",
@@ -32099,14 +32169,6 @@
         ".adsbypubpower",
         ".download-page > a[target=\"_blank\"] > img",
         "iframe[class^=\"iframe_id\"]"
-    ],
-    "itsfoss.com": [
-        ".c-content > div.kg-card:has(> a[href=\"https://itsfoss.com/#/portal/signup\"])",
-        ".c-content > div.kg-card:has(> a[href^=\"https://www.raspberrypi.com/\"])",
-        ".sidebar #text-11 .wp-coupons",
-        ".Campaign",
-        ".kg-bookmark-card",
-        "a[href^=\"https://www.warp.dev\"]"
     ],
     "ebay.*": [
         ".srp-river-answer[class*=\"CAROUSEL\"]:not([class*=\"NAVIGATION\"])"
@@ -61457,11 +61519,6 @@
         ".daily-deal",
         ".mntl-jwplayer-broad"
     ],
-    "flightradar24.com": [
-        ".noads",
-        "div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)",
-        "#primisAdContainer"
-    ],
     "xmissy.nl": [
         ".noclick-small-banner",
         ".noclick-small-bnr"
@@ -72916,13 +72973,6 @@
         "body .set_height_250",
         ".set_height_250"
     ],
-    "7mmtv.sx": [
-        "div[id][style^=\"position: absolute;  z-index: 12345;width: 100%; height: 100%; left: 0;  top: 0;background: gold;\"]",
-        "body .set_height_250",
-        ".a-d-block",
-        ".player-overlay",
-        ".set_height_250"
-    ],
     "charismanews.com": [
         "#FrontpageFeatureRightColumn",
         "div[style=\"min-width: 300px; min-height: 250px;\"]",
@@ -82013,9 +82063,6 @@
     "toonstream.co": [
         ".SH-Ads"
     ],
-    "gq.com": [
-        ".SavingsUnitedCouponsWrapper-gPnqA-d"
-    ],
     "staples.com": [
         ".SearchRootUX2__bannerAndSkuContainer",
         "div[class^=\"sku-configurator__banner\"]:has([aria-label=\"Sponsored Products\"])"
@@ -87549,6 +87596,10 @@
     "kupondo.com": [
         ".entry-content > .row"
     ],
+    "netflixjunkie.com": [
+        ".es-ad-space-container",
+        ".jsx-2230096219:has-text(ad)"
+    ],
     "marcadores247.com": [
         ".es_top_banner"
     ],
@@ -90153,7 +90204,8 @@
         ".recipeAd"
     ],
     "goodmorningamerica.com": [
-        ".recirculation-module"
+        ".recirculation-module",
+        ".taboola"
     ],
     "streamtvinsider.com": [
         ".recommended-content"
@@ -90354,10 +90406,6 @@
     ],
     "eatsmarter.com": [
         ".scroll-creatives"
-    ],
-    "cyclinguptodate.com": [
-        ".sda",
-        ".video-container"
     ],
     "userscript.zone": [
         ".searcad",
@@ -96460,6 +96508,9 @@
     ],
     "vagina.nl": [
         ".list-item:has([data-idzone])"
+    ],
+    "justfullporn.net": [
+        ".order-1:has(> .video-block-happy)"
     ],
     "jav4tv.com": [
         "aside:has(.ads_300_250)"
