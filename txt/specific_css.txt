@@ -814,7 +814,8 @@
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"position: fixed;\"]",
-        "body .code-block"
+        "body .code-block",
+        ".code-block"
     ],
     "lacittadisalerno.it": [
         "[style*=\"cursor:\"][style*=\"user-select: none;\"][style*=\"z-index:\"]",
@@ -9449,6 +9450,15 @@
         "div[style=\"width:728px; height:90px;\"]",
         "td[width=\"900\"][align=\"center\"][valign=\"top\"]"
     ],
+    "ap7am.com": [
+        ".pr-pvt",
+        ".pr-2",
+        ".pr-1",
+        ".tb-dt",
+        ".prk1",
+        ".first-ad",
+        ".ad-pvt"
+    ],
     "hamropatro.com": [
         ".header-banner"
     ],
@@ -9931,12 +9941,6 @@
         ".logoBandAdBox",
         ".advMasterSlot",
         ".mainBodyWrapper div[class*=\"adv\"]"
-    ],
-    "ap7am.com": [
-        ".tb-dt",
-        ".prk1",
-        ".first-ad",
-        ".ad-pvt"
     ],
     "m9.news": [
         "#single-top-ad",
@@ -26753,6 +26757,49 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "trueachievements.com": [
+        ".nn_player_w",
+        "#nn_bfa_wrapper",
+        "#sidebar > .side-unit",
+        "#topad-wrap",
+        "#mpu-1",
+        "#mpu-2",
+        "#mpu-3",
+        ".ad-wrap",
+        ".lb_holder",
+        ".nn_player",
+        ".vr-auction"
+    ],
+    "techspot.com": [
+        ".downloads_list > li:not([class]) > div[style=\"min-height: 250px; text-align: center;\"]",
+        "article > div[style=\"min-height: 280px\"]",
+        ".sesdc",
+        ".downText > a > div",
+        "article div[data-hide=\"#ad_rectangle\"] + div > div.bigText",
+        "div[class^=\"adContainerSide\"]",
+        "div[data-lb-id^=\"thread-\"] > .js-replyNewMessageContainer > div.betweenPosts",
+        "ul#downloads_list > li:not([class]):not([id]) > div[style=\"min-height: 250px;\"]:not([class]):not([id])",
+        ".category > ul > li[style=\"padding: 25px 0 0 0;\"]",
+        ".tshoop",
+        "div[id^=\"div-pg-ad-\"]",
+        ".subDriveRevBot",
+        "div[class^=\"billboard_placeholder_\"]",
+        "div[data-ns=\"rectangle\"]",
+        ".billboard_placeholder_min",
+        ".cta",
+        ".es3s",
+        ".onejob",
+        ".zenerr"
+    ],
+    "bato.to": [
+        ".alert-dark:has(> a[href=\"/direct-link\"])"
+    ],
+    "tubeorigin.com": [
+        "div[data-continuation]"
+    ],
+    "egw.news": [
+        "div[class^=\"offersMain_block\"]"
+    ],
     "hotukdeals.com": [
         "div[id$=\"AdSlotPortal\"]",
         "div[id*=\"AdSlotPortal\"]",
@@ -28522,10 +28569,12 @@
     ],
     "cinejosh.com": [
         ".stick-desktop-right",
-        ".rw_footer_sticky",
-        "span > div.text-center:has(> div.googleAdsSponsered)",
+        ".home_dt_mob_responsive_top_middle_container",
+        ".panel-default > div[style]:has(> .adsbygoogle)",
         ".googleAdPanel",
-        ".googleAdsSponsered"
+        ".googleAdsSponsered",
+        ".rw_footer_sticky",
+        "span > div.text-center:has(> div.googleAdsSponsered)"
     ],
     "filmyfocus.com": [
         "#popup"
@@ -33438,10 +33487,6 @@
     "gift4designer.net": [
         ".product-grid > div.row > div.col:has(> ins.adsbygoogle)"
     ],
-    "uistore.design": [
-        ".column > .ui-sps:has(> .adsbygoogle)",
-        ".columns > .column:has(> div[class^=\"ui-store-\"] > .adsbygoogle)"
-    ],
     "evernote.design": [
         ".columns > .column:has(> .article-content > .article-post > .ad-via)"
     ],
@@ -34987,26 +35032,6 @@
     "javdatabase.com": [
         ".row:has(> div.col-md-3 > div.card > div.card-body > div.movie-cover-thumb > a[href^=\"https://www.fellatiojapan.com/\"])",
         ".row:has(> div.col-md-3 > div.card > div.card-body > div.movie-cover-thumb > a[href^=\"https://www.spermmania.com/\"])"
-    ],
-    "techspot.com": [
-        "article > div[style=\"min-height: 280px\"]",
-        ".sesdc",
-        ".downText > a > div",
-        "article div[data-hide=\"#ad_rectangle\"] + div > div.bigText",
-        "div[class^=\"adContainerSide\"]",
-        "div[data-lb-id^=\"thread-\"] > .js-replyNewMessageContainer > div.betweenPosts",
-        "ul#downloads_list > li:not([class]):not([id]) > div[style=\"min-height: 250px;\"]:not([class]):not([id])",
-        ".category > ul > li[style=\"padding: 25px 0 0 0;\"]",
-        ".tshoop",
-        "div[id^=\"div-pg-ad-\"]",
-        ".subDriveRevBot",
-        "div[class^=\"billboard_placeholder_\"]",
-        "div[data-ns=\"rectangle\"]",
-        ".billboard_placeholder_min",
-        ".cta",
-        ".es3s",
-        ".onejob",
-        ".zenerr"
     ],
     "gamepressure.com": [
         ".ad-2016-right",
@@ -42364,7 +42389,7 @@
         ".aside--ad"
     ],
     "googlesyndication.com": [
-        ".GoogleActiveViewElement > div:not(#reward_close_button_widget)",
+        ".GoogleActiveViewElement > div:not(#reward_close_button_widget):not(.recommend_book)",
         "#abgb"
     ],
     "titantv.com": [
@@ -48577,18 +48602,6 @@
         "#mpu-3",
         ".lb_holder",
         ".nn_player"
-    ],
-    "trueachievements.com": [
-        "#nn_bfa_wrapper",
-        "#sidebar > .side-unit",
-        "#topad-wrap",
-        "#mpu-1",
-        "#mpu-2",
-        "#mpu-3",
-        ".ad-wrap",
-        ".lb_holder",
-        ".nn_player",
-        ".vr-auction"
     ],
     "pockettactics.com": [
         "#nn_bfa_wrapper",
@@ -57750,7 +57763,9 @@
         ".yn"
     ],
     "openallurls.com": [
-        ".nav-content-wrap > .row > div[class]:nth-child(2):not([id]):not([style]) > h5"
+        ".articles-col > form ~ br",
+        ".articles-col > div[style^=\"margin-bottom:\"][style*=\"min-height:\"]:has(> .adsbygoogle)",
+        ".nav-content-wrap > .row > .col-sm-6:has(> div[style^=\"width:\"][style*=\"min-height:\"] > .adsbygoogle)"
     ],
     "erightsoft.com": [
         "font[color=\"#7d7d7d\"] >  font[size=\"1\"]",
@@ -60645,6 +60660,8 @@
     ],
     "robtex.com": [
         "div[id^=\"crt-\"]",
+        ".ad0c",
+        ".endl",
         "div[style]:has(> ins.adsbygoogle[data-ad-slot])"
     ],
     "nodevice.com": [
@@ -76652,6 +76669,10 @@
         ".space",
         ".content",
         ".contentrow"
+    ],
+    "uistore.design": [
+        ".column > .ui-sps:has(> .adsbygoogle)",
+        ".columns > .column:has(> div[class^=\"ui-store-\"] > .adsbygoogle)"
     ],
     "thegreatoutdoorsmag.com": [
         ".pageskin-ads",
@@ -93661,6 +93682,9 @@
         "#home-top-rectangle-wrap-1",
         "#home-top-rectangle-wrap-2",
         "#home-top-rectangle-wrap-3"
+    ],
+    "vinted.*": [
+        ".slot-container--leaderboard"
     ],
     "walmart.*": [
         "[data-automation=\"flipkartDisplayAds\"]",
