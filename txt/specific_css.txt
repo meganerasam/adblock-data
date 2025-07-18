@@ -4643,6 +4643,9 @@
         "body > div[style^=\"background: #fff;\"]",
         "div[id^=\"adhorizontal\"]"
     ],
+    "rajssoid.online": [
+        "#AdbModel"
+    ],
     "thevouz.in": [
         "#AdbModel",
         "body > div.top-center:has(> script[src^=\"https://securepubads.g.doubleclick.net\"])"
@@ -26757,6 +26760,38 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "imagetotext.io": [
+        ".below-tool-ad",
+        ".container > .text-center:has(> .text-center > .adv_text)"
+    ],
+    "lifeandstylemag.com": [
+        ".storifyme-inline-widget",
+        ".module-storyme:has(> #storifyme-widget-init)",
+        ".article__item--square:has(> div[id^=\"taboola-\"])",
+        "#listProductWidgetData",
+        ".ad-container",
+        ".ami-video-placeholder",
+        ".shop-with-us__container",
+        ".widget_media_image",
+        "#taboola-right-rail-thumbnails"
+    ],
+    "truetrophies.com": [
+        ".nn_player_w",
+        "#nn_bfa_wrapper",
+        "#mpu-1",
+        "#mpu-2",
+        "#mpu-3",
+        ".lb_holder",
+        ".nn_player"
+    ],
+    "truesteamachievements.com": [
+        ".nn_player_w",
+        "#mpu-1",
+        "#mpu-2",
+        "#mpu-3",
+        ".lb_holder",
+        ".nn_player"
+    ],
     "trueachievements.com": [
         ".nn_player_w",
         "#nn_bfa_wrapper",
@@ -26771,7 +26806,9 @@
         ".vr-auction"
     ],
     "techspot.com": [
+        ".entreprad",
         ".downloads_list > li:not([class]) > div[style=\"min-height: 250px; text-align: center;\"]",
+        ".downloads-list > li:not([class]) > center > div[style^=\"min-height: 250px; text-align: center;\"]",
         "article > div[style=\"min-height: 280px\"]",
         ".sesdc",
         ".downText > a > div",
@@ -30143,7 +30180,8 @@
         ".columns > div.panel_header:has(> a[href=\"https://theporndude.com/\"])",
         ".popup-adv",
         ".thumbs > .item:has(> a[title=\"Advertisement\"])",
-        ".spot-thumb"
+        ".spot-thumb",
+        ".item.thumb:has(> [title=\"Advertisement\"])"
     ],
     "dorsetecho.co.uk": [
         ".mar-leaderboard--top",
@@ -30612,9 +30650,12 @@
         ".bottom-recirc > .bottom-recirc[data-endpoint^=\"https://\"][data-endpoint*=\"ads\"]",
         "div[class^=\"sc-\"]:has(> div[class] > div[id^=\"InStream\"])",
         "#Leaderboard0",
+        ".hTeNPD",
         ".jzcxNo",
+        ".leaderboard-ad-wrapper-parent",
         ".homepage:has(> div[id^=\"InStream\"])",
-        "[class]:has(> #Leaderboard0)"
+        "[class]:has(> #Leaderboard0)",
+        ".related-video-container"
     ],
     "thebrighterside.news": [
         "main + aside:has(> div[id^=\"empire-unit-\"])",
@@ -33952,6 +33993,7 @@
         ".commercial",
         ".component-ad",
         ".fco-sticky-wrapper__space-placeholder",
+        "[class*=\"-mpu__\"]",
         "[data-name=\"ad-leaderboard\"]",
         "[data-type=\"AdComponent\"]",
         "div[class^=\"open-web-ad_\"]"
@@ -40811,7 +40853,9 @@
         "iframe[width=\"200\"][height=\"1000\"]"
     ],
     "nhentai.website": [
-        "a[href^=\"https://1xbet.onelink.me\"]"
+        "a[href^=\"https://1xbet.onelink.me\"]",
+        "[href=\"//daftsex.eu\"]",
+        "[href=\"https://animemafia.to\"]"
     ],
     "thebestschools.org": [
         "sonic-qdf[url]"
@@ -45241,12 +45285,6 @@
     "movizland.biz": [
         "#PapaGooGorHDVid"
     ],
-    "porn-images-xxx.com": [
-        "#display_image_detail > span"
-    ],
-    "hentai-cosplays.com": [
-        "#display_image_detail > span"
-    ],
     "icrypto.media": [
         ".aside_land_offer",
         "div[data-rtadcontent]"
@@ -48594,14 +48632,6 @@
     ],
     "easyengineering.net": [
         ".td-ss-main-sidebar > div.td_block_template_17"
-    ],
-    "truetrophies.com": [
-        "#nn_bfa_wrapper",
-        "#mpu-1",
-        "#mpu-2",
-        "#mpu-3",
-        ".lb_holder",
-        ".nn_player"
     ],
     "pockettactics.com": [
         "#nn_bfa_wrapper",
@@ -80452,14 +80482,6 @@
         ".shop-with-us__container",
         ".widget_media_image"
     ],
-    "lifeandstylemag.com": [
-        "#listProductWidgetData",
-        ".ad-container",
-        ".ami-video-placeholder",
-        ".shop-with-us__container",
-        ".widget_media_image",
-        "#taboola-right-rail-thumbnails"
-    ],
     "lightnovelcave.com": [
         "#lnvidcontainer",
         ".vnad",
@@ -80581,13 +80603,6 @@
         "#mpu",
         ".home-gamesplanet-promo",
         ".upcoming-releases.home-card:first-child"
-    ],
-    "truesteamachievements.com": [
-        "#mpu-1",
-        "#mpu-2",
-        "#mpu-3",
-        ".lb_holder",
-        ".nn_player"
     ],
     "spin.ph": [
         "#mrec3"
@@ -80930,6 +80945,12 @@
         "[id*=\"sponsored\"]",
         ".browse-search__pod:has([id^=\"plp_pod_sponsored\"])",
         "section[id^=\"browse-search-pods-\"] > div.browse-search__pod:has(div.product-sponsored)"
+    ],
+    "nordstrom.com": [
+        "#revjet_container",
+        "#sponsored-carousel-sponsored-carousel",
+        ".revjet_container",
+        "iframe[data-revjet-options]"
     ],
     "purewow.com": [
         "#right-rail-ad",
@@ -81274,11 +81295,6 @@
     "slitaz.org": [
         "#sponsor"
     ],
-    "nordstrom.com": [
-        "#sponsored-carousel-sponsored-carousel",
-        ".revjet_container",
-        "iframe[data-revjet-options]"
-    ],
     "newsfirst.lk": [
         "#sponsored-content-1",
         "[href*=\"bit.ly/\"]",
@@ -81524,7 +81540,8 @@
         "#top-banner"
     ],
     "kurocore.com": [
-        "#top-banner"
+        "#top-banner",
+        ".ad-b1"
     ],
     "skift.com": [
         "#top-banner"
@@ -82165,6 +82182,10 @@
     ],
     "vitepress.dev": [
         ".VPCarbonAds"
+    ],
+    "tsx.is": [
+        ".VPDocAside",
+        ".VPDocAsideCarbonAds"
     ],
     "britannicaenglish.com": [
         ".WordFromSponsor_content_enToar"
@@ -89876,6 +89897,7 @@
     ],
     "bestbuy.ca": [
         ".pencilAd_EE9DV",
+        "[class^=\"sponsoredProdBoxGridArea\"]",
         "[id^=\"atwb-ninja-carousel\"]",
         "div[data-automation^=\"criteo-sponsored-products-carousel-\"]",
         ".x-productListItem:has([data-automation=\"sponsoredProductLabel\"])",
@@ -90721,7 +90743,8 @@
         ".songfacts-song-inline-ads"
     ],
     "bloomingdales.com": [
-        ".sortable-grid-monetization-items"
+        ".sortable-grid-monetization-items",
+        ".carousel-container:has(.header-sponsored-label)"
     ],
     "salary.com": [
         ".sovrn-content-research",
@@ -93192,6 +93215,9 @@
         "div[data-advertisement$=\":mobile\"]",
         ".ob-dynamic-rec-container.ob-p"
     ],
+    "back2gaming.com": [
+        "div[data-ai]"
+    ],
     "999thehawk.com": [
         "div[data-alias=\"Sweetjack\"]"
     ],
@@ -94866,6 +94892,9 @@
     "cdnm4m.nl": [
         "#directAds"
     ],
+    "hentai-cosplays.com": [
+        "#display_image_detail > span"
+    ],
     "hentai-img.com": [
         "#display_image_detail > span"
     ],
@@ -95101,6 +95130,7 @@
     ],
     "yaoimangaonline.com": [
         "#text-28",
+        ".herald-sidebar-right > .widget_block",
         "[href^=\"https://l.erodatalabs.com/s/\"] > img",
         "a[href^=\"https://l.hyenadata.com/\"]",
         "a[href^=\"https://www.gaming-adult.com/\"]"
@@ -96320,6 +96350,9 @@
     ],
     "beeg.porn": [
         "[class^=\"bb_show_\"]"
+    ],
+    "hentaianimezone.com": [
+        "[class^=\"dle_b_ban\"]"
     ],
     "hentairead.com": [
         "[data-jads-slot]"
