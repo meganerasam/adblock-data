@@ -1480,6 +1480,9 @@
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"transform\"]",
         "[style*=\"cursor:\"][style*=\"z-index:\"][style*=\"position: fixed;\"]"
     ],
+    "heypikachu.com": [
+        "arlinablock { display: none !important; }"
+    ],
     "optiklink.com": [
         "arlinablock { display: none !important; }"
     ],
@@ -2574,6 +2577,9 @@
     ],
     "azamericasat.net": [
         ".background-overlay + div[id][class*=\" \"]"
+    ],
+    "babakfilm.com": [
+        "footer + div[id][class]"
     ],
     "pornoenspanish.es": [
         "footer + div[id][class]"
@@ -4091,9 +4097,6 @@
     ],
     "goodstream.one": [
         "body > footer + script + div[class][oncontextmenu]"
-    ],
-    "pinterest.*": [
-        "div[name=\"trap-focus\"] > div[aria-label=\"Ad blocker modal\"][role=\"alertdialog\"]"
     ],
     "dramafren.net": [
         "body > div[id][style=\"display: block;\"]:has(> div[id]:only-child > div[style*=\"margin: clamp\"])",
@@ -26760,6 +26763,19 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "golflink.com": [
+        "div[data-targeting]",
+        ".ui-advertisement"
+    ],
+    "uploady.io#$": [
+        "iframe_id { position: absolute !important; left: -9999px !important; }"
+    ],
+    "uploady.io": [
+        ".text-center:has(> span.ad-label)",
+        ".adsbypubpower",
+        ".download-page > a[target=\"_blank\"] > img",
+        "iframe[class^=\"iframe_id\"]"
+    ],
     "imagetotext.io": [
         ".below-tool-ad",
         ".container > .text-center:has(> .text-center > .adv_text)"
@@ -32255,11 +32271,6 @@
         "section[style=\"padding: 12px;\"]",
         ".wrapper > article"
     ],
-    "uploady.io": [
-        ".adsbypubpower",
-        ".download-page > a[target=\"_blank\"] > img",
-        "iframe[class^=\"iframe_id\"]"
-    ],
     "ebay.*": [
         ".srp-river-answer[class*=\"CAROUSEL\"]:not([class*=\"NAVIGATION\"])"
     ],
@@ -37105,7 +37116,8 @@
         "div[data-freestar-ad] + .text-center > a[href^=\"/premium\"]",
         "#Psprices_ATF",
         "#Psprices_MID",
-        "#Psprices_BOT"
+        "#Psprices_BOT",
+        ".creative:has-text(remove advertising)"
     ],
     "gsmarena.com#?": [
         "review-body > div[style*=\"padding-bottom:\"][style*=\"min-height:\"]:has(> pgs-ad)"
@@ -60690,9 +60702,9 @@
     ],
     "robtex.com": [
         "div[id^=\"crt-\"]",
+        "div[style]:has(> ins.adsbygoogle[data-ad-slot])",
         ".ad0c",
-        ".endl",
-        "div[style]:has(> ins.adsbygoogle[data-ad-slot])"
+        ".endl"
     ],
     "nodevice.com": [
         "#ndad_top"
@@ -76742,6 +76754,7 @@
         ".ad",
         ".ad-landing",
         ".ad-load-more",
+        ".adContainer-F11hw",
         ".bigBoxContainer"
     ],
     "benzinga.com": [
@@ -91460,9 +91473,6 @@
     "karnalguide.com": [
         ".two_third > .push20"
     ],
-    "golflink.com": [
-        ".ui-advertisement"
-    ],
     "m.rugbynetwork.net": [
         ".ui-footer-fixed"
     ],
@@ -95295,8 +95305,10 @@
         ".b-sidebar",
         ".js-advConsole",
         ".premium-thumb",
+        ".spot_large",
         ".top-r-all",
-        ".vp-info"
+        ".vp-info",
+        "aside[style=\"padding: 5px 13px 5px 5px;\"]"
     ],
     "javcab.com": [
         ".advt-spot",
@@ -95524,6 +95536,9 @@
         ".block-offer",
         ".spots",
         "button[class^=\"click-fun\"]"
+    ],
+    "animeporngif.com": [
+        ".block-vda"
     ],
     "escortnews.eu": [
         ".blogBanners",
@@ -96081,6 +96096,9 @@
     "telegram-porn.com": [
         ".proxy-adv__container",
         ".summary-adv-telNews-link"
+    ],
+    "javneon.tv": [
+        ".pt-45 > .pb-3.pb-e-lg-40.text-center"
     ],
     "freemovies.tv": [
         ".publis-bottom"
