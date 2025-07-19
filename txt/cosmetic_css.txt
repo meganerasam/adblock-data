@@ -14419,3 +14419,4 @@ div[style="display:inline"] > span[id^="img_"][style="border:none;margin:0;paddi
 .ays-pb-modals
 div[id^="img_"][style^="display: block; height: 50px;"]
 a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"]
+div[id^="img_"][style="border: 0pt; width:    fit-content;"]
