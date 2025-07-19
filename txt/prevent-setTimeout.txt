@@ -112,6 +112,14 @@
             ]
         },
         {
+            "pattern": "yuuki.me",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
             "pattern": "99bitcoins.com",
             "args": [
                 [
@@ -4979,78 +4987,6 @@
                 [
                     "byepopup",
                     "5000"
-                ]
-            ]
-        },
-        {
-            "pattern": "pouvideo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "povvideo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "povw1deo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "povwideo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "powv1deo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "powvibeo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "powvideo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
-                ]
-            ]
-        },
-        {
-            "pattern": "powvldeo.*",
-            "args": [
-                [
-                    "test.remove",
-                    "100"
                 ]
             ]
         },
@@ -15450,7 +15386,10 @@
             "pattern": "client.falixnodes.net",
             "args": [
                 [
-                    "/adObj|amzn_aps_csm|please-disable|function reportErrors/"
+                    "/location.href|location = atob/"
+                ],
+                [
+                    "/adObj|amzn_aps_csm|please-disable|function reportErrors|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl/"
                 ]
             ]
         },
@@ -15920,6 +15859,78 @@
             ]
         },
         {
+            "pattern": "pouvideo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "povvideo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "povw1deo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "povwideo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "powv1deo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "powvibeo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "powvideo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "powvldeo.*",
+            "args": [
+                [
+                    "test.remove",
+                    "100"
+                ]
+            ]
+        },
+        {
             "pattern": "teracourses.com",
             "args": [
                 [
@@ -16246,6 +16257,38 @@
             "args": [
                 [
                     "TNCMS.DMP"
+                ]
+            ]
+        },
+        {
+            "pattern": "trailerhg.xyz",
+            "args": [
+                [
+                    "ast"
+                ]
+            ]
+        },
+        {
+            "pattern": "turboplayers.xyz",
+            "args": [
+                [
+                    "ast"
+                ]
+            ]
+        },
+        {
+            "pattern": "sextb.net>>",
+            "args": [
+                [
+                    "ast"
+                ]
+            ]
+        },
+        {
+            "pattern": "nepalieducate.com",
+            "args": [
+                [
+                    "googlesyndication"
                 ]
             ]
         }
