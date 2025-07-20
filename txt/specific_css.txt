@@ -1653,6 +1653,9 @@
         ".oc-center-da",
         ".entry > center > small"
     ],
+    "sourds.net": [
+        ".jeg_viewport + div[id][class*=\" \"]"
+    ],
     "rockmods.net": [
         "#adblock-modal",
         "div[class^=\"post-ad\"]"
@@ -35723,13 +35726,6 @@
         "#main-wrap > #top-container-widget:has(> .widget_text:only-child > .textwidget > .adsbygoogle)",
         "a[href^=\"https://suishoshizuku.com/\"]"
     ],
-    "3dmodelshare.org": [
-        ".inner-ads",
-        ".single-728",
-        ".post > div.single-box",
-        ".homeadv > span",
-        ".widget_anthemes_300px"
-    ],
     "intro-hd.net": [
         ".sidebar_master > .widget:has(> div[id^=\"intro-\"] > .adsbygoogle)",
         ".widget__gallery .col-lg-8 > .row > .in_loop:has(> .card > .adsbygoogle)"
@@ -37016,7 +37012,8 @@
         ".ad--article",
         ".p-ad",
         ".insert__ad",
-        ".side-rail__ad-placeholder"
+        ".side-rail__ad-placeholder",
+        ".ad"
     ],
     "concertarchives.org": [
         ".freestar-placement"
@@ -45090,8 +45087,7 @@
         "div[class^=\"GameTemplate__adSidebar___\"]"
     ],
     "fc2covid.com": [
-        ".widget > center",
-        "#sidebar > .widget_block"
+        ".widget > center"
     ],
     "vg247.com": [
         ".advert_container",
@@ -52490,21 +52486,7 @@
         "div[data-zone]",
         ".playWrapper > #videoWrapper + aside.clearfix",
         ".ad-bottom-text",
-        "#videoContainer > #pb_template",
-        "#pb_block",
-        "#pbs_block",
-        "#producer",
-        ".contentPartner",
-        ".e8-column",
-        ".footer-element-container",
-        "[href*=\"base64\"]",
-        "[href*=\"data:\"]",
-        "[img][src*=\"blob:\"]",
-        "[style*=\"base64\"]",
-        "[style*=\"blob:\"]:not(video)",
-        "div[onclick*=\"bp1.com\"]",
-        "img[src*=\"blob:\" i]:not(video)",
-        "video[autoplay]"
+        "#videoContainer > #pb_template"
     ],
     "katmoviehd.*": [
         "div[data-zone]",
@@ -54498,9 +54480,7 @@
     "pinflix.com": [
         ".video-player-overlay",
         ".under-video-channel-link",
-        "#inVidZone",
-        ".ad-container",
-        ".zone-area"
+        "#inVidZone"
     ],
     "rpcs3.net": [
         ".landing-con-adsense"
@@ -56934,12 +56914,7 @@
     ],
     "pornjam.com": [
         ".publis-bottom",
-        ".right-player-43",
-        ".productora",
-        ".publ11s-b0ttom",
-        ".r11ght-pl4yer-169",
-        ".r1ght-pl4yer-43",
-        ".resumecard__banner"
+        ".right-player-43"
     ],
     "camgirlbay.net": [
         ".list-videos > .margin-fix > .place",
@@ -57246,8 +57221,7 @@
         "body > div[class=\"font-sans\"]"
     ],
     "teenager365.com": [
-        ".video-archive-ad",
-        ".wps-player__happy-inside-btn-close"
+        ".video-archive-ad"
     ],
     "stockingfetishvideo.com": [
         ".video-archive-ad",
@@ -74715,8 +74689,7 @@
         "div.xp-banner-bottom",
         ".traffic-stars",
         ".video-thumb[class*=\"__look-like-item\"]",
-        "div[class*=\"sp-b\"]",
-        ".xplayer-banner"
+        "div[class*=\"sp-b\"]"
     ],
     "xhadult3.com": [
         "div[class*=\"premium-n-overlay\"]",
@@ -94759,16 +94732,14 @@
         "#ad-banner",
         ".zd-slot"
     ],
-    "xvideos.com": [
-        "#ad-footer",
-        "#video-right",
-        "#video-sponsor-links",
-        ".player-video.xv-cams-block",
-        ".thumb-ad",
-        ".video-ad",
-        "[href*=\"base64\"]",
-        "[href*=\"data:\"]",
-        "img[src*=\"blob:\" i]:not(video)"
+    "njav.com": [
+        "#ad300250"
+    ],
+    "ggjav.com": [
+        "#ads-in-video",
+        "#pc_instant",
+        ".native_ads",
+        "iframe[width=\"300\"]"
     ],
     "badassbitch.pics": [
         "#adv"
@@ -94917,6 +94888,9 @@
         "#embed-overlay",
         "#parrot"
     ],
+    "girlshot.net": [
+        "#extra-bottom"
+    ],
     "china-tube.site": [
         "#extraWrapOverAd",
         ".videoAd"
@@ -94955,9 +94929,6 @@
         "#ics",
         "#previewBox"
     ],
-    "guyswithiphones.com": [
-        "#imglist > .noshadow"
-    ],
     "maturesladies.com": [
         "#inVideoInner"
     ],
@@ -94970,10 +94941,6 @@
     ],
     "livecamrips.com": [
         "#live-cam"
-    ],
-    "bootyoftheday.co": [
-        "#lj",
-        "#random-div-wrapper"
     ],
     "pornvalleymedia.net": [
         "#media_image-81",
@@ -95016,14 +94983,6 @@
     ],
     "redtube.com.br": [
         "#pb_block"
-    ],
-    "pornhub-com.appspot.com": [
-        "#pb_template"
-    ],
-    "ggjav.com": [
-        "#pc_instant",
-        ".native_ads",
-        "iframe[width=\"300\"]"
     ],
     "ggjav.tv": [
         "#pc_instant"
@@ -95075,6 +95034,9 @@
         "#previewBox",
         ".right"
     ],
+    "xjav.online": [
+        "#previewBox"
+    ],
     "xvideos.name": [
         "#publicidad-video",
         "canvas"
@@ -95108,12 +95070,6 @@
         ".kt_imgrc",
         "a[href*=\"?ats=\"]"
     ],
-    "flingtube.com": [
-        "#sponsoredBy"
-    ],
-    "w3avenue.com": [
-        "#sponsorsbox"
-    ],
     "hd21.com": [
         "#spot_video_livecams",
         "#spot_video_underplayer_livecams",
@@ -95124,9 +95080,6 @@
         ".vertbars"
     ],
     "maxjizztube.com": [
-        "#spotxt"
-    ],
-    "yteenporn.com": [
         "#spotxt"
     ],
     "cheemsporn.com": [
@@ -95160,6 +95113,16 @@
         ".isg_banner",
         "[href^=\"https://instable-easher.com/\"]"
     ],
+    "xvideos.com": [
+        "#video-right",
+        "#video-sponsor-links",
+        ".player-video.xv-cams-block",
+        ".thumb-ad",
+        ".video-ad",
+        "[href*=\"base64\"]",
+        "[href*=\"data:\"]",
+        "img[src*=\"blob:\" i]:not(video)"
+    ],
     "dofap.com": [
         "#video_overlay_banner",
         ".b_videobot"
@@ -95177,10 +95140,6 @@
     "7mm001.com": [
         ".a-d-block",
         ".set_height_250"
-    ],
-    "china-tubex.site": [
-        ".aBlock",
-        ".videoAd"
     ],
     "upornia.com": [
         ".aa_label",
@@ -95405,9 +95364,6 @@
         ".banner",
         ".spot"
     ],
-    "amamilf.com": [
-        ".banner"
-    ],
     "amateurelders.com": [
         ".banner"
     ],
@@ -95495,9 +95451,6 @@
     "camporn.to": [
         ".banners"
     ],
-    "bubbaporn.com": [
-        ".banners-footer"
-    ],
     "koloporno.com": [
         ".banners-footer"
     ],
@@ -95512,10 +95465,6 @@
     ],
     "ratemymelons.com": [
         ".bannus"
-    ],
-    "yourdarkdesires.com": [
-        ".battery",
-        ".moment"
     ],
     "tube.bz": [
         ".bb_desktop"
@@ -96363,9 +96312,6 @@
         "[class^=\"_hero-banner-promo_\"]",
         "[class^=\"_notificationConsent_\"]"
     ],
-    "pornodiamant.xxx": [
-        "[class^=\"abcnn_\"]"
-    ],
     "beeg.porn": [
         "[class^=\"bb_show_\"]"
     ],
@@ -96648,6 +96594,9 @@
         ".list-item:has([data-idzone])"
     ],
     "justfullporn.net": [
+        ".order-1:has(> .video-block-happy)"
+    ],
+    "onlyxxxporn.com": [
         ".order-1:has(> .video-block-happy)"
     ],
     "jav4tv.com": [
