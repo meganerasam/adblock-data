@@ -1705,6 +1705,9 @@
     "ffcv.es": [
         "#totop + div[id][class*=\" \"]"
     ],
+    "youmedemblik.nl": [
+        "#back_to_top + div[id][class*=\" \"]"
+    ],
     "flordeloto.site": [
         "#cookiesbox + div[id][class*=\" \"]"
     ],
@@ -1771,6 +1774,9 @@
     ],
     "underground.tboys.ro": [
         ".under-dupa-continut + div[id][class*=\" \"]"
+    ],
+    "constructionmethodology.com": [
+        "a[href=\"#\"] + div[id][class*=\" \"]"
     ],
     "pornincest.net": [
         "a[href=\"#\"] + div[id][class*=\" \"]"
@@ -10309,6 +10315,9 @@
         "ul[class$=\"-card\"] > li:not(.track_ga) > div[class*=\" \"] > div > a[onclick]",
         "div.Block.blk > style + div[class]:not([id]):not([style])",
         ".hometop-ads"
+    ],
+    "idlixku.com": [
+        ".module_home_ads"
     ],
     "tirto.id": [
         ".parallax_ads",
@@ -26766,6 +26775,9 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "euobserver.com#$": [
+        "root > div > div[style^=\"padding-top:\"] > div[style*=\"top:\"] { top: 0 !important; }"
+    ],
     "golflink.com": [
         "div[data-targeting]",
         ".ui-advertisement"
@@ -30556,7 +30568,10 @@
         "#commerce-inset-wrapper",
         ".js_ad-sticky-footer",
         ".js_related-stories-inset",
-        ".k3mqd"
+        ".k3mqd",
+        "div[class=\"hidden md:block\"]",
+        "div[class*=\":block\"]:has(> .ay-ad-slot)",
+        "div[class*=\"my-\"]:has(> .ay-ad-slot)"
     ],
     "theinventory.com": [
         ".js_sticky-second-scroll:has(> div:only-child > div:only-child > div:only-child > div[class*=\"horizontal-ad\"])",
@@ -82279,6 +82294,9 @@
     "buffalorising.com": [
         ".a-wrap"
     ],
+    "sportsorca.com": [
+        ".a-wrap"
+    ],
     "streamsgeek.com": [
         ".a-wrap"
     ],
@@ -88345,6 +88363,9 @@
     "cyclonis.com": [
         ".has-banner"
     ],
+    "itpro.com": [
+        ".hawk-base"
+    ],
     "girlswithmuscle.com": [
         ".hb-static-banner-div",
         ".hb-video-ad"
@@ -93300,7 +93321,7 @@
         "div[id^=\"preto-\"]"
     ],
     "eloshapes.com": [
-        "div[id^=\"promos-\"]"
+        "div[id^=\"prmos-\"]"
     ],
     "realtalk933.com": [
         "div[id^=\"realt-\"]"
