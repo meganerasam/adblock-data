@@ -2937,7 +2937,8 @@
         "#page + div[id][class]"
     ],
     "mitaku.net": [
-        "#page + div[id][class]"
+        "#page + div[id][class]",
+        "#secondary > .widget_media_image > .wp-block-image > a:not([href*=\"mitaku.net\"]) > img"
     ],
     "siirtolayhaber.com": [
         "#page + div[id][class]"
@@ -4918,6 +4919,7 @@
         "[srcset*=\"bloB:\"]",
         "[style*=\"base64\"]",
         "[style*=\"blob:\"]:not(video)",
+        "a[data-event=\"header_paid_tabs\"]",
         "a[href*=\"?ats=\"]",
         "a[href^=\"http://ads.trafficjunky.net/\"]",
         "a[href^=\"https://ads.trafficjunky.net/\"]",
@@ -22522,6 +22524,13 @@
         "#storyContent > div[data-type=\"float\"][data-stn-player]",
         ".ad"
     ],
+    "investorgain.com": [
+        ".mainLeaderboard",
+        "div[id^=\"div-ad-header\"]",
+        "#right",
+        ".sme-ipo-ads-mobile",
+        ".fullview:has(> td:only-child > .sme-ipo-ads-mobile)"
+    ],
     "quefaire.be": [
         "#banner",
         ".gpt_box"
@@ -22644,6 +22653,14 @@
     "watchmoviesss.*": [
         ".mvic-btn",
         "#bread + div[style^=\"width:\"]"
+    ],
+    "abxxx.com": [
+        ".banner",
+        ".video-page__content > div.left > section",
+        ".video__wrapper > div.wrapper > section",
+        ".video__wrapper > div.wrapper.headline",
+        ".video-page__content > div.left + div[class]:last-child",
+        "div[style=\"width: 300px; height: 250px;\"]"
     ],
     "cpmclic.io": [
         ".banner"
@@ -26775,6 +26792,21 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "datavaults.co#$": [
+        "dummy { display: none !important; }",
+        "original { display: block !important; }"
+    ],
+    "manga-hen.com": [
+        ".place-content-center"
+    ],
+    "multporn.net": [
+        ".region-content > .block:has(> .content:only-child > iframe[src^=\"https://go.reebr.com/\"])",
+        ".region > .block:has(> .content:only-child > ins[data-zoneid])",
+        ".block-block:has(> .content > ins[data-zoneid])"
+    ],
+    "xrule34.com": [
+        ".region-content > .block:has(> .content:only-child > iframe[src^=\"https://go.reebr.com/\"])"
+    ],
     "euobserver.com#$": [
         "root > div > div[style^=\"padding-top:\"] > div[style*=\"top:\"] { top: 0 !important; }"
     ],
@@ -27746,10 +27778,6 @@
         "a[href*=\"theporndude.com\"]",
         "a[href^=\"https://energizeio.com/\"]",
         "div[style=\"text-align:center;margin-bottom:20px;\"]"
-    ],
-    "multporn.net": [
-        ".region > .block:has(> .content:only-child > ins[data-zoneid])",
-        ".block-block:has(> .content > ins[data-zoneid])"
     ],
     "internxt.com": [
         ".fixed.flex[class*=\"bg-opacity\"]:has(> div > button#close-banner)",
@@ -34957,12 +34985,6 @@
     "0123movie.net": [
         ".card-body > .row > .col-lg-3 > .d-grid > button.btn-primary"
     ],
-    "investorgain.com": [
-        "div[id^=\"div-ad-header\"]",
-        "#right",
-        ".sme-ipo-ads-mobile",
-        ".fullview:has(> td:only-child > .sme-ipo-ads-mobile)"
-    ],
     "freespoke.com": [
         ".WebSearch > .wrapper > .ant-row > .ant-col > .ant-row > .component-col:has(> .ContextualMessaging > .header > .block > a[href=\"/no-ads\"])",
         ".home-page-message"
@@ -35395,6 +35417,9 @@
         "[data-ad-props]",
         "div[class^=\"Ad__Container-\"]",
         "#ac-lre-player-ph"
+    ],
+    "emojiall.com": [
+        ".ad"
     ],
     "computerhope.com": [
         ".ad"
@@ -36866,12 +36891,6 @@
     "flagpedia.net": [
         ".rklm",
         ".frklm"
-    ],
-    "abxxx.com": [
-        ".video-page__content > div.left > section",
-        ".video__wrapper > div.wrapper > section",
-        ".video__wrapper > div.wrapper.headline",
-        "div[style=\"width: 300px; height: 250px;\"]"
     ],
     "baynews9.com": [
         ".google-dfp-ads"
@@ -41430,7 +41449,9 @@
         ".slotify-slot",
         "div.placeholder[data-slot-name]",
         "amp-ad",
-        "div[class*=\"ad-unit\"]"
+        "#coupons",
+        "div[class*=\"ad-unit\"]",
+        ".listingResult:has(> .sponsored-post)"
     ],
     "phoneia.com": [
         "div[class*=\"r89-desktop\"]",
@@ -53401,7 +53422,8 @@
         ".body-wrap > .c-bottom-sidebar"
     ],
     "greasyfork.org": [
-        ".ad-entry"
+        ".ad-entry",
+        ".ad"
     ],
     "mumbailive.com": [
         ".ml-google-ad"
