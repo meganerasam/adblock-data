@@ -2535,6 +2535,9 @@
     "cheese-cake.net": [
         "#body_wrap + div[id][class*=\" \"]"
     ],
+    "kurakura21.com": [
+        ".gmr-ontop + div[id][class*=\" \"]"
+    ],
     "3gpterbaru.com": [
         ".gmr-ontop + div[id][class*=\" \"]"
     ],
@@ -22524,6 +22527,20 @@
         "#storyContent > div[data-type=\"float\"][data-stn-player]",
         ".ad"
     ],
+    "mayonews.ie": [
+        ".leaderboard_container"
+    ],
+    "gamingbible.com": [
+        ".floating-video-player_container__u4D9_",
+        "div[class^=\"advert-\"]",
+        ".css-mg9b9w",
+        "div[data-cypress=\"sticky-header\"] div[class$=\"-Advert\"]",
+        "div[class$=\"-margin-Advert\"]",
+        ".css-1z9hhh",
+        "div[class*=\"margin-Advert\"]",
+        "div[data-cypress^=\"sticky-header\"]",
+        "div[class^=\"floating-video-player_container\"]:has(> #primisPlayer)"
+    ],
     "investorgain.com": [
         ".mainLeaderboard",
         "div[id^=\"div-ad-header\"]",
@@ -25896,6 +25913,8 @@
         ".player-schmad",
         ".schmad-container",
         "a[href^=\"https://pics-x.com/marketing/\"]",
+        "#gallery-header-schmmad",
+        "#slider-container",
         ".ad-container"
     ],
     "recyclingtoday.com": [
@@ -26792,6 +26811,32 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "liveworksheets.com": [
+        ".video-ad-desktop",
+        ".flex-wrap-reverse.min-h-\\[250px\\]",
+        ".list--ad-block",
+        ".ads-mockup",
+        "#capacontenido td[width][height=\"320px\"][align=\"center\"]"
+    ],
+    "fappis.com": [
+        ".simg",
+        ".cnt > .ifrm"
+    ],
+    "xxxvogue.net": [
+        ".player-section__ad-w",
+        ".live-model",
+        "div[data-title=\"Advertisement\"]",
+        "#embed-parrot",
+        "#embed-embed-overlay",
+        ".banner-wrapper",
+        "#embed-overlay",
+        "#parrot",
+        ".banners-container",
+        ".link-adv"
+    ],
+    "hotstash.net": [
+        ".cash-list-top"
+    ],
     "datavaults.co#$": [
         "dummy { display: none !important; }",
         "original { display: block !important; }"
@@ -27102,6 +27147,8 @@
         ".wikigg-showcase__unit",
         "div[class^=\"sidebar-showcase\"]",
         "div[class^=\"games-showcase\"]",
+        "#wikigg-sl-header",
+        ".wikigg-showcase__reserved--mrec",
         "[href^=\"https://app.wiki.gg/showcase/\"]"
     ],
     "s10.watchfreejavonline.co": [
@@ -28516,7 +28563,8 @@
         "[href=\"https://www.remove-metadata.com\"]"
     ],
     "temp-mail.io": [
-        ".fixed.bottom-0"
+        ".fixed.bottom-0",
+        ".fixed.bottom-0.\\[\\@media\\(max-width\\:1350px\\)\\]\\:hidden"
     ],
     "apnews.com": [
         ".Advertisement",
@@ -35569,15 +35617,6 @@
         "#sociallinks > p > a[target=\"_blank\"]",
         "#bottomleader"
     ],
-    "gamingbible.com": [
-        "div[class^=\"advert-\"]",
-        ".css-mg9b9w",
-        "div[data-cypress=\"sticky-header\"] div[class$=\"-Advert\"]",
-        "div[class$=\"-margin-Advert\"]",
-        ".css-1z9hhh",
-        "div[class*=\"margin-Advert\"]",
-        "div[data-cypress^=\"sticky-header\"]"
-    ],
     "vjav.*": [
         "div[class] > div[class] > section[style=\"padding: 10px;\"]",
         ".undp",
@@ -36913,12 +36952,6 @@
     ],
     "epllive.net": [
         ".vpn-wrapper"
-    ],
-    "liveworksheets.com": [
-        ".flex-wrap-reverse.min-h-\\[250px\\]",
-        ".list--ad-block",
-        ".ads-mockup",
-        "#capacontenido td[width][height=\"320px\"][align=\"center\"]"
     ],
     "linuxliteos.com": [
         ".ms-site-container > header + br",
@@ -40021,6 +40054,10 @@
     ],
     "dailycal.org": [
         "div[class^=\"LiveBanners_specialCont\"]"
+    ],
+    "clarionledger.com": [
+        "aside[aria-label=\"advertisement\"]",
+        ".taboola-module"
     ],
     "npr.org": [
         "aside[aria-label=\"advertisement\"]",
@@ -45076,7 +45113,8 @@
         "img[width=\"300\"][height=\"250\"]"
     ],
     "lowendbox.com": [
-        "img[width=\"300\"][height=\"250\"]"
+        "img[width=\"300\"][height=\"250\"]",
+        "img[width=\"300\"][height=\"70\"]"
     ],
     "allthatsinteresting.com": [
         ".around-the-web-section",
@@ -45624,7 +45662,9 @@
         "div[style=\"text-align: center\"] > a[href=\"http://bsa.ly/moo\"]",
         "#Foot > a[href] > img",
         ".Row > #Panel >a[href=\"http://bsa.ly/moo\"]",
-        ".Row > #Panel > div:not([class]):not([id]) > a[href] > img"
+        ".Row > #Panel > div:not([class]):not([id]) > a[href] > img",
+        "img[width=\"258\"][height=\"250\"]",
+        "img[width=\"258\"][height=\"70\"]"
     ],
     "tech.hindustantimes.com": [
         ".headerAds250",
@@ -52314,16 +52354,6 @@
         "div[class=\"home_game_image_featured\"][id=\"header-game1-left\"]",
         "#content-game > div[style=\"margin-top:130px;\"] > p"
     ],
-    "xxxvogue.net": [
-        "div[data-title=\"Advertisement\"]",
-        "#embed-parrot",
-        "#embed-embed-overlay",
-        ".banner-wrapper",
-        "#embed-overlay",
-        "#parrot",
-        ".banners-container",
-        ".link-adv"
-    ],
     "hdsex2.com": [
         "div[data-title=\"Advertisement\"]"
     ],
@@ -56118,9 +56148,6 @@
         ".taboola-module"
     ],
     "burlingtonfreepress.com": [
-        ".taboola-module"
-    ],
-    "clarionledger.com": [
         ".taboola-module"
     ],
     "coloradoan.com": [
@@ -95833,6 +95860,13 @@
         ".happy-header",
         "[href^=\"https://www.saltycams.com\"]",
         "section.korea-widget"
+    ],
+    "criollasx.com": [
+        ".happy-inside-player",
+        ".sidebar-ads",
+        ".sticky",
+        ".under-video-block",
+        ".video-archive-ad"
     ],
     "nudeof.com": [
         ".happy-inside-player"
