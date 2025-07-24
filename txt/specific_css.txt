@@ -7997,6 +7997,29 @@
         "#billboard_ad_container",
         ".side_banner"
     ],
+    "idnes.cz": [
+        ".r-head",
+        ".r-head + div.r-body",
+        "div[id^=\"fix-block-\"]",
+        "#r-super300",
+        "#r-native",
+        ".r-main",
+        "#selfart-box",
+        "body .r-main.s_branding_fotogalerie",
+        "#space-c-add > div[id][class*=\" \"]",
+        "#content > #space-c > div[style^=\"height:\"]",
+        "#main > .counters + table[id][class*=\" \"]",
+        "#main > .counters + script + table[id][class*=\" \"]",
+        "#waiting-screen",
+        ".r-main[id^=\"element-\"]",
+        "#portal > a#fellow[onmousedown] > img",
+        "table[id^=\"r-leaderboard\"].s_branding",
+        "[id^=\"r98.\"].r-box",
+        "div[id^=\"r98.\"][class*=\"touch\"]",
+        ".art-full > #text-out-box + div:not([class]):not([id]) > .r-head",
+        "#main [id^=\"r98.\"]",
+        "#idnes-premium-popup"
+    ],
     "heureka.cz": [
         "div[class^=\"c-premium-gam\"]"
     ],
@@ -8250,27 +8273,6 @@
         ".container > a[onclick^=\"storeClick\"]",
         ".promo-zone",
         "a[href^=\"https://www.canon.sk/offers/\"]"
-    ],
-    "idnes.cz": [
-        "div[id^=\"fix-block-\"]",
-        "#r-super300",
-        "#r-native",
-        ".r-main",
-        "#selfart-box",
-        "body .r-main.s_branding_fotogalerie",
-        "#space-c-add > div[id][class*=\" \"]",
-        "#content > #space-c > div[style^=\"height:\"]",
-        "#main > .counters + table[id][class*=\" \"]",
-        "#main > .counters + script + table[id][class*=\" \"]",
-        "#waiting-screen",
-        ".r-main[id^=\"element-\"]",
-        "#portal > a#fellow[onmousedown] > img",
-        "table[id^=\"r-leaderboard\"].s_branding",
-        "[id^=\"r98.\"].r-box",
-        "div[id^=\"r98.\"][class*=\"touch\"]",
-        ".art-full > #text-out-box + div:not([class]):not([id]) > .r-head",
-        "#main [id^=\"r98.\"]",
-        "#idnes-premium-popup"
     ],
     "techbyte.sk": [
         "body .code-block",
@@ -10940,6 +10942,14 @@
     "dm5.com": [
         ".cp_adct"
     ],
+    "mondomobileweb.it": [
+        ".tie-center-button",
+        ".stream-item",
+        ".stream-item-widget",
+        "#custom_html-25",
+        "#custom_html-20",
+        "#custom_html-13"
+    ],
     "tuttoandroid.net": [
         ".card-grid div.col-18:has(> article > span.ribbon)",
         "div[class^=\"widofferte23-\"]",
@@ -11753,11 +11763,6 @@
     "qdmnotizie.it": [
         "#mvp-foot-logo",
         "#mvp-wallpaper"
-    ],
-    "mondomobileweb.it": [
-        "#custom_html-25",
-        "#custom_html-20",
-        "#custom_html-13"
     ],
     "ilpuntotecnico.com": [
         ".container > div[style=\"text-align:center; height: 95px;\"]",
@@ -17174,6 +17179,11 @@
         "#banner_top",
         "#banner_right"
     ],
+    "pannunghd.com": [
+        ".ad-box-widget",
+        "div[class^=\"banner-\"]",
+        "a[target=\"_blank\"] > img"
+    ],
     "thaihubx.tv": [
         ".adcen",
         "img[class^=\"ads\"]",
@@ -22543,6 +22553,7 @@
     ],
     "investorgain.com": [
         ".mainLeaderboard",
+        "#footer > .row.ch-main:has(table.table-borderless > tbody > tr > td > div[id^=\"div-gpt-ad\"])",
         "div[id^=\"div-ad-header\"]",
         "#right",
         ".sme-ipo-ads-mobile",
@@ -27147,8 +27158,9 @@
         ".wikigg-showcase__unit",
         "div[class^=\"sidebar-showcase\"]",
         "div[class^=\"games-showcase\"]",
+        "#wikigg-sl-footer",
         "#wikigg-sl-header",
-        ".wikigg-showcase__reserved--mrec",
+        "#wikigg-sl-rail",
         "[href^=\"https://app.wiki.gg/showcase/\"]"
     ],
     "s10.watchfreejavonline.co": [
@@ -28346,6 +28358,7 @@
         "a[href^=\"https://track.afcpatrk.com/\"]",
         ".desktop",
         ".nutaku-mobile",
+        "[style=\"min-height: 135px; box-sizing: border-box;\"]",
         "a[rel=\"sponsored\"]"
     ],
     "mangahentai.io": [
@@ -31414,9 +31427,6 @@
         ".adsninja-ad-zone-container-with-set-height",
         "[class*=\"ad-zone-container-content-character-count-repeatable\"]",
         "[id^=\"adsninja-ad-zone-adsninja-ad-unit-footer\"]"
-    ],
-    "gogoanime.co.at": [
-        ".megavid > .mvelement > .kln"
     ],
     "klz9.com": [
         "#aigirlfriendad",
@@ -36557,7 +36567,9 @@
     ],
     "traderie.com": [
         ".ae-fixed",
-        "div[class^=\"AdSlot__\"]"
+        "div[class^=\"AdSlot__\"]",
+        "#ad-rails",
+        ".cool-slot"
     ],
     "sovsport.ru": [
         "div[class^=\"main-menu_bonusLogo\"]"
@@ -60225,6 +60237,7 @@
         "#background_skin",
         ".outbrainad",
         "#DesktopTop",
+        "#toppbnf",
         ".DesktopRightBA",
         ".ad",
         ".adcon",
@@ -92534,6 +92547,9 @@
     "wplocker.com": [
         "[href^=\"//namecheap.pxf.io/\"]"
     ],
+    "broadcastify.com": [
+        "[href^=\"/click/\"]"
+    ],
     "pooletown.co.uk": [
         "[href^=\"http://redirect.viglink.com\"]",
         "a[href^=\"https://www.easyfundraising.org.uk\"]"
@@ -96134,6 +96150,9 @@
     ],
     "svscomics.com": [
         ".regi"
+    ],
+    "javdock.com": [
+        ".related-native-banner"
     ],
     "sexhd.pics": [
         ".relativebottom",
