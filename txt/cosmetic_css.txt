@@ -14421,3 +14421,4 @@ div[id^="img_"][style^="display: block; height: 50px;"]
 a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"]
 div[id^="img_"][style="border: 0pt; width:    fit-content;"]
 [href="https://chaturbate.jjgirls.com/"] > img
+a[href^="https://join.bannedsextapes.com/track/"]
