@@ -5759,7 +5759,8 @@
         ".leftblockAd",
         ".rightAdNew",
         ".rightblockAd",
-        ".storyPage_storyblockAd__r4wwE"
+        ".storyPage_storyblockAd__r4wwE",
+        "[id^=\"video-ad-\"]"
     ],
     "mytoolz.net#$": [
         "adblock_msg { display: none !important; }"
@@ -16025,6 +16026,20 @@
         "body > div[class]:not([id]):empty",
         "div[class*=\" \"]:has(> div[class]:first-child:empty + img[src*=\"://v.wpimg.pl/\"][alt]:empty)"
     ],
+    "money.pl": [
+        "div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"]:first-child + div[class*=\" \"] + div[class*=\" \"] + script:last-child)",
+        "div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"]:first-child + div[class*=\" \"] + script:last-child)",
+        "style + div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"] + div:last-child)",
+        ".wp-player > .npp-container > .plchldr",
+        "a[href^=\"https://ad.doubleclick.net/\"]",
+        "body > #app > div[class] > div[class]:not([id]):empty",
+        "div[class^=\"_\"]> a[href][target=\"_blank\"]:only-child > div[style^=\"position:\"][style*=\"background-image: url\"]",
+        "ad-column",
+        "iframe[src=\"https://direct.money.pl/promoted-offers-hp-money\"]",
+        "iframe[src=\"https://direct.money.pl/static/placek_box/direct_box_new.html\"]",
+        "a[href=\"https://www.kongres590.pl/\"] > img",
+        "div[class*=\"sc-\"]:has(> img[src=\"https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png\"])"
+    ],
     "autokult.pl": [
         "div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"]:first-child + div[class*=\" \"] + div[class*=\" \"] + script:last-child)",
         "div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"]:first-child + div[class*=\" \"] + script:last-child)",
@@ -16085,18 +16100,6 @@
     "fotoblogia.pl": [
         "style + div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"] + div:last-child)",
         "ad-column"
-    ],
-    "money.pl": [
-        "style + div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"] + div:last-child)",
-        ".wp-player > .npp-container > .plchldr",
-        "a[href^=\"https://ad.doubleclick.net/\"]",
-        "body > #app > div[class] > div[class]:not([id]):empty",
-        "div[class^=\"_\"]> a[href][target=\"_blank\"]:only-child > div[style^=\"position:\"][style*=\"background-image: url\"]",
-        "ad-column",
-        "iframe[src=\"https://direct.money.pl/promoted-offers-hp-money\"]",
-        "iframe[src=\"https://direct.money.pl/static/placek_box/direct_box_new.html\"]",
-        "a[href=\"https://www.kongres590.pl/\"] > img",
-        "div[class*=\"sc-\"]:has(> img[src=\"https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png\"])"
     ],
     "pudelek.pl": [
         "style + div[class*=\" \"]:has(> img[src^=\"https://v.wpimg.pl/\"] + div:last-child)",
@@ -16960,6 +16963,10 @@
     "a1.ro": [
         ".ima-ad-container"
     ],
+    "n1info.rs": [
+        ".ad-loading-placeholder",
+        ".banner-promotion"
+    ],
     "sportal.blic.rs": [
         "div.mx-auto:has(> div.wrapperAd)",
         "div.container:has(> div#Billboard_Desktop)"
@@ -16979,9 +16986,6 @@
     ],
     "kupujemprodajem.com#?": [
         "__next div[class^=\"Banner\"]:has(a[href^=\"https://novi.kupujemprodajem.com/bClick.php\"])"
-    ],
-    "n1info.rs": [
-        ".banner-promotion"
     ],
     "sd.rs": [
         ".sd-banners-zone-responsive-footer"
@@ -26822,6 +26826,19 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "free-proxy-list.net": [
+        ".alert-fpl:has(> a:not([href^=\"https://free-proxy-list.net/\"]))"
+    ],
+    "lbc.co.uk": [
+        ".dac__mpu-card"
+    ],
+    "embedsports.me": [
+        ".bg-dark.position-absolute"
+    ],
+    "nu-bay.com": [
+        "div[class^=\"sp_block_300-\"]",
+        ".gal-banner"
+    ],
     "liveworksheets.com": [
         ".video-ad-desktop",
         ".flex-wrap-reverse.min-h-\\[250px\\]",
@@ -29986,26 +30003,6 @@
     "[$path=/vp]video4k.cc": [
         ".video-view-ads-control"
     ],
-    "wired.com": [
-        "div[class^=\"StickyHeroAdWrapper-\"]",
-        ".with-link-banner",
-        ".content-footer__outbrain-widget",
-        ".recirc-most-popular__items > li.recirc-most-popular__item > .ad",
-        ".full-bleed-ad",
-        ".sponsored-stories-component",
-        "div[class^=\"advertisement\"]",
-        ".ad-component--box",
-        ".advertisement__leaderboard",
-        ".cns-ads-stage:not(.cns-ads-slot-type-newsletter-interstitial)",
-        ".col#we-recommend",
-        "div[role=\"presentation\"][data-outbrain-url]",
-        "div[data-testid=\"ContentFooterBottom\"] > div[class^=\"RowWrapper-\"]",
-        ".ad-stickyhero",
-        ".ad-height-hold",
-        "#veil",
-        ".MobileProductCardOuter-kMqsSf",
-        "[data-testid=\"cne-interlude-container\"]"
-    ],
     "mkvcinemas.*": [
         ".code-block:has(a[title=\"mkvAnime\"])",
         "#SH-Ads",
@@ -32847,7 +32844,10 @@
         ".imonaid_context"
     ],
     "capitalbrief.com": [
-        "#content > div.mb-8.w-\\[970px\\]"
+        "#content > div.mb-8.w-\\[970px\\]",
+        ".ad-parent",
+        ".position1",
+        ".position2"
     ],
     "meteum.ai": [
         "div[id^=\"adfox_\"]"
@@ -42178,6 +42178,29 @@
     ],
     "urbharat.xyz": [
         ".box-main > div.box:first-child"
+    ],
+    "pitchfork.com": [
+        "div[class^=\"StickyHeroAdWrapper\"]"
+    ],
+    "wired.com": [
+        "div[class^=\"StickyHeroAdWrapper\"]",
+        ".with-link-banner",
+        ".content-footer__outbrain-widget",
+        ".recirc-most-popular__items > li.recirc-most-popular__item > .ad",
+        ".full-bleed-ad",
+        ".sponsored-stories-component",
+        "div[class^=\"advertisement\"]",
+        ".ad-component--box",
+        ".advertisement__leaderboard",
+        ".cns-ads-stage:not(.cns-ads-slot-type-newsletter-interstitial)",
+        ".col#we-recommend",
+        "div[role=\"presentation\"][data-outbrain-url]",
+        "div[data-testid=\"ContentFooterBottom\"] > div[class^=\"RowWrapper-\"]",
+        ".ad-stickyhero",
+        ".ad-height-hold",
+        "#veil",
+        ".MobileProductCardOuter-kMqsSf",
+        "[data-testid=\"cne-interlude-container\"]"
     ],
     "mydaddy.cc": [
         "#ovrl_ad",
@@ -56335,9 +56358,6 @@
         "body .mb-block--advert-side",
         "[href^=\"https://wynstarks.lnk.to/\"]"
     ],
-    "nu-bay.com": [
-        ".gal-banner"
-    ],
     "uploadever.com": [
         "#container > center > .btn-success"
     ],
@@ -64244,7 +64264,7 @@
         ".m-1.fw-bold.btn-danger.btn",
         ".position-absolute.bg-opacity-50"
     ],
-    "cricstream.me": [
+    "cricstreams.re": [
         ".m-1.fw-bold.btn-danger.btn",
         ".position-absolute.bg-opacity-50"
     ],
@@ -80545,6 +80565,9 @@
         ".shop-with-us__container",
         ".widget_media_image"
     ],
+    "bio.to": [
+        "#lnk-ad-header"
+    ],
     "lightnovelcave.com": [
         "#lnvidcontainer",
         ".vnad",
@@ -86562,6 +86585,10 @@
         ".mondo-ads-widget",
         ".notrack"
     ],
+    "twistedvoxel.com": [
+        ".block-widget",
+        ".code-block"
+    ],
     "macmusic.org": [
         ".block440Adv"
     ],
@@ -87063,6 +87090,12 @@
     "hollywoodunlocked.com": [
         ".code-block"
     ],
+    "hotcelebshome.com": [
+        ".code-block",
+        "#custom_html-4",
+        ".bcpsttl_name_listing",
+        ".widget_custom_html"
+    ],
     "ifoodreal.com": [
         ".code-block"
     ],
@@ -87216,9 +87249,6 @@
     "trendingpoliticsnews.com": [
         ".code-block",
         ".widget_custom_html"
-    ],
-    "twistedvoxel.com": [
-        ".code-block"
     ],
     "walletinvestor.com": [
         ".code-block",
@@ -90166,6 +90196,9 @@
         ".promo-block"
     ],
     "forums.minecraftforge.net": [
+        ".promo-container"
+    ],
+    "leaked.cx": [
         ".promo-container"
     ],
     "texasmonthly.com": [
@@ -93274,6 +93307,10 @@
     "nltimes.nl": [
         "div[class^=\"r89-\"]"
     ],
+    "geekchamp.com": [
+        "div[class^=\"rk-\"]",
+        "div[id^=\"rk-\"]"
+    ],
     "semafor.com": [
         "div[class^=\"styles_ad\"]"
     ],
@@ -94939,11 +94976,6 @@
     ],
     "dpfantasy.org": [
         "#custom_html-4"
-    ],
-    "hotcelebshome.com": [
-        "#custom_html-4",
-        ".bcpsttl_name_listing",
-        ".widget_custom_html"
     ],
     "hentai7.top": [
         "#custom_html-6"
