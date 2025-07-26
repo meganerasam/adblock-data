@@ -120,6 +120,30 @@
             ]
         },
         {
+            "pattern": "lazyadmin.nl",
+            "args": [
+                [
+                    "AdBlocker"
+                ]
+            ]
+        },
+        {
+            "pattern": "watson.de",
+            "args": [
+                [
+                    "AdBlocker"
+                ]
+            ]
+        },
+        {
+            "pattern": "watson.ch",
+            "args": [
+                [
+                    "AdBlocker"
+                ]
+            ]
+        },
+        {
             "pattern": "99bitcoins.com",
             "args": [
                 [
@@ -517,22 +541,6 @@
             "args": [
                 [
                     "faq/whitelist"
-                ]
-            ]
-        },
-        {
-            "pattern": "watson.de",
-            "args": [
-                [
-                    "AdBlocker"
-                ]
-            ]
-        },
-        {
-            "pattern": "watson.ch",
-            "args": [
-                [
-                    "AdBlocker"
                 ]
             ]
         },
@@ -3342,13 +3350,10 @@
             ]
         },
         {
-            "pattern": "japscan.lol",
+            "pattern": "japscan.*",
             "args": [
                 [
                     "=document[_0x"
-                ],
-                [
-                    "detectImgLoad"
                 ]
             ]
         },
@@ -6781,22 +6786,6 @@
             ]
         },
         {
-            "pattern": "ilclubdellericette.it",
-            "args": [
-                [
-                    "mdpDeBlocker"
-                ]
-            ]
-        },
-        {
-            "pattern": "bollyholic.*",
-            "args": [
-                [
-                    "mdpDeBlocker"
-                ]
-            ]
-        },
-        {
             "pattern": "extremereportbot.com",
             "args": [
                 [
@@ -8441,6 +8430,9 @@
             "args": [
                 [
                     "ads"
+                ],
+                [
+                    "setInterval"
                 ]
             ]
         },
@@ -13682,6 +13674,14 @@
             ]
         },
         {
+            "pattern": "download.kingtecnologia.com",
+            "args": [
+                [
+                    "await _0x"
+                ]
+            ]
+        },
+        {
             "pattern": "forumdz.com",
             "args": [
                 [
@@ -13820,9 +13820,6 @@
         {
             "pattern": "pentruea.com",
             "args": [
-                [
-                    "mdp_deblocker"
-                ],
                 [
                     "charAt"
                 ]
@@ -14006,15 +14003,6 @@
             "args": [
                 [
                     "innerHTML.replace"
-                ]
-            ]
-        },
-        {
-            "pattern": "3dmodelshare.org",
-            "args": [
-                [
-                    "data?",
-                    "4000"
                 ]
             ]
         },
@@ -14615,6 +14603,14 @@
             ]
         },
         {
+            "pattern": "html5.gamemonetize.co",
+            "args": [
+                [
+                    "MobileInGameGames"
+                ]
+            ]
+        },
+        {
             "pattern": "code2care.org",
             "args": [
                 [
@@ -15060,6 +15056,14 @@
             "args": [
                 [
                     "/salesPopup|mira-snackbar/"
+                ]
+            ]
+        },
+        {
+            "pattern": "japscan.lol",
+            "args": [
+                [
+                    "detectImgLoad"
                 ]
             ]
         },
