@@ -24073,8 +24073,7 @@
         ".video-player",
         ".ad",
         ".program-actions-header__promo",
-        ".program-description__slot",
-        "[data-meta=\"placeholder-slot\"]"
+        ".program-description__slot"
     ],
     "supersextube.pro": [
         "body .ad"
@@ -41782,6 +41781,12 @@
     "xnxx.fit": [
         "#fluid-onpause_spot"
     ],
+    "sex-vid.quest": [
+        ".spotholder"
+    ],
+    "xxx888.homes": [
+        ".spotholder"
+    ],
     "best-porn.video": [
         ".spotholder"
     ],
@@ -42557,6 +42562,7 @@
         "td[style=\"vertical-align:top; position:relative; min-width:160px;\"]",
         "#GridPlayer",
         ".gAd",
+        ".gpAdBox",
         ".leaderboard",
         ".yRDh6z2_d0DkfsT3",
         "div[id^=\"ctl00_TTLB\"]",
@@ -54625,8 +54631,7 @@
     "celeb.gate.cc": [
         "#sidebar > div[style=\"width: 200px; height: 200px;\"]:not([class])",
         "a[href^=\"https://goo.gl\"]",
-        "body > #footer ~ iframe[id]:not([src])",
-        "a[href*=\"//goo.gl/\"]"
+        "body > #footer ~ iframe[id]:not([src])"
     ],
     "allsex.xxx": [
         "div[class^=\"block-\"] > .table"
@@ -89116,10 +89121,6 @@
         ".leaderboard",
         ".adthrive"
     ],
-    "iamdisappoint.com": [
-        ".leaderboard",
-        "a[href^=\"http://goo.gl/\"]"
-    ],
     "itnews.asia": [
         ".leaderboard"
     ],
@@ -92357,13 +92358,7 @@
     "igraal.com": [
         "[data-ig-ga-cat=\"Ad\"]"
     ],
-    "filehippo.de": [
-        "[data-meta=\"placeholder-slot\"]"
-    ],
-    "filehippo.jp": [
-        "[data-meta=\"placeholder-slot\"]"
-    ],
-    "filehippo.pl": [
+    "filehippo.*": [
         "[data-meta=\"placeholder-slot\"]"
     ],
     "qvc.com": [
