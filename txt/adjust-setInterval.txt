@@ -1400,7 +1400,7 @@
             ]
         },
         {
-            "pattern": "gyanitheme.com",
+            "pattern": "techkhulasha.com",
             "args": [
                 [
                     "/.?/",
@@ -4250,6 +4250,16 @@
                     "()=>{var c=Kb",
                     "1000",
                     "0.2"
+                ]
+            ]
+        },
+        {
+            "pattern": "daftsex.biz",
+            "args": [
+                [
+                    "timeleftlink",
+                    "1000",
+                    "0.001"
                 ]
             ]
         }
