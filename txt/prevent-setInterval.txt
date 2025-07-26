@@ -660,15 +660,6 @@
             ]
         },
         {
-            "pattern": "akbardwi.my.id",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "sukidesuost.info",
             "args": [
                 [
@@ -814,15 +805,6 @@
         },
         {
             "pattern": "lookimg.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "graphicdesignresources.net",
             "args": [
                 [
                     "visibility",
@@ -1173,15 +1155,6 @@
             ]
         },
         {
-            "pattern": "submitclimb.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "swift4claim.com",
             "args": [
                 [
@@ -1237,15 +1210,6 @@
         },
         {
             "pattern": "midiextreme.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "tellygossips.net",
             "args": [
                 [
                     "visibility",
@@ -1743,6 +1707,14 @@
             "args": [
                 [
                     "innerHTML"
+                ]
+            ]
+        },
+        {
+            "pattern": "fileguard.cc",
+            "args": [
+                [
+                    "?key="
                 ]
             ]
         },
