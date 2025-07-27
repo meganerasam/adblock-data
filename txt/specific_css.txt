@@ -30122,12 +30122,7 @@
         ".right.hidden-md",
         "div[data-spots]",
         ".right div[data-asg-ins]",
-        ".tray-item-cam",
-        ".network-top span",
-        ".network-top span ~ a[href]:not(.login-member)",
-        "div[style^=\"text-align: center;\"] > a[target=\"_blank\"] > img",
-        ".asg-overlay",
-        ".sextb_300"
+        ".asg-overlay"
     ],
     "natomanga.com": [
         ".ads-contain",
@@ -36087,8 +36082,7 @@
         ".avb-active"
     ],
     "sextb.date": [
-        ".right div[data-asg-ins]",
-        ".tray-item-cam"
+        ".right div[data-asg-ins]"
     ],
     "damota.me": [
         ".nes-container:has(.adsbygoogle)"
@@ -79770,6 +79764,10 @@
         "#distro_right_rail",
         "#realclear_jwplayer_container"
     ],
+    "printweek.in": [
+        "#div-button1-ad",
+        "[class^=\"ad-section-\"]"
+    ],
     "designtaxi.com": [
         "#div-center-wrapper",
         ".displayboard",
@@ -96199,9 +96197,6 @@
     ],
     "forum.lewdweb.net": [
         ".samCodeUnit"
-    ],
-    "sextb.xyz": [
-        ".sextb_300"
     ],
     "gay-streaming.com": [
         ".sgpb-popup-dialog-main-div-wrapper",
