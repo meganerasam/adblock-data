@@ -26825,6 +26825,9 @@
     "cracking.org": [
         ".samBannerUnit"
     ],
+    "streamhls.to": [
+        "div[id^=\"clickCatcher\"]"
+    ],
     "free-proxy-list.net": [
         ".alert-fpl:has(> a:not([href^=\"https://free-proxy-list.net/\"]))"
     ],
@@ -26981,7 +26984,10 @@
         ".c-editorjs-elements-banner-image",
         ".c-banner-partner-branding",
         ".c-banner-partner-header-button",
-        ".c-banner-custom"
+        ".c-banner-custom",
+        ".c-baner-custom",
+        ".c-baner-partner-branding",
+        ".c-banner-partner-top-manager"
     ],
     "jaxon.gg": [
         ".col-12:has(> div[class] > span[data-code=\"JAXON\"])"
