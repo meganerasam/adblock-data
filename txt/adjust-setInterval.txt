@@ -1160,72 +1160,32 @@
             ]
         },
         {
-            "pattern": "shayarias.in",
+            "pattern": "tech8s.net",
             "args": [
                 [
                     "/.?/",
                     "*",
-                    "0.002"
+                    "0.02"
                 ]
             ]
         },
         {
-            "pattern": "jksb.in",
+            "pattern": "drop.carbikenation.com",
             "args": [
                 [
                     "/.?/",
                     "*",
-                    "0.002"
+                    "0.02"
                 ]
             ]
         },
         {
-            "pattern": "mazakisan.com",
+            "pattern": "linkss.rcccn.in",
             "args": [
                 [
                     "/.?/",
                     "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "grtjobs.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "call-bomber.info",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "kajernews.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "vyaapaarguru.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
+                    "0.02"
                 ]
             ]
         },
@@ -1400,6 +1360,24 @@
             ]
         },
         {
+            "pattern": "tech.pubghighdamage.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "blog.itijobalert.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
             "pattern": "techkhulasha.com",
             "args": [
                 [
@@ -1434,6 +1412,26 @@
                     "/.?/",
                     "*",
                     "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "jobzhub.store",
+            "args": [
+                [
+                    "tid",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
+            "pattern": "fitdynamos.com",
+            "args": [
+                [
+                    "tid",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
