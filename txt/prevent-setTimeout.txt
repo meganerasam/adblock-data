@@ -5952,6 +5952,22 @@
             ]
         },
         {
+            "pattern": "trailerhg.xyz",
+            "args": [
+                [
+                    "window.open"
+                ]
+            ]
+        },
+        {
+            "pattern": "turboplayers.xyz",
+            "args": [
+                [
+                    "window.open"
+                ]
+            ]
+        },
+        {
             "pattern": "viralharami.com",
             "args": [
                 [
@@ -16265,23 +16281,7 @@
             ]
         },
         {
-            "pattern": "trailerhg.xyz",
-            "args": [
-                [
-                    "ast"
-                ]
-            ]
-        },
-        {
-            "pattern": "turboplayers.xyz",
-            "args": [
-                [
-                    "ast"
-                ]
-            ]
-        },
-        {
-            "pattern": "sextb.net>>",
+            "pattern": "sextb.*>>",
             "args": [
                 [
                     "ast"
@@ -16293,6 +16293,14 @@
             "args": [
                 [
                     "googlesyndication"
+                ]
+            ]
+        },
+        {
+            "pattern": "freegames.com",
+            "args": [
+                [
+                    "moneyDetect"
                 ]
             ]
         }
