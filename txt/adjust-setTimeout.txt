@@ -631,14 +631,6 @@
             ]
         },
         {
-            "pattern": "datavaults.co",
-            "args": [
-                [
-                    "tick"
-                ]
-            ]
-        },
-        {
             "pattern": "dokumen.tips",
             "args": [
                 [
@@ -703,76 +695,6 @@
                     "",
                     "10000",
                     "0"
-                ]
-            ]
-        },
-        {
-            "pattern": "shayarias.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "jksb.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "mazakisan.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "grtjobs.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "call-bomber.info",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "kajernews.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
-                ]
-            ]
-        },
-        {
-            "pattern": "vyaapaarguru.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*",
-                    "0.002"
                 ]
             ]
         },
@@ -873,6 +795,24 @@
                     "getlink",
                     "*",
                     "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "tech.pubghighdamage.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "blog.itijobalert.in",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
                 ]
             ]
         },
@@ -1336,6 +1276,14 @@
         },
         {
             "pattern": "tapenoads.com",
+            "args": [
+                [
+                    "counter"
+                ]
+            ]
+        },
+        {
+            "pattern": "tapepops.com",
             "args": [
                 [
                     "counter"
