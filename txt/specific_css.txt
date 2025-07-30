@@ -11006,6 +11006,10 @@
     "dm5.com": [
         ".cp_adct"
     ],
+    "calciomercato.com": [
+        ".fco-ad",
+        ".adv--300x250:not(#generic-video-player)"
+    ],
     "mondomobileweb.it": [
         ".tie-center-button",
         ".stream-item",
@@ -11857,9 +11861,6 @@
         ".sidebar-content > #media_image-2",
         ".sidebar-content > #widget_sp_image-2"
     ],
-    "calciomercato.com": [
-        ".adv--300x250:not(#generic-video-player)"
-    ],
     "youtg.net": [
         ".sppb-addon-module div.banneritem",
         ".bannergroupskinbanner",
@@ -12308,6 +12309,11 @@
     ],
     "joujizz.com": [
         ".video-top-wrap > .sb"
+    ],
+    "bezprawnik.pl": [
+        ".newAd",
+        "div[class^=\"ad_slot_\"]",
+        ".wall-bg-link"
     ],
     "jakdorobic.pl": [
         ".banner-main-jd-container",
@@ -13390,7 +13396,11 @@
         "img[alt*=\"Reklama\"]",
         "a[href*=\"_adserwer.php\"]"
     ],
+    "pepper.com": [
+        ".listLayout-box:has(> .ad:only-child)"
+    ],
     "pepper.pl": [
+        ".listLayout-box:has(> .ad:only-child)",
         "div[id$=\"AdSlotPortal\"]",
         ".listLayout-main > div:not([class], [id]) > .flex:has(> .ad--bg)"
     ],
@@ -16315,10 +16325,6 @@
     "anime-odcinki.pl": [
         ".region-sidebar-second > .widget_text > .textwidget > center > div[id][style=\"width:300px;height:250px;\"]:empty",
         "a[href=\"https://e-neko.pl/\"] > img"
-    ],
-    "bezprawnik.pl": [
-        "div[class^=\"ad_slot_\"]",
-        ".wall-bg-link"
     ],
     "polsatsport.pl": [
         ".fl-right > a[href^=\"http://redefineadpl.hit.gemius.pl/hitredir/\"][href*=\"url=https://ad.doubleclick.net/ddm/trackclk/\"]"
@@ -25918,9 +25924,6 @@
         ".res-ad",
         ".AT-ads"
     ],
-    "coomer.party": [
-        ".ad-container:not(#style_important)"
-    ],
     "mixed-news.com": [
         ".ad-container:not(#style_important)",
         ".ad-container"
@@ -27704,7 +27707,8 @@
     ],
     "glasgowtimes.co.uk": [
         ".article-row-container--right__article-display-page-only > div.article-row-container__column.mar-mb-4",
-        "div[data-uses-js=\"dfp-top-ad-fixed\"]"
+        "div[data-uses-js=\"dfp-top-ad-fixed\"]",
+        ".mar-leaderboard--top"
     ],
     "ranobes.net": [
         ".free-support-top",
@@ -33025,14 +33029,6 @@
         "div[class^=\"CommentsOpenWeb_adWrapper\"]",
         "div[style*=\"ad-slot\"]"
     ],
-    "kemono.su": [
-        ".stuck-bottom > a[href=\"https://t.me/kemonopartywelcome\"] ~ a[href][target=\"_blank\"]",
-        "a[href*=\"tsyndicate.com/\"]",
-        ".ad-container",
-        ".header + aside",
-        "[href^=\"//a.adtng.com/get/\"]",
-        "a[href*=\"theporndude.com\"]"
-    ],
     "forum.videohelp.com": [
         "#thisisatest",
         "div[style*=\"width:100%;\"][style*=\"height:110px;\"]",
@@ -33597,7 +33593,10 @@
         "aside span > span.react-loading-skeleton",
         "aside > div[class^=\"sc-\"]:has(> span > span.react-loading-skeleton)",
         ".fixed-slots",
-        ".teaser[data-tmdatatrack-source=\"SHOP_WINDOW\"]"
+        ".react-loading-skeleton",
+        ".teaser[data-tmdatatrack-source=\"SHOP_WINDOW\"]",
+        "div[data-testid^=\"commercial-\"]",
+        "div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)"
     ],
     "manchestereveningnews.co.uk": [
         ".commercial-box-style",
@@ -33608,8 +33607,11 @@
         "div[data-link-partner]",
         ".container > div:empty",
         ".taboola",
+        ".react-loading-skeleton",
         ".teaser[data-tmdatatrack-source=\"SHOP_WINDOW\"]",
-        ".topbox-cls-placeholder"
+        ".topbox-cls-placeholder",
+        "div[data-testid^=\"commercial-\"]",
+        "div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)"
     ],
     "typingtest.com": [
         ".result #middle-banner-unit"
@@ -37317,13 +37319,6 @@
     ],
     "modthesims.info#?": [
         "rightcolumn > div:has(> div#adslot-homepage-sidebar)"
-    ],
-    "coomer.su": [
-        "a[href^=\"//a.adtng.com/\"]",
-        ".ad-container",
-        ".header + aside",
-        "[href^=\"//a.adtng.com/get/\"]",
-        "a[href*=\"theporndude.com\"]"
     ],
     "reason.com": [
         ".primis-video-ad",
@@ -42279,6 +42274,9 @@
     ],
     "urbharat.xyz": [
         ".box-main > div.box:first-child"
+    ],
+    "self.com": [
+        "div[class^=\"StickyHeroAdWrapper\"]"
     ],
     "pitchfork.com": [
         "div[class^=\"StickyHeroAdWrapper\"]"
@@ -58511,6 +58509,7 @@
     ],
     "heraldseries.co.uk": [
         ".earpiece-ad",
+        ".mar-leaderboard--top",
         ".promoted-block"
     ],
     "herefordtimes.com": [
@@ -88238,6 +88237,9 @@
     "nondoc.com": [
         ".g"
     ],
+    "placenorthwest.co.uk": [
+        ".g"
+    ],
     "richmondshiretoday.co.uk": [
         ".g"
     ],
@@ -88994,6 +88996,10 @@
         ".z-0",
         "[width=\"600\"]"
     ],
+    "punchline-gloucester.com": [
+        ".js-analytics-event-click",
+        ".slideshow"
+    ],
     "live94today.com": [
         ".js-demo-avd"
     ],
@@ -89468,6 +89474,10 @@
     ],
     "whatsgabycooking.com": [
         ".manual-adthrive-sidebar"
+    ],
+    "somersetcountygazette.co.uk": [
+        ".mar-leaderboard--top",
+        ".promoted-block"
     ],
     "color-hex.com": [
         ".margin10"
@@ -90353,9 +90363,6 @@
     "creweguardian.co.uk": [
         ".promoted-block"
     ],
-    "somersetcountygazette.co.uk": [
-        ".promoted-block"
-    ],
     "tewkesburyadmag.co.uk": [
         ".promoted-block"
     ],
@@ -90497,6 +90504,30 @@
     ],
     "forebet.com": [
         ".rbannerDiv"
+    ],
+    "bristolpost.co.uk": [
+        ".react-loading-skeleton",
+        ".topbox-cls-placeholder",
+        "div[data-testid^=\"commercial-\"]",
+        "div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)"
+    ],
+    "irishstar.com": [
+        ".react-loading-skeleton",
+        "div[data-testid^=\"commercial-\"]",
+        "div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)"
+    ],
+    "stokesentinel.co.uk": [
+        ".react-loading-skeleton",
+        ".shop-window[data-impr-tracking=\"true\"]",
+        ".topbox-cls-placeholder",
+        "div[data-testid^=\"commercial-\"]",
+        "div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)"
+    ],
+    "walesonline.co.uk": [
+        ".react-loading-skeleton",
+        ".topbox-cls-placeholder",
+        "div[data-testid^=\"commercial-\"]",
+        "div[class^=\"sc-\"]:has(> span[aria-live=\"polite\"] > .react-loading-skeleton)"
     ],
     "just-dice.com": [
         ".realcontent"
@@ -90752,10 +90783,6 @@
     ],
     "stockhouse.com": [
         ".sh-ad"
-    ],
-    "stokesentinel.co.uk": [
-        ".shop-window[data-impr-tracking=\"true\"]",
-        ".topbox-cls-placeholder"
     ],
     "rebelnews.com": [
         ".shopify-buy-frame"
@@ -91552,9 +91579,6 @@
     "belfastlive.co.uk": [
         ".topbox-cls-placeholder"
     ],
-    "bristolpost.co.uk": [
-        ".topbox-cls-placeholder"
-    ],
     "cambridge-news.co.uk": [
         ".topbox-cls-placeholder"
     ],
@@ -91616,9 +91640,6 @@
         ".topbox-cls-placeholder"
     ],
     "somersetlive.co.uk": [
-        ".topbox-cls-placeholder"
-    ],
-    "walesonline.co.uk": [
         ".topbox-cls-placeholder"
     ],
     "blabber.buzz": [
@@ -95397,6 +95418,16 @@
         ".ad",
         ".adv",
         ".callback-bt"
+    ],
+    "coomer.st": [
+        ".ad-container",
+        "a[href*=\"/tsyndicate.com/\"]",
+        "a[href*=\"theporndude.com\"]"
+    ],
+    "kemono.cr": [
+        ".ad-container",
+        "a[href*=\"/tsyndicate.com/\"]",
+        "a[href*=\"theporndude.com\"]"
     ],
     "sdhentai.com": [
         ".ad-container"
