@@ -4639,6 +4639,7 @@
         ".home .tag-sponsored",
         ".homepage-sponsor",
         ".ai-track",
+        ".display-card-main-content-wrapper",
         ".w-pencil-banner",
         ".adsninja-ad-zone-container-with-set-height",
         "[class*=\"ad-zone-container-content-character-count-repeatable\"]",
@@ -7939,6 +7940,9 @@
     "fofmyanmar.com": [
         "div[style*=\"text-align: center;\"] > a > img[style=\"width: 100%; height: auto\"]",
         "center > a[rel=\"noopener noreferrer\"] > img"
+    ],
+    "24sata.hr": [
+        ".js_topProducts"
     ],
     "n1info.hr": [
         "#billboard_banner",
@@ -15450,6 +15454,7 @@
         ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"]:last-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
         ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"]:first-child:has(> div[class^=\"go\"]:first-child + div[class^=\"go\"]:last-child > .onet-ad:only-child)",
         ".main-container > div[class^=\"go\"]:only-child > nav + [class^=\"go\"] > div[class^=\"go\"] > nav + div[class^=\"go\"]:last-child > div[class^=\"go\"]:last-child:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + .onet-ad:last-child)",
+        "div[data-screening-append] > div[class^=\"go\"] > main + div[class^=\"go\"]:has(> div[class^=\"go\"]:only-child > div[class^=\"go\"]:only-child > div[class^=\"go\"]:only-child > div[class^=\"go\"]:first-child + .onet-ad:last-child)",
         "div[class^=\"styles__SlotRightColumn-\"]",
         "div[class^=\"styles__SlotTopContainer-\"]",
         ".is-detail-view > div[class^=\"go\"]:has(> #onet-ad-flat-natmailing)"
@@ -28550,6 +28555,7 @@
         ".g-59",
         "#closeAd",
         ".rev",
+        "#snack-ad-cont",
         "#venatus-hybrid-banner",
         ".adRoot-loop-ad",
         ".g",
@@ -35597,7 +35603,8 @@
     "hitomi.la": [
         ".container > div[class$=\"content\"] > div[class]:empty",
         ".container > div[class$=\"content\"] > div[class]:has(> div[data-clickadilla-banner])",
-        ".container > div.top-content > div[class]:not([class=\"list-title\"])"
+        ".content > div[class]:not([class*=\"-\"]) {min-height:45px !important;}",
+        ".top-content > div[class]:not([class*=\"-\"]) {min-height:45px !important;}"
     ],
     "link.paid4link.com": [
         ".card",
@@ -35915,6 +35922,11 @@
     "intro-hd.net": [
         ".sidebar_master > .widget:has(> div[id^=\"intro-\"] > .adsbygoogle)",
         ".widget__gallery .col-lg-8 > .row > .in_loop:has(> .card > .adsbygoogle)"
+    ],
+    "wcoflix.tv": [
+        "div[style]:has(> div[class^=\"reklam_\"]:only-child)",
+        "div[style=\"float:right; margin-top:-5px\"]",
+        ".anti-ad"
     ],
     "wcofun.net": [
         "div[style]:has(> div[class^=\"reklam_\"]:only-child)",
@@ -86362,6 +86374,9 @@
         ".bannerHolder",
         ".referral",
         ".respawn-banner"
+    ],
+    "energyvanguard.com": [
+        ".bannerListWidget"
     ],
     "ivote.co.za": [
         ".bannerSm"
