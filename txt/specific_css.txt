@@ -10032,6 +10032,9 @@
         ".advMasterSlot",
         ".mainBodyWrapper div[class*=\"adv\"]"
     ],
+    "tv5news.in": [
+        "#roadblocker-wrapper"
+    ],
     "m9.news": [
         "#single-top-ad",
         ".main-content > p:has(> ins.adsbygoogle)",
@@ -22643,21 +22646,21 @@
     ],
     "~dogdrip.net": [
         "html[class^=\"img_\"][amp4ads=\"\"][i-amphtml-layout=\"\"][i-amphtml-no-boilerplate=\"\"][amp-version=\"2502032353000\"]",
-        "*:not(body) > a[href^=\"https://content-loader.com/content\"]",
-        "*:not(body) > a[href^=\"https://html-load.com/content\"]",
-        "*:not(body) > a[href^=\"https://07c225f3.online/content\"]"
+        "*:not(body) > a[href^=\"https://content-loader.com/article\"]",
+        "*:not(body) > a[href^=\"https://html-load.com/article\"]",
+        "*:not(body) > a[href^=\"https://07c225f3.online/article\"]"
     ],
     "~infinityfree.com": [
         "html[class^=\"img_\"][amp4ads=\"\"][i-amphtml-layout=\"\"][i-amphtml-no-boilerplate=\"\"][amp-version=\"2502032353000\"]",
-        "*:not(body) > a[href^=\"https://content-loader.com/content\"]",
-        "*:not(body) > a[href^=\"https://html-load.com/content\"]",
-        "*:not(body) > a[href^=\"https://07c225f3.online/content\"]"
+        "*:not(body) > a[href^=\"https://content-loader.com/article\"]",
+        "*:not(body) > a[href^=\"https://html-load.com/article\"]",
+        "*:not(body) > a[href^=\"https://07c225f3.online/article\"]"
     ],
     "~smsonline.cloud": [
         "html[class^=\"img_\"][amp4ads=\"\"][i-amphtml-layout=\"\"][i-amphtml-no-boilerplate=\"\"][amp-version=\"2502032353000\"]",
-        "*:not(body) > a[href^=\"https://content-loader.com/content\"]",
-        "*:not(body) > a[href^=\"https://html-load.com/content\"]",
-        "*:not(body) > a[href^=\"https://07c225f3.online/content\"]"
+        "*:not(body) > a[href^=\"https://content-loader.com/article\"]",
+        "*:not(body) > a[href^=\"https://html-load.com/article\"]",
+        "*:not(body) > a[href^=\"https://07c225f3.online/article\"]"
     ],
     "eztv.unblocked.sh": [
         "body > div[id][style*=\"position: fixed\"][style*=\"z-index\"][style*=\"height:\"][style*=\"height:\"]:not(#container)"
@@ -26237,6 +26240,9 @@
     "download.pixelexperience.org": [
         ".adsbygoogle"
     ],
+    "jav.re": [
+        ".block-video > div.table"
+    ],
     "transvids.tv": [
         ".block-video > div.table",
         ".ribbonban",
@@ -26895,6 +26901,17 @@
     ],
     "cracking.org": [
         ".samBannerUnit"
+    ],
+    "buzzfeed.com": [
+        "article .bf-cnx-override:has(> .bf-cnx-player:empty)",
+        ".Ad--loading",
+        ".item--ad",
+        ".Ad",
+        ".ad-awareness",
+        ".card--article-ad",
+        ".desktop-sticky-ad_desktopStickyAdWrapper__a_tyF",
+        ".js-bfa-impression",
+        ".subbuzz-bfp--connatix_video"
     ],
     "pstream.*": [
         "img[alt=\"ad banner\"]",
@@ -30392,6 +30409,7 @@
         ".premium-search-upsell",
         ".ad-banner",
         "article[data-is-sponsored]",
+        "iframe[title=\"Advertisement\"]",
         "li[data-is-sponsored=\"true\"]"
     ],
     "rule34video.com": [
@@ -32411,8 +32429,7 @@
         "center > p[style*=\"vertical-align:\"][style*=\"background-color:\"]"
     ],
     "startpage.com": [
-        "#main > div[style^=\"margin-bottom:\"] > div[style^=\"display: block; padding:\"]:has(> div[style^=\"margin-bottom:\"] > svg)",
-        ".a-bg"
+        "#main > div[style^=\"margin-bottom:\"] > div[style^=\"display: block; padding:\"]:has(> div[style^=\"margin-bottom:\"] > svg)"
     ],
     "rostercon.com": [
         ".container-sda"
@@ -45080,16 +45097,6 @@
     "world.rugby": [
         ".main-nav__promo-link"
     ],
-    "buzzfeed.com": [
-        ".Ad--loading",
-        ".item--ad",
-        ".Ad",
-        ".ad-awareness",
-        ".card--article-ad",
-        ".desktop-sticky-ad_desktopStickyAdWrapper__a_tyF",
-        ".js-bfa-impression",
-        ".subbuzz-bfp--connatix_video"
-    ],
     "v.24liveblog.com": [
         ".lb24-base-list-ad"
     ],
@@ -48026,7 +48033,9 @@
     "pride.com": [
         ".sticky.footer",
         ".magazine__banner",
+        ".placeholder-a-block",
         ".recirculation__placeholder--latest",
+        ".topbarplaceholder",
         "div[id^=\"sPost_Layout_Default_\"]:has(> .ad_leaderboard_wrap)"
     ],
     "indiatyping.com": [
@@ -94098,6 +94107,10 @@
     "1tamilmv.tax": [
         ".ipsWidget:has([href*=\"RajbetImage\"])"
     ],
+    "docs.openwebui.com": [
+        ".markdown > .w-full:has-text(Sponsored)",
+        ".pb-4 > .mb-2:has-text(Sponsored)"
+    ],
     "acmemarkets.com": [
         ".master-product-carousel:has([data-carousel-api*=\"search/sponsored-carousel\"])",
         ".master-product-carousel:has([data-carousel-driven=\"sponsored-products\"])"
@@ -95857,6 +95870,9 @@
         ".c_728x265",
         ".c_728x90",
         ".c_900x250",
+        ".m-row.h_100",
+        ".m-row.h_250",
+        ".m-row.h_335",
         ".w-100.h_250"
     ],
     "pornpics.vip": [
@@ -96048,6 +96064,11 @@
         ".happy-footer",
         ".happy-under-player",
         "img[width=\"300\"]"
+    ],
+    "ofansleaks.com": [
+        ".happy-footer-mobile",
+        ".happy-header",
+        ".happy-related-videos-mobile"
     ],
     "javflix.net": [
         ".happy-header"
