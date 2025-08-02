@@ -14456,3 +14456,4 @@ script[src*="html-load.com/"] + div[id^="img_"]:empty
 script[src*="html-load.com/"] + div[id^="img_"][style="width: auto;"]
 style + script[src*="html-load.com/"] + script + div[id^="img_"]
 video[poster*="html-load.com/"]
+a[href^="https://z.cdn.secured-ad.com/"]
