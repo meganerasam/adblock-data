@@ -1360,6 +1360,24 @@
             ]
         },
         {
+            "pattern": "blog.potterworld.co",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "hipsonyc.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
             "pattern": "tech.pubghighdamage.com",
             "args": [
                 [
