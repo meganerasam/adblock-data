@@ -421,6 +421,14 @@
             ]
         },
         {
+            "pattern": "client.falixnodes.net",
+            "args": [
+                [
+                    "/mylovelyobj|amzn_aps_csm|\\'\\/hello\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
+                ]
+            ]
+        },
+        {
             "pattern": "businessinsider.com",
             "args": [
                 [
@@ -2281,14 +2289,6 @@
             ]
         },
         {
-            "pattern": "th.gl",
-            "args": [
-                [
-                    "NitroAds"
-                ]
-            ]
-        },
-        {
             "pattern": "javsek.net",
             "args": [
                 [
@@ -2313,10 +2313,26 @@
             ]
         },
         {
+            "pattern": "servustv.com",
+            "args": [
+                [
+                    "/adblock/i"
+                ]
+            ]
+        },
+        {
             "pattern": "bilinovel.com",
             "args": [
                 [
                     "/adb/i"
+                ]
+            ]
+        },
+        {
+            "pattern": "policesecurity.com",
+            "args": [
+                [
+                    "EFFECTIVE_APPS_GCB_BLOCKED_MESSAGE"
                 ]
             ]
         },
