@@ -653,6 +653,14 @@
             ]
         },
         {
+            "pattern": "gamebanana.com",
+            "args": [
+                [
+                    "vSiteRefresher"
+                ]
+            ]
+        },
+        {
             "pattern": "searchenginejournal.com",
             "args": [
                 [
@@ -3542,6 +3550,17 @@
             "args": [
                 [
                     "adblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "client.falixnodes.net",
+            "args": [
+                [
+                    "/mylovelyobj|amzn_aps_csm|\\'\\/hello\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
+                ],
+                [
+                    "/location.href|location = atob/"
                 ]
             ]
         },
@@ -8442,13 +8461,77 @@
             ]
         },
         {
-            "pattern": "infomatricula.pt",
+            "pattern": "adrinolinks.com",
             "args": [
                 [
-                    "ads"
-                ],
+                    "alert",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "link.vipurl.in",
+            "args": [
                 [
-                    "setInterval"
+                    "alert",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "nanolinks.in",
+            "args": [
+                [
+                    "alert",
+                    "2000"
+                ]
+            ]
+        },
+        {
+            "pattern": "fadedfeet.com",
+            "args": [
+                [
+                    "/adblock|isRequestPresent/"
+                ]
+            ]
+        },
+        {
+            "pattern": "homeculina.com",
+            "args": [
+                [
+                    "/adblock|isRequestPresent/"
+                ]
+            ]
+        },
+        {
+            "pattern": "ineedskin.com",
+            "args": [
+                [
+                    "/adblock|isRequestPresent/"
+                ]
+            ]
+        },
+        {
+            "pattern": "kenzo-flowertag.com",
+            "args": [
+                [
+                    "/adblock|isRequestPresent/"
+                ]
+            ]
+        },
+        {
+            "pattern": "lawyex.co",
+            "args": [
+                [
+                    "/adblock|isRequestPresent/"
+                ]
+            ]
+        },
+        {
+            "pattern": "mdn.lol",
+            "args": [
+                [
+                    "/adblock|isRequestPresent/"
                 ]
             ]
         },
@@ -8641,81 +8724,6 @@
             "args": [
                 [
                     "documentElement.innerHTML"
-                ]
-            ]
-        },
-        {
-            "pattern": "link.vipurl.in",
-            "args": [
-                [
-                    "alert",
-                    "2000"
-                ]
-            ]
-        },
-        {
-            "pattern": "nanolinks.in",
-            "args": [
-                [
-                    "alert",
-                    "2000"
-                ]
-            ]
-        },
-        {
-            "pattern": "adrinolinks.com",
-            "args": [
-                [
-                    "alert",
-                    "2000"
-                ]
-            ]
-        },
-        {
-            "pattern": "fadedfeet.com",
-            "args": [
-                [
-                    "/adblock|isRequestPresent/"
-                ]
-            ]
-        },
-        {
-            "pattern": "homeculina.com",
-            "args": [
-                [
-                    "/adblock|isRequestPresent/"
-                ]
-            ]
-        },
-        {
-            "pattern": "ineedskin.com",
-            "args": [
-                [
-                    "/adblock|isRequestPresent/"
-                ]
-            ]
-        },
-        {
-            "pattern": "kenzo-flowertag.com",
-            "args": [
-                [
-                    "/adblock|isRequestPresent/"
-                ]
-            ]
-        },
-        {
-            "pattern": "lawyex.co",
-            "args": [
-                [
-                    "/adblock|isRequestPresent/"
-                ]
-            ]
-        },
-        {
-            "pattern": "mdn.lol",
-            "args": [
-                [
-                    "/adblock|isRequestPresent/"
                 ]
             ]
         },
@@ -13802,6 +13810,14 @@
             ]
         },
         {
+            "pattern": "infomatricula.pt",
+            "args": [
+                [
+                    "offsetHeight"
+                ]
+            ]
+        },
+        {
             "pattern": "my-code4you.blogspot.com",
             "args": [
                 [
@@ -15403,17 +15419,6 @@
             ]
         },
         {
-            "pattern": "client.falixnodes.net",
-            "args": [
-                [
-                    "/location.href|location = atob/"
-                ],
-                [
-                    "/adObj|amzn_aps_csm|please-disable|function reportErrors|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl/"
-                ]
-            ]
-        },
-        {
             "pattern": "techedubyte.com",
             "args": [
                 [
@@ -15964,6 +15969,9 @@
                 [
                     "",
                     "10000-15000"
+                ],
+                [
+                    "adex"
                 ]
             ]
         },
