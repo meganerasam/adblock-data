@@ -1360,6 +1360,24 @@
             ]
         },
         {
+            "pattern": "gyanitheme.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "tech.trendingword.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
             "pattern": "blog.potterworld.co",
             "args": [
                 [
@@ -4281,6 +4299,15 @@
         }
     ],
     "exceptionRules": [
+        {
+            "pattern": "cloudflare.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
         {
             "pattern": "encurtador.postazap.com",
             "args": [
