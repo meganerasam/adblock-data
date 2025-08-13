@@ -3358,6 +3358,14 @@
             ]
         },
         {
+            "pattern": "qrcode.best",
+            "args": [
+                [
+                    "ad_blocker_detector_modal"
+                ]
+            ]
+        },
+        {
             "pattern": "japscan.*",
             "args": [
                 [
@@ -6657,6 +6665,9 @@
             "args": [
                 [
                     "ipod"
+                ],
+                [
+                    "sub"
                 ]
             ]
         },
@@ -6995,17 +7006,6 @@
             "args": [
                 [
                     "nextFunction"
-                ]
-            ]
-        },
-        {
-            "pattern": "daemon-hentai.com",
-            "args": [
-                [
-                    "nextFunction"
-                ],
-                [
-                    "adbl"
                 ]
             ]
         },
@@ -8357,14 +8357,6 @@
         },
         {
             "pattern": "shorterall.com",
-            "args": [
-                [
-                    "alert"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog24.me",
             "args": [
                 [
                     "alert"
@@ -12777,6 +12769,15 @@
             ]
         },
         {
+            "pattern": "lecker.de",
+            "args": [
+                [
+                    ".call(null)",
+                    "10"
+                ]
+            ]
+        },
+        {
             "pattern": "meineorte.com",
             "args": [
                 [
@@ -13702,6 +13703,30 @@
             "args": [
                 [
                     "await _0x"
+                ]
+            ]
+        },
+        {
+            "pattern": "daemonanime.net",
+            "args": [
+                [
+                    "adbl"
+                ]
+            ]
+        },
+        {
+            "pattern": "bgmateriali.com",
+            "args": [
+                [
+                    "adbl"
+                ]
+            ]
+        },
+        {
+            "pattern": "daemon-hentai.com",
+            "args": [
+                [
+                    "openPopunder"
                 ]
             ]
         },
@@ -14865,22 +14890,6 @@
             ]
         },
         {
-            "pattern": "daemonanime.net",
-            "args": [
-                [
-                    "adbl"
-                ]
-            ]
-        },
-        {
-            "pattern": "bgmateriali.com",
-            "args": [
-                [
-                    "adbl"
-                ]
-            ]
-        },
-        {
             "pattern": "fosslinux.com",
             "args": [
                 [
@@ -15727,6 +15736,9 @@
             "args": [
                 [
                     ".clientHeight"
+                ],
+                [
+                    "/createElement|addEventListener|clientHeight/"
                 ]
             ]
         },
@@ -16309,6 +16321,222 @@
             "args": [
                 [
                     "moneyDetect"
+                ]
+            ]
+        },
+        {
+            "pattern": "levante-emv.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "mallorcazeitung.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "regio7.cat",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "superdeporte.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "laopiniondezamora.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "laopiniondemurcia.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "laopiniondemalaga.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "laopinioncoruna.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "lacronicabadajoz.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "informacion.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "farodevigo.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "emporda.info",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "elperiodicomediterraneo.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "elperiodicoextremadura.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "epe.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "elperiodicodearagon.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "eldia.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "elcorreoweb.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "diariodemallorca.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "diariodeibiza.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "diariocordoba.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "diaridegirona.cat",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "elperiodico.com",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "laprovincia.es",
+            "args": [
+                [
+                    "sub"
+                ]
+            ]
+        },
+        {
+            "pattern": "4tube.live",
+            "args": [
+                [
+                    "/createElement|addEventListener|clientHeight/"
+                ]
+            ]
+        },
+        {
+            "pattern": "nxxn.live",
+            "args": [
+                [
+                    "/createElement|addEventListener|clientHeight/"
+                ]
+            ]
+        },
+        {
+            "pattern": "redtub.live",
+            "args": [
+                [
+                    "/createElement|addEventListener|clientHeight/"
                 ]
             ]
         }
