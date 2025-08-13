@@ -1727,6 +1727,14 @@
             ]
         },
         {
+            "pattern": "thegadgetking.in",
+            "args": [
+                [
+                    "notifyExec"
+                ]
+            ]
+        },
+        {
             "pattern": "zhlednito.cz",
             "args": [
                 [
