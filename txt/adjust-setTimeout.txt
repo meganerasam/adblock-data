@@ -799,6 +799,24 @@
             ]
         },
         {
+            "pattern": "gyanitheme.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "tech.trendingword.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        },
+        {
             "pattern": "blog.potterworld.co",
             "args": [
                 [
@@ -1105,6 +1123,16 @@
                 [
                     "tick",
                     "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "foodtechnos.in",
+            "args": [
+                [
+                    "spinner",
+                    "*",
+                    "0.001"
                 ]
             ]
         },
@@ -1854,5 +1882,15 @@
             ]
         }
     ],
-    "exceptionRules": []
+    "exceptionRules": [
+        {
+            "pattern": "cloudflare.com",
+            "args": [
+                [
+                    "/.?/",
+                    "*"
+                ]
+            ]
+        }
+    ]
 }
