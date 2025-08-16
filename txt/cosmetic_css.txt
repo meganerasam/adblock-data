@@ -14460,3 +14460,4 @@ a[href^="https://z.cdn.secured-ad.com/"]
 body > a[target="_blank"][rel="noopener noreferrer"][href^="https://"][href*="/article/"][href*="/0/"]
 body > a[target="_blank"][rel="noopener noreferrer"][href^="https://"][href*="/players/"][href*="/0/"]
 a[href^="https://track.aftrk5.com/"]
+.listing-page-ad
