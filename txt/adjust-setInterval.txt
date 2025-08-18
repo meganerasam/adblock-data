@@ -1360,69 +1360,6 @@
             ]
         },
         {
-            "pattern": "gyanitheme.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "tech.trendingword.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.potterworld.co",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "hipsonyc.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "tech.pubghighdamage.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "blog.itijobalert.in",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "techkhulasha.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
-        {
             "pattern": "bookszone.in",
             "args": [
                 [
@@ -4299,15 +4236,6 @@
         }
     ],
     "exceptionRules": [
-        {
-            "pattern": "cloudflare.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        },
         {
             "pattern": "encurtador.postazap.com",
             "args": [
