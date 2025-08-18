@@ -3366,6 +3366,14 @@
             ]
         },
         {
+            "pattern": "pogdesign.co.uk",
+            "args": [
+                [
+                    "clientHeight"
+                ]
+            ]
+        },
+        {
             "pattern": "japscan.*",
             "args": [
                 [
