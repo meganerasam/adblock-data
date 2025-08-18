@@ -802,8 +802,9 @@
             "pattern": "gyanitheme.com",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -811,8 +812,9 @@
             "pattern": "tech.trendingword.com",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -820,8 +822,9 @@
             "pattern": "blog.potterworld.co",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -829,8 +832,9 @@
             "pattern": "hipsonyc.com",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -838,8 +842,9 @@
             "pattern": "tech.pubghighdamage.com",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -847,8 +852,9 @@
             "pattern": "blog.itijobalert.in",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -856,8 +862,9 @@
             "pattern": "techkhulasha.com",
             "args": [
                 [
-                    "/.?/",
-                    "*"
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
                 ]
             ]
         },
@@ -1882,15 +1889,5 @@
             ]
         }
     ],
-    "exceptionRules": [
-        {
-            "pattern": "cloudflare.com",
-            "args": [
-                [
-                    "/.?/",
-                    "*"
-                ]
-            ]
-        }
-    ]
+    "exceptionRules": []
 }
