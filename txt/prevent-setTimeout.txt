@@ -3378,6 +3378,9 @@
             "args": [
                 [
                     "=document[_0x"
+                ],
+                [
+                    "/^\\(\\)\\s*=>\\s*\\{(const|let|var)\\s*_0x|hoola|QOqP/"
                 ]
             ]
         },
@@ -5618,6 +5621,14 @@
         },
         {
             "pattern": "pornvideotop.com",
+            "args": [
+                [
+                    "location.href"
+                ]
+            ]
+        },
+        {
+            "pattern": "arolinks.com",
             "args": [
                 [
                     "location.href"
@@ -8749,6 +8760,22 @@
             "args": [
                 [
                     "isRequestPresent"
+                ]
+            ]
+        },
+        {
+            "pattern": "tpi.li",
+            "args": [
+                [
+                    "checkAdblock"
+                ]
+            ]
+        },
+        {
+            "pattern": "oii.la",
+            "args": [
+                [
+                    "checkAdblock"
                 ]
             ]
         },
@@ -12827,6 +12854,14 @@
             ]
         },
         {
+            "pattern": "herzporno.net",
+            "args": [
+                [
+                    "/loadMomoVip|loadExo|includeSpecial/"
+                ]
+            ]
+        },
+        {
             "pattern": "deinesexfilme.com",
             "args": [
                 [
@@ -14886,6 +14921,9 @@
             "args": [
                 [
                     "myTestAd"
+                ],
+                [
+                    "click"
                 ]
             ]
         },
@@ -16281,6 +16319,14 @@
             "args": [
                 [
                     "fired"
+                ]
+            ]
+        },
+        {
+            "pattern": "kio.ac",
+            "args": [
+                [
+                    "mode:\"no-cors\""
                 ]
             ]
         },
