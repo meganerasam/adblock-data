@@ -799,6 +799,16 @@
             ]
         },
         {
+            "pattern": "pubgaimassist.com",
+            "args": [
+                [
+                    "/getElementById|gotoo/",
+                    "*",
+                    "0.02"
+                ]
+            ]
+        },
+        {
             "pattern": "gyanitheme.com",
             "args": [
                 [
@@ -963,6 +973,26 @@
                     "",
                     "*",
                     "0.1"
+                ]
+            ]
+        },
+        {
+            "pattern": "comparepolicyy.com",
+            "args": [
+                [
+                    "getElementById",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "healthylifez.com",
+            "args": [
+                [
+                    "getElementById",
+                    "*",
+                    "0.001"
                 ]
             ]
         },
