@@ -14462,3 +14462,4 @@ body > a[target="_blank"][rel="noopener noreferrer"][href^="https://"][href*="/p
 a[href^="https://track.aftrk5.com/"]
 .listing-page-ad
 .ad-truvid
+a[href^="http://join.brokestraightboys.com/track/"]
