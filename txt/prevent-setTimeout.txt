@@ -15482,6 +15482,14 @@
             ]
         },
         {
+            "pattern": "poplinks.*",
+            "args": [
+                [
+                    "/AdBlock/i"
+                ]
+            ]
+        },
+        {
             "pattern": "tickzoo.tv",
             "args": [
                 [
@@ -16591,6 +16599,14 @@
             "args": [
                 [
                     "/createElement|addEventListener|clientHeight/"
+                ]
+            ]
+        },
+        {
+            "pattern": "auto-swiat.pl",
+            "args": [
+                [
+                    "consent"
                 ]
             ]
         }
