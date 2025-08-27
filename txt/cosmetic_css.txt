@@ -14463,3 +14463,4 @@ a[href^="https://track.aftrk5.com/"]
 .listing-page-ad
 .ad-truvid
 a[href^="http://join.brokestraightboys.com/track/"]
+.fco-ad
