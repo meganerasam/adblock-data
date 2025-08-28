@@ -14464,3 +14464,4 @@ a[href^="https://track.aftrk5.com/"]
 .ad-truvid
 a[href^="http://join.brokestraightboys.com/track/"]
 .fco-ad
+body[onbeforeunload="return myFunction()"]
