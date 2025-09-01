@@ -1489,14 +1489,6 @@
             ]
         },
         {
-            "pattern": "aapks.com",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
             "pattern": "codingnepalweb.com",
             "args": [
                 [
@@ -1805,11 +1797,11 @@
             ]
         },
         {
-            "pattern": "theapkfolder.com",
+            "pattern": "upapk.io",
             "args": [
                 [
-                    "countdown",
-                    "*",
+                    "tick",
+                    "1000",
                     "0.001"
                 ]
             ]
@@ -1820,16 +1812,6 @@
                 [
                     "countdown",
                     "*",
-                    "0.001"
-                ]
-            ]
-        },
-        {
-            "pattern": "upapk.io",
-            "args": [
-                [
-                    "tick",
-                    "1000",
                     "0.001"
                 ]
             ]
