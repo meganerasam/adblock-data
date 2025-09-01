@@ -408,18 +408,6 @@
             ]
         },
         {
-            "pattern": "bondibeachau.com",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "konstantinova.net",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "kangkimin.com",
             "args": [
                 []
@@ -480,12 +468,6 @@
             ]
         },
         {
-            "pattern": "mobitaak.com",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "arhplyrics.in",
             "args": [
                 []
@@ -522,25 +504,7 @@
             ]
         },
         {
-            "pattern": "yurasu.xyz",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "isekaipalace.com",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "mitedrive.com",
-            "args": [
-                []
-            ]
-        },
-        {
-            "pattern": "miteblog.com",
             "args": [
                 []
             ]
@@ -712,19 +676,6 @@
             ]
         },
         {
-            "pattern": "rezence.com",
-            "args": [
-                [
-                    "counter",
-                    "2000"
-                ],
-                [
-                    "counter",
-                    "*"
-                ]
-            ]
-        },
-        {
             "pattern": "gawbne.com",
             "args": [
                 [
@@ -772,16 +723,6 @@
             ]
         },
         {
-            "pattern": "fssquad.com",
-            "args": [
-                [
-                    "",
-                    "",
-                    "0"
-                ]
-            ]
-        },
-        {
             "pattern": "easylinkref.com",
             "args": [
                 [
@@ -803,26 +744,6 @@
         },
         {
             "pattern": "acortar.*",
-            "args": [
-                [
-                    "",
-                    "",
-                    "0"
-                ]
-            ]
-        },
-        {
-            "pattern": "megadescarga.net",
-            "args": [
-                [
-                    "",
-                    "",
-                    "0"
-                ]
-            ]
-        },
-        {
-            "pattern": "megadescargas.net",
             "args": [
                 [
                     "",
@@ -929,14 +850,6 @@
         },
         {
             "pattern": "icutlink.com",
-            "args": [
-                [
-                    "time"
-                ]
-            ]
-        },
-        {
-            "pattern": "android-apk.org",
             "args": [
                 [
                     "time"
@@ -3345,15 +3258,6 @@
             ]
         },
         {
-            "pattern": "byboe.com",
-            "args": [
-                [
-                    "counter",
-                    "*"
-                ]
-            ]
-        },
-        {
             "pattern": "cazzette.com",
             "args": [
                 [
@@ -3373,15 +3277,6 @@
         },
         {
             "pattern": "fidlarmusic.com",
-            "args": [
-                [
-                    "counter",
-                    "*"
-                ]
-            ]
-        },
-        {
-            "pattern": "hookeaudio.com",
             "args": [
                 [
                     "counter",
@@ -3471,6 +3366,15 @@
             ]
         },
         {
+            "pattern": "rezence.com",
+            "args": [
+                [
+                    "counter",
+                    "*"
+                ]
+            ]
+        },
+        {
             "pattern": "staaker.com",
             "args": [
                 [
@@ -3496,103 +3400,7 @@
             ]
         },
         {
-            "pattern": "brotherfox91.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "currentcolorq2dv.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "customsfencei3.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "fencethoughgdrt.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "fencethroughout642.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "foxwent6ot.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "havingmovementu8x.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "homebasis4d.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "includingbreath5ku.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
             "pattern": "ironwinter6m.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "leadmorning4ivn.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "linelocatemfsn.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "littlesound6c.shop",
             "args": [
                 [
                     "countDown"
@@ -3608,78 +3416,6 @@
             ]
         },
         {
-            "pattern": "mightbadly4f.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "monkeynecktj4w.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "neighbormajorkex.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "nervousdoctor9bx.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "pantogether6jpi.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "quietlywheat23.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "saddletopg3tk.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "soldrubber5xrp.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "somehowrockyng.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
             "pattern": "strangernervousql.shop",
             "args": [
                 [
@@ -3688,39 +3424,7 @@
             ]
         },
         {
-            "pattern": "superabbit.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "supportrightufd.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
             "pattern": "studyinghuman6js.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "wholecommonrrvp.shop",
-            "args": [
-                [
-                    "countDown"
-                ]
-            ]
-        },
-        {
-            "pattern": "wintertold7nq.shop",
             "args": [
                 [
                     "countDown"
@@ -4063,30 +3767,6 @@
             ]
         },
         {
-            "pattern": "pinloker.com",
-            "args": [
-                [
-                    "wait"
-                ]
-            ]
-        },
-        {
-            "pattern": "sekilastekno.com",
-            "args": [
-                [
-                    "wait"
-                ]
-            ]
-        },
-        {
-            "pattern": "web1s.asia",
-            "args": [
-                [
-                    "wait"
-                ]
-            ]
-        },
-        {
             "pattern": "fikper.com",
             "args": [
                 [
@@ -4143,16 +3823,6 @@
             ]
         },
         {
-            "pattern": "obaianinho.com",
-            "args": [
-                [
-                    "",
-                    "*",
-                    "0.001"
-                ]
-            ]
-        },
-        {
             "pattern": "00m.in",
             "args": [
                 [
@@ -4163,10 +3833,10 @@
             ]
         },
         {
-            "pattern": "punkrust.net",
+            "pattern": "web1s.asia",
             "args": [
                 [
-                    "saniye"
+                    "wait"
                 ]
             ]
         },
