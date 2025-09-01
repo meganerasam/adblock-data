@@ -144,6 +144,14 @@
             ]
         },
         {
+            "pattern": "pokeos.com",
+            "args": [
+                [
+                    "pro-modal"
+                ]
+            ]
+        },
+        {
             "pattern": "99bitcoins.com",
             "args": [
                 [
@@ -775,134 +783,6 @@
                 ],
                 [
                     "Ads"
-                ]
-            ]
-        },
-        {
-            "pattern": "handball-world.news",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "mobiflip.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "titanic-magazin.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "mimikama.org",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "langweiledich.net",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "der-postillon.com",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "perlentaucher.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "lwlies.com",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "serieslyawesome.tv",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "critic.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "mediotejo.net",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "nahrungsmittel-intoleranz.com",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "madeinbocholt.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "goodnews-magazin.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "wallauonline.de",
-            "args": [
-                [
-                    "steady-adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "cleanthinking.de",
-            "args": [
-                [
-                    "steady-adblock"
                 ]
             ]
         },
@@ -3378,9 +3258,6 @@
             "args": [
                 [
                     "=document[_0x"
-                ],
-                [
-                    "/^\\(\\)\\s*=>\\s*\\{(const|let|var)\\s*_0x|hoola|QOqP/"
                 ]
             ]
         },
@@ -3903,14 +3780,6 @@
             ]
         },
         {
-            "pattern": "tinhocdongthap.com",
-            "args": [
-                [
-                    "show"
-                ]
-            ]
-        },
-        {
             "pattern": "downloadr.in",
             "args": [
                 [
@@ -4253,14 +4122,6 @@
             ]
         },
         {
-            "pattern": "mobilkulup.com",
-            "args": [
-                [
-                    "show"
-                ]
-            ]
-        },
-        {
             "pattern": "esopress.com",
             "args": [
                 [
@@ -4397,14 +4258,6 @@
             ]
         },
         {
-            "pattern": "starleaks.org",
-            "args": [
-                [
-                    "show"
-                ]
-            ]
-        },
-        {
             "pattern": "forum-xiaomi.com",
             "args": [
                 [
@@ -4506,14 +4359,6 @@
         },
         {
             "pattern": "1stream.*",
-            "args": [
-                [
-                    "admc"
-                ]
-            ]
-        },
-        {
-            "pattern": "tutele.sx",
             "args": [
                 [
                     "admc"
@@ -5512,14 +5357,6 @@
             ]
         },
         {
-            "pattern": "faucetwork.space",
-            "args": [
-                [
-                    "_0x"
-                ]
-            ]
-        },
-        {
             "pattern": "writedroid.*",
             "args": [
                 [
@@ -5529,14 +5366,6 @@
         },
         {
             "pattern": "thenightwithoutthedawn.blogspot.com",
-            "args": [
-                [
-                    "_0x"
-                ]
-            ]
-        },
-        {
-            "pattern": "entutes.com",
             "args": [
                 [
                     "_0x"
@@ -5629,14 +5458,6 @@
         },
         {
             "pattern": "arolinks.com",
-            "args": [
-                [
-                    "location.href"
-                ]
-            ]
-        },
-        {
-            "pattern": "krotkoosporcie.pl",
             "args": [
                 [
                     "location.href"
@@ -5752,14 +5573,6 @@
         },
         {
             "pattern": "emailnator.com",
-            "args": [
-                [
-                    "adsbygoogle"
-                ]
-            ]
-        },
-        {
-            "pattern": "appnee.com",
             "args": [
                 [
                     "adsbygoogle"
@@ -6007,6 +5820,14 @@
         },
         {
             "pattern": "turboplayers.xyz",
+            "args": [
+                [
+                    "window.open"
+                ]
+            ]
+        },
+        {
+            "pattern": "turbovidhls.com",
             "args": [
                 [
                     "window.open"
@@ -6419,14 +6240,6 @@
             ]
         },
         {
-            "pattern": "certbyte.com",
-            "args": [
-                [
-                    "ai_adb"
-                ]
-            ]
-        },
-        {
             "pattern": "plugincrack.com",
             "args": [
                 [
@@ -6616,14 +6429,6 @@
             ]
         },
         {
-            "pattern": "poscitech.click",
-            "args": [
-                [
-                    "sadbl"
-                ]
-            ]
-        },
-        {
             "pattern": "wecast.to",
             "args": [
                 [
@@ -6632,23 +6437,7 @@
             ]
         },
         {
-            "pattern": "sportbar.live",
-            "args": [
-                [
-                    "sadbl"
-                ]
-            ]
-        },
-        {
             "pattern": "freecourseweb.com",
-            "args": [
-                [
-                    "brave_load_popup"
-                ]
-            ]
-        },
-        {
-            "pattern": "devcourseweb.com",
             "args": [
                 [
                     "brave_load_popup"
@@ -7221,14 +7010,6 @@
             ]
         },
         {
-            "pattern": "wolfdyslectic.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
             "pattern": "rationalityaloelike.com",
             "args": [
                 [
@@ -7254,14 +7035,6 @@
         },
         {
             "pattern": "monorhinouscassaba.com",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "35volitantplimsoles5.com",
             "args": [
                 [
                     "blocked"
@@ -7414,14 +7187,6 @@
         },
         {
             "pattern": "voe-unblock.*",
-            "args": [
-                [
-                    "blocked"
-                ]
-            ]
-        },
-        {
-            "pattern": "voeun-block.net",
             "args": [
                 [
                     "blocked"
@@ -7700,14 +7465,6 @@
         },
         {
             "pattern": "myhackingworld.com",
-            "args": [
-                [
-                    "mdp"
-                ]
-            ]
-        },
-        {
-            "pattern": "phoenixfansub.com",
             "args": [
                 [
                     "mdp"
@@ -8352,14 +8109,6 @@
         },
         {
             "pattern": "austiblox.net",
-            "args": [
-                [
-                    "location"
-                ]
-            ]
-        },
-        {
-            "pattern": "arkcod.org",
             "args": [
                 [
                     "location"
@@ -13050,6 +12799,14 @@
             ]
         },
         {
+            "pattern": "kiaclub.cz",
+            "args": [
+                [
+                    "getComputedStyle"
+                ]
+            ]
+        },
+        {
             "pattern": "khsm.io",
             "args": [
                 [
@@ -13742,6 +13499,14 @@
             ]
         },
         {
+            "pattern": "auto-swiat.pl",
+            "args": [
+                [
+                    "consent"
+                ]
+            ]
+        },
+        {
             "pattern": "download.kingtecnologia.com",
             "args": [
                 [
@@ -13782,31 +13547,7 @@
             ]
         },
         {
-            "pattern": "abandonmail.com",
-            "args": [
-                [
-                    "offsetHeight"
-                ]
-            ]
-        },
-        {
-            "pattern": "flmods.com",
-            "args": [
-                [
-                    "offsetHeight"
-                ]
-            ]
-        },
-        {
             "pattern": "zilinak.sk",
-            "args": [
-                [
-                    "offsetHeight"
-                ]
-            ]
-        },
-        {
-            "pattern": "hotdesimms.com",
             "args": [
                 [
                     "offsetHeight"
@@ -13987,14 +13728,6 @@
             "args": [
                 [
                     "check"
-                ]
-            ]
-        },
-        {
-            "pattern": "sexcamfreeporn.com",
-            "args": [
-                [
-                    "Adblocker"
                 ]
             ]
         },
@@ -14285,15 +14018,6 @@
                 [
                     "/null|Error/",
                     "10000"
-                ]
-            ]
-        },
-        {
-            "pattern": "21porno.com",
-            "args": [
-                [
-                    "window.location.href",
-                    "50"
                 ]
             ]
         },
@@ -14625,14 +14349,6 @@
             "args": [
                 [
                     "enforceAdStatus"
-                ]
-            ]
-        },
-        {
-            "pattern": "111.90.159.132",
-            "args": [
-                [
-                    "mfp"
                 ]
             ]
         },
@@ -15754,14 +15470,6 @@
             ]
         },
         {
-            "pattern": "4kwebplay.xyz",
-            "args": [
-                [
-                    "stackTrace"
-                ]
-            ]
-        },
-        {
             "pattern": "qqwebplay.xyz",
             "args": [
                 [
@@ -15849,14 +15557,6 @@
             "args": [
                 [
                     "document.createElement"
-                ]
-            ]
-        },
-        {
-            "pattern": "player.jeansaispasplus.homes",
-            "args": [
-                [
-                    "sandbox"
                 ]
             ]
         },
@@ -16342,7 +16042,7 @@
             "pattern": "friv.com",
             "args": [
                 [
-                    "determineVisibility"
+                    "Visibility"
                 ]
             ]
         },
@@ -16599,14 +16299,6 @@
             "args": [
                 [
                     "/createElement|addEventListener|clientHeight/"
-                ]
-            ]
-        },
-        {
-            "pattern": "auto-swiat.pl",
-            "args": [
-                [
-                    "consent"
                 ]
             ]
         }
