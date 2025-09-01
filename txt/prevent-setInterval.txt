@@ -776,15 +776,6 @@
             ]
         },
         {
-            "pattern": "hightqualityshop.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "rahim-soft.com",
             "args": [
                 [
@@ -795,15 +786,6 @@
         },
         {
             "pattern": "dayoftheweek.org",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "text2voice.org",
             "args": [
                 [
                     "visibility",
@@ -830,34 +812,7 @@
             ]
         },
         {
-            "pattern": "byboe.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "cazzette.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "dataf.pro",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "hookeaudio.com",
             "args": [
                 [
                     "visibility",
@@ -903,15 +858,6 @@
         },
         {
             "pattern": "lucidcam.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "marharo.com",
             "args": [
                 [
                     "visibility",
@@ -1217,15 +1163,6 @@
             ]
         },
         {
-            "pattern": "midiextreme.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "newsiqra.com",
             "args": [
                 [
@@ -1307,15 +1244,6 @@
             ]
         },
         {
-            "pattern": "adobezii.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "8tm.net",
             "args": [
                 [
@@ -1370,15 +1298,6 @@
             ]
         },
         {
-            "pattern": "devcourseweb.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "anime-saikou.com",
             "args": [
                 [
@@ -1424,25 +1343,7 @@
             ]
         },
         {
-            "pattern": "cryptslice.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "omgexploits.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
-            "pattern": "nusantaraproject.my.id",
             "args": [
                 [
                     "visibility",
@@ -2177,14 +2078,6 @@
             ]
         },
         {
-            "pattern": "canale.live",
-            "args": [
-                [
-                    "href"
-                ]
-            ]
-        },
-        {
             "pattern": "molotov.tv",
             "args": [
                 [
@@ -2213,14 +2106,6 @@
             "args": [
                 [
                     "onerror"
-                ]
-            ]
-        },
-        {
-            "pattern": "chat.nrj.fr",
-            "args": [
-                [
-                    "location"
                 ]
             ]
         },
