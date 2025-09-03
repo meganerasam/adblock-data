@@ -14465,3 +14465,5 @@ a[href^="https://track.aftrk5.com/"]
 a[href^="http://join.brokestraightboys.com/track/"]
 .fco-ad
 body[onbeforeunload="return myFunction()"]
+.htlad-GL_Adhesion
+.js-seznam-sidebar-ad
