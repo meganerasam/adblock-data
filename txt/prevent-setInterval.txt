@@ -713,15 +713,6 @@
             ]
         },
         {
-            "pattern": "www.portable4pc.com",
-            "args": [
-                [
-                    "visibility",
-                    "1000"
-                ]
-            ]
-        },
-        {
             "pattern": "localizaagencia.com",
             "args": [
                 [
