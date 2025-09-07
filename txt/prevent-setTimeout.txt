@@ -80,6 +80,14 @@
             ]
         },
         {
+            "pattern": "sflix.fi",
+            "args": [
+                [
+                    "||!!"
+                ]
+            ]
+        },
+        {
             "pattern": "yflix.to",
             "args": [
                 [
@@ -3258,6 +3266,13 @@
             "args": [
                 [
                     "=document[_0x"
+                ],
+                [
+                    "/&&\\s*[A-Z]{4}\\(\\)/"
+                ],
+                [
+                    "/\\(\\s*[$0-9A-Z_a-z]*\\)\\s*=>/",
+                    "1000"
                 ]
             ]
         },
@@ -13579,14 +13594,6 @@
             ]
         },
         {
-            "pattern": "expresskaszubski.pl",
-            "args": [
-                [
-                    "offsetHeight"
-                ]
-            ]
-        },
-        {
             "pattern": "moegirl.org.cn",
             "args": [
                 [
@@ -16299,6 +16306,14 @@
             "args": [
                 [
                     "/createElement|addEventListener|clientHeight/"
+                ]
+            ]
+        },
+        {
+            "pattern": "olympustaff.com",
+            "args": [
+                [
+                    "testAd"
                 ]
             ]
         }
