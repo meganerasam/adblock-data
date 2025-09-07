@@ -9,86 +9,6 @@
             ]
         },
         {
-            "pattern": "animekai.*",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "yflix.to",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vidsrc.*",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "embed.su",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "bembed.net",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "embedv.net",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "listeamed.net",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "v6embed.xyz",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vembed.*",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
-            "pattern": "vid-guard.com",
-            "args": [
-                [
-                    "devtool"
-                ]
-            ]
-        },
-        {
             "pattern": "smashboards.com",
             "args": [
                 [
@@ -401,6 +321,70 @@
             "args": [
                 [
                     "DevToolsOpen"
+                ]
+            ]
+        },
+        {
+            "pattern": "vidsrc.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "embed.su",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "bembed.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "embedv.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "listeamed.net",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "v6embed.xyz",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vembed.*",
+            "args": [
+                [
+                    "devtool"
+                ]
+            ]
+        },
+        {
+            "pattern": "vid-guard.com",
+            "args": [
+                [
+                    "devtool"
                 ]
             ]
         },
@@ -2074,6 +2058,22 @@
             "args": [
                 [
                     "Click"
+                ]
+            ]
+        },
+        {
+            "pattern": "expresskaszubski.pl",
+            "args": [
+                [
+                    "childNodes"
+                ]
+            ]
+        },
+        {
+            "pattern": "gniewkowo.eu",
+            "args": [
+                [
+                    "childNodes"
                 ]
             ]
         },
