@@ -14467,3 +14467,5 @@ a[href^="http://join.brokestraightboys.com/track/"]
 body[onbeforeunload="return myFunction()"]
 .htlad-GL_Adhesion
 .js-seznam-sidebar-ad
+.cmp-advertisement
+.cmp-mobile-advertisement
