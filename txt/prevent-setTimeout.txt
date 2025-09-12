@@ -3268,10 +3268,10 @@
                     "=document[_0x"
                 ],
                 [
-                    "/&&\\s*[A-Z]{4}\\(\\)/"
+                    "/&&\\s*[A-Z]{4,}\\(\\)/"
                 ],
                 [
-                    "/\\(\\s*[$0-9A-Z_a-z]*\\)\\s*=>/",
+                    "/\\(\\s*[\\s$0-9A-Z_a-z]*\\)\\s*=>|^\\s*function\\s*\\(\\s*[\\s$0-9A-Z_a-z]*\\)\\s*\\{.{10,100}/",
                     "1000"
                 ]
             ]
@@ -12854,6 +12854,14 @@
             ]
         },
         {
+            "pattern": "animeshqip.org",
+            "args": [
+                [
+                    "getComputedStyle"
+                ]
+            ]
+        },
+        {
             "pattern": "weknowconquer.com",
             "args": [
                 [
@@ -15047,15 +15055,6 @@
             ]
         },
         {
-            "pattern": "rekidai-info.github.io",
-            "args": [
-                [
-                    "/aframe|querySelector/",
-                    "1000-"
-                ]
-            ]
-        },
-        {
             "pattern": "jeniusplay.com",
             "args": [
                 [
@@ -15328,8 +15327,8 @@
             "pattern": "work.ink",
             "args": [
                 [
-                    "Ad",
-                    "5000"
+                    "",
+                    "2000-5000"
                 ]
             ]
         },
