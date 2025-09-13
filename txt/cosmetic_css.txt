@@ -14470,3 +14470,5 @@ body[onbeforeunload="return myFunction()"]
 .cmp-advertisement
 .cmp-mobile-advertisement
 #taboola-below-article-thumbnails-new
+.stoybday-ad
+.tw-adv-slot
