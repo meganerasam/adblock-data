@@ -14472,3 +14472,5 @@ body[onbeforeunload="return myFunction()"]
 #taboola-below-article-thumbnails-new
 .stoybday-ad
 .tw-adv-slot
+.ad_box:not(.text-ad)
+iframe[src^="https://creative."][src*="/widgets/v4/Universal?"]
