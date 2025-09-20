@@ -14474,3 +14474,5 @@ body[onbeforeunload="return myFunction()"]
 .tw-adv-slot
 .ad_box:not(.text-ad)
 iframe[src^="https://creative."][src*="/widgets/v4/Universal?"]
+canvas[id^="img_"][height="600"]
+meta + script + div[id^="img_"] + div[id^="img_"]
