@@ -525,12 +525,6 @@
             ]
         },
         {
-            "pattern": "katfile.com",
-            "args": [
-                []
-            ]
-        },
-        {
             "pattern": "1fichier.com",
             "args": [
                 [
@@ -624,6 +618,14 @@
         },
         {
             "pattern": "files.im",
+            "args": [
+                [
+                    "tick"
+                ]
+            ]
+        },
+        {
+            "pattern": "katfile.*",
             "args": [
                 [
                     "tick"
