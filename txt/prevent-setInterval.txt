@@ -1900,14 +1900,6 @@
             ]
         },
         {
-            "pattern": "beverfood.com",
-            "args": [
-                [
-                    "adblock"
-                ]
-            ]
-        },
-        {
             "pattern": "gamezop.com",
             "args": [
                 [
@@ -1920,6 +1912,14 @@
             "args": [
                 [
                     "debugger"
+                ]
+            ]
+        },
+        {
+            "pattern": "beverfood.com",
+            "args": [
+                [
+                    ".offsetHeight"
                 ]
             ]
         },
