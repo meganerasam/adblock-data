@@ -3271,7 +3271,7 @@
                     "/&&\\s*[A-Z]{4,}\\(\\)/"
                 ],
                 [
-                    "/\\(\\s*[\\s$0-9A-Z_a-z]*\\)\\s*=>|^\\s*function\\s*\\(\\s*[\\s$0-9A-Z_a-z]*\\)\\s*\\{.{10,100}/",
+                    "/\\(\\s*[\\s$0-9A-Z_a-z]*\\)\\s*=>|^\\s*function\\s*\\(\\s*[\\s$0-9A-Z_a-z]*\\)\\s*\\{.{35,100}/",
                     "1000"
                 ]
             ]
@@ -4710,15 +4710,6 @@
                 [
                     "addEventListener",
                     "0"
-                ]
-            ]
-        },
-        {
-            "pattern": "op.gg",
-            "args": [
-                [
-                    "adblock",
-                    "2000"
                 ]
             ]
         },
@@ -6329,6 +6320,14 @@
         },
         {
             "pattern": "whatfontis.com",
+            "args": [
+                [
+                    "/adblock/i"
+                ]
+            ]
+        },
+        {
+            "pattern": "katfile.*",
             "args": [
                 [
                     "/adblock/i"
@@ -13562,6 +13561,14 @@
             ]
         },
         {
+            "pattern": "embedtv.net",
+            "args": [
+                [
+                    "closeBanner"
+                ]
+            ]
+        },
+        {
             "pattern": "forumdz.com",
             "args": [
                 [
@@ -15724,6 +15731,15 @@
                 [
                     "test.remove",
                     "100"
+                ]
+            ]
+        },
+        {
+            "pattern": "op.gg",
+            "args": [
+                [
+                    "adblock",
+                    "2000"
                 ]
             ]
         },
