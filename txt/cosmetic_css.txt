@@ -14477,3 +14477,10 @@ iframe[src^="https://creative."][src*="/widgets/v4/Universal?"]
 canvas[id^="img_"][height="600"]
 meta + script + div[id^="img_"] + div[id^="img_"]
 article > center.adcen
+#outstream_connatix_container
+#js-Sponsored-Container
+.DisplayAd_PremiumPlacement__gAXXB
+.index-module_adAfterContent__RcW1
+.style_medTopAdsWrapper__rd6bz
+.teaserList-module_nativeAdWrapper__uBhF
+#taboolaContainerWrapper_0
