@@ -14484,3 +14484,4 @@ article > center.adcen
 .style_medTopAdsWrapper__rd6bz
 .teaserList-module_nativeAdWrapper__uBhF
 #taboolaContainerWrapper_0
+a[href^="https://wmctjd.com/"]
