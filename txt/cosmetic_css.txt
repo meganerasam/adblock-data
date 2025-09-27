@@ -14485,3 +14485,4 @@ article > center.adcen
 .teaserList-module_nativeAdWrapper__uBhF
 #taboolaContainerWrapper_0
 a[href^="https://wmctjd.com/"]
+a[href^="//hoodingluster.com/"]
