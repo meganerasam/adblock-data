@@ -160,6 +160,14 @@
             ]
         },
         {
+            "pattern": "flagle.io",
+            "args": [
+                [
+                    "googlesyndication"
+                ]
+            ]
+        },
+        {
             "pattern": "99bitcoins.com",
             "args": [
                 [
@@ -3468,10 +3476,7 @@
             "pattern": "client.falixnodes.net",
             "args": [
                 [
-                    "/mylovelyobj|amzn_aps_csm|\\'\\/hello\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
-                ],
-                [
-                    "/location.href|location = atob/"
+                    "/constructor\\.prototype|amzn_aps_csm|\\'\\/hithere\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
                 ]
             ]
         },
@@ -5579,6 +5584,14 @@
         },
         {
             "pattern": "emailnator.com",
+            "args": [
+                [
+                    "adsbygoogle"
+                ]
+            ]
+        },
+        {
+            "pattern": "claudelog.com",
             "args": [
                 [
                     "adsbygoogle"
@@ -13521,6 +13534,663 @@
             ]
         },
         {
+            "pattern": "12thmanrising.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "aroundthefoghorn.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "arrowheadaddict.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "badgerofhonor.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "bamahammer.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "beargoggleson.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "beyondtheflag.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "blackandteal.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "blogredmachine.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "bluemanhoop.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "boltbeat.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "bosoxinjection.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "buffalowdown.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "caneswarning.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "catcrave.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "chopchat.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "climbingtalshill.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "cubbiescrib.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "dailyknicks.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "dairylandexpress.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "dawindycity.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "dawnofthedawg.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "detroitjockcity.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "dodgersway.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "ebonybird.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "fansided.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "gbmwolverine.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "gmenhq.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "hailfloridahail.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "hardwoodhoudini.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "horseshoeheroes.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "housethathankbuilt.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "huskercorner.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "insidetheiggles.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "jaysjournal.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "justblogbaby.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "kckingdom.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "kingjamesgospel.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "lakeshowlife.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "lombardiave.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "motorcitybengals.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "musketfire.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "nflspinzone.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "ninernoise.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "nugglove.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "phinphanatic.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "pistonpowered.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "predominantlyorange.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "ramblinfan.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "redbirdrants.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "reviewingthebrew.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "riggosrag.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "ripcityproject.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "risingapple.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "rumbunter.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "scarletandgame.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "section215.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "sidelionreport.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "slapthesign.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "sodomojo.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "stillcurtain.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "stormininnorman.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "stripehype.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thatballsouttahere.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thejetpress.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thelandryhat.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thepewterplank.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thesmokingcuban.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thevikingage.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "thunderousintentions.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "valleyofthesuns.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "whodatdish.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
+            "pattern": "yanksgoyard.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
             "pattern": "auto-swiat.pl",
             "args": [
                 [
@@ -13565,6 +14235,14 @@
             "args": [
                 [
                     "closeBanner"
+                ]
+            ]
+        },
+        {
+            "pattern": "tinhte.vn",
+            "args": [
+                [
+                    ".getComputedStyle"
                 ]
             ]
         },
