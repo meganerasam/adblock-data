@@ -405,10 +405,18 @@
             ]
         },
         {
+            "pattern": "cdn.gledaitv.*",
+            "args": [
+                [
+                    "await"
+                ]
+            ]
+        },
+        {
             "pattern": "client.falixnodes.net",
             "args": [
                 [
-                    "/mylovelyobj|amzn_aps_csm|\\'\\/hello\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
+                    "/constructor\\.prototype|amzn_aps_csm|\\'\\/hithere\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
                 ]
             ]
         },
