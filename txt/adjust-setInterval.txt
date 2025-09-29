@@ -2433,6 +2433,16 @@
             ]
         },
         {
+            "pattern": "games.arkadium.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
             "pattern": "games.amny.com",
             "args": [
                 [
