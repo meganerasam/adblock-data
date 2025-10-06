@@ -14486,3 +14486,4 @@ article > center.adcen
 #taboolaContainerWrapper_0
 a[href^="https://wmctjd.com/"]
 a[href^="//hoodingluster.com/"]
+div[id^="apn_native_ad_slot_"]
