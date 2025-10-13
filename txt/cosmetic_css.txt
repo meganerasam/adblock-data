@@ -14488,3 +14488,5 @@ a[href^="https://wmctjd.com/"]
 a[href^="//hoodingluster.com/"]
 div[id^="apn_native_ad_slot_"]
 body > a[target="_blank"][rel="noopener noreferrer"][href^="https://"][href*="/player"][href*="/0/"]
+.wordads-ad-wrapper
+[href^="https://rpwmct.com/"]
