@@ -2423,6 +2423,16 @@
             ]
         },
         {
+            "pattern": "gameplayneo.com",
+            "args": [
+                [
+                    "generalTimeLeft",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
             "pattern": "games.abqjournal.com",
             "args": [
                 [
