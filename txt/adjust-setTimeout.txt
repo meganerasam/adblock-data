@@ -593,22 +593,6 @@
             ]
         },
         {
-            "pattern": "mixdrop.*",
-            "args": [
-                [
-                    "disabled"
-                ]
-            ]
-        },
-        {
-            "pattern": "mixdrp.*",
-            "args": [
-                [
-                    "disabled"
-                ]
-            ]
-        },
-        {
             "pattern": "zeefiles.*",
             "args": [
                 [
@@ -1170,6 +1154,16 @@
             "args": [
                 [
                     "spinner",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "md3b0j6hj.com",
+            "args": [
+                [
+                    "Please wait",
                     "*",
                     "0.001"
                 ]
