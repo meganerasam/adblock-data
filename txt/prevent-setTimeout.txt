@@ -64,6 +64,14 @@
             ]
         },
         {
+            "pattern": "anikai.to",
+            "args": [
+                [
+                    "||!!"
+                ]
+            ]
+        },
+        {
             "pattern": "animekai.*",
             "args": [
                 [
@@ -3476,7 +3484,11 @@
             "pattern": "client.falixnodes.net",
             "args": [
                 [
-                    "/constructor\\.prototype|amzn_aps_csm|\\'\\/hithere\\'|YW16bl9hcHNfY3Nt|cmVwb3J0RXJyb3Jz|L3ZlcnktcGxlYXNl|getAdnginName|hasOwnProperty|location/"
+                    "/constructor\\.prototype|Object\\.getPrototypeOf|amzn_aps_csm|\\'\\/neptune\\'|yehauser|adngin.|hasOwnProperty|location|substring\\(7/"
+                ],
+                [
+                    "document.body",
+                    "5000"
                 ]
             ]
         },
@@ -13576,6 +13588,15 @@
             ]
         },
         {
+            "pattern": "razzball.com",
+            "args": [
+                [
+                    "[native code]",
+                    "500"
+                ]
+            ]
+        },
+        {
             "pattern": "12thmanrising.com",
             "args": [
                 [
@@ -14289,6 +14310,14 @@
             ]
         },
         {
+            "pattern": "app.simracing.gp",
+            "args": [
+                [
+                    ".getComputedStyle"
+                ]
+            ]
+        },
+        {
             "pattern": "forumdz.com",
             "args": [
                 [
@@ -14659,6 +14688,14 @@
         },
         {
             "pattern": "livingincebuforums.com",
+            "args": [
+                [
+                    ".offsetHeight"
+                ]
+            ]
+        },
+        {
+            "pattern": "tv247us.live",
             "args": [
                 [
                     ".offsetHeight"
@@ -16479,7 +16516,7 @@
                     "10000-15000"
                 ],
                 [
-                    "adex"
+                    "/adex|loadAds|adCollapsedCount|ad-?block/i"
                 ]
             ]
         },
@@ -17057,6 +17094,14 @@
             "args": [
                 [
                     "testAd"
+                ]
+            ]
+        },
+        {
+            "pattern": "imleagues.com",
+            "args": [
+                [
+                    ".redirected"
                 ]
             ]
         }
