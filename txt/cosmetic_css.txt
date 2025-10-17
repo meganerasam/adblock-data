@@ -14491,3 +14491,4 @@ body > a[target="_blank"][rel="noopener noreferrer"][href^="https://"][href*="/p
 .wordads-ad-wrapper
 [href^="https://rpwmct.com/"]
 a[href^="http://sneakyadministration.com/"]
+.zaf-adhesion-container
