@@ -14492,3 +14492,5 @@ body > a[target="_blank"][rel="noopener noreferrer"][href^="https://"][href*="/p
 [href^="https://rpwmct.com/"]
 a[href^="http://sneakyadministration.com/"]
 .zaf-adhesion-container
+.ad-250.gnad
+[href^="https://groorsoa.net/"]
