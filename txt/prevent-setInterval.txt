@@ -413,14 +413,6 @@
             ]
         },
         {
-            "pattern": "client.falixnodes.net",
-            "args": [
-                [
-                    "/constructor\\.prototype|Object\\.getPrototypeOf|amzn_aps_csm|\\'\\/neptune\\'|yehauser|adngin.|hasOwnProperty|location|substring\\(7/"
-                ]
-            ]
-        },
-        {
             "pattern": "businessinsider.com",
             "args": [
                 [
