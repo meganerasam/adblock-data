@@ -3481,18 +3481,6 @@
             ]
         },
         {
-            "pattern": "client.falixnodes.net",
-            "args": [
-                [
-                    "/constructor\\.prototype|Object\\.getPrototypeOf|amzn_aps_csm|\\'\\/neptune\\'|yehauser|adngin.|hasOwnProperty|location|substring\\(7/"
-                ],
-                [
-                    "document.body",
-                    "5000"
-                ]
-            ]
-        },
-        {
             "pattern": "lastampa.it",
             "args": [
                 [
@@ -4294,82 +4282,6 @@
             "args": [
                 [
                     "show"
-                ]
-            ]
-        },
-        {
-            "pattern": "wcoanimedub.tv",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "wcoforever.net",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "openspeedtest.com",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "addtobucketlist.com",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "3dzip.org",
-            "args": [
-                [
-                    "google_jobrunner"
-                ],
-                [
-                    "null",
-                    "4000"
-                ]
-            ]
-        },
-        {
-            "pattern": "ilmeteo.it",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "wcoforever.com",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "comprovendolibri.it",
-            "args": [
-                [
-                    "google_jobrunner"
-                ]
-            ]
-        },
-        {
-            "pattern": "healthelia.com",
-            "args": [
-                [
-                    "google_jobrunner"
                 ]
             ]
         },
@@ -5700,6 +5612,82 @@
                 [
                     "#rbm_block_active",
                     "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "openspeedtest.com",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "addtobucketlist.com",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "3dzip.org",
+            "args": [
+                [
+                    "google_jobrunner"
+                ],
+                [
+                    "null",
+                    "4000"
+                ]
+            ]
+        },
+        {
+            "pattern": "ilmeteo.it",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "wcoforever.com",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "comprovendolibri.it",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "healthelia.com",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "wcoanimedub.tv",
+            "args": [
+                [
+                    "google_jobrunner"
+                ]
+            ]
+        },
+        {
+            "pattern": "wcoforever.net",
+            "args": [
+                [
+                    "google_jobrunner"
                 ]
             ]
         },
@@ -16363,6 +16351,14 @@
             ]
         },
         {
+            "pattern": "historicaerials.com",
+            "args": [
+                [
+                    "/Executed|modal/"
+                ]
+            ]
+        },
+        {
             "pattern": "iqksisgw.xyz",
             "args": [
                 [
@@ -16851,6 +16847,14 @@
         },
         {
             "pattern": "nepalieducate.com",
+            "args": [
+                [
+                    "googlesyndication"
+                ]
+            ]
+        },
+        {
+            "pattern": "tsz.com.np",
             "args": [
                 [
                     "googlesyndication"
