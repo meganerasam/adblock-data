@@ -14494,3 +14494,4 @@ a[href^="http://sneakyadministration.com/"]
 .zaf-adhesion-container
 .ad-250.gnad
 [href^="https://groorsoa.net/"]
+#ads_top:not(a)
