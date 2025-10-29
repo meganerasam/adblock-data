@@ -413,6 +413,14 @@
             ]
         },
         {
+            "pattern": "th.gl",
+            "args": [
+                [
+                    "error"
+                ]
+            ]
+        },
+        {
             "pattern": "businessinsider.com",
             "args": [
                 [
