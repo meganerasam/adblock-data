@@ -3327,6 +3327,19 @@
             ]
         },
         {
+            "pattern": "welt.de",
+            "args": [
+                [
+                    ")](this,...",
+                    "3000-6000"
+                ],
+                [
+                    ".call(null)",
+                    "10"
+                ]
+            ]
+        },
+        {
             "pattern": "faqwiki.us",
             "args": [
                 [
@@ -4354,6 +4367,15 @@
         },
         {
             "pattern": "urlcero.*",
+            "args": [
+                [
+                    "checkAdblockUser",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "elamigosgamez.com",
             "args": [
                 [
                     "checkAdblockUser",
@@ -12313,15 +12335,6 @@
             ]
         },
         {
-            "pattern": "welt.de",
-            "args": [
-                [
-                    ".call(null)",
-                    "10"
-                ]
-            ]
-        },
-        {
             "pattern": "weltfussball.at",
             "args": [
                 [
@@ -14403,6 +14416,15 @@
             ]
         },
         {
+            "pattern": "uploadhub.*",
+            "args": [
+                [
+                    "location.href",
+                    "1000"
+                ]
+            ]
+        },
+        {
             "pattern": "pentruea.com",
             "args": [
                 [
@@ -15519,6 +15541,14 @@
                 [
                     "/appendChild|e\\(\"/"
                 ],
+                [
+                    "=>"
+                ]
+            ]
+        },
+        {
+            "pattern": "snopes.com",
+            "args": [
                 [
                     "=>"
                 ]
@@ -17107,6 +17137,14 @@
             "args": [
                 [
                     "TNCMS.DMP"
+                ]
+            ]
+        },
+        {
+            "pattern": "atalantini.online",
+            "args": [
+                [
+                    "doubleclick"
                 ]
             ]
         },
