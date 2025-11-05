@@ -416,7 +416,7 @@
             "pattern": "th.gl",
             "args": [
                 [
-                    "error"
+                    "/1===|\\?void/"
                 ]
             ]
         },
@@ -1469,14 +1469,6 @@
         },
         {
             "pattern": "tubepornclassic.com",
-            "args": [
-                [
-                    "document.readyState"
-                ]
-            ]
-        },
-        {
-            "pattern": "shemalez.com",
             "args": [
                 [
                     "document.readyState"
