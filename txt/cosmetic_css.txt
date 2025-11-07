@@ -14495,3 +14495,5 @@ a[href^="http://sneakyadministration.com/"]
 .ad-250.gnad
 [href^="https://groorsoa.net/"]
 #ads_top:not(a)
+.mai-ad-unit-container
+.mai-ad-video
