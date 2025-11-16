@@ -14497,3 +14497,4 @@ a[href^="http://sneakyadministration.com/"]
 #ads_top:not(a)
 .mai-ad-unit-container
 .mai-ad-video
+.adLayer
