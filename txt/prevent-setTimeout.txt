@@ -3479,14 +3479,18 @@
             ]
         },
         {
+            "pattern": "fit4art.com",
+            "args": [
+                [
+                    "adblock"
+                ]
+            ]
+        },
+        {
             "pattern": "th.gl",
             "args": [
                 [
                     "/\\+\\+|setTimeout|\\.close\\(\\)|Loading|&&delete/"
-                ],
-                [
-                    "native code",
-                    "10-1000"
                 ]
             ]
         },
@@ -14487,14 +14491,6 @@
         },
         {
             "pattern": "tecnobillo.com",
-            "args": [
-                [
-                    "check"
-                ]
-            ]
-        },
-        {
-            "pattern": "pokemon-project.com",
             "args": [
                 [
                     "check"
