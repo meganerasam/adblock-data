@@ -1,6 +1,26 @@
 {
     "hostRules": [
         {
+            "pattern": "duneawakening.th.gl",
+            "args": [
+                [
+                    "t-1",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
+            "pattern": "paxdei.th.gl",
+            "args": [
+                [
+                    "t-1",
+                    "1000",
+                    "0.001"
+                ]
+            ]
+        },
+        {
             "pattern": "appimagehub.com",
             "args": [
                 [
@@ -1559,6 +1579,15 @@
             "args": [
                 [
                     "() => n(t)",
+                    "*"
+                ]
+            ]
+        },
+        {
+            "pattern": "mediatn.cms.nova.cz",
+            "args": [
+                [
+                    "() => t()",
                     "*"
                 ]
             ]
