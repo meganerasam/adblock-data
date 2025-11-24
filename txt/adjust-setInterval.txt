@@ -1632,6 +1632,16 @@
             ]
         },
         {
+            "pattern": "vpshostplans.com",
+            "args": [
+                [
+                    "/countdown--|getElementById/",
+                    "*",
+                    "0.001"
+                ]
+            ]
+        },
+        {
             "pattern": "travel.vebma.com",
             "args": [
                 [
