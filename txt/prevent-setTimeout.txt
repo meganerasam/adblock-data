@@ -176,6 +176,33 @@
             ]
         },
         {
+            "pattern": "duneawakening.th.gl",
+            "args": [
+                [
+                    ".getState();",
+                    "4500"
+                ]
+            ]
+        },
+        {
+            "pattern": "paxdei.th.gl",
+            "args": [
+                [
+                    ".getState();",
+                    "4500"
+                ]
+            ]
+        },
+        {
+            "pattern": "starresonance.th.gl",
+            "args": [
+                [
+                    ".getState();",
+                    "4500"
+                ]
+            ]
+        },
+        {
             "pattern": "99bitcoins.com",
             "args": [
                 [
@@ -3483,14 +3510,6 @@
             "args": [
                 [
                     "adblock"
-                ]
-            ]
-        },
-        {
-            "pattern": "th.gl",
-            "args": [
-                [
-                    "/\\+\\+|setTimeout|\\.close\\(\\)|Loading|&&delete/"
                 ]
             ]
         },
@@ -14376,6 +14395,14 @@
             ]
         },
         {
+            "pattern": "solewe.com",
+            "args": [
+                [
+                    "offsetHeight"
+                ]
+            ]
+        },
+        {
             "pattern": "worthcrete.com",
             "args": [
                 [
@@ -17153,15 +17180,6 @@
             "args": [
                 [
                     "document.body.style.overflow"
-                ]
-            ]
-        },
-        {
-            "pattern": "dataunlocker.com",
-            "args": [
-                [
-                    "[native code]",
-                    "120000"
                 ]
             ]
         }
