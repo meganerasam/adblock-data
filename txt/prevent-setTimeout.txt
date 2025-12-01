@@ -5382,6 +5382,14 @@
             ]
         },
         {
+            "pattern": "indexsubtitle.cc",
+            "args": [
+                [
+                    "_0x"
+                ]
+            ]
+        },
+        {
             "pattern": "chicoer.com",
             "args": [
                 [
@@ -17180,6 +17188,23 @@
             "args": [
                 [
                     "document.body.style.overflow"
+                ]
+            ]
+        },
+        {
+            "pattern": "huoqwk.com",
+            "args": [
+                [
+                    "touchstart",
+                    "1000"
+                ]
+            ]
+        },
+        {
+            "pattern": "superfastrelease.xyz",
+            "args": [
+                [
+                    "Function"
                 ]
             ]
         }
