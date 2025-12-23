@@ -14509,3 +14509,5 @@ a[href^="http://sneakyadministration.com/"]
 .StoryPage_storyTopAdContainer__6udZ0
 .TaboolaMoreToExplore_taboolaContainerWrapper__Ccf_j
 .TopBannerstyled__Wrapper-sc-x2ypns-0
+#\31-rightrail_pos4_ddb_0
+#premium_mid_ddb_0
