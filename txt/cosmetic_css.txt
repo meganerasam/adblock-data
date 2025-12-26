@@ -14511,3 +14511,4 @@ a[href^="http://sneakyadministration.com/"]
 .TopBannerstyled__Wrapper-sc-x2ypns-0
 #\31-rightrail_pos4_ddb_0
 #premium_mid_ddb_0
+div[class^="TaboolaHomepageFeed_taboolaWrapper"]
