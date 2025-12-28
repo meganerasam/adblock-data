@@ -14512,3 +14512,16 @@ a[href^="http://sneakyadministration.com/"]
 #\31-rightrail_pos4_ddb_0
 #premium_mid_ddb_0
 div[class^="TaboolaHomepageFeed_taboolaWrapper"]
+#billboard-container.bg-gray-100.py-3
+#main-side-container.bg-gray-100.space-y-2
+#mrec-297631-container
+#mrec-leaderboard-298545-container
+#newswell-leaderboard-container
+#newswell-side-1-container
+#newswell-side-2-container
+#story-side-1-container.min-w-mrec
+#story-side-2-container.min-w-mrec
+#story3-container.py-2.bg-gray-100
+#story4-container.py-2.bg-gray-100
+#story5-container.py-2.bg-gray-100
+div[id^="mrec-leaderboard-"]
