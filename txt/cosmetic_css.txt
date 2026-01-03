@@ -14525,3 +14525,8 @@ div[class^="TaboolaHomepageFeed_taboolaWrapper"]
 #story4-container.py-2.bg-gray-100
 #story5-container.py-2.bg-gray-100
 div[id^="mrec-leaderboard-"]
+div[class^="img_"] > div[id^="img_"][align="center"][style="text-align:center"]
+div[class^="img_"] > div[id^="img_"][class^="img_"][style="height: auto;"]
+div[class^="img_"][style="margin-bottom:20px;"]
+div[id^="img_"][style*="height:   250px;overflow:hidden"]
+head:has(> meta[name="as-tester-handler-added"]) + body > a[target="_blank"][rel="noopener noreferrer"][href*=".html-load.com/"]
