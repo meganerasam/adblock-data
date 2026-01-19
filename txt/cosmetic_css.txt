@@ -14534,3 +14534,4 @@ div[id^="img_"][style$="display: block;"]
 div[data-target="ad"]
 #delulu-overlay
 [href^="https://a.acebet.com/api/click?"]
+.ad-lead-magnet
