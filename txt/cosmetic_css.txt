@@ -14535,3 +14535,4 @@ div[data-target="ad"]
 #delulu-overlay
 [href^="https://a.acebet.com/api/click?"]
 .ad-lead-magnet
+.ad-zone:not(.textads):not(.adsbygoogle)
