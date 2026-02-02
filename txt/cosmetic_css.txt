@@ -14538,3 +14538,4 @@ div[data-target="ad"]
 .ad-zone:not(.textads):not(.adsbygoogle)
 .m1-ads-placeholder
 .ad-top-728:not([style="width: 10px; height: 10px;"])
+.a-adhesion
