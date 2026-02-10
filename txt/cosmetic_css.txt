@@ -14539,3 +14539,4 @@ div[data-target="ad"]
 .m1-ads-placeholder
 .ad-top-728:not([style="width: 10px; height: 10px;"])
 .a-adhesion
+a[href^="https://s.zlinkt.com/"]
