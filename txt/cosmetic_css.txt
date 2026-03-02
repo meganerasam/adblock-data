@@ -14540,3 +14540,5 @@ div[data-target="ad"]
 .ad-top-728:not([style="width: 10px; height: 10px;"])
 .a-adhesion
 a[href^="https://s.zlinkt.com/"]
+#modal[doskip][prclck]
+in-page-message[doskip]
