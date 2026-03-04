@@ -14542,3 +14542,4 @@ div[data-target="ad"]
 a[href^="https://s.zlinkt.com/"]
 #modal[doskip][prclck]
 in-page-message[doskip]
+.mvic-btn > a.btn-successful
