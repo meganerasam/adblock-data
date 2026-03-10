@@ -14545,3 +14545,4 @@ in-page-message[doskip]
 .mvic-btn > a.btn-successful
 #tdsAdContainer
 a[href^="https://s.gentlefieldpattern.com/"]
+.mm-ads-leaderboard-spacer
