@@ -14548,3 +14548,6 @@ a[href^="https://s.gentlefieldpattern.com/"]
 .mm-ads-leaderboard-spacer
 a[href^="https://wolf-327b.com/"]
 .click-track.teaser
+.mobileAds
+.topAdsArticle
+.taboolaads
