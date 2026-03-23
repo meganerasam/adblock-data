@@ -14551,3 +14551,4 @@ a[href^="https://wolf-327b.com/"]
 .mobileAds
 .topAdsArticle
 .taboolaads
+#pd-footer-ad
