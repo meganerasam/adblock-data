@@ -14554,3 +14554,4 @@ a[href^="https://wolf-327b.com/"]
 #pd-footer-ad
 .sponsored-card.recirc-feed
 body > div[style^="position:fixed;inset:0;z-index:2147483647;background:black;opacity:0.01"][style*=";cursor:pointer"]:empty
+a[href^="https://stellarcashflow.net/trck/"]
