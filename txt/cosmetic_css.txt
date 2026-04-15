@@ -14556,3 +14556,4 @@ a[href^="https://wolf-327b.com/"]
 body > div[style^="position:fixed;inset:0;z-index:2147483647;background:black;opacity:0.01"][style*=";cursor:pointer"]:empty
 a[href^="https://stellarcashflow.net/trck/"]
 iframe[width="100%"][height="120"]:not([src*="bandcamp.com"], [src*="player-widget.mixcloud.com"])
+.poki-ad-slot
