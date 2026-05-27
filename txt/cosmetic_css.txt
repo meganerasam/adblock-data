@@ -14559,3 +14559,14 @@ iframe[width="100%"][height="120"]:not([src*="bandcamp.com"], [src*="player-widg
 .poki-ad-slot
 a[href^="https://s.happyleafmotion.com/"]
 .fly-ads-chapter-page
+amp-ad-exit + div[class*=" "]:has(+ div[aria-hidden="true"] + amp-pixel + amp-pixel)
+amp-ad-exit + div[class*=" "]:has(+ div[aria-hidden="true"] + amp-pixel + div[style^="bottom:0;right:0;width"])
+amp-ad-exit + div[class*=" "]:has(+ div[aria-hidden="true"] + div[style^="bottom:0;right:0;width"])
+a[href*="html-load.com/"] > amp-img[src^="https://tpc.googlesyndication.com/"]
+div[class][id][style="width:    100%; height:    280px; overflow: hidden;"]
+div[class][style="min-height:250px;margin:0 0 10px;"]
+div[id^="img_"][style^="width: 300px;"]
+div[id][data-google-av-itpl]
+div[id][style$="width:336px; max-width:100%; min-height:250px; background-color:transparent;"]
+div[id][style="border: 0pt; width:    970px; height:    90px;"]
+span[id][style="border:none;margin:0;padding:0;position:relative;display:inline-block"]
