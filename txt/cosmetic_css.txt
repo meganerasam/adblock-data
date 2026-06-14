@@ -14609,3 +14609,11 @@ div[id][style^="width:   "][style$="overflow: hidden;"]
 div[id][style="width:    auto;"]
 div[id][style="width: 375px; height: 667px; background-color: transparent;"]
 div[style^="overflow: hidden; width:    100%; height:    1"]
+.kyuujinbox_recurit
+amp-img[height^="   "]
+body[marginwidth="0"][marginheight="0"][style="background:transparent;line-height:0"] > div[id][class][style="overflow:hidden;position:absolute"]
+div[class][style="min-height:180px;"]:empty
+div[id][spottype="dynamic_mc"]
+div[id][style^="left:0px;top:0px;width:   100%;height:   100%"]
+div[id][style="border: 0pt; max-height: none !important; max-width: 375px !important; padding: 0px !important; width: 375px !important;"]
+html[amp4ads=""][amp-version="2605071401000"]
