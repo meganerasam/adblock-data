@@ -14628,3 +14628,4 @@ div[id^="00000001-"][class][style="max-height: 360px; text-align: center; margin
 div[id][style^="border: 0pt; max-height: none !important; max-width: 375px !important; padding: 0px !important; width: 375px !important;"]
 div.rendered[id][class*=" "]:not([id*="captcha"])
 ._ap_apex_ad
+.adbg
