@@ -14629,3 +14629,4 @@ div[id][style^="border: 0pt; max-height: none !important; max-width: 375px !impo
 div.rendered[id][class*=" "]:not([id*="captcha"])
 ._ap_apex_ad
 .adbg
+.tbl-floating-unit
