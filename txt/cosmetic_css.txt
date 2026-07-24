@@ -14630,3 +14630,4 @@ div.rendered[id][class*=" "]:not([id*="captcha"])
 ._ap_apex_ad
 .adbg
 .tbl-floating-unit
+div.rendered[id][class*=" "]:not([id*="captcha"]):not(.cell-container)
