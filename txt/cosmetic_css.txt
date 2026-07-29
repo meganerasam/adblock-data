@@ -14631,3 +14631,6 @@ div.rendered[id][class*=" "]:not([id*="captcha"])
 .adbg
 .tbl-floating-unit
 div.rendered[id][class*=" "]:not([id*="captcha"]):not(.cell-container)
+.gtm-ga4-walkthrough-imp-event
+div[id][style^="width:    320px"]
+head:has(> meta[name="as-inventory-frame-listener-added"]) + body > a[target="_blank"][rel="noopener noreferrer"][href*=".html-load.com/"]
