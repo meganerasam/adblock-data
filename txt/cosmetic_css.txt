@@ -14635,3 +14635,4 @@ div.rendered[id][class*=" "]:not([id*="captcha"]):not(.cell-container)
 div[id][style^="width:    320px"]
 head:has(> meta[name="as-inventory-frame-listener-added"]) + body > a[target="_blank"][rel="noopener noreferrer"][href*=".html-load.com/"]
 div[style^="visibility: visible; position: relative; overflow: hidden; width: 300px; height: 250px"]
+.brs-block
