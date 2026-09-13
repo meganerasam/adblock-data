@@ -14648,3 +14648,4 @@ div[id][style*="height:    100%; width:    100%"]
 div[id][style^="width:   "][style*="height:   "]
 div[id][style="height:    100%"]
 .zone.zone--skeletonEnabled
+.house-ad-wrapper
