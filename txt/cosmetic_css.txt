@@ -14649,3 +14649,4 @@ div[id][style^="width:   "][style*="height:   "]
 div[id][style="height:    100%"]
 .zone.zone--skeletonEnabled
 .house-ad-wrapper
+ins[data-adsbygoogle-status]:not(.adsbygoogle)
