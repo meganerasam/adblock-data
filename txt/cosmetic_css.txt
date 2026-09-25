@@ -14654,3 +14654,5 @@ body[data-publication] div[data-tmdatatrack-type="commercial"]
 body[data-publication] aside[class^="RHRBlock_right-aside-wrapper"]
 body[data-publication] div.commercial-label-style
 body[data-publication] div[data-testid^="ncu-within-group-"]
+a[href*=".adglare.net/"]
+a[href*=".sadbaguette.com/"]
