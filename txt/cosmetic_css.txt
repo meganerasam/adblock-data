@@ -14656,3 +14656,4 @@ body[data-publication] div.commercial-label-style
 body[data-publication] div[data-testid^="ncu-within-group-"]
 a[href*=".adglare.net/"]
 a[href*=".sadbaguette.com/"]
+a[href^="https://srv.clickfuse.com/"]
