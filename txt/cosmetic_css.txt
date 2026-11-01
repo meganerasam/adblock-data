@@ -14661,3 +14661,4 @@ a[href^="https://srv.clickfuse.com/"]
 html[lang="vi"] > body > #_preload-ads-1
 html[lang="vi"] > body > #_preload-ads-2
 body[data-publication] div[class*="BoxStyles_commercial"][class*="BoxStyles_taboola"][data-testid^="commercial-"]
+.vf-trending-articles__flex-wrapper
