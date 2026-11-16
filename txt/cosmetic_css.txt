@@ -14663,3 +14663,4 @@ html[lang="vi"] > body > #_preload-ads-2
 body[data-publication] div[class*="BoxStyles_commercial"][class*="BoxStyles_taboola"][data-testid^="commercial-"]
 .vf-trending-articles__flex-wrapper
 body > #adfox-cover[style^="position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; z-index: 2147483647; background-color:"]
+sellwild-widget
