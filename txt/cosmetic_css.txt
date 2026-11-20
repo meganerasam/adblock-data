@@ -14666,3 +14666,6 @@ body > #adfox-cover[style^="position: fixed; top: 0px; left: 0px; width: 100vw; 
 sellwild-widget
 .ii-snigel-billboard
 [data-shutterstock-state]
+.dappier-ad-chain
+.dappier-ads-top
+div[style^="width:    3"][style*="height:    "]
