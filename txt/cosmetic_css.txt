@@ -14669,3 +14669,4 @@ sellwild-widget
 .dappier-ad-chain
 .dappier-ads-top
 div[style^="width:    3"][style*="height:    "]
+#global-top-ad
