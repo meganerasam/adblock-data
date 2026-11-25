@@ -14670,3 +14670,7 @@ sellwild-widget
 .dappier-ads-top
 div[style^="width:    3"][style*="height:    "]
 #global-top-ad
+a[href*="-load"][style^="height:   "]
+a[href*="html-load.com/"]:empty + div[class] > a[href*=".html-load.com/"]
+div[style*="width:    3"][style*="height:    "]
+div[style*="width:   3"][style*="height:   "]
