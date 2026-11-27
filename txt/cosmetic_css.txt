@@ -14675,3 +14675,4 @@ a[href*="html-load.com/"]:empty + div[class] > a[href*=".html-load.com/"]
 div[style*="width:    3"][style*="height:    "]
 div[style*="width:   3"][style*="height:   "]
 .spil-internal-fallback
+.other-ads-container
